@@ -1,6 +1,6 @@
 ---
-title: Benjamin L. Stewart — Course Resources
-description: Public learning resources for my students.
+title: Benjamin L. Stewart's Language Teaching Commons
+description: Making teaching and learning more transparent!
 publish: true
 ---
 ---
