@@ -1,10 +1,9 @@
 ---
-title: Course Resources
+title: Benjamin L. Stewart — Course Resources
 description: Public learning resources for my students.
 publish: true
 ---
 ---
-title: Benjamin L. Stewart — Course Resources
 description: Public course materials, learning resources, and activities for students.
 ---
 
