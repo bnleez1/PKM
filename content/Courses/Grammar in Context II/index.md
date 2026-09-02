@@ -1,13 +1,13 @@
 ---
-title: Academic Writing
-description: Course materials, weekly modules, assignments, and resources for Academic Writing.
+title: Grammar in Context II
+description: Course materials, activities, and resources for Grammar in Context II.
 ---
 
-# Academic Writing
+# Grammar in Context II
 
-Welcome to the **Academic Writing** course page.
+Welcome to the **Grammar in Context II** course page.
 
-This page provides access to weekly learning materials, assignments, activities, and supporting resources for the course.
+This page provides materials for studying English grammar through meaningful language use and authentic contexts.
 
 ## Weekly Modules
 
@@ -28,20 +28,32 @@ This page provides access to weekly learning materials, assignments, activities,
 - [[Week 15|Week 15]]
 - [[Week 16|Week 16]]
 
+## Grammar Topics
+
+Course materials may focus on:
+
+- Grammar in meaningful contexts
+- Sentence structure and patterns
+- Verb forms and tense use
+- Clause and phrase structure
+- Form, meaning, and use
+- Common learner difficulties
+- Editing and revision
+
 ## Assignments
 
-Course assignments and instructions will be posted here as they become available.
+Course activities and assignment instructions will be posted here.
 
 ## Resources
 
 Supporting materials may include:
 
-- Academic writing guides
-- APA resources
+- Grammar explanations
+- Examples in context
+- Practice activities
 - Model texts
-- Research resources
-- Writing activities
-- GenAI learning resources
+- Reference materials
+- Additional learning resources
 
 ## Announcements
 

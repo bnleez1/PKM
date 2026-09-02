@@ -1,13 +1,13 @@
 ---
-title: Academic Writing
-description: Course materials, weekly modules, assignments, and resources for Academic Writing.
+title: Discourse Analysis
+description: Course materials, weekly modules, activities, and resources for Discourse Analysis.
 ---
 
-# Academic Writing
+# Discourse Analysis
 
-Welcome to the **Academic Writing** course page.
+Welcome to the **Discourse Analysis** course page.
 
-This page provides access to weekly learning materials, assignments, activities, and supporting resources for the course.
+This space contains materials for examining how language works in context and how discourse analysis can be applied to language teaching and learning.
 
 ## Weekly Modules
 
@@ -30,18 +30,18 @@ This page provides access to weekly learning materials, assignments, activities,
 
 ## Assignments
 
-Course assignments and instructions will be posted here as they become available.
+Assignment instructions and supporting materials will be added here during the semester.
 
 ## Resources
 
-Supporting materials may include:
+Resources may include:
 
-- Academic writing guides
-- APA resources
-- Model texts
+- Sample texts and transcripts
+- Discourse analysis activities
+- Key concepts and terminology
+- Required and recommended readings
+- Analysis frameworks
 - Research resources
-- Writing activities
-- GenAI learning resources
 
 ## Announcements
 
