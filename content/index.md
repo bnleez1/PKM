@@ -17,15 +17,15 @@ Use the links below to access your course.
 
 ## current Courses - Testing...
 
-- [[Courses/Academic Writing/index|Academic Writing]]
-- [[Courses/Discourse Analysis/index|Discourse Analysis]]
-- [[Courses/Listening I/index|Listening I]]
-- [[Courses/Writing I/index|Writing I]]
+- [[60 Public/Website/Current Courses/Academic Writing/index|Academic Writing]]
+- [[60 Public/Website/Current Courses/Discourse Analysis/index|Discourse Analysis]]
+- [[60 Public/Website/Current Courses/Listening I/index|Listening I]]
+- [[60 Public/Website/Current Courses/Writing I/index|Writing I]]
 
 ## Course Archive
-- [[Courses/Grammar in Context II/index|Grammar in Context II]]
-- [[Courses/Thesis Seminar/index|Thesis Seminar]]
-- [[Courses/Writing II/index|Writing II]]
+- [[60 Public/Website/99 Course Archive/Grammar in Context II/index|Grammar in Context II]]
+- [[60 Public/Website/99 Course Archive/Thesis Seminar/index|Thesis Seminar]]
+- [[60 Public/Website/99 Course Archive/Writing II/index|Writing II]]
 
 ## About This Site
 
