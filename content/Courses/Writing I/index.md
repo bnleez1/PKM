@@ -1,13 +1,13 @@
 ---
-title: Writing I
-description: Writing activities, weekly modules, assignments, and resources for Writing I.
+title: Academic Writing
+description: Course materials, weekly modules, assignments, and resources for Academic Writing.
 ---
 
-# Writing I
+# Academic Writing
 
-Welcome to the **Writing I** course page.
+Welcome to the **Academic Writing** course page.
 
-This space contains materials designed to help you develop clear and effective English sentences and paragraphs.
+This page provides access to weekly learning materials, assignments, activities, and supporting resources for the course.
 
 ## Weekly Modules
 
@@ -28,31 +28,20 @@ This space contains materials designed to help you develop clear and effective E
 - [[Week 15|Week 15]]
 - [[Week 16|Week 16]]
 
-## Writing Activities
-
-Activities may focus on:
-
-- Sentence structure
-- Paragraph organization
-- Topic sentences
-- Supporting details
-- Concluding sentences
-- Cohesion and coherence
-- Revising and editing
-
 ## Assignments
 
-Writing assignments and instructions will be posted here.
+Course assignments and instructions will be posted here as they become available.
 
 ## Resources
 
 Supporting materials may include:
 
-- Model paragraphs
-- Writing guides
-- Grammar resources
-- Vocabulary resources
-- Revision checklists
+- Academic writing guides
+- APA resources
+- Model texts
+- Research resources
+- Writing activities
+- GenAI learning resources
 
 ## Announcements
 

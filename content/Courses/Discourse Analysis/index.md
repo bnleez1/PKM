@@ -1,13 +1,13 @@
 ---
 title: Discourse Analysis
-description: Course materials, weekly modules, activities, and resources for Discourse Analysis.
+description: Course materials, weekly modules, assignments, and resources for Discourse Analysis
 ---
 
 # Discourse Analysis
 
 Welcome to the **Discourse Analysis** course page.
 
-This space contains materials for examining how language works in context and how discourse analysis can be applied to language teaching and learning.
+This page provides access to weekly learning materials, assignments, activities, and supporting resources for the course.
 
 ## Weekly Modules
 
@@ -30,18 +30,18 @@ This space contains materials for examining how language works in context and ho
 
 ## Assignments
 
-Assignment instructions and supporting materials will be added here during the semester.
+Course assignments and instructions will be posted here as they become available.
 
 ## Resources
 
-Resources may include:
+Supporting materials may include:
 
-- Sample texts and transcripts
-- Discourse analysis activities
-- Key concepts and terminology
-- Required and recommended readings
-- Analysis frameworks
+- Academic writing guides
+- APA resources
+- Model texts
 - Research resources
+- Writing activities
+- GenAI learning resources
 
 ## Announcements
 

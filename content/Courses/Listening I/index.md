@@ -1,13 +1,13 @@
 ---
-title: Listening I
-description: Listening activities, weekly modules, assignments, and resources for Listening I.
+title: Academic Writing
+description: Course materials, weekly modules, assignments, and resources for Academic Writing.
 ---
 
-# Listening I
+# Academic Writing
 
-Welcome to the **Listening I** course page.
+Welcome to the **Academic Writing** course page.
 
-This space provides listening activities and resources designed to help develop listening comprehension and effective listening strategies.
+This page provides access to weekly learning materials, assignments, activities, and supporting resources for the course.
 
 ## Weekly Modules
 
@@ -28,24 +28,20 @@ This space provides listening activities and resources designed to help develop 
 - [[Week 15|Week 15]]
 - [[Week 16|Week 16]]
 
-## Listening Activities
-
-Activities may include:
-
-- Audio recordings
-- Video listening tasks
-- Pre-listening activities
-- Listening comprehension questions
-- Note-taking activities
-- Pronunciation and sound-awareness practice
-
 ## Assignments
 
-Assignment instructions and independent listening activities will be posted here.
+Course assignments and instructions will be posted here as they become available.
 
 ## Resources
 
-Additional listening practice and study resources will be added throughout the course.
+Supporting materials may include:
+
+- Academic writing guides
+- APA resources
+- Model texts
+- Research resources
+- Writing activities
+- GenAI learning resources
 
 ## Announcements
 
