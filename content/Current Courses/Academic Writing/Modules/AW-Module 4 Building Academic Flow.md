@@ -140,7 +140,7 @@ Although feedback can improve or harm student learning, its considerable influen
 
 ### C. Paraphrase: What was modified?
 
-Learning and achievement can be strongly influenced by feedback, and the effect of that feedback may be positive or negative (Hattie & Timperley, 2007).
+Learning and achievement can be strongly influenced by feedback, which may be positive or negative (Hattie & Timperley, 2007).
 
 ### D. Paraphrase: Structure + emphasis + vocabulary modified
 
@@ -267,11 +267,9 @@ The strongest paraphrase normally uses **all three simultaneously while preservi
 ### Direct quotation
 
 
-
 > Horwitz et al. (1986) define foreign language anxiety as: “a distinct complex of self-perceptions, beliefs, feelings, and behaviors related to classroom language learning arising from the uniqueness of the language learning process” (p. 128). ([Cambridge University Press](https://www.cambridge.org/core/journals/annual-review-of-applied-linguistics/article/second-language-anxiety-construct-effects-and-sources/2FFCB23F8EA271606AED54CC7088358D?utm_source=chatgpt.com "Second language anxiety: Construct, effects, and sources | Annual Review of Applied Linguistics | Cambridge Core"))
 
 ---
-
 ## Example 2: Interaction and Second Language Acquisition
 
 ### Direct quotation
@@ -281,7 +279,6 @@ Long (1996) argues that negotiation for meaning:
 > “facilitates acquisition because it connects input, internal learner capacities, particularly selective attention, and output in productive ways” (pp. 451–452). ([Wiley Online Library](https://onlinelibrary.wiley.com/doi/10.1111/lang.12644?utm_source=chatgpt.com "Proactive Language Learning Theory - Papi - 2025 - Language Learning - Wiley Online Library"))
 
 ---
-
 ## Example 3: Willingness to Communicate in a Second Language
 
 ### Direct quotation
@@ -291,7 +288,6 @@ MacIntyre et al. (1998) observe:
 > “A related observation is that many learners have noticed that their willingness to communicate (WTC) varies considerably over time and across situations” (p. 545). ([Wiley Online Library](https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1540-4781.1998.tb05543.x?utm_source=chatgpt.com "Conceptualizing Willingness to Communicate in a L2: A Situational Model of L2 Confidence and Affiliation - MACINTYRE - 1998 - The Modern Language Journal - Wiley Online Library"))
 
 ---
-
 ## Student Paraphrasing Task
 
 For **each quotation**, write four versions:
@@ -312,7 +308,6 @@ After each version, include an APA parenthetical citation:
 **(MacIntyre et al., 1998)**
 
 Page numbers are required for the direct quotations. For the students' paraphrases, APA does **not require** a page number, although students may include one when it would help readers locate the original idea.
-
 ## References
 
 Horwitz, E. K., Horwitz, M. B., & Cope, J. (1986). Foreign language classroom anxiety. _The Modern Language Journal, 70_(2), 125–132. [https://doi.org/10.1111/j.1540-4781.1986.tb05256.x](https://doi.org/10.1111/j.1540-4781.1986.tb05256.x) ([DOI](https://doi.org/10.1111/j.1540-4781.1986.tb05256.x?utm_source=chatgpt.com "Foreign Language Classroom Anxiety - HORWITZ - 1986 - The Modern Language Journal - Wiley Online Library"))
