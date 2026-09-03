@@ -15,7 +15,7 @@ This space provides materials, activities, guides, and other resources for cours
 
 Use the links below to access your course.
 
-## current Courses - Testing...
+## Current Courses
 
 - [[60 Public/Website/Current Courses/Academic Writing/index|Academic Writing]]
 - [[60 Public/Website/Current Courses/Discourse Analysis/index|Discourse Analysis]]
