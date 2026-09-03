@@ -124,29 +124,29 @@ The second part of the week should move from practice to production. Students us
 
 ## Thursday
 
-## 1. Topic: Feedback and Learning
-
-#### Original direct quotation
-
-> “Feedback is one of the most powerful influences on learning and achievement, but this impact can be either positive or negative” (Hattie & Timperley, 2007, p. 81). ([Sage Journals](https://journals.sagepub.com/doi/pdf/10.3102/003465430298487?utm_source=chatgpt.com "The Power of Feedback - John Hattie, Helen Timperley, 2007"))
-
-### A. Paraphrase: What was modified?
-
-Feedback is one of the strongest factors affecting student learning and performance, although its effects may be beneficial or harmful (Hattie & Timperley, 2007).
-
-### B. Paraphrase: What was modified?
-
-Although feedback can improve or harm student learning, its considerable influence on academic achievement makes it particularly important (Hattie & Timperley, 2007).
-
-### C. Paraphrase: What was modified?
-
-Learning and achievement can be strongly influenced by feedback, which may be positive or negative (Hattie & Timperley, 2007).
-
-### D. Paraphrase: Structure + emphasis + vocabulary modified
-
-Because comments provided to learners can either support or interfere with their progress, the way feedback is used can substantially affect academic success (Hattie & Timperley, 2007).
-
-**Changes:** The sentence has been reorganized, the vocabulary has been replaced, and the emphasis has shifted from the **power of feedback** to **how feedback is used**.
+> [!quote] 1. Topic: Feedback and Learning
+> 
+> #### Original direct quotation
+> 
+> > “Feedback is one of the most powerful influences on learning and achievement, but this impact can be either positive or negative” (Hattie & Timperley, 2007, p. 81). ([Sage Journals](https://journals.sagepub.com/doi/pdf/10.3102/003465430298487?utm_source=chatgpt.com "The Power of Feedback - John Hattie, Helen Timperley, 2007"))
+> 
+> ### A. Paraphrase: What was modified?
+> 
+> Feedback is one of the strongest factors affecting student learning and performance, although its effects may be beneficial or harmful (Hattie & Timperley, 2007).
+> 
+> ### B. Paraphrase: What was modified?
+> 
+> Although feedback can improve or harm student learning, its considerable influence on academic achievement makes it particularly important (Hattie & Timperley, 2007).
+> 
+> ### C. Paraphrase: What was modified?
+> 
+> Learning and achievement can be strongly influenced by feedback, which may be positive or negative (Hattie & Timperley, 2007).
+> 
+> ### D. Paraphrase: Structure + emphasis + vocabulary modified
+> 
+> Because comments provided to learners can either support or interfere with their progress, the way feedback is used can substantially affect academic success (Hattie & Timperley, 2007).
+> 
+> **Changes:** The sentence has been reorganized, the vocabulary has been replaced, and the emphasis has shifted from the **power of feedback** to **how feedback is used**.
 
 ---
 
