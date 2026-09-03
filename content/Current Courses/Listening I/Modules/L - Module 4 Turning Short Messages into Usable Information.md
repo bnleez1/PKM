@@ -96,74 +96,8 @@ When comparing answers, explain the evidence that supports your organization. Ev
 
 
 
-## 🗓️ [[Date/2026-08-31]]
-
----
-
-[YouTube Music](https://music.youtube.com/watch?v=7wBgcalM4c4&si=WVJLC68D5KoaQtKu)[[YouTube Music|YouTube Music - Notes]]
-
----
-
-[YouTube Music](https://music.youtube.com/watch?v=4A5mE5exvYk&si=-UN0Il4SR6bKrpLV)[YouTube Music - Notes](../Weblinks/YouTube%20Music%20(1).md)
-
----
-
-[YouTube Music](https://music.youtube.com/watch?v=biml2tnoSmc&si=VxIpSRp3N9HJeFee)[YouTube Music - Notes](../Weblinks/YouTube%20Music%20(2).md)
-
----
-
-
-Today's outcome: Drawing.
-
-Time After Time by [Cyndi Lauper](https://duckduckgo.com/?q=Cindy+lauper&t=vivaldi&ia=images&iax=images)- Emotion Words: *hopeful, worried, reflective*.
-
-- First Listen (version 1)aq
-
-    1. What is the song’s central message?
-
-    2. What impression do you get?
-
-- Second Listen (version 1)
-
-     1. Record images, actions, or promises you recognize.
-
-    2. Post question marks for uncertain information.
-
-    3. Briefly compare with a partner.
-
-- Third Listen (versions 2 & 3)
-
-    Compare versions.
-
-    | Version | Mood: 1–2 words | Two details I understood | Understanding: 1–5 | What helped or hindered? |
-    | :------ | :-------------- | :----------------------- | :----------------- | :----------------------- |
-    | A       |                 |                          |                    |                          |
-    | B       |                 |                          |                    |                          |
-    | C       |                 |                          |                    |                          |
-
-- Build a meaning map (music in background)
-
-    1. In groups of three or four, create a poster with the main message in the center and branches for **images/actions, promises, and feelings**.
-
-    2. Mark details directly supported by the audios and interpretations.
-
-    3. During a short gallery walk, classmates leave one question on another group’s poster.
-
-- Replay Detectives
-
-    1. Each group chooses one uncertain or challenged detail. 
-
-    2. Before replay, students state exactly what they need to hear.
-
-    3. Groups revise their posters in another color and explain what changed.
-
-- Votes and Reasons
-
-    1. Which version was easier to understand? Why?
-
-    2. Which version do you like the most? Why?
-
-## 🗓️ [[Date/2026-09-01]]
+## 🗓️ Monday
+## 🗓️ Tuesday
 
 Today's outcome: Handout (study habits)
 
@@ -171,9 +105,9 @@ Today's outcome: Handout (study habits)
 
 2. Complete handout in class.
 
-## 🗓️ [[Date/2026-09-02]]
+## 🗓️ Wednesday
 
-## 🗓️ [[Date/2026-09-03]]
+## [!note]-🗓️ Thursday
 [[05 knowledge/Notes/030920260700|Private Note]]
 
 ### Prelistening: Study Habit Corners
@@ -275,5 +209,5 @@ These are not the same thing.
 - What study strategies?
 - What distractions?
 - Why?
-## 🗓️ [[Date/2026-09-04]]
+## 🗓️ Friday
 
