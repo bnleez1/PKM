@@ -119,6 +119,18 @@ Today's outcome: Handout (study habits)
 > asdf
 > asdf
 
+> [!note]- 🗓️ Thursday
+> 
+> ## Prelistening: Study Habit Corners
+>
+> WOB
+>
+> 1. Early morning
+> 2. Between classes
+> 3. Evening
+> 4. Late at night
+>
+> When do you study the best?
 # Thursday
 [[05 knowledge/Notes/030920260700|Private Note]]
 
