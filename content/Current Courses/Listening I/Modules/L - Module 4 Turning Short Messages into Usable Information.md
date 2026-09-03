@@ -107,13 +107,12 @@ Today's outcome: Handout (study habits)
 
 ## 🗓️ Wednesday
 
-## >[!note]-🗓️ Thursday
-[[05 knowledge/Notes/030920260700|Private Note]]
-
-### Prelistening: Study Habit Corners
-WOB
-1. Early morning
-2. Between classes
+> [!NOTE]
+> ## 🗓️ Thursday
+> [[05 knowledge/Notes/030920260700|Private Note]]
+> ### Prelistening: Study Habit Corners
+> Early morning
+>  Between classes
 3. Evening
 4. Late at night
 
@@ -209,5 +208,27 @@ These are not the same thing.
 - What study strategies?
 - What distractions?
 - Why?
+
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+2.
+
+
+
+1. 
+
+
+
 ## 🗓️ Friday
 
