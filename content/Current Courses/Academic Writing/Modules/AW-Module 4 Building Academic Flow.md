@@ -132,11 +132,11 @@ The second part of the week should move from practice to production. Students us
 
 ### A. Paraphrase: What was modified?
 
-Feedback is one of the **strongest factors affecting student learning and performance**, although its effects may be **beneficial or harmful** (Hattie & Timperley, 2007).
+Feedback is one of the strongest factors affecting student learning and performance, although its effects may be beneficial or harmful (Hattie & Timperley, 2007).
 
 ### B. Paraphrase: What was modified?
 
-Although feedback can improve or harm student learning, its **considerable influence on academic achievement makes it particularly important** (Hattie & Timperley, 2007).
+Although feedback can improve or harm student learning, its considerable influence on academic achievement makes it particularly important (Hattie & Timperley, 2007).
 
 ### C. Paraphrase: What was modified?
 
