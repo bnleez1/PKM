@@ -150,168 +150,169 @@ The second part of the week should move from practice to production. Students us
 
 ---
 
-## Additional examples of paraphrasing
-### 2. Topic: Sleep and Memory
-
-#### Original direct quotation
-
-> “These findings suggest that poor behavioural choices around bedtime contribute to the trade-off between improved encoding capacity and reduced consolidation efficiency” (Crowley et al., 2026, p. A35). ([OUP Academic](https://academic.oup.com/sleep/article/49/Supplement_1/A35/8674562 "oup.silverchair-cdn.com"))
-
-#### A. Paraphrase: Vocabulary modified
-
-The results indicate that **unhelpful habits before sleep contribute to a balance between better initial learning and weaker memory consolidation** (Crowley et al., 2026).
-
-**Main change:**
-
-- findings → results
-    
-- poor behavioural choices → unhelpful habits
-    
-- encoding capacity → initial learning
-    
-- reduced consolidation efficiency → weaker memory consolidation
-    
-
-#### B. Paraphrase: Different emphasis
-
-The ability to retain newly learned information may be weakened by bedtime behaviors, even when adolescents show stronger initial encoding abilities (Crowley et al., 2026).
-
-**Main change:** The original gives relatively equal attention to encoding and consolidation. The paraphrase places greater emphasis on **the possible problem of retaining information**.
-
-#### C. Paraphrase: Structure modified
-
-A trade-off between improved encoding and reduced memory consolidation appears to result partly from poor choices made around bedtime (Crowley et al., 2026).
-
-**Main change:** The original begins with **“These findings suggest...”**, whereas the paraphrase makes **the trade-off** the grammatical subject.
-
-#### D. Paraphrase: Structure + emphasis + vocabulary modified
-
-Adolescents' nighttime routines may be especially important for long-term learning because unhealthy bedtime habits can interfere with the brain's ability to stabilize recently learned information (Crowley et al., 2026).
-
-**Changes:** The sentence structure is substantially different, technical vocabulary has been simplified, and the emphasis has shifted toward **the educational importance of bedtime routines**.
-
----
-
-### 3. Topic: Social Media and Adolescent Well-Being
-
-#### Original direct quotation
-
-> “Relational interactions contribute to both closeness and disconnection; self-expression facilitates affirmation alongside concern about others’ judgments” (Weinstein, 2018, p. 3597). ([Projects at Harvard](https://projects.iq.harvard.edu/files/gse-digitaldilemmas/files/2018-new_media_society-seesaw.pdf?utm_source=chatgpt.com "755634 NMS0010.1177/1461444818755634new media & societyWeinstein"))
-
-#### A. Paraphrase: Vocabulary modified
-
-**Social exchanges can produce both connection and isolation, while sharing one's identity can provide validation as well as anxiety about other people's opinions** (Weinstein, 2018).
-
-**Main change:**
-
-- relational interactions → social exchanges
-    
-- closeness → connection
-    
-- disconnection → isolation
-    
-- affirmation → validation
-    
-- concern about judgments → anxiety about opinions
-    
-
-#### B. Paraphrase: Different emphasis
-
-Concern about how others respond is one possible consequence of adolescents expressing themselves on social media, even though these platforms can also create feelings of connection and validation (Weinstein, 2018).
-
-**Main change:** The original presents positive and negative effects relatively evenly. The paraphrase emphasizes **concern about other people's reactions**.
-
-#### C. Paraphrase: Structure modified
-
-Both closeness and disconnection can result from online social interactions, and both affirmation and concern about judgment can result from online self-expression (Weinstein, 2018).
-
-**Main change:** The original uses:
-
-**interaction → contributes to result**
-
-The paraphrase reverses this:
-
-**result → can result from interaction**
-
-#### D. Paraphrase: Structure + emphasis + vocabulary modified
-
-Adolescents' experiences online are not simply positive or negative: communicating and presenting themselves to others can simultaneously strengthen social bonds and create feelings of insecurity (Weinstein, 2018).
-
-**Changes:** The sentence is reorganized around the larger idea of **mixed social-media experiences**, the vocabulary is substantially different, and the emphasis shifts from specific categories to the **overall complexity of online interaction**.
-
----
-
-### APA References
-
-Crowley, R., Ricketts, J., Henderson, L., Gaskell, G., & Tamminen, J. (2026). 0080 Poor sleep hygiene in adolescence is associated with disrupted encoding and consolidation of newly learned words. _Sleep, 49_(Supplement_1), A35. [https://doi.org/10.1093/sleep/zsag091.0080](https://doi.org/10.1093/sleep/zsag091.0080) ([OUP Academic](https://academic.oup.com/sleep/article/49/Supplement_1/A35/8674562 "oup.silverchair-cdn.com"))
-
-Hattie, J., & Timperley, H. (2007). The power of feedback. _Review of Educational Research, 77_(1), 81–112. [https://doi.org/10.3102/003465430298487](https://doi.org/10.3102/003465430298487) ([Sage Journals](https://journals.sagepub.com/doi/pdf/10.3102/003465430298487?utm_source=chatgpt.com "The Power of Feedback - John Hattie, Helen Timperley, 2007"))
-
-Weinstein, E. (2018). The social media see-saw: Positive and negative influences on adolescents' affective well-being. _New Media & Society, 20_(10), 3597–3623. [https://doi.org/10.1177/1461444818755634](https://doi.org/10.1177/1461444818755634) ([Sage Journals](https://journals.sagepub.com/doi/10.1177/1461444818755634?utm_source=chatgpt.com "The social media see-saw: Positive and negative influences on adolescents’ affective well-being - Emily Weinstein, 2018"))
-
-### A useful distinction for students
-
-The examples illustrate that **good paraphrasing is more than replacing words with synonyms**. Students can think of three major tools:
-
-**Vocabulary** → _Which words and expressions can I express differently?_  
-**Structure** → _How can I reorganize the grammatical relationships between ideas?_  
-**Emphasis** → _Which part of the author's idea will I foreground for my own discussion?_
-
-The strongest paraphrase normally uses **all three simultaneously while preserving the author's original meaning and still citing the source**.
-
-
-## Practice Parphrasing
-
-## Example 1: Foreign Language Classroom Anxiety
-
-### Direct quotation
-
-
-> Horwitz et al. (1986) define foreign language anxiety as: “a distinct complex of self-perceptions, beliefs, feelings, and behaviors related to classroom language learning arising from the uniqueness of the language learning process” (p. 128). ([Cambridge University Press](https://www.cambridge.org/core/journals/annual-review-of-applied-linguistics/article/second-language-anxiety-construct-effects-and-sources/2FFCB23F8EA271606AED54CC7088358D?utm_source=chatgpt.com "Second language anxiety: Construct, effects, and sources | Annual Review of Applied Linguistics | Cambridge Core"))
-
----
-## Example 2: Interaction and Second Language Acquisition
-
-### Direct quotation
-
-Long (1996) argues that negotiation for meaning:
-
-> “facilitates acquisition because it connects input, internal learner capacities, particularly selective attention, and output in productive ways” (pp. 451–452). ([Wiley Online Library](https://onlinelibrary.wiley.com/doi/10.1111/lang.12644?utm_source=chatgpt.com "Proactive Language Learning Theory - Papi - 2025 - Language Learning - Wiley Online Library"))
-
----
-## Example 3: Willingness to Communicate in a Second Language
-
-### Direct quotation
-
-MacIntyre et al. (1998) observe:
-
-> “A related observation is that many learners have noticed that their willingness to communicate (WTC) varies considerably over time and across situations” (p. 545). ([Wiley Online Library](https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1540-4781.1998.tb05543.x?utm_source=chatgpt.com "Conceptualizing Willingness to Communicate in a L2: A Situational Model of L2 Confidence and Affiliation - MACINTYRE - 1998 - The Modern Language Journal - Wiley Online Library"))
-
----
-## Student Paraphrasing Task
-
-For **each quotation**, write four versions:
-
-1. **Vocabulary:** Change the vocabulary while keeping roughly the same organization and emphasis.
-    
-2. **Structure:** Change the grammatical and organizational structure while keeping the original meaning and general emphasis.
-    
-3. **Emphasis:** Reorganize the information so that a different aspect of the author's idea receives greater attention.
-    
-4. **Full paraphrase:** Change **vocabulary + structure + emphasis** simultaneously.
-    
-
-After each version, include an APA parenthetical citation:
-
-**(Horwitz et al., 1986)**  
-**(Long, 1996)**  
-**(MacIntyre et al., 1998)**
-
-Page numbers are required for the direct quotations. For the students' paraphrases, APA does **not require** a page number, although students may include one when it would help readers locate the original idea.
-## References
-
-Horwitz, E. K., Horwitz, M. B., & Cope, J. (1986). Foreign language classroom anxiety. _The Modern Language Journal, 70_(2), 125–132. [https://doi.org/10.1111/j.1540-4781.1986.tb05256.x](https://doi.org/10.1111/j.1540-4781.1986.tb05256.x) ([DOI](https://doi.org/10.1111/j.1540-4781.1986.tb05256.x?utm_source=chatgpt.com "Foreign Language Classroom Anxiety - HORWITZ - 1986 - The Modern Language Journal - Wiley Online Library"))
-
-Long, M. H. (1996). The role of the linguistic environment in second language acquisition. In W. C. Ritchie & T. K. Bhatia (Eds.), _Handbook of second language acquisition_ (pp. 413–468). Academic Press. [https://doi.org/10.1016/B978-012589042-7/50015-3](https://doi.org/10.1016/B978-012589042-7/50015-3) ([CiNii Research](https://cir.nii.ac.jp/crid/1360564063957555584?utm_source=chatgpt.com "The Role of the Linguistic Environment in Second Language Acquisition | CiNii Research"))
-
-MacIntyre, P. D., Clément, R., Dörnyei, Z., & Noels, K. A. (1998). Conceptualizing willingness to communicate in a L2: A situational model of L2 confidence and affiliation. _The Modern Language Journal, 82_(4), 545–562. [https://doi.org/10.1111/j.1540-4781.1998.tb05543.x](https://doi.org/10.1111/j.1540-4781.1998.tb05543.x) ([DOI](https://doi.org/10.1111%2Fj.1540-4781.1998.tb05543.x?utm_source=chatgpt.com "Conceptualizing Willingness to Communicate in a L2: A Situational Model of L2 Confidence and Affiliation - MACINTYRE - 1998 - The Modern Language Journal - Wiley Online Library"))
+> [!quote] Additional examples of paraphrasing
+> ### 2. Topic: Sleep and Memory
+> 
+> #### Original direct quotation
+> 
+> > “These findings suggest that poor behavioural choices around bedtime contribute to the trade-off between improved encoding capacity and reduced consolidation efficiency” (Crowley et al., 2026, p. A35). ([OUP Academic](https://academic.oup.com/sleep/article/49/Supplement_1/A35/8674562 "oup.silverchair-cdn.com"))
+> 
+> #### A. Paraphrase: Vocabulary modified
+> 
+> The results indicate that **unhelpful habits before sleep contribute to a balance between better initial learning and weaker memory consolidation** (Crowley et al., 2026).
+> 
+> **Main change:**
+> 
+> - findings → results
+>     
+> - poor behavioural choices → unhelpful habits
+>     
+> - encoding capacity → initial learning
+>     
+> - reduced consolidation efficiency → weaker memory consolidation
+>     
+> 
+> #### B. Paraphrase: Different emphasis
+> 
+> The ability to retain newly learned information may be weakened by bedtime behaviors, even when adolescents show stronger initial encoding abilities (Crowley et al., 2026).
+> 
+> **Main change:** The original gives relatively equal attention to encoding and consolidation. The paraphrase places greater emphasis on **the possible problem of retaining information**.
+> 
+> #### C. Paraphrase: Structure modified
+> 
+> A trade-off between improved encoding and reduced memory consolidation appears to result partly from poor choices made around bedtime (Crowley et al., 2026).
+> 
+> **Main change:** The original begins with **“These findings suggest...”**, whereas the paraphrase makes **the trade-off** the grammatical subject.
+> 
+> #### D. Paraphrase: Structure + emphasis + vocabulary modified
+> 
+> Adolescents' nighttime routines may be especially important for long-term learning because unhealthy bedtime habits can interfere with the brain's ability to stabilize recently learned information (Crowley et al., 2026).
+> 
+> **Changes:** The sentence structure is substantially different, technical vocabulary has been simplified, and the emphasis has shifted toward **the educational importance of bedtime routines**.
+> 
+> ---
+> 
+> ### 3. Topic: Social Media and Adolescent Well-Being
+> 
+> #### Original direct quotation
+> 
+> > “Relational interactions contribute to both closeness and disconnection; self-expression facilitates affirmation alongside concern about others’ judgments” (Weinstein, 2018, p. 3597). ([Projects at Harvard](https://projects.iq.harvard.edu/files/gse-digitaldilemmas/files/2018-new_media_society-seesaw.pdf?utm_source=chatgpt.com "755634 NMS0010.1177/1461444818755634new media & societyWeinstein"))
+> 
+> #### A. Paraphrase: Vocabulary modified
+> 
+> **Social exchanges can produce both connection and isolation, while sharing one's identity can provide validation as well as anxiety about other people's opinions** (Weinstein, 2018).
+> 
+> **Main change:**
+> 
+> - relational interactions → social exchanges
+>     
+> - closeness → connection
+>     
+> - disconnection → isolation
+>     
+> - affirmation → validation
+>     
+> - concern about judgments → anxiety about opinions
+>     
+> 
+> #### B. Paraphrase: Different emphasis
+> 
+> Concern about how others respond is one possible consequence of adolescents expressing themselves on social media, even though these platforms can also create feelings of connection and validation (Weinstein, 2018).
+> 
+> **Main change:** The original presents positive and negative effects relatively evenly. The paraphrase emphasizes **concern about other people's reactions**.
+> 
+> #### C. Paraphrase: Structure modified
+> 
+> Both closeness and disconnection can result from online social interactions, and both affirmation and concern about judgment can result from online self-expression (Weinstein, 2018).
+> 
+> **Main change:** The original uses:
+> 
+> **interaction → contributes to result**
+> 
+> The paraphrase reverses this:
+> 
+> **result → can result from interaction**
+> 
+> #### D. Paraphrase: Structure + emphasis + vocabulary modified
+> 
+> Adolescents' experiences online are not simply positive or negative: communicating and presenting themselves to others can simultaneously strengthen social bonds and create feelings of insecurity (Weinstein, 2018).
+> 
+> **Changes:** The sentence is reorganized around the larger idea of **mixed social-media experiences**, the vocabulary is substantially different, and the emphasis shifts from specific categories to the **overall complexity of online interaction**.
+> 
+> ---
+> 
+> ### APA References
+> 
+> Crowley, R., Ricketts, J., Henderson, L., Gaskell, G., & Tamminen, J. (2026). 0080 Poor sleep hygiene in adolescence is associated with disrupted encoding and consolidation of newly learned words. _Sleep, 49_(Supplement_1), A35. [https://doi.org/10.1093/sleep/zsag091.0080](https://doi.org/10.1093/sleep/zsag091.0080) ([OUP Academic](https://academic.oup.com/sleep/article/49/Supplement_1/A35/8674562 "oup.silverchair-cdn.com"))
+> 
+> Hattie, J., & Timperley, H. (2007). The power of feedback. _Review of Educational Research, 77_(1), 81–112. [https://doi.org/10.3102/003465430298487](https://doi.org/10.3102/003465430298487) ([Sage Journals](https://journals.sagepub.com/doi/pdf/10.3102/003465430298487?utm_source=chatgpt.com "The Power of Feedback - John Hattie, Helen Timperley, 2007"))
+> 
+> Weinstein, E. (2018). The social media see-saw: Positive and negative influences on adolescents' affective well-being. _New Media & Society, 20_(10), 3597–3623. [https://doi.org/10.1177/1461444818755634](https://doi.org/10.1177/1461444818755634) ([Sage Journals](https://journals.sagepub.com/doi/10.1177/1461444818755634?utm_source=chatgpt.com "The social media see-saw: Positive and negative influences on adolescents’ affective well-being - Emily Weinstein, 2018"))
+> 
+> ### A useful distinction for students
+> 
+> The examples illustrate that **good paraphrasing is more than replacing words with synonyms**. Students can think of three major tools:
+> 
+> **Vocabulary** → _Which words and expressions can I express differently?_  
+> **Structure** → _How can I reorganize the grammatical relationships between ideas?_  
+> **Emphasis** → _Which part of the author's idea will I foreground for my own discussion?_
+> 
+> The strongest paraphrase normally uses **all three simultaneously while preserving the author's original meaning and still citing the source**.
+
+
+> [!quote] Practice Parphrasing
+> 
+> ## Example 1: Foreign Language Classroom Anxiety
+> 
+> ### Direct quotation
+> 
+> 
+> > Horwitz et al. (1986) define foreign language anxiety as: “a distinct complex of self-perceptions, beliefs, feelings, and behaviors related to classroom language learning arising from the uniqueness of the language learning process” (p. 128). ([Cambridge University Press](https://www.cambridge.org/core/journals/annual-review-of-applied-linguistics/article/second-language-anxiety-construct-effects-and-sources/2FFCB23F8EA271606AED54CC7088358D?utm_source=chatgpt.com "Second language anxiety: Construct, effects, and sources | Annual Review of Applied Linguistics | Cambridge Core"))
+> 
+> ---
+> ## Example 2: Interaction and Second Language Acquisition
+> 
+> ### Direct quotation
+> 
+> Long (1996) argues that negotiation for meaning:
+> 
+> > “facilitates acquisition because it connects input, internal learner capacities, particularly selective attention, and output in productive ways” (pp. 451–452). ([Wiley Online Library](https://onlinelibrary.wiley.com/doi/10.1111/lang.12644?utm_source=chatgpt.com "Proactive Language Learning Theory - Papi - 2025 - Language Learning - Wiley Online Library"))
+> 
+> ---
+> ## Example 3: Willingness to Communicate in a Second Language
+> 
+> ### Direct quotation
+> 
+> MacIntyre et al. (1998) observe:
+> 
+> > “A related observation is that many learners have noticed that their willingness to communicate (WTC) varies considerably over time and across situations” (p. 545). ([Wiley Online Library](https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1540-4781.1998.tb05543.x?utm_source=chatgpt.com "Conceptualizing Willingness to Communicate in a L2: A Situational Model of L2 Confidence and Affiliation - MACINTYRE - 1998 - The Modern Language Journal - Wiley Online Library"))
+> 
+> ---
+> [!quote] Student Paraphrasing Task
+> 
+> For **each quotation**, write four versions:
+> 
+> 1. **Vocabulary:** Change the vocabulary while keeping roughly the same organization and emphasis.
+>     
+> 2. **Structure:** Change the grammatical and organizational structure while keeping the original meaning and general emphasis.
+>     
+> 3. **Emphasis:** Reorganize the information so that a different aspect of the author's idea receives greater attention.
+>     
+> 4. **Full paraphrase:** Change **vocabulary + structure + emphasis** simultaneously.
+>     
+> 
+> After each version, include an APA parenthetical citation:
+> 
+> **(Horwitz et al., 1986)**  
+> **(Long, 1996)**  
+> **(MacIntyre et al., 1998)**
+> 
+> Page numbers are required for the direct quotations. For the students' paraphrases, APA does **not require** a page number, although students may include one when it would help readers locate the original idea.
+> ## References
+> 
+> Horwitz, E. K., Horwitz, M. B., & Cope, J. (1986). Foreign language classroom anxiety. _The Modern Language Journal, 70_(2), 125–132. [https://doi.org/10.1111/j.1540-4781.1986.tb05256.x](https://doi.org/10.1111/j.1540-4781.1986.tb05256.x) ([DOI](https://doi.org/10.1111/j.1540-4781.1986.tb05256.x?utm_source=chatgpt.com "Foreign Language Classroom Anxiety - HORWITZ - 1986 - The Modern Language Journal - Wiley Online Library"))
+> 
+> Long, M. H. (1996). The role of the linguistic environment in second language acquisition. In W. C. Ritchie & T. K. Bhatia (Eds.), _Handbook of second language acquisition_ (pp. 413–468). Academic Press. [https://doi.org/10.1016/B978-012589042-7/50015-3](https://doi.org/10.1016/B978-012589042-7/50015-3) ([CiNii Research](https://cir.nii.ac.jp/crid/1360564063957555584?utm_source=chatgpt.com "The Role of the Linguistic Environment in Second Language Acquisition | CiNii Research"))
+> 
+> MacIntyre, P. D., Clément, R., Dörnyei, Z., & Noels, K. A. (1998). Conceptualizing willingness to communicate in a L2: A situational model of L2 confidence and affiliation. _The Modern Language Journal, 82_(4), 545–562. [https://doi.org/10.1111/j.1540-4781.1998.tb05543.x](https://doi.org/10.1111/j.1540-4781.1998.tb05543.x) ([DOI](https://doi.org/10.1111%2Fj.1540-4781.1998.tb05543.x?utm_source=chatgpt.com "Conceptualizing Willingness to Communicate in a L2: A Situational Model of L2 Confidence and Affiliation - MACINTYRE - 1998 - The Modern Language Journal - Wiley Online Library"))
+> 
