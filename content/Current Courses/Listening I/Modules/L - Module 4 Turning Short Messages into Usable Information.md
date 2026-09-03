@@ -113,8 +113,8 @@ Today's outcome: Handout (study habits)
 > ### Prelistening: Study Habit Corners
 > Early morning
 >  Between classes
-3. Evening
-4. Late at night
+>  Evening
+>  Late at night
 
 When do you study the best?
 I usually study___ because___.
