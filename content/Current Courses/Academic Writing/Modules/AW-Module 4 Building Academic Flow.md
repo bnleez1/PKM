@@ -150,28 +150,6 @@ Because comments provided to learners can either support or interfere with their
 
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Additional examples of paraphrasing
 ### 2. Topic: Sleep and Memory
 
@@ -283,34 +261,62 @@ The strongest paraphrase normally uses **all three simultaneously while preservi
 
 
 ## Practice Parphrasing
-Here are three quotations on **researchable topics in applied linguistics**. Each is long enough to give learners meaningful opportunities to change **vocabulary, structure, and emphasis** when paraphrasing.
 
-### 1. L2 Motivation
+## Example 1: Foreign Language Classroom Anxiety
 
-> “The emerging body of research studies established motivation as a principal determinant of second language acquisition” (Dörnyei, 2001, p. 43). ([CiteSeerX](https://citeseerx.ist.psu.edu/document?doi=7dfccc8acbf801377907ab3abd0bbba2c5cf9719&repid=rep1&type=pdf&utm_source=chatgpt.com "Annual Review of Applied Linguistics (2001) 21, 43  59. Printed in the"))
+### Direct quotation
 
-**Possible research area:** How motivation influences second-language learning, persistence, participation, or achievement.
 
----
 
-### 2. Corrective Feedback
-
-> “The findings indicate an overwhelming tendency for teachers to use recasts in spite of the latter's ineffectiveness at eliciting student-generated repair” (Lyster & Ranta, 1997, p. 37). ([Cambridge University Press](https://www.cambridge.org/core/journals/studies-in-second-language-acquisition/article/abs/corrective-feedback-and-learner-uptake/59229F0CA2F085F5F5016FB4674877BF?utm_source=chatgpt.com "CORRECTIVE FEEDBACK AND LEARNER UPTAKE | Studies in Second Language Acquisition | Cambridge Core"))
-
-**Possible research area:** How different types of teacher corrective feedback influence learners' responses, noticing, or language development.
+> Horwitz et al. (1986) define foreign language anxiety as: “a distinct complex of self-perceptions, beliefs, feelings, and behaviors related to classroom language learning arising from the uniqueness of the language learning process” (p. 128). ([Cambridge University Press](https://www.cambridge.org/core/journals/annual-review-of-applied-linguistics/article/second-language-anxiety-construct-effects-and-sources/2FFCB23F8EA271606AED54CC7088358D?utm_source=chatgpt.com "Second language anxiety: Construct, effects, and sources | Annual Review of Applied Linguistics | Cambridge Core"))
 
 ---
 
-### 3. Learner Autonomy
+## Example 2: Interaction and Second Language Acquisition
 
-> “Autonomy can be broadly defined as the capacity to take control over one’s own learning” (Benson, 2011, p. 2). ([Amazon S3](https://s3-euw1-ap-pe-df-pch-content-store-p.s3.eu-west-1.amazonaws.com/9781315833767/dd207f5c-06cb-4da8-bc82-2b080008cd9d/preview.pdf?AWSAccessKeyId=ASIAQFVOSJ5744S77LHT&Expires=1760435471&Signature=wDt9mCUBOpQT0fs815pRLDN2JDw%3D&response-content-disposition=attachment%3B+filename%3D%2210.4324_9781315833767_previewpdf.pdf%22&x-amz-security-token=IQoJb3JpZ2luX2VjELL%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIGUp3p7UCcYCzjtNY6dJwPpzAeLvfRuLJyRr0th1py%2F6AiEA77whbHBpIPHfLvyO%2FNbgqT0HrA%2F1N59oG8wfxiiWBWgqjQQIWxAEGgwwMTIxNzcyNjQ1MTEiDP5EJ5oQCGO4CacqVSrqAw2%2BB6PGJTA14cTqXhexotsBT29yOEDm6lpp5RatmHkSRknb%2BAnROEG4YhVekU0ho3FBjeI4NdnCXMGcow1NHt5sYmPxK4lcsM4bKOAG%2BJhplEia573N3BZdOqPibA%2BiZxX3PS4TlmW%2FSwtqUl5bGNDK73gVIp7q1KNdaBn%2FPiTH4doD%2F5m6SBE%2BMiDZajjXljCh0OENgLwQURe%2FY7gxRV9XGqwSReS3VW1qwpFNDto5lnjkM3JQdthqBnzfb0ZnHXQgYMs3T%2B8CReQEjFUvyhLkdv22ofoDAesJme1x%2BIRC7bMuBpHd1ZAZirmHC8PxV116m3zaZs1bcMh1ck1sIYqUJ3czC7j0BJxsNlUfe%2BNOuXb01jp7ZKEyOkV%2FQYehXZFeA2s0WsvR6s6%2BRLfUWQ%2FeFkNtVWsXzxZo6%2FelV0lp98N7LQX9SvKiR4qyxP3xaiu8GUVa9xAycyZ%2FEK2Fr9cQ9QhRxdDw3UOGXJPCjuxLnB%2Fs%2FCUemkr01UCey3igCZXauRnSuLZWNc5ruGHE3dmKQZM5NXDNMSW%2Bxvx1sIsrcr1wGYQVlbXRLV00vSF2y0DB%2Bj2ZMUCN4KGfr5ykqhnpBUDXCRS3aOUgh9HlUHtvZdzcu5Ew1x38Rhg5k3oOGyxbTIXwt8SEdHAwuLS4xwY6pQGUmLe6BimeTOQ0o5Msm5eRw%2B5vFVuHN6hA7K1flk%2BQajsaczf4nflQbBNCSpqrY4SWDQSOVkSmmOSML2AfUa6overRAkW%2FoKBYORw7GhvgaDiiue4lm4bey4acAW2giI8yC0%2BAbaOXhMHsT2xDVeTvySOG0QlXiga0fN2YH%2BjtTce%2B1nRIVNGQtyZbjPGkDEoMmtFaMoi4Ru1dQJa%2Bg%2F%2BWgoEO6f8%3D&utm_source=chatgpt.com "Teaching and Researching Autonomy"))
+### Direct quotation
 
-**Possible research area:** How language learners plan, monitor, evaluate, or take responsibility for their own learning.
+Long (1996) argues that negotiation for meaning:
 
-### References
+> “facilitates acquisition because it connects input, internal learner capacities, particularly selective attention, and output in productive ways” (pp. 451–452). ([Wiley Online Library](https://onlinelibrary.wiley.com/doi/10.1111/lang.12644?utm_source=chatgpt.com "Proactive Language Learning Theory - Papi - 2025 - Language Learning - Wiley Online Library"))
 
-Benson, P. (2011). _Teaching and researching autonomy_ (2nd ed.). Longman/Pearson. ([EdUHK Research Repository](https://repository.eduhk.hk/en/publications/teaching-and-researching-autonomy-4/?utm_source=chatgpt.com "Teaching and researching autonomy - EdUHK Research Repository"))
+---
 
-Dörnyei, Z. (2001). New themes and approaches in second language motivation research. _Annual Review of Applied Linguistics, 21_, 43–59. [https://doi.org/10.1017/S0267190501000034](https://www.cambridge.org/core/journals/annual-review-of-applied-linguistics/article/new-themes-and-approaches-in-second-language-motivation-research/C9CEAEA9992B0D02DCBBFC6F46531BFC?utm_source=chatgpt.com)
+## Example 3: Willingness to Communicate in a Second Language
 
-Lyster, R., & Ranta, L. (1997). Corrective feedback and learner uptake: Negotiation of form in communicative classrooms. _Studies in Second Language Acquisition, 19_(1), 37–66. [https://doi.org/10.1017/S0272263197001034](https://www.cambridge.org/core/journals/studies-in-second-language-acquisition/article/corrective-feedback-and-learner-uptake/59229F0CA2F085F5F5016FB4674877BF?utm_source=chatgpt.com)
+### Direct quotation
+
+MacIntyre et al. (1998) observe:
+
+> “A related observation is that many learners have noticed that their willingness to communicate (WTC) varies considerably over time and across situations” (p. 545). ([Wiley Online Library](https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1540-4781.1998.tb05543.x?utm_source=chatgpt.com "Conceptualizing Willingness to Communicate in a L2: A Situational Model of L2 Confidence and Affiliation - MACINTYRE - 1998 - The Modern Language Journal - Wiley Online Library"))
+
+---
+
+## Student Paraphrasing Task
+
+For **each quotation**, write four versions:
+
+1. **Vocabulary:** Change the vocabulary while keeping roughly the same organization and emphasis.
+    
+2. **Structure:** Change the grammatical and organizational structure while keeping the original meaning and general emphasis.
+    
+3. **Emphasis:** Reorganize the information so that a different aspect of the author's idea receives greater attention.
+    
+4. **Full paraphrase:** Change **vocabulary + structure + emphasis** simultaneously.
+    
+
+After each version, include an APA parenthetical citation:
+
+**(Horwitz et al., 1986)**  
+**(Long, 1996)**  
+**(MacIntyre et al., 1998)**
+
+Page numbers are required for the direct quotations. For the students' paraphrases, APA does **not require** a page number, although students may include one when it would help readers locate the original idea.
+
+## References
+
+Horwitz, E. K., Horwitz, M. B., & Cope, J. (1986). Foreign language classroom anxiety. _The Modern Language Journal, 70_(2), 125–132. [https://doi.org/10.1111/j.1540-4781.1986.tb05256.x](https://doi.org/10.1111/j.1540-4781.1986.tb05256.x) ([DOI](https://doi.org/10.1111/j.1540-4781.1986.tb05256.x?utm_source=chatgpt.com "Foreign Language Classroom Anxiety - HORWITZ - 1986 - The Modern Language Journal - Wiley Online Library"))
+
+Long, M. H. (1996). The role of the linguistic environment in second language acquisition. In W. C. Ritchie & T. K. Bhatia (Eds.), _Handbook of second language acquisition_ (pp. 413–468). Academic Press. [https://doi.org/10.1016/B978-012589042-7/50015-3](https://doi.org/10.1016/B978-012589042-7/50015-3) ([CiNii Research](https://cir.nii.ac.jp/crid/1360564063957555584?utm_source=chatgpt.com "The Role of the Linguistic Environment in Second Language Acquisition | CiNii Research"))
+
+MacIntyre, P. D., Clément, R., Dörnyei, Z., & Noels, K. A. (1998). Conceptualizing willingness to communicate in a L2: A situational model of L2 confidence and affiliation. _The Modern Language Journal, 82_(4), 545–562. [https://doi.org/10.1111/j.1540-4781.1998.tb05543.x](https://doi.org/10.1111/j.1540-4781.1998.tb05543.x) ([DOI](https://doi.org/10.1111%2Fj.1540-4781.1998.tb05543.x?utm_source=chatgpt.com "Conceptualizing Willingness to Communicate in a L2: A Situational Model of L2 Confidence and Affiliation - MACINTYRE - 1998 - The Modern Language Journal - Wiley Online Library"))
