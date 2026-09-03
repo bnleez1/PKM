@@ -41,6 +41,7 @@ note:
 - How can sequence and cause-effect language show why a learner chooses a particular habit?
 
 - How can a graphic organizer reveal similarities, differences, missing details, or contradictions?
+[[05 knowledge/Notes/030920260700|Private Note]]
 
 - How can Project 1 show both comprehension and responsible strategy use?
 
@@ -93,9 +94,6 @@ Do not automatically treat every habit as good advice. A speaker may report a be
 After listening, organization is not a decorative final step. It is a way to test whether the information makes sense. A timeline can reveal that two study steps were reversed. A weekly schedule can show that a time or day is missing. A compare-contrast chart can show whether two students share the same study place but use different strategies. Use gaps or contradictions to plan a focused replay rather than restarting the audio without a purpose.
 
 When comparing answers, explain the evidence that supports your organization. Evidence may be a frequency expression, a time phrase, a sequence marker, a reason, or a direct statement of preference. Keep the evidence connected to the question. Recognizing many words is useful, but comprehension means using those words to build a coherent interpretation.
-
-
-
 ## 🗓️ Monday
 ## 🗓️ Tuesday
 
@@ -107,34 +105,19 @@ Today's outcome: Handout (study habits)
 
 ## 🗓️ Wednesday
 
-> [!todo] Thursday
-> afñlasdjkf
-> asdfasd
-> fasdf
-> asdf
-> asdf
-> asdfasd
-> fasd
-> fasdf
-> asdf
-> asdf
+> [!note]- 🗓️ Monday
+> Time after Time (Cyndi Lauper) activity and drawing.
+
+> [!note]- 🗓️ Tuesday
+> Handout 1
+
+> [!note]- 🗓️ Wednesday
+> Handout 2
 
 > [!note]- 🗓️ Thursday
+> Notes from listening activity.
+>
+
+> [!note]- 🗓️ Friday
 > 
-> ## Prelistening: Study Habit Corners
 >
-> WOB
->
-> 1. Early morning
-> 2. Between classes
-> 3. Evening
-> 4. Late at night
->
-> When do you study the best?
-# Thursday
-[[05 knowledge/Notes/030920260700|Private Note]]
-
-
-
-## 🗓️ Friday
-

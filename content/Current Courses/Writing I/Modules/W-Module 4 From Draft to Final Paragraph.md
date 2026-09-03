@@ -157,3 +157,20 @@ Complete [[Writing I Week 4 Assignment]].
 
 ## 🗓️ [[Date/2026-09-04]]
 
+
+> [!note]- 🗓️ Monday
+> Time after Time (Cyndi Lauper) activity and drawing.
+
+> [!note]- 🗓️ Tuesday
+> Handout 1
+
+> [!note]- 🗓️ Wednesday
+> Handout 2
+
+> [!note]- 🗓️ Thursday
+> Notes from listening activity.
+>
+
+> [!note]- 🗓️ Friday
+> 
+>

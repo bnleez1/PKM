@@ -115,10 +115,176 @@ A productive learning sequence for this chapter begins with a diagnostic respons
 
 The second part of the week should move from practice to production. Students use the guiding questions—“How do reporting verbs communicate a writer’s stance toward a source?” and “Which linking devices express addition, contrast, cause, result, and qualification?”—as checkpoints while working toward the stated outcomes, especially the ability to use academic vocabulary and standard phrases appropriately in an article review and to select reporting verbs that accurately represent source actions and claims. A brief peer conference should focus on one high-impact feature rather than attempting to correct everything at once. Students then revise, annotate the evidence of their decision-making, and complete the week’s deliverable: Academic phrase bank; reporting-verb and linking-device practice; source-summary and attribution sentences; article-review outline. The final five minutes of class can be used for an exit reflection identifying one decision the writer can now justify and one question that must be carried into the next chapter.
 
-## 🗓️ [[Date/2026-09-02]] (11:00 AM - 1:00 PM)
 
+> [!note]- 🗓️ Wednesday
+>    1. Complete article review 1
+>    2. Complete GenAI output and reflection.
+>    3. Submit assignment to Teams.
+> 
 
-## 🗓️ [[Date/2026-09-03]] (12:00 PM - 1:00 PM)
+> [!note]- 🗓️ Thursday
+> Paraphrasing activity: varying structure, emphasis, and vocabulary.
+>
 
-## 🗓️ [[Date/2026-09-04]] (10:00 AM - 12:00 PM)
+> [!note]- 🗓️ Friday
+> 
+>
 
+> [!info] Info
+> Below is a classroom-ready set that distinguishes **vocabulary change, change of emphasis, structural change, and a combination of all three**. This directly supports the Academic Writing syllabus emphasis on integrating sources and accurately reporting other people's words and ideas.
+> 
+> A useful point for students: **direct quotations require a page or other locator in APA; paraphrases normally require only author and year**, although a page number can be added when it helps readers locate the idea.
+> 
+> ## 1. Topic: Feedback and Learning
+> 
+> ### Original direct quotation
+> 
+> > “Feedback is one of the most powerful influences on learning and achievement, but this impact can be either positive or negative” (Hattie & Timperley, 2007, p. 81). ([Sage Journals](https://journals.sagepub.com/doi/pdf/10.3102/003465430298487?utm_source=chatgpt.com "The Power of Feedback - John Hattie, Helen Timperley, 2007"))
+> 
+> ### A. Paraphrase: Vocabulary modified
+> 
+> Feedback is one of the **strongest factors affecting student learning and performance**, although its effects may be **beneficial or harmful** (Hattie & Timperley, 2007).
+> 
+> **Main change:**
+> 
+> - powerful influences → strongest factors
+>     
+> - learning and achievement → student learning and performance
+>     
+> - positive or negative → beneficial or harmful
+>     
+> 
+> ### B. Paraphrase: Different emphasis
+> 
+> Although feedback can improve or harm student learning, its **considerable influence on academic achievement makes it particularly important** (Hattie & Timperley, 2007).
+> 
+> **Main change:** The original begins by emphasizing the **power of feedback**. The paraphrase foregrounds the **possible positive and negative consequences** before emphasizing its importance.
+> 
+> ### C. Paraphrase: Structure modified
+> 
+> Learning and achievement can be strongly influenced by feedback, and the effect of that feedback may be positive or negative (Hattie & Timperley, 2007).
+> 
+> **Main change:**  
+> Original structure:
+> 
+> **Feedback → influences → learning**
+> 
+> New structure:
+> 
+> **Learning → is influenced by → feedback**
+> 
+> ### D. Paraphrase: Structure + emphasis + vocabulary modified
+> 
+> Because comments provided to learners can either support or interfere with their progress, the way feedback is used can substantially affect academic success (Hattie & Timperley, 2007).
+> 
+> **Changes:** The sentence has been reorganized, the vocabulary has been replaced, and the emphasis has shifted from the **power of feedback** to **how feedback is used**.
+> 
+> ---
+> 
+> # 2. Topic: Sleep and Memory
+> 
+> ### Original direct quotation
+> 
+> > “These findings suggest that poor behavioural choices around bedtime contribute to the trade-off between improved encoding capacity and reduced consolidation efficiency” (Crowley et al., 2026, p. A35). ([OUP Academic](https://academic.oup.com/sleep/article/49/Supplement_1/A35/8674562 "oup.silverchair-cdn.com"))
+> 
+> ### A. Paraphrase: Vocabulary modified
+> 
+> The results indicate that **unhelpful habits before sleep contribute to a balance between better initial learning and weaker memory consolidation** (Crowley et al., 2026).
+> 
+> **Main change:**
+> 
+> - findings → results
+>     
+> - poor behavioural choices → unhelpful habits
+>     
+> - encoding capacity → initial learning
+>     
+> - reduced consolidation efficiency → weaker memory consolidation
+>     
+> 
+> ### B. Paraphrase: Different emphasis
+> 
+> The ability to retain newly learned information may be weakened by bedtime behaviors, even when adolescents show stronger initial encoding abilities (Crowley et al., 2026).
+> 
+> **Main change:** The original gives relatively equal attention to encoding and consolidation. The paraphrase places greater emphasis on **the possible problem of retaining information**.
+> 
+> ### C. Paraphrase: Structure modified
+> 
+> A trade-off between improved encoding and reduced memory consolidation appears to result partly from poor choices made around bedtime (Crowley et al., 2026).
+> 
+> **Main change:** The original begins with **“These findings suggest...”**, whereas the paraphrase makes **the trade-off** the grammatical subject.
+> 
+> ### D. Paraphrase: Structure + emphasis + vocabulary modified
+> 
+> Adolescents' nighttime routines may be especially important for long-term learning because unhealthy bedtime habits can interfere with the brain's ability to stabilize recently learned information (Crowley et al., 2026).
+> 
+> **Changes:** The sentence structure is substantially different, technical vocabulary has been simplified, and the emphasis has shifted toward **the educational importance of bedtime routines**.
+> 
+> ---
+> 
+> # 3. Topic: Social Media and Adolescent Well-Being
+> 
+> ### Original direct quotation
+> 
+> > “Relational interactions contribute to both closeness and disconnection; self-expression facilitates affirmation alongside concern about others’ judgments” (Weinstein, 2018, p. 3597). ([Projects at Harvard](https://projects.iq.harvard.edu/files/gse-digitaldilemmas/files/2018-new_media_society-seesaw.pdf?utm_source=chatgpt.com "755634 NMS0010.1177/1461444818755634new media & societyWeinstein"))
+> 
+> ### A. Paraphrase: Vocabulary modified
+> 
+> **Social exchanges can produce both connection and isolation, while sharing one's identity can provide validation as well as anxiety about other people's opinions** (Weinstein, 2018).
+> 
+> **Main change:**
+> 
+> - relational interactions → social exchanges
+>     
+> - closeness → connection
+>     
+> - disconnection → isolation
+>     
+> - affirmation → validation
+>     
+> - concern about judgments → anxiety about opinions
+>     
+> 
+> ### B. Paraphrase: Different emphasis
+> 
+> Concern about how others respond is one possible consequence of adolescents expressing themselves on social media, even though these platforms can also create feelings of connection and validation (Weinstein, 2018).
+> 
+> **Main change:** The original presents positive and negative effects relatively evenly. The paraphrase emphasizes **concern about other people's reactions**.
+> 
+> ### C. Paraphrase: Structure modified
+> 
+> Both closeness and disconnection can result from online social interactions, and both affirmation and concern about judgment can result from online self-expression (Weinstein, 2018).
+> 
+> **Main change:** The original uses:
+> 
+> **interaction → contributes to result**
+> 
+> The paraphrase reverses this:
+> 
+> **result → can result from interaction**
+> 
+> ### D. Paraphrase: Structure + emphasis + vocabulary modified
+> 
+> Adolescents' experiences online are not simply positive or negative: communicating and presenting themselves to others can simultaneously strengthen social bonds and create feelings of insecurity (Weinstein, 2018).
+> 
+> **Changes:** The sentence is reorganized around the larger idea of **mixed social-media experiences**, the vocabulary is substantially different, and the emphasis shifts from specific categories to the **overall complexity of online interaction**.
+> 
+> ---
+> 
+> # APA References
+> 
+> Crowley, R., Ricketts, J., Henderson, L., Gaskell, G., & Tamminen, J. (2026). 0080 Poor sleep hygiene in adolescence is associated with disrupted encoding and consolidation of newly learned words. _Sleep, 49_(Supplement_1), A35. [https://doi.org/10.1093/sleep/zsag091.0080](https://doi.org/10.1093/sleep/zsag091.0080) ([OUP Academic](https://academic.oup.com/sleep/article/49/Supplement_1/A35/8674562 "oup.silverchair-cdn.com"))
+> 
+> Hattie, J., & Timperley, H. (2007). The power of feedback. _Review of Educational Research, 77_(1), 81–112. [https://doi.org/10.3102/003465430298487](https://doi.org/10.3102/003465430298487) ([Sage Journals](https://journals.sagepub.com/doi/pdf/10.3102/003465430298487?utm_source=chatgpt.com "The Power of Feedback - John Hattie, Helen Timperley, 2007"))
+> 
+> Weinstein, E. (2018). The social media see-saw: Positive and negative influences on adolescents' affective well-being. _New Media & Society, 20_(10), 3597–3623. [https://doi.org/10.1177/1461444818755634](https://doi.org/10.1177/1461444818755634) ([Sage Journals](https://journals.sagepub.com/doi/10.1177/1461444818755634?utm_source=chatgpt.com "The social media see-saw: Positive and negative influences on adolescents’ affective well-being - Emily Weinstein, 2018"))
+> 
+> ### A useful distinction for students
+> 
+> The examples illustrate that **good paraphrasing is more than replacing words with synonyms**. Students can think of three major tools:
+> 
+> **Vocabulary** → _Which words and expressions can I express differently?_  
+> **Structure** → _How can I reorganize the grammatical relationships between ideas?_  
+> **Emphasis** → _Which part of the author's idea will I foreground for my own discussion?_
+> 
+> The strongest paraphrase normally uses **all three simultaneously while preserving the author's original meaning and still citing the source**.

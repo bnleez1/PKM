@@ -263,3 +263,20 @@ The university library is one of the busiest places on campus. The library provi
 
 ## 🗓️ Friday (9:00 AM - 10:00 AM)
 
+
+> [!note]- 🗓️ Monday
+> Time after Time (Cyndi Lauper) activity and drawing.
+
+> [!note]- 🗓️ Tuesday
+> Handout 1
+
+> [!note]- 🗓️ Wednesday
+> Handout 2
+
+> [!note]- 🗓️ Thursday
+> Notes from listening activity.
+>
+
+> [!note]- 🗓️ Friday
+> 
+>
