@@ -122,55 +122,25 @@ The second part of the week should move from practice to production. Students us
 >    3. Submit assignment to Teams.
 > 
 
-> [!note]- 🗓️ Thursday
-> Paraphrasing activity: varying structure, emphasis, and vocabulary.
->
-
-> [!note]- 🗓️ Friday
-> 
->
-
-Below is a classroom-ready set that distinguishes **vocabulary change, change of emphasis, structural change, and a combination of all three**. This directly supports the Academic Writing syllabus emphasis on integrating sources and accurately reporting other people's words and ideas.
-
-A useful point for students: **direct quotations require a page or other locator in APA; paraphrases normally require only author and year**, although a page number can be added when it helps readers locate the idea.
+## Thursday
 
 ## 1. Topic: Feedback and Learning
 
-### Original direct quotation
+#### Original direct quotation
 
 > “Feedback is one of the most powerful influences on learning and achievement, but this impact can be either positive or negative” (Hattie & Timperley, 2007, p. 81). ([Sage Journals](https://journals.sagepub.com/doi/pdf/10.3102/003465430298487?utm_source=chatgpt.com "The Power of Feedback - John Hattie, Helen Timperley, 2007"))
 
-### A. Paraphrase: Vocabulary modified
+### A. Paraphrase: What was modified?
 
 Feedback is one of the **strongest factors affecting student learning and performance**, although its effects may be **beneficial or harmful** (Hattie & Timperley, 2007).
 
-**Main change:**
-
-- powerful influences → strongest factors
-    
-- learning and achievement → student learning and performance
-    
-- positive or negative → beneficial or harmful
-    
-
-### B. Paraphrase: Different emphasis
+### B. Paraphrase: What was modified?
 
 Although feedback can improve or harm student learning, its **considerable influence on academic achievement makes it particularly important** (Hattie & Timperley, 2007).
 
-**Main change:** The original begins by emphasizing the **power of feedback**. The paraphrase foregrounds the **possible positive and negative consequences** before emphasizing its importance.
-
-### C. Paraphrase: Structure modified
+### C. Paraphrase: What was modified?
 
 Learning and achievement can be strongly influenced by feedback, and the effect of that feedback may be positive or negative (Hattie & Timperley, 2007).
-
-**Main change:**  
-Original structure:
-
-**Feedback → influences → learning**
-
-New structure:
-
-**Learning → is influenced by → feedback**
 
 ### D. Paraphrase: Structure + emphasis + vocabulary modified
 
@@ -180,13 +150,36 @@ Because comments provided to learners can either support or interfere with their
 
 ---
 
-# 2. Topic: Sleep and Memory
 
-### Original direct quotation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Additional examples of paraphrasing
+### 2. Topic: Sleep and Memory
+
+#### Original direct quotation
 
 > “These findings suggest that poor behavioural choices around bedtime contribute to the trade-off between improved encoding capacity and reduced consolidation efficiency” (Crowley et al., 2026, p. A35). ([OUP Academic](https://academic.oup.com/sleep/article/49/Supplement_1/A35/8674562 "oup.silverchair-cdn.com"))
 
-### A. Paraphrase: Vocabulary modified
+#### A. Paraphrase: Vocabulary modified
 
 The results indicate that **unhelpful habits before sleep contribute to a balance between better initial learning and weaker memory consolidation** (Crowley et al., 2026).
 
@@ -201,19 +194,19 @@ The results indicate that **unhelpful habits before sleep contribute to a balanc
 - reduced consolidation efficiency → weaker memory consolidation
     
 
-### B. Paraphrase: Different emphasis
+#### B. Paraphrase: Different emphasis
 
 The ability to retain newly learned information may be weakened by bedtime behaviors, even when adolescents show stronger initial encoding abilities (Crowley et al., 2026).
 
 **Main change:** The original gives relatively equal attention to encoding and consolidation. The paraphrase places greater emphasis on **the possible problem of retaining information**.
 
-### C. Paraphrase: Structure modified
+#### C. Paraphrase: Structure modified
 
 A trade-off between improved encoding and reduced memory consolidation appears to result partly from poor choices made around bedtime (Crowley et al., 2026).
 
 **Main change:** The original begins with **“These findings suggest...”**, whereas the paraphrase makes **the trade-off** the grammatical subject.
 
-### D. Paraphrase: Structure + emphasis + vocabulary modified
+#### D. Paraphrase: Structure + emphasis + vocabulary modified
 
 Adolescents' nighttime routines may be especially important for long-term learning because unhealthy bedtime habits can interfere with the brain's ability to stabilize recently learned information (Crowley et al., 2026).
 
@@ -221,13 +214,13 @@ Adolescents' nighttime routines may be especially important for long-term learni
 
 ---
 
-# 3. Topic: Social Media and Adolescent Well-Being
+### 3. Topic: Social Media and Adolescent Well-Being
 
-### Original direct quotation
+#### Original direct quotation
 
 > “Relational interactions contribute to both closeness and disconnection; self-expression facilitates affirmation alongside concern about others’ judgments” (Weinstein, 2018, p. 3597). ([Projects at Harvard](https://projects.iq.harvard.edu/files/gse-digitaldilemmas/files/2018-new_media_society-seesaw.pdf?utm_source=chatgpt.com "755634 NMS0010.1177/1461444818755634new media & societyWeinstein"))
 
-### A. Paraphrase: Vocabulary modified
+#### A. Paraphrase: Vocabulary modified
 
 **Social exchanges can produce both connection and isolation, while sharing one's identity can provide validation as well as anxiety about other people's opinions** (Weinstein, 2018).
 
@@ -244,13 +237,13 @@ Adolescents' nighttime routines may be especially important for long-term learni
 - concern about judgments → anxiety about opinions
     
 
-### B. Paraphrase: Different emphasis
+#### B. Paraphrase: Different emphasis
 
 Concern about how others respond is one possible consequence of adolescents expressing themselves on social media, even though these platforms can also create feelings of connection and validation (Weinstein, 2018).
 
 **Main change:** The original presents positive and negative effects relatively evenly. The paraphrase emphasizes **concern about other people's reactions**.
 
-### C. Paraphrase: Structure modified
+#### C. Paraphrase: Structure modified
 
 Both closeness and disconnection can result from online social interactions, and both affirmation and concern about judgment can result from online self-expression (Weinstein, 2018).
 
@@ -262,7 +255,7 @@ The paraphrase reverses this:
 
 **result → can result from interaction**
 
-### D. Paraphrase: Structure + emphasis + vocabulary modified
+#### D. Paraphrase: Structure + emphasis + vocabulary modified
 
 Adolescents' experiences online are not simply positive or negative: communicating and presenting themselves to others can simultaneously strengthen social bonds and create feelings of insecurity (Weinstein, 2018).
 
@@ -270,7 +263,7 @@ Adolescents' experiences online are not simply positive or negative: communicati
 
 ---
 
-# APA References
+### APA References
 
 Crowley, R., Ricketts, J., Henderson, L., Gaskell, G., & Tamminen, J. (2026). 0080 Poor sleep hygiene in adolescence is associated with disrupted encoding and consolidation of newly learned words. _Sleep, 49_(Supplement_1), A35. [https://doi.org/10.1093/sleep/zsag091.0080](https://doi.org/10.1093/sleep/zsag091.0080) ([OUP Academic](https://academic.oup.com/sleep/article/49/Supplement_1/A35/8674562 "oup.silverchair-cdn.com"))
 
@@ -287,3 +280,37 @@ The examples illustrate that **good paraphrasing is more than replacing words wi
 **Emphasis** → _Which part of the author's idea will I foreground for my own discussion?_
 
 The strongest paraphrase normally uses **all three simultaneously while preserving the author's original meaning and still citing the source**.
+
+
+## Practice Parphrasing
+Here are three quotations on **researchable topics in applied linguistics**. Each is long enough to give learners meaningful opportunities to change **vocabulary, structure, and emphasis** when paraphrasing.
+
+### 1. L2 Motivation
+
+> “The emerging body of research studies established motivation as a principal determinant of second language acquisition” (Dörnyei, 2001, p. 43). ([CiteSeerX](https://citeseerx.ist.psu.edu/document?doi=7dfccc8acbf801377907ab3abd0bbba2c5cf9719&repid=rep1&type=pdf&utm_source=chatgpt.com "Annual Review of Applied Linguistics (2001) 21, 43  59. Printed in the"))
+
+**Possible research area:** How motivation influences second-language learning, persistence, participation, or achievement.
+
+---
+
+### 2. Corrective Feedback
+
+> “The findings indicate an overwhelming tendency for teachers to use recasts in spite of the latter's ineffectiveness at eliciting student-generated repair” (Lyster & Ranta, 1997, p. 37). ([Cambridge University Press](https://www.cambridge.org/core/journals/studies-in-second-language-acquisition/article/abs/corrective-feedback-and-learner-uptake/59229F0CA2F085F5F5016FB4674877BF?utm_source=chatgpt.com "CORRECTIVE FEEDBACK AND LEARNER UPTAKE | Studies in Second Language Acquisition | Cambridge Core"))
+
+**Possible research area:** How different types of teacher corrective feedback influence learners' responses, noticing, or language development.
+
+---
+
+### 3. Learner Autonomy
+
+> “Autonomy can be broadly defined as the capacity to take control over one’s own learning” (Benson, 2011, p. 2). ([Amazon S3](https://s3-euw1-ap-pe-df-pch-content-store-p.s3.eu-west-1.amazonaws.com/9781315833767/dd207f5c-06cb-4da8-bc82-2b080008cd9d/preview.pdf?AWSAccessKeyId=ASIAQFVOSJ5744S77LHT&Expires=1760435471&Signature=wDt9mCUBOpQT0fs815pRLDN2JDw%3D&response-content-disposition=attachment%3B+filename%3D%2210.4324_9781315833767_previewpdf.pdf%22&x-amz-security-token=IQoJb3JpZ2luX2VjELL%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIGUp3p7UCcYCzjtNY6dJwPpzAeLvfRuLJyRr0th1py%2F6AiEA77whbHBpIPHfLvyO%2FNbgqT0HrA%2F1N59oG8wfxiiWBWgqjQQIWxAEGgwwMTIxNzcyNjQ1MTEiDP5EJ5oQCGO4CacqVSrqAw2%2BB6PGJTA14cTqXhexotsBT29yOEDm6lpp5RatmHkSRknb%2BAnROEG4YhVekU0ho3FBjeI4NdnCXMGcow1NHt5sYmPxK4lcsM4bKOAG%2BJhplEia573N3BZdOqPibA%2BiZxX3PS4TlmW%2FSwtqUl5bGNDK73gVIp7q1KNdaBn%2FPiTH4doD%2F5m6SBE%2BMiDZajjXljCh0OENgLwQURe%2FY7gxRV9XGqwSReS3VW1qwpFNDto5lnjkM3JQdthqBnzfb0ZnHXQgYMs3T%2B8CReQEjFUvyhLkdv22ofoDAesJme1x%2BIRC7bMuBpHd1ZAZirmHC8PxV116m3zaZs1bcMh1ck1sIYqUJ3czC7j0BJxsNlUfe%2BNOuXb01jp7ZKEyOkV%2FQYehXZFeA2s0WsvR6s6%2BRLfUWQ%2FeFkNtVWsXzxZo6%2FelV0lp98N7LQX9SvKiR4qyxP3xaiu8GUVa9xAycyZ%2FEK2Fr9cQ9QhRxdDw3UOGXJPCjuxLnB%2Fs%2FCUemkr01UCey3igCZXauRnSuLZWNc5ruGHE3dmKQZM5NXDNMSW%2Bxvx1sIsrcr1wGYQVlbXRLV00vSF2y0DB%2Bj2ZMUCN4KGfr5ykqhnpBUDXCRS3aOUgh9HlUHtvZdzcu5Ew1x38Rhg5k3oOGyxbTIXwt8SEdHAwuLS4xwY6pQGUmLe6BimeTOQ0o5Msm5eRw%2B5vFVuHN6hA7K1flk%2BQajsaczf4nflQbBNCSpqrY4SWDQSOVkSmmOSML2AfUa6overRAkW%2FoKBYORw7GhvgaDiiue4lm4bey4acAW2giI8yC0%2BAbaOXhMHsT2xDVeTvySOG0QlXiga0fN2YH%2BjtTce%2B1nRIVNGQtyZbjPGkDEoMmtFaMoi4Ru1dQJa%2Bg%2F%2BWgoEO6f8%3D&utm_source=chatgpt.com "Teaching and Researching Autonomy"))
+
+**Possible research area:** How language learners plan, monitor, evaluate, or take responsibility for their own learning.
+
+### References
+
+Benson, P. (2011). _Teaching and researching autonomy_ (2nd ed.). Longman/Pearson. ([EdUHK Research Repository](https://repository.eduhk.hk/en/publications/teaching-and-researching-autonomy-4/?utm_source=chatgpt.com "Teaching and researching autonomy - EdUHK Research Repository"))
+
+Dörnyei, Z. (2001). New themes and approaches in second language motivation research. _Annual Review of Applied Linguistics, 21_, 43–59. [https://doi.org/10.1017/S0267190501000034](https://www.cambridge.org/core/journals/annual-review-of-applied-linguistics/article/new-themes-and-approaches-in-second-language-motivation-research/C9CEAEA9992B0D02DCBBFC6F46531BFC?utm_source=chatgpt.com)
+
+Lyster, R., & Ranta, L. (1997). Corrective feedback and learner uptake: Negotiation of form in communicative classrooms. _Studies in Second Language Acquisition, 19_(1), 37–66. [https://doi.org/10.1017/S0272263197001034](https://www.cambridge.org/core/journals/studies-in-second-language-acquisition/article/corrective-feedback-and-learner-uptake/59229F0CA2F085F5F5016FB4674877BF?utm_source=chatgpt.com)
