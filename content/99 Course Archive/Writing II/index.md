@@ -1,13 +1,13 @@
 ---
-title: Academic Writing
-description: Course materials, weekly modules, assignments, and resources for Academic Writing.
+title: Writing II
+description: Writing activities, weekly modules, assignments, and resources for Writing II.
 ---
 
-# Academic Writing
+# Writing II
 
-Welcome to the **Academic Writing** course page.
+Welcome to the **Writing II** course page.
 
-This page provides access to weekly learning materials, assignments, activities, and supporting resources for the course.
+This space provides materials to help you continue developing your ability to organize, develop, revise, and communicate ideas effectively in written English.
 
 ## Weekly Modules
 
@@ -28,20 +28,31 @@ This page provides access to weekly learning materials, assignments, activities,
 - [[Week 15|Week 15]]
 - [[Week 16|Week 16]]
 
+## Writing Activities
+
+Activities may focus on:
+
+- Paragraph development
+- Essay organization
+- Supporting ideas with evidence
+- Cohesion and coherence
+- Revising and editing
+- Academic vocabulary
+- Writing for different purposes and audiences
+
 ## Assignments
 
-Course assignments and instructions will be posted here as they become available.
+Writing assignments and instructions will be posted here.
 
 ## Resources
 
 Supporting materials may include:
 
-- Academic writing guides
-- APA resources
 - Model texts
-- Research resources
-- Writing activities
-- GenAI learning resources
+- Writing guides
+- Revision checklists
+- Grammar resources
+- Academic vocabulary resources
 
 ## Announcements
 

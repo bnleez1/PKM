@@ -1,13 +1,13 @@
 ---
-title: Academic Writing
-description: Course materials, weekly modules, assignments, and resources for Academic Writing.
+title: Thesis Seminar
+description: Course materials, research resources, and guidance for Thesis Seminar.
 ---
 
-# Academic Writing
+# Thesis Seminar
 
-Welcome to the **Academic Writing** course page.
+Welcome to the **Thesis Seminar** course page.
 
-This page provides access to weekly learning materials, assignments, activities, and supporting resources for the course.
+This space provides resources and guidance to support the development of your research and thesis project.
 
 ## Weekly Modules
 
@@ -28,24 +28,35 @@ This page provides access to weekly learning materials, assignments, activities,
 - [[Week 15|Week 15]]
 - [[Week 16|Week 16]]
 
-## Assignments
+## Research Process
 
-Course assignments and instructions will be posted here as they become available.
+Course materials may address:
 
-## Resources
+- Identifying a research problem
+- Developing research questions
+- Reviewing literature
+- Designing a study
+- Collecting and analyzing data
+- Academic writing
+- Presenting research
 
-Supporting materials may include:
+## Assignments and Milestones
 
-- Academic writing guides
+Research tasks, project milestones, and submission instructions will be posted here.
+
+## Research Resources
+
+Resources may include:
+
+- Research templates
 - APA resources
-- Model texts
-- Research resources
-- Writing activities
-- GenAI learning resources
+- Academic databases
+- Model research projects
+- Research methodology resources
 
 ## Announcements
 
-Check this page regularly for updates and new materials.
+Check this page regularly for updates and important research deadlines.
 
 ---
 
