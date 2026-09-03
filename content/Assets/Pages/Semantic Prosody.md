@@ -4,7 +4,7 @@ collections: Discourse Analysis
 title: Semantic Prosody
 tags: []
 subject:
-  - "[[Discourse Analysis]]"
+  - "[[60 Public/Website/Assets/Pages/Discourse Analysis]]"
 formalDefinition: The way a seemingly neutral word carries a positive or negative aura based on its frequent collocations.
 relatedTerms: []
 pages: []

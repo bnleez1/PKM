@@ -4,7 +4,7 @@ collections: Discourse Analysis
 title: Corpus Linguistics
 tags: []
 subject:
-  - "[[Discourse Analysis]]"
+  - "[[60 Public/Website/Assets/Pages/Discourse Analysis]]"
 formalDefinition: The study of language as expressed in massive digital collections of real-world texts.
 relatedTerms: []
 pages: []

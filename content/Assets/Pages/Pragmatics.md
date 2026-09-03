@@ -4,7 +4,7 @@ collections: Discourse Analysis
 title: Pragmatics
 tags: []
 subject:
-  - "[[Discourse Analysis]]"
+  - "[[60 Public/Website/Assets/Pages/Discourse Analysis]]"
 formalDefinition: The study of how context influences meaning, and how speakers imply more than they explicitly say.
 relatedTerms: []
 pages: []

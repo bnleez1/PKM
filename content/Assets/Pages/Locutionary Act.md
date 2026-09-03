@@ -4,7 +4,7 @@ collections: Discourse Analysis
 title: Locutionary Act
 tags: []
 subject:
-  - "[[Discourse Analysis]]"
+  - "[[60 Public/Website/Assets/Pages/Discourse Analysis]]"
 formalDefinition: The literal act of saying something with a specific meaning.
 relatedTerms: []
 pages: []

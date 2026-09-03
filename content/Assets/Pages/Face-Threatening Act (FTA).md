@@ -4,7 +4,7 @@ collections: Discourse Analysis
 title: Face-Threatening Act (FTA)
 tags: []
 subject:
-  - "[[Discourse Analysis]]"
+  - "[[60 Public/Website/Assets/Pages/Discourse Analysis]]"
 formalDefinition: An utterance that inherently threatens the positive or negative face of the speaker or listener.
 relatedTerms: []
 pages: []

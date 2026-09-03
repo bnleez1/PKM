@@ -22,7 +22,6 @@ relations: []
 note:
   - "[[Listening I Module 4 Note]]"
 ---
-
 # L - Module 4: Turning Short Messages into Usable Information
 
 *Study habits shape when, where, and how learners prepare for classes, complete assignments, and review information. When you listen to someone describe a study routine, you may need to identify frequency, sequence, location, duration, distractions, and the reasons behind particular choices. This module brings together the complete before-during-after listening cycle developed in Unit I. You will prepare with predictions, listen first for the overall routine, listen again for selected details, and organize what you hear in a chart, timeline, or comparison. The week also culminates in Listening Comprehension Project 1, which asks you to demonstrate not only what you understood but how you reached that understanding. Any authorized GenAI preparation must remain separate from the listening and must be documented transparently.*
@@ -175,6 +174,106 @@ Today's outcome: Handout (study habits)
 ## 🗓️ [[Date/2026-09-02]]
 
 ## 🗓️ [[Date/2026-09-03]]
+[[05 knowledge/Notes/030920260700|Private Note]]
 
+### Prelistening: Study Habit Corners
+WOB
+1. Early morning
+2. Between classes
+3. Evening
+4. Late at night
+
+When do you study the best?
+I usually study___ because___.
+
+### Prelistening: Prediction Race
+A Student's Study Habits
+In pairs predict five things you might hear in the audio. Don't predict sentences; predict information.
+
+| Category       | Our prediction........................... |
+| -------------- | ----------------------------------------- |
+| Time           |                                           |
+| Place          |                                           |
+| Study activity |                                           |
+| Distraction    |                                           |
+| Strategy       |                                           |
+
+### First section
+What's the big picture?
+Don't write sentences. Listen for one thing: What kind of study routine does this person have? Write three words and check with a partner.
+
+### Second Section
+
+Listen ONLY for words that answer **when** or **how often**.
+
+| When | How often |
+| ---- | --------- |
+|      |           |
+### Third section
+You get **one point for every time or frequency expression that both partners heard**.
+Examples might include:
+
+- every morning
+- after class
+- usually
+- three times a week
+- for an hour
+
+### Fourth Section
+Get in groups of four and assign each the following roles:
+**Student A — Time Hunter**  
+**Student B — Place Hunter**  
+**Student C — Activity Hunter**  
+**Student D — Duration Hunter**
+
+After listening: You have 60 seconds. Teach your information to your group.
+The group combines the information:
+
+> The student studies______ ______  
+> at/in_____ ______  
+> for_____ ______  
+> before/after_____.
+
+### Fifth section - Human Timeline
+This time, listen for **order**.
+
+FIRST → THEN → AFTER THAT → FINALLY
+
+Listen... and then stand in line, each representing one action. For example, review notes → read textbook → answer questions → check answers 
+
+What word from the recording helped you know the order?
+
+
+### Sixth Section - Why Does the Student Do That?
+
+Listen for one or more chains. For example: HABIT → REASON → RESULT
+For example:
+
+> turns off phone  
+> ↓  
+> because notifications are distracting  
+> ↓  
+> concentrates better
+
+Reconstruct one cause-effect chain.
+
+Which words told you the reason?
+
+### Seventh Section - Does, Prefers, or Recommends?
+
+|DOES|PREFERS|RECOMMENDS|
+|---|---|---|
+||||
+These are not the same thing.
+
+### Final Section - No Audio
+
+- When?
+- Where?
+- How often?
+- How long?
+- What study strategies?
+- What distractions?
+- Why?
 ## 🗓️ [[Date/2026-09-04]]
 

@@ -36,7 +36,7 @@ coverImage: '[Untitled](../Images/Untitled%20(31).md)'
 
 # Formatting Word
 
-[Formatting Word according to APA](https://www.youtube.com/watch?v=3I0fr03UqEM)[[Formatting Word according to APA|Formatting Word according to APA - Notes]]
+[Formatting Word according to APA](https://www.youtube.com/watch?v=3I0fr03UqEM)[[06 Sources/Web/Formatting Word According to APA|Formatting Word according to APA - Notes]]
 
 # Video Archive (Formatting)
 

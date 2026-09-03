@@ -4,7 +4,7 @@ collections: Discourse Analysis
 title: Transactional Discourse
 tags: []
 subject:
-  - "[[Discourse Analysis]]"
+  - "[[60 Public/Website/Assets/Pages/Discourse Analysis]]"
 formalDefinition: Language used primarily to exchange information, goods, or services.
 relatedTerms: []
 pages: []

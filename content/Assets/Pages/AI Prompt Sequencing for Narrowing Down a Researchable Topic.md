@@ -14,9 +14,9 @@ coverImage: '[Untitled](../Images/Untitled%20(47).md)'
 # AI Prompt Sequencing for Narrowing Down a Researchable Topic
 
 
-💡 See also [[EdTech Search Strategies]].
+💡 See also [[60 Public/Website/Assets/Pages/EdTech Search Strategies]].
 
-[AI Prompt Sequencing for Narrowing Down a Researchable Topic](https://www.youtube.com/watch?v=UUz7yUYK_cE)[[AI Prompt Sequencing for Narrowing Down a Researchable Topic|AI Prompt Sequencing for Narrowing Down a Researchable Topic - Notes]]
+[AI Prompt Sequencing for Narrowing Down a Researchable Topic](https://www.youtube.com/watch?v=UUz7yUYK_cE)[[60 Public/Website/Assets/Pages/AI Prompt Sequencing for Narrowing Down a Researchable Topic|AI Prompt Sequencing for Narrowing Down a Researchable Topic - Notes]]
 
 💡 Using AI in this use case is meant to be limited to brainstorming, narrowing down a topic, and finding potential studies that relate to doing research.
 

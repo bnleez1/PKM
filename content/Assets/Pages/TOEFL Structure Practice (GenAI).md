@@ -9,7 +9,7 @@ createdAt: 2025-03-11T12:12:16.643Z
 lastUpdated: 2026-06-28T12:57:10.972Z
 tags:
   - Assessment
-coverImage: "[[PKM/05 Sources/Web/Untitled]]"
+coverImage: "[[06 Sources/Web/Untitled]]"
 ---
 
 # TOEFL Structure Practice (GenAI)

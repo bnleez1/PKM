@@ -4,7 +4,7 @@ collections: Discourse Analysis
 title: Scaffolding
 tags: []
 subject:
-  - "[[Discourse Analysis]]"
+  - "[[60 Public/Website/Assets/Pages/Discourse Analysis]]"
 formalDefinition: Temporary linguistic or structural support provided by a teacher or peer to help a learner succeed.
 relatedTerms: []
 pages: []

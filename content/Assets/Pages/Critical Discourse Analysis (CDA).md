@@ -4,7 +4,7 @@ collections: Discourse Analysis
 title: Critical Discourse Analysis (CDA)
 tags: []
 subject:
-  - "[[Discourse Analysis]]"
+  - "[[60 Public/Website/Assets/Pages/Discourse Analysis]]"
 formalDefinition: The study of how language reflects, reproduces, and challenges power and ideology.
 relatedTerms: []
 pages: []

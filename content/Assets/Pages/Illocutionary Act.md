@@ -4,7 +4,7 @@ collections: Discourse Analysis
 title: Illocutionary Act
 tags: []
 subject:
-  - "[[Discourse Analysis]]"
+  - "[[60 Public/Website/Assets/Pages/Discourse Analysis]]"
 formalDefinition: The intended action or communicative force behind an utterance (e.g., a warning).
 relatedTerms: []
 pages: []

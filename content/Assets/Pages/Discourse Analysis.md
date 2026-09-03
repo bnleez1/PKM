@@ -4,7 +4,7 @@ collections: Discourse Analysis
 title: Discourse Analysis
 tags: []
 subject:
-  - "[[Discourse Analysis]]"
+  - "[[60 Public/Website/Assets/Pages/Discourse Analysis]]"
 formalDefinition: The study of language in use, extending beyond the sentence level to examine how language functions in social contexts.
 relatedTerms: []
 pages: []

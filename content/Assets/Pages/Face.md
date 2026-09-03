@@ -4,7 +4,7 @@ collections: Discourse Analysis
 title: Face
 tags: []
 subject:
-  - "[[Discourse Analysis]]"
+  - "[[60 Public/Website/Assets/Pages/Discourse Analysis]]"
 formalDefinition: The public self-image that every person wants to claim for themselves in social interaction.
 relatedTerms: []
 pages: []

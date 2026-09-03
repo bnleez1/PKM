@@ -4,7 +4,7 @@ collections: Discourse Analysis
 title: Maxim of Manner
 tags: []
 subject:
-  - "[[Discourse Analysis]]"
+  - "[[60 Public/Website/Assets/Pages/Discourse Analysis]]"
 formalDefinition: The conversational rule to be clear, brief, and orderly, avoiding ambiguity.
 relatedTerms: []
 pages: []

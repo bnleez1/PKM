@@ -4,7 +4,7 @@ collections: Discourse Analysis
 title: Intertextuality
 tags: []
 subject:
-  - "[[Discourse Analysis]]"
+  - "[[60 Public/Website/Assets/Pages/Discourse Analysis]]"
 formalDefinition: The way texts refer to, borrow from, or respond to other texts.
 relatedTerms: []
 pages: []

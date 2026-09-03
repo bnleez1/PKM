@@ -4,7 +4,7 @@ collections: Discourse Analysis
 title: Cataphora
 tags: []
 subject:
-  - "[[Discourse Analysis]]"
+  - "[[60 Public/Website/Assets/Pages/Discourse Analysis]]"
 formalDefinition: A cohesive device where a word refers forward to an entity mentioned later in the text.
 relatedTerms: []
 pages: []

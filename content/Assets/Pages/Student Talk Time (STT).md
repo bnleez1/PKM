@@ -4,7 +4,7 @@ collections: Discourse Analysis
 title: Student Talk Time (STT)
 tags: []
 subject:
-  - "[[Discourse Analysis]]"
+  - "[[60 Public/Website/Assets/Pages/Discourse Analysis]]"
 formalDefinition: The amount of time students spend speaking in a lesson.
 relatedTerms: []
 pages: []

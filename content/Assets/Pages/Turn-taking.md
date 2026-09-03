@@ -4,7 +4,7 @@ collections: Discourse Analysis
 title: Turn-taking
 tags: []
 subject:
-  - "[[Discourse Analysis]]"
+  - "[[60 Public/Website/Assets/Pages/Discourse Analysis]]"
 formalDefinition: The system by which participants in a conversation determine who speaks and when.
 relatedTerms: []
 pages: []

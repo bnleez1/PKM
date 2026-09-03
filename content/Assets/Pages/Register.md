@@ -4,7 +4,7 @@ collections: Discourse Analysis
 title: Register
 tags: []
 subject:
-  - "[[Discourse Analysis]]"
+  - "[[60 Public/Website/Assets/Pages/Discourse Analysis]]"
 formalDefinition: A variety of language used for a particular purpose or in a particular social setting.
 relatedTerms: []
 pages: []

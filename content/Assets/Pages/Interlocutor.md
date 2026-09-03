@@ -4,7 +4,7 @@ collections: Discourse Analysis
 title: Interlocutor
 tags: []
 subject:
-  - "[[Discourse Analysis]]"
+  - "[[60 Public/Website/Assets/Pages/Discourse Analysis]]"
 formalDefinition: A person who takes part in a dialogue or conversation.
 relatedTerms: []
 pages: []

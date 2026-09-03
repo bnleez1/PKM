@@ -4,7 +4,7 @@ collections: Discourse Analysis
 title: Cooperative Principle
 tags: []
 subject:
-  - "[[Discourse Analysis]]"
+  - "[[60 Public/Website/Assets/Pages/Discourse Analysis]]"
 formalDefinition: Grice's theory that participants in a conversation generally work together to understand each other.
 relatedTerms: []
 pages: []

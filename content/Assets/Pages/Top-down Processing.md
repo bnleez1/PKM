@@ -4,7 +4,7 @@ collections: Discourse Analysis
 title: Top-down Processing
 tags: []
 subject:
-  - "[[Discourse Analysis]]"
+  - "[[60 Public/Website/Assets/Pages/Discourse Analysis]]"
 formalDefinition: Using background knowledge and context to predict and deduce meaning from a text.
 relatedTerms: []
 pages: []

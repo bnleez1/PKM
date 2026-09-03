@@ -4,7 +4,7 @@ collections: Discourse Analysis
 title: Genre
 tags: []
 subject:
-  - "[[Discourse Analysis]]"
+  - "[[60 Public/Website/Assets/Pages/Discourse Analysis]]"
 formalDefinition: A socially recognized type of communicative event with its own structure and norms (e.g., a recipe, an essay).
 relatedTerms: []
 pages: []

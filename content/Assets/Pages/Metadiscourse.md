@@ -4,7 +4,7 @@ collections: Discourse Analysis
 title: Metadiscourse
 tags: []
 subject:
-  - "[[Discourse Analysis]]"
+  - "[[60 Public/Website/Assets/Pages/Discourse Analysis]]"
 formalDefinition: Language used by a speaker or writer to guide the receiver's understanding of the text (e.g., 'First, I will explain...').
 relatedTerms: []
 pages: []

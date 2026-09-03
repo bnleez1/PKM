@@ -4,7 +4,7 @@ collections: Discourse Analysis
 title: Power Dynamics
 tags: []
 subject:
-  - "[[Discourse Analysis]]"
+  - "[[60 Public/Website/Assets/Pages/Discourse Analysis]]"
 formalDefinition: The ways in which control and influence are negotiated through language.
 relatedTerms: []
 pages: []

@@ -4,7 +4,7 @@ collections: Discourse Analysis
 title: Negative Face
 tags: []
 subject:
-  - "[[Discourse Analysis]]"
+  - "[[60 Public/Website/Assets/Pages/Discourse Analysis]]"
 formalDefinition: The desire to be autonomous, free from imposition, and not forced to do something.
 relatedTerms: []
 pages: []

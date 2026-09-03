@@ -7,7 +7,7 @@ tags:
   - AppliedLinguistics
 date: 2026-11-09T00:00:00.000Z -> 2026-11-15T00:00:00.000Z
 status: InBox
-subject: "[[PKM/02 Projects/Discourse Analysis]]"
+subject: "[[02 Projects/Discourse Analysis]]"
 chapterWeek:
 coverImage: "[[Ciudad-Universitaria-62-2048x1365]]"
 unit: "[Discourse Analysis Unit IV: Discourse, Culture, and Reading](Discourse%20Analysis%20Unit%20IV%20Discourse,%20Culture,%20and%20Reading.md)"

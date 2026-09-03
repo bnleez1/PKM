@@ -4,7 +4,7 @@ collections: Discourse Analysis
 title: Scripts
 tags: []
 subject:
-  - "[[Discourse Analysis]]"
+  - "[[60 Public/Website/Assets/Pages/Discourse Analysis]]"
 formalDefinition: Predictable sequences of events in specific situations (e.g., a restaurant script).
 relatedTerms: []
 pages: []

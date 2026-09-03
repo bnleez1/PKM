@@ -236,7 +236,7 @@ Draft a theoretical framework in support of a recent research project to be publ
 
     - Discuss using [[Demonstratives]] sparingly.
 
-    - Discuss formatting references (APA, etc.): [[Formatting Word According to APA]].
+    - Discuss formatting references (APA, etc.): [[06 Sources/Web/Formatting Word According to APA]].
 
     - Work on  
 

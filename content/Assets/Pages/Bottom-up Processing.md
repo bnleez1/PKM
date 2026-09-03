@@ -4,7 +4,7 @@ collections: Discourse Analysis
 title: Bottom-up Processing
 tags: []
 subject:
-  - "[[Discourse Analysis]]"
+  - "[[60 Public/Website/Assets/Pages/Discourse Analysis]]"
 formalDefinition: Understanding text by decoding the smallest units (letters, words) to build meaning.
 relatedTerms: []
 pages: []

@@ -5,7 +5,7 @@ icon: ⚡️
 tags:
   - AppliedLinguistics
 courseS:
-  - "[[PKM/02 Projects/Discourse Analysis]]"
+  - "[[02 Projects/Discourse Analysis]]"
 unitS: "[Discourse Analysis Unit I: Foundations: Text](../Units/Discourse%20Analysis%20Unit%20I%20Foundations%20Text.md)"
 module: "[DA - Module 2: Speaking, Writing, and Communicative Purpose](../Modules/DA%20-%20Module%202%20Speaking,%20Writing,%20and%20Communicative%20Purpose.md)"
 dueDate: 2026-08-25T00:00:00.000Z

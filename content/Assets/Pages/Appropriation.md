@@ -4,7 +4,7 @@ collections: Discourse Analysis
 title: Appropriation
 tags: []
 subject:
-  - "[[Discourse Analysis]]"
+  - "[[60 Public/Website/Assets/Pages/Discourse Analysis]]"
 formalDefinition: The process by which a learner internalizes language introduced by an expert/teacher and makes it their own.
 relatedTerms: []
 pages: []

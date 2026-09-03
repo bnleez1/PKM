@@ -4,7 +4,7 @@ collections: Discourse Analysis
 title: Maxim of Quantity
 tags: []
 subject:
-  - "[[Discourse Analysis]]"
+  - "[[60 Public/Website/Assets/Pages/Discourse Analysis]]"
 formalDefinition: The conversational rule to give exactly as much information as is required, no more, no less.
 relatedTerms: []
 pages: []

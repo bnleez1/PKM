@@ -4,7 +4,7 @@ collections: Discourse Analysis
 title: Schemata
 tags: []
 subject:
-  - "[[Discourse Analysis]]"
+  - "[[60 Public/Website/Assets/Pages/Discourse Analysis]]"
 formalDefinition: Mental frameworks or background knowledge that help organize and interpret information.
 relatedTerms: []
 pages: []

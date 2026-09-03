@@ -4,7 +4,7 @@ collections: Discourse Analysis
 title: Teacher Talk Time (TTT)
 tags: []
 subject:
-  - "[[Discourse Analysis]]"
+  - "[[60 Public/Website/Assets/Pages/Discourse Analysis]]"
 formalDefinition: The amount of time the teacher spends speaking during a lesson.
 relatedTerms: []
 pages: []

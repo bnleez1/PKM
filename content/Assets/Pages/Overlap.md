@@ -4,7 +4,7 @@ collections: Discourse Analysis
 title: Overlap
 tags: []
 subject:
-  - "[[Discourse Analysis]]"
+  - "[[60 Public/Website/Assets/Pages/Discourse Analysis]]"
 formalDefinition: When two speakers talk at the same time; can be cooperative or competitive.
 relatedTerms: []
 pages: []

@@ -7,7 +7,7 @@ tags:
   - AppliedLinguistics
 date: 2026-08-10T00:00:00.000Z -> 2026-08-16T00:00:00.000Z
 status: Ready
-subject: "[[PKM/02 Projects/Discourse Analysis]]"
+subject: "[[02 Projects/Discourse Analysis]]"
 chapterWeek: 1
 coverImage: "[[Ciudad-Universitaria-62-2048x1365]]"
 unit: "[Discourse Analysis Unit I: Foundations: Text, Context, and History](Discourse%20Analysis%20Unit%20I%20Foundations%20Text,%20Context,%20and%20History.md)"

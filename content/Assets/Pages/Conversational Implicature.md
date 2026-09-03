@@ -4,7 +4,7 @@ collections: Discourse Analysis
 title: Conversational Implicature
 tags: []
 subject:
-  - "[[Discourse Analysis]]"
+  - "[[60 Public/Website/Assets/Pages/Discourse Analysis]]"
 formalDefinition: The hidden meaning deduced when a speaker flouts a maxim.
 relatedTerms: []
 pages: []

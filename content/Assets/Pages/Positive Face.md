@@ -4,7 +4,7 @@ collections: Discourse Analysis
 title: Positive Face
 tags: []
 subject:
-  - "[[Discourse Analysis]]"
+  - "[[60 Public/Website/Assets/Pages/Discourse Analysis]]"
 formalDefinition: The desire to be liked, appreciated, and approved of by others.
 relatedTerms: []
 pages: []

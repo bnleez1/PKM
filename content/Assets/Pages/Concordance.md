@@ -4,7 +4,7 @@ collections: Discourse Analysis
 title: Concordance
 tags: []
 subject:
-  - "[[Discourse Analysis]]"
+  - "[[60 Public/Website/Assets/Pages/Discourse Analysis]]"
 formalDefinition: A list of examples of a specific word or phrase in its surrounding context, drawn from a corpus.
 relatedTerms: []
 pages: []

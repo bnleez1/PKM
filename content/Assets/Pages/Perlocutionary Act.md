@@ -4,7 +4,7 @@ collections: Discourse Analysis
 title: Perlocutionary Act
 tags: []
 subject:
-  - "[[Discourse Analysis]]"
+  - "[[60 Public/Website/Assets/Pages/Discourse Analysis]]"
 formalDefinition: The actual effect or outcome an utterance has on the listener.
 relatedTerms: []
 pages: []

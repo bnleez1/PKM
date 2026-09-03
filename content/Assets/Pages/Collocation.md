@@ -4,7 +4,7 @@ collections: Discourse Analysis
 title: Collocation
 tags: []
 subject:
-  - "[[Discourse Analysis]]"
+  - "[[60 Public/Website/Assets/Pages/Discourse Analysis]]"
 formalDefinition: Words that frequently co-occur naturally in a language (e.g., 'heavy rain', not 'thick rain').
 relatedTerms: []
 pages: []

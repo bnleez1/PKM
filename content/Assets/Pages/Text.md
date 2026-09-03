@@ -4,7 +4,7 @@ collections: Discourse Analysis
 title: Text
 tags: []
 subject:
-  - "[[Discourse Analysis]]"
+  - "[[60 Public/Website/Assets/Pages/Discourse Analysis]]"
 formalDefinition: Any stretch of language, spoken or written, that forms a unified whole.
 relatedTerms: []
 pages: []

@@ -148,7 +148,7 @@ Here are additional tips when searching for a problem to research:
 
 # Searching for a topic
 
-> 💡 Consider the sources and techniques you use to find articles online (refer to [[EdTech Search Strategies]] and [[Situational questions when doing research]].
+> 💡 Consider the sources and techniques you use to find articles online (refer to [[60 Public/Website/Assets/Pages/EdTech Search Strategies]] and [[Situational questions when doing research]].
 
 [Untitled](https://ia801703.us.archive.org/21/items/search_202101/search.mp4)[Untitled - Notes](../Weblinks/Untitled%20(18).md)
 

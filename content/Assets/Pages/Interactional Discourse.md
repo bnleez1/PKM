@@ -4,7 +4,7 @@ collections: Discourse Analysis
 title: Interactional Discourse
 tags: []
 subject:
-  - "[[Discourse Analysis]]"
+  - "[[60 Public/Website/Assets/Pages/Discourse Analysis]]"
 formalDefinition: Language used primarily to maintain social relationships.
 relatedTerms: []
 pages: []

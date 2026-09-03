@@ -4,7 +4,7 @@ collections: Discourse Analysis
 title: Substitution
 tags: []
 subject:
-  - "[[Discourse Analysis]]"
+  - "[[60 Public/Website/Assets/Pages/Discourse Analysis]]"
 formalDefinition: Replacing a word or phrase with a 'dummy' word (like 'one' or 'do') to avoid repetition.
 relatedTerms: []
 pages: []

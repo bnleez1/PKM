@@ -4,7 +4,7 @@ collections: Discourse Analysis
 title: Repair
 tags: []
 subject:
-  - "[[Discourse Analysis]]"
+  - "[[60 Public/Website/Assets/Pages/Discourse Analysis]]"
 formalDefinition: The process by which speakers correct a mistake or clarify meaning in spoken discourse.
 relatedTerms: []
 pages: []

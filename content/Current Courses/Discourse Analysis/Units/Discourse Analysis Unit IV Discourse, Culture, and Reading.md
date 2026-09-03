@@ -7,7 +7,7 @@ tags:
   - Unit
 date: 2026-11-02T00:00:00.000Z -> 2026-12-06T00:00:00.000Z
 subject:
-  - "[[PKM/02 Projects/Discourse Analysis]]"
+  - "[[02 Projects/Discourse Analysis]]"
 coverImage:
 ---
 

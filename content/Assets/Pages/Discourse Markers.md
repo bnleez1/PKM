@@ -4,7 +4,7 @@ collections: Discourse Analysis
 title: Discourse Markers
 tags: []
 subject:
-  - "[[Discourse Analysis]]"
+  - "[[60 Public/Website/Assets/Pages/Discourse Analysis]]"
 formalDefinition: Words or phrases (e.g., 'well', 'so', 'anyway') that organize and manage the flow of discourse.
 relatedTerms: []
 pages: []

@@ -4,7 +4,7 @@ collections: Discourse Analysis
 title: Ellipsis
 tags: []
 subject:
-  - "[[Discourse Analysis]]"
+  - "[[60 Public/Website/Assets/Pages/Discourse Analysis]]"
 formalDefinition: The omission of words from a sentence that can be inferred from the context.
 relatedTerms: []
 pages: []

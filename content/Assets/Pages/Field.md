@@ -4,7 +4,7 @@ collections: Discourse Analysis
 title: Field
 tags: []
 subject:
-  - "[[Discourse Analysis]]"
+  - "[[60 Public/Website/Assets/Pages/Discourse Analysis]]"
 formalDefinition: In SFL, what the text is about; the topic and the social action taking place.
 relatedTerms: []
 pages: []

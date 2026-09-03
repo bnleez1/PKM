@@ -4,7 +4,7 @@ collections: Discourse Analysis
 title: Cohesion
 tags: []
 subject:
-  - "[[Discourse Analysis]]"
+  - "[[60 Public/Website/Assets/Pages/Discourse Analysis]]"
 formalDefinition: The grammatical and lexical linking within a text or sentence that holds a text together.
 relatedTerms: []
 pages: []

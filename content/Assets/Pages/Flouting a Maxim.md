@@ -4,7 +4,7 @@ collections: Discourse Analysis
 title: Flouting a Maxim
 tags: []
 subject:
-  - "[[Discourse Analysis]]"
+  - "[[60 Public/Website/Assets/Pages/Discourse Analysis]]"
 formalDefinition: Intentionally breaking a conversational rule so the listener infers a hidden meaning (implicature).
 relatedTerms: []
 pages: []

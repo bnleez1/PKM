@@ -4,7 +4,7 @@ collections: Discourse Analysis
 title: Co-text
 tags: []
 subject:
-  - "[[Discourse Analysis]]"
+  - "[[60 Public/Website/Assets/Pages/Discourse Analysis]]"
 formalDefinition: The linguistic environment of a word or phrase; the words surrounding a specific piece of text.
 relatedTerms: []
 pages: []

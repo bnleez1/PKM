@@ -4,7 +4,7 @@ collections: Discourse Analysis
 title: Frames
 tags: []
 subject:
-  - "[[Discourse Analysis]]"
+  - "[[60 Public/Website/Assets/Pages/Discourse Analysis]]"
 formalDefinition: The cognitive structures that define how a situation or topic is understood.
 relatedTerms: []
 pages: []

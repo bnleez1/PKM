@@ -4,7 +4,7 @@ collections: Discourse Analysis
 title: Dialogic Teaching
 tags: []
 subject:
-  - "[[Discourse Analysis]]"
+  - "[[60 Public/Website/Assets/Pages/Discourse Analysis]]"
 formalDefinition: An approach where teacher and students collaboratively construct meaning through extended dialogue.
 relatedTerms: []
 pages: []

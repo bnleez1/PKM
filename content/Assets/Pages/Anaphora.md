@@ -4,7 +4,7 @@ collections: Discourse Analysis
 title: Anaphora
 tags: []
 subject:
-  - "[[Discourse Analysis]]"
+  - "[[60 Public/Website/Assets/Pages/Discourse Analysis]]"
 formalDefinition: A cohesive device where a word (often a pronoun) refers back to a previously mentioned entity.
 relatedTerms: []
 pages: []

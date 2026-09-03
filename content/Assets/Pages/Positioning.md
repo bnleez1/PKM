@@ -4,7 +4,7 @@ collections: Discourse Analysis
 title: Positioning
 tags: []
 subject:
-  - "[[Discourse Analysis]]"
+  - "[[60 Public/Website/Assets/Pages/Discourse Analysis]]"
 formalDefinition: How speakers construct their own identities and the identities of others through talk.
 relatedTerms: []
 pages: []

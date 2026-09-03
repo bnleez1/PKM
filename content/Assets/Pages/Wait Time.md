@@ -4,7 +4,7 @@ collections: Discourse Analysis
 title: Wait Time
 tags: []
 subject:
-  - "[[Discourse Analysis]]"
+  - "[[60 Public/Website/Assets/Pages/Discourse Analysis]]"
 formalDefinition: The pause a teacher takes after asking a question before speaking again.
 relatedTerms: []
 pages: []

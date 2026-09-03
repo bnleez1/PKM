@@ -2,7 +2,7 @@
 type: Lecture
 title: "Defining Discourse Analysis: How the Focus Has Shifted Over Time"
 tags: []
-course: "[[PKM/02 Projects/Discourse Analysis]]"
+course: "[[02 Projects/Discourse Analysis]]"
 weeklyModule:
   - "[DA - Module 1: Entering the World of Discourse](../Modules/DA%20-%20Module%201%20Entering%20the%20World%20of%20Discourse.md)"
 duration: "20"

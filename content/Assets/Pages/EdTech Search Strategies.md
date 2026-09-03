@@ -15,7 +15,7 @@ coverImage: null
 
 [Untitled](https://ia801703.us.archive.org/21/items/search_202101/search.mp4)[Untitled - Notes](../Weblinks/Untitled%20(28).md)
 
-[EdTech Search Strategies](https://www.youtube.com/watch?v=Q6foE57PCjI)[[EdTech Search Strategies|EdTech Search Strategies - Notes]]
+[EdTech Search Strategies](https://www.youtube.com/watch?v=Q6foE57PCjI)[[60 Public/Website/Assets/Pages/EdTech Search Strategies|EdTech Search Strategies - Notes]]
 
 # Boolean search
 

@@ -8,7 +8,7 @@ tags:
   - AppliedLinguistics
 date: 2026-08-31T00:00:00.000Z -> 2026-09-27T00:00:00.000Z
 subject:
-  - "[[PKM/02 Projects/Discourse Analysis]]"
+  - "[[02 Projects/Discourse Analysis]]"
 coverImage:
 ---
 

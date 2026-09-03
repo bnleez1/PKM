@@ -4,7 +4,7 @@ collections: Discourse Analysis
 title: Deixis
 tags: []
 subject:
-  - "[[Discourse Analysis]]"
+  - "[[60 Public/Website/Assets/Pages/Discourse Analysis]]"
 formalDefinition: Words whose meaning depends on the physical or temporal context of the speaker (e.g., here, now, this).
 relatedTerms: []
 pages: []

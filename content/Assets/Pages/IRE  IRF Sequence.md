@@ -4,7 +4,7 @@ collections: Discourse Analysis
 title: IRE / IRF Sequence
 tags: []
 subject:
-  - "[[Discourse Analysis]]"
+  - "[[60 Public/Website/Assets/Pages/Discourse Analysis]]"
 formalDefinition: "Initiation-Response-Evaluation/Feedback: A common, rigid pattern of classroom talk."
 relatedTerms: []
 pages: []

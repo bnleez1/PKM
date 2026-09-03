@@ -7,7 +7,7 @@ tags:
   - DiscourseAnalysis
 date: 2026-08-24T00:00:00.000Z -> 2026-08-30T00:00:00.000Z
 status: InBox
-subject: "[[PKM/02 Projects/Discourse Analysis]]"
+subject: "[[02 Projects/Discourse Analysis]]"
 chapterWeek: 3
 coverImage: "[[Ciudad-Universitaria-62-2048x1365]]"
 unit: "[Discourse Analysis Unit II: Making Meaning in Text](Discourse%20Analysis%20Unit%20II%20Making%20Meaning%20in%20Text.md)"

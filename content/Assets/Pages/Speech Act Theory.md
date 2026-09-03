@@ -4,7 +4,7 @@ collections: Discourse Analysis
 title: Speech Act Theory
 tags: []
 subject:
-  - "[[Discourse Analysis]]"
+  - "[[60 Public/Website/Assets/Pages/Discourse Analysis]]"
 formalDefinition: The idea that speaking is acting; language is used to perform actions (apologizing, promising, ordering).
 relatedTerms: []
 pages: []

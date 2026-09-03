@@ -4,7 +4,7 @@ collections: Discourse Analysis
 title: Coherence
 tags: []
 subject:
-  - "[[Discourse Analysis]]"
+  - "[[60 Public/Website/Assets/Pages/Discourse Analysis]]"
 formalDefinition: The underlying logical connectedness of a text, making it meaningful to the reader or listener.
 relatedTerms: []
 pages: []

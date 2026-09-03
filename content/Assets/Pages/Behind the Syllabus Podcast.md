@@ -14,7 +14,7 @@ coverImage: '[Untitled](../Images/Untitled%20(101).md)'
 # Behind the Syllabus Podcast
 
 
-This educational podcast focuses on the connections between formal education in the field of English language teacher training, self-directed learning, and personal learning networks (PLNs). Episodes explore how I weave together different methodologies with the literature and how students can take ownership of their own learning networks in a multi-modal, process-oriented, and personalized way. -[Benjamin L. Stewart, Phd](Benjamin%20L%20Stewart,%20Phd.md).
+This educational podcast focuses on the connections between formal education in the field of English language teacher training, self-directed learning, and personal learning networks (PLNs). Episodes explore how I weave together different methodologies with the literature and how students can take ownership of their own learning networks in a multi-modal, process-oriented, and personalized way. -[Benjamin L. Stewart, Phd](60%20Public/Website/Assets/Pages/Benjamin%20L%20Stewart,%20Phd.md).
 
 ## Podcast Playlist (YouTube)
 

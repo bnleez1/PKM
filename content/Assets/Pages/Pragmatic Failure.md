@@ -4,7 +4,7 @@ collections: Discourse Analysis
 title: Pragmatic Failure
 tags: []
 subject:
-  - "[[Discourse Analysis]]"
+  - "[[60 Public/Website/Assets/Pages/Discourse Analysis]]"
 formalDefinition: A communication breakdown caused by a mismatch in cultural or contextual expectations.
 relatedTerms: []
 pages: []

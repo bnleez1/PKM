@@ -4,7 +4,7 @@ collections: Discourse Analysis
 title: Maxim of Relation
 tags: []
 subject:
-  - "[[Discourse Analysis]]"
+  - "[[60 Public/Website/Assets/Pages/Discourse Analysis]]"
 formalDefinition: The conversational rule to be relevant to the topic at hand.
 relatedTerms: []
 pages: []

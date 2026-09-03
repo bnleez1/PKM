@@ -4,7 +4,7 @@ collections: Discourse Analysis
 title: Systemic Functional Linguistics (SFL)
 tags: []
 subject:
-  - "[[Discourse Analysis]]"
+  - "[[60 Public/Website/Assets/Pages/Discourse Analysis]]"
 formalDefinition: Halliday’s model viewing language as a network of interconnected choices for making meaning.
 relatedTerms: []
 pages: []

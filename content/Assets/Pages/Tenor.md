@@ -4,7 +4,7 @@ collections: Discourse Analysis
 title: Tenor
 tags: []
 subject:
-  - "[[Discourse Analysis]]"
+  - "[[60 Public/Website/Assets/Pages/Discourse Analysis]]"
 formalDefinition: In SFL, the relationship between the participants, including power and distance.
 relatedTerms: []
 pages: []

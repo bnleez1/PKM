@@ -4,7 +4,7 @@ collections: Discourse Analysis
 title: Display Questions
 tags: []
 subject:
-  - "[[Discourse Analysis]]"
+  - "[[60 Public/Website/Assets/Pages/Discourse Analysis]]"
 formalDefinition: Questions the teacher asks where the answer is already known, used to check knowledge.
 relatedTerms: []
 pages: []

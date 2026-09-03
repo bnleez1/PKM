@@ -4,7 +4,7 @@ collections: Discourse Analysis
 title: Adjacency Pairs
 tags: []
 subject:
-  - "[[Discourse Analysis]]"
+  - "[[60 Public/Website/Assets/Pages/Discourse Analysis]]"
 formalDefinition: Paired utterances produced by two different speakers (e.g., greeting-greeting, question-answer).
 relatedTerms: []
 pages: []
