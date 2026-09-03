@@ -107,7 +107,7 @@ Today's outcome: Handout (study habits)
 
 ## 🗓️ Wednesday
 
-## [!note]-🗓️ Thursday
+## >[!note]-🗓️ Thursday
 [[05 knowledge/Notes/030920260700|Private Note]]
 
 ### Prelistening: Study Habit Corners
