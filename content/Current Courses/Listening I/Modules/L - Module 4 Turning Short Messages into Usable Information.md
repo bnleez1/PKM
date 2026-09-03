@@ -107,126 +107,20 @@ Today's outcome: Handout (study habits)
 
 ## 🗓️ Wednesday
 
-> [!NOTE]
-> ## 🗓️ Thursday
-> [[05 knowledge/Notes/030920260700|Private Note]]
-> ### Prelistening: Study Habit Corners
-> Early morning
->  Between classes
->  Evening
->  Late at night
+> [!todo] Thursday
+> afñlasdjkf
+> asdfasd
+> fasdf
+> asdf
+> asdf
+> asdfasd
+> fasd
+> fasdf
+> asdf
+> asdf
 
-When do you study the best?
-I usually study___ because___.
-
-### Prelistening: Prediction Race
-A Student's Study Habits
-In pairs predict five things you might hear in the audio. Don't predict sentences; predict information.
-
-| Category       | Our prediction........................... |
-| -------------- | ----------------------------------------- |
-| Time           |                                           |
-| Place          |                                           |
-| Study activity |                                           |
-| Distraction    |                                           |
-| Strategy       |                                           |
-
-### First section
-What's the big picture?
-Don't write sentences. Listen for one thing: What kind of study routine does this person have? Write three words and check with a partner.
-
-### Second Section
-
-Listen ONLY for words that answer **when** or **how often**.
-
-| When | How often |
-| ---- | --------- |
-|      |           |
-### Third section
-You get **one point for every time or frequency expression that both partners heard**.
-Examples might include:
-
-- every morning
-- after class
-- usually
-- three times a week
-- for an hour
-
-### Fourth Section
-Get in groups of four and assign each the following roles:
-**Student A — Time Hunter**  
-**Student B — Place Hunter**  
-**Student C — Activity Hunter**  
-**Student D — Duration Hunter**
-
-After listening: You have 60 seconds. Teach your information to your group.
-The group combines the information:
-
-> The student studies______ ______  
-> at/in_____ ______  
-> for_____ ______  
-> before/after_____.
-
-### Fifth section - Human Timeline
-This time, listen for **order**.
-
-FIRST → THEN → AFTER THAT → FINALLY
-
-Listen... and then stand in line, each representing one action. For example, review notes → read textbook → answer questions → check answers 
-
-What word from the recording helped you know the order?
-
-
-### Sixth Section - Why Does the Student Do That?
-
-Listen for one or more chains. For example: HABIT → REASON → RESULT
-For example:
-
-> turns off phone  
-> ↓  
-> because notifications are distracting  
-> ↓  
-> concentrates better
-
-Reconstruct one cause-effect chain.
-
-Which words told you the reason?
-
-### Seventh Section - Does, Prefers, or Recommends?
-
-|DOES|PREFERS|RECOMMENDS|
-|---|---|---|
-||||
-These are not the same thing.
-
-### Final Section - No Audio
-
-- When?
-- Where?
-- How often?
-- How long?
-- What study strategies?
-- What distractions?
-- Why?
-
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-2.
-
-
-
-1. 
+# Thursday
+[[05 knowledge/Notes/030920260700|Private Note]]
 
 
 
