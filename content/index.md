@@ -2,6 +2,7 @@
 title: Benjamin L. Stewart's Language Teaching Commons
 description: Making teaching and learning more transparent!
 publish: true
+banner: https://wallup.net/wp-content/uploads/2019/10/336000-landscape-nature-sunset-mountains-river-reflection.jpg
 ---
 ---
 Welcome to Language Teaching Commons, making teaching and learning more transparent!
