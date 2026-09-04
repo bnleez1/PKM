@@ -20,6 +20,7 @@ semester: Fall 2026
 relations: []
 note:
   - "[[DA Module 4 Note]]"
+banner: https://wallpaperaccess.com/full/256070.jpg
 ---
 
 # DA - Module 4: Theme, Rheme, and the Flow of Information
@@ -63,7 +64,7 @@ Revise a short text to improve information flow and justify the changes pedagogi
 ## Key concepts and vocabulary
 
 | **Term**                 | **Working definition**                                                                                            |
-| :----------------------- | :---------------------------------------------------------------------------------------------------------------- |
+|:------------------------ |:----------------------------------------------------------------------------------------------------------------- |
 | **Theme**                | The point of departure that orients a clause within its discourse.                                                |
 | **Rheme**                | The portion of the clause in which the theme is developed.                                                        |
 | **Topical theme**        | The first experiential element in the clause, often the participant, process, or circumstance being foregrounded. |
@@ -123,12 +124,11 @@ After revision, compare the two diagrams and write a rationale for each change. 
 
             ### Answer Key
 
-            | Type                         | Examples                                                                                                         | Relationship                                                          |
-            | :--------------------------- | :--------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------- |
-            | **Repetition**               | *library → library → library*; *students → students → students*                                                  | The same lexical item is repeated to maintain the topic.              |
-            | **Synonymy / near-synonymy** | *students → learners*                                                                                            | Different words refer to approximately the same group.                |
-            | **Antonymy**                 | *quiet ↔ noisy*                                                                                                  | The words express contrasting meanings.                               |
-            | **Hypernymy**                | *resources*; *furniture*                                                                                         | These are broader categories.                                         |
+            | Type | Examples | Relationship |
+            |--- | ---|---|
+            | **Repetition** | *library → library → library*; *students → students → students* | The same lexical item is repeated to maintain the topic. | **Synonymy / near-synonymy** | *students → learners* | Different words refer to approximately the same group. |
+            | **Antonymy** | *quiet ↔ noisy*  | The words express contrasting meanings. |
+            | **Hypernymy** | *resources*; *furniture*                                                                                         | These are broader categories.                                         |
             | **Hyponymy**                 | *books, journals, dictionaries, databases* → **resources**; *desks, tables, chairs, bookshelves* → **furniture** | These are specific members of broader categories.                     |
             | **Collocation**              | *borrow books, take notes, conduct research, study for exams*                                                    | These words commonly occur together in the context of academic study. |
 
@@ -139,7 +139,7 @@ After revision, compare the two diagrams and write a rationale for each change. 
     Here are three clear examples of each type of lexical cohesion:
 
     | Type                            | Example 1                                                                                                                     | Example 2                                                                                | Example 3                                                                                        |
-    | :------------------------------ | :---------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------- |
+    |:------------------------------- |:----------------------------------------------------------------------------------------------------------------------------- |:---------------------------------------------------------------------------------------- |:------------------------------------------------------------------------------------------------ |
     | **Repetition**                  | The **student** asked a question. The **student** wanted clarification.                                                       | The **book** was expensive, but the **book** was useful.                                 | **Technology** is changing education. **Technology** also affects communication.                 |
     | **Synonymy**                    | The **teacher** entered the room. The **instructor** began the lesson.                                                        | The task was **difficult**. The exercise was quite **challenging**.                      | She was **happy** with the result. Her parents were also **pleased**.                            |
     | **Antonymy**                    | Some students found the test **easy**, while others found it **difficult**.                                                   | Attendance **increased** in September but **decreased** in October.                      | The first text is very **formal**, while the second is more **informal**.                        |
@@ -165,14 +165,14 @@ After revision, compare the two diagrams and write a rationale for each change. 
 
             Here is the paragraph divided into **Theme** and **Rheme** at the clause level:
 
-            | #  | Theme                      | Rheme                                                                         |
-            | :- | :------------------------- | :---------------------------------------------------------------------------- |
-            | 1  | **The university library** | *is one of the busiest places on campus.*                                     |
-            | 2  | **The library**            | *provides quiet study areas, computers, and group rooms for students.*        |
-            | 3  | **During exam week**       | *the library stays open until midnight so students have more time to study.*  |
-            | 4  | **A new tutoring center**  | *has also opened beside the main entrance.*                                   |
-            | 5  | **In this center**         | *students can receive help with writing, mathematics, and study skills.*      |
-            | 6  | **These services**         | *make the library an important place for students who need academic support.* |
+            | #   | Theme                      | Rheme                                                                         |
+            |:--- |:-------------------------- |:----------------------------------------------------------------------------- |
+            | 1   | **The university library** | *is one of the busiest places on campus.*                                     |
+            | 2   | **The library**            | *provides quiet study areas, computers, and group rooms for students.*        |
+            | 3   | **During exam week**       | *the library stays open until midnight so students have more time to study.*  |
+            | 4   | **A new tutoring center**  | *has also opened beside the main entrance.*                                   |
+            | 5   | **In this center**         | *students can receive help with writing, mathematics, and study skills.*      |
+            | 6   | **These services**         | *make the library an important place for students who need academic support.* |
 
     - Basic Theme–Rheme Structure
 

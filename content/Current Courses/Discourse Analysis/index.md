@@ -10,23 +10,12 @@ This page provides access to weekly learning materials, assignments, activities,
 
 ## Weekly Modules
 
-- [[Week 01|Week 1]]
-- [[Week 02|Week 2]]
-- [[Week 03|Week 3]]
-- [[Week 04|Week 4]]
-- [[Week 05|Week 5]]
-- [[Week 06|Week 6]]
-- [[Week 07|Week 7]]
-- [[Week 08|Week 8]]
-- [[Week 09|Week 9]]
-- [[Week 10|Week 10]]
-- [[Week 11|Week 11]]
-- [[Week 12|Week 12]]
-- [[Week 13|Week 13]]
-- [[Week 14|Week 14]]
-- [[Week 15|Week 15]]
-- [[Week 16|Week 16]]
-
+- [[DA - Module 1 Entering the World of Discourse]]
+- [[DA - Module 2 Speaking, Writing, and Communicative Purpose]]
+- [[DA - Module 3 How Texts Hold Together]]
+- [[DA - Module 4 Theme, Rheme, and the Flow of Information]]
+- [[DA - Chapter 5 Time, Viewpoint, and Narrative Movement]]
+- 
 ## Assignments
 
 Course assignments and instructions will be posted here as they become available.

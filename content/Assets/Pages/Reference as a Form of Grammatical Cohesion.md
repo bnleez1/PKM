@@ -9,7 +9,6 @@ lastUpdated: '2026-08-28T12:17:34.611Z'
 tags: [DiscourseAnalysis]
 coverImage: '[Untitled](../Images/Untitled%20(8).md)'
 ---
-
 # Reference as a Form of Grammatical Cohesion
 
 # Reference as a Form of Grammatical Cohesion

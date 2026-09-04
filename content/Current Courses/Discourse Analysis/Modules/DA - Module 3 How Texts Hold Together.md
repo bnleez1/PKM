@@ -21,17 +21,13 @@ relations: []
 note:
   - "[[DA Chapter 3 Note]]"
 ---
-
 # DA - Module 3: How Texts Hold Together
-
 
 ⚡️ Grammatical cohesion, lexical chains, and the construction of continuity
 
 > Readers and listeners usually experience a text as connected rather than as a random series of sentences. That connectedness is partly created through visible linguistic ties: pronouns refer back to participants, conjunctions signal relations, repeated or related words sustain a topic, and omitted material can be recovered from the surrounding discourse. Yet formal links do not guarantee that a text makes sense. Cohesion concerns the linguistic resources that connect parts of a text; coherence concerns the meaningful whole constructed by producers and interpreters. This week introduces major grammatical and lexical cohesive resources and asks how they function across genres. You will annotate authentic texts, build lexical-chain maps, and evaluate when cohesion supports clarity, when it creates ambiguity, and when a coherent interpretation depends more on shared knowledge than on explicit wording.
 
-
 ## Essential understanding(s)
-
 
 How do grammatical and lexical choices create continuity across extended discourse?
 
@@ -47,7 +43,6 @@ How do repetition, synonymy, superordination, and collocation form lexical chain
 When does a cohesive device clarify relationships, and when does it create ambiguity or unnecessary repetition?
 
 How can teachers help learners use cohesion as a meaning-making resource rather than a connector checklist?
-
 ## Learning outcomes
 
 Identify and classify grammatical cohesive ties in authentic written and spoken texts.
@@ -59,7 +54,6 @@ Distinguish cohesion from coherence and explain how contextual knowledge contrib
 Evaluate the effectiveness and appropriateness of cohesive choices across genres.
 
 Design a brief noticing or revision activity for ELT learners focused on connected discourse.
-
 ## Key concepts and vocabulary
 
 | **Term**             | **Working definition**                                                                         |
@@ -187,7 +181,7 @@ Complete [[Discourse Analysis Unit I Quiz]].
 - Cohesion
 
     Here are clear examples of the four main types of **grammatical cohesion**. Your Chapter 3 materials define these as reference, substitution, ellipsis, and conjunction. Celce-Murcia and Olshtain likewise identify these four as major grammatical cohesive ties.
-
+	
     | Type             | Example                                                                            | How cohesion works                                                                                                                            |
     | :--------------- | :--------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------- |
     | **Reference**    | *Maria submitted the assignment.* ***She*** *uploaded it this morning.*            | **She** refers back to **Maria**. The reader connects the two sentences through the pronoun.                                                  |
