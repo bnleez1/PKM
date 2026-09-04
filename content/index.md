@@ -21,7 +21,6 @@ Use the links below to access your course.
 - [[60 Public/Website/Current Courses/Discourse Analysis/index|Discourse Analysis]]
 - [[60 Public/Website/Current Courses/Listening I/index|Listening I]]
 - [[60 Public/Website/Current Courses/Writing I/index|Writing I]]
-
 ## Course Archive
 - [[60 Public/Website/99 Course Archive/Grammar in Context II/index|Grammar in Context II]]
 - [[60 Public/Website/99 Course Archive/Thesis Seminar/index|Thesis Seminar]]

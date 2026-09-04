@@ -2,7 +2,9 @@
 title: Academic Writing
 description: Course materials, weekly modules, assignments, and resources for Academic Writing.
 ---
-# Academic Writing
+# Writing I
+
+<iframe title="Welcome message and introduction to platforms for the new semester!" src="https://www.youtube.com/embed/erGu5SHRuqM?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
 
 Welcome to the **Academic Writing** course page.
 
@@ -10,22 +12,7 @@ This page provides access to weekly learning materials, assignments, activities,
 
 ## Weekly Modules
 
-- [[Week 01|Week 1]]
-- [[Week 02|Week 2]]
-- [[Week 03|Week 3]]
-- [[Week 04|Week 4]]
-- [[Week 05|Week 5]]
-- [[Week 06|Week 6]]
-- [[Week 07|Week 7]]
-- [[Week 08|Week 8]]
-- [[Week 09|Week 9]]
-- [[Week 10|Week 10]]
-- [[Week 11|Week 11]]
-- [[Week 12|Week 12]]
-- [[Week 13|Week 13]]
-- [[Week 14|Week 14]]
-- [[Week 15|Week 15]]
-- [[Week 16|Week 16]]
+
 
 ## Assignments
 
