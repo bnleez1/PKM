@@ -107,6 +107,12 @@ Today's outcome: Handout (study habits)
 
 > [!note]- 🗓️ Monday
 > Time after Time (Cyndi Lauper) activity and drawing.
+> [YouTube Music](https://music.youtube.com/watch?v=4A5mE5exvYk&si=-UN0Il4SR6bKrpLV)
+> [YouTube Music](https://music.youtube.com/watch?v=biml2tnoSmc&si=VxIpSRp3N9HJeFee)
+> [YouTube Music](https://music.youtube.com/watch?v=7wBgcalM4c4&si=WVJLC68D5KoaQtKu)
+
+
+
 
 > [!note]- 🗓️ Tuesday
 > Handout 1
@@ -121,3 +127,89 @@ Today's outcome: Handout (study habits)
 > [!note]- 🗓️ Friday
 > 
 >
+
+
+## 🗓️ [[Date/2026-08-31]]
+
+---
+
+
+[YouTube Music](https://music.youtube.com/watch?v=4A5mE5exvYk&si=-UN0Il4SR6bKrpLV)
+
+---
+
+
+
+---
+
+Today's outcome: Drawing.
+
+Time After Time by [Cyndi Lauper](https://duckduckgo.com/?q=Cindy+lauper&t=vivaldi&ia=images&iax=images)- Emotion Words: _hopeful, worried, reflective_.
+
+- First Listen (version 1)aq
+    
+    1. What is the song’s central message?
+        
+    2. What impression do you get?
+        
+- Second Listen (version 1)
+    
+    1. Record images, actions, or promises you recognize.
+        
+    2. Post question marks for uncertain information.
+        
+    3. Briefly compare with a partner.
+        
+- Third Listen (versions 2 & 3)
+    
+    Compare versions.
+    
+    |Version|Mood: 1–2 words|Two details I understood|Understanding: 1–5|What helped or hindered?|
+    |---|---|---|---|---|
+    |A|||||
+    |B|||||
+    |C|||||
+    
+- Build a meaning map (music in background)
+    
+    1. In groups of three or four, create a poster with the main message in the center and branches for **images/actions, promises, and feelings**.
+        
+    2. Mark details directly supported by the audios and interpretations.
+        
+    3. During a short gallery walk, classmates leave one question on another group’s poster.
+        
+- Replay Detectives
+    
+    1. Each group chooses one uncertain or challenged detail.
+        
+    2. Before replay, students state exactly what they need to hear.
+        
+    3. Groups revise their posters in another color and explain what changed.
+        
+- Votes and Reasons
+    
+    1. Which version was easier to understand? Why?
+        
+    2. Which version do you like the most? Why?
+        
+
+## 🗓️ [[Date/2026-09-01]]
+
+Today's outcome: Handout (study habits)
+
+1. Download [Module_4_Study_Habits_Student_Handout.docx](https://eduuaa.sharepoint.com/:w:/s/ListeningI2026/IQDeR6ZknCiWSJMDotDCbnm3Ab8ZeQkrp2gGPJ9UGpXAmfo?e=nAmxj2) to your phone, tablet, or laptop.
+    
+2. Complete handout in class.
+    
+
+## 🗓️ [[Date/2026-09-02]]
+
+Listening handout 2
+
+[https://u.pcloud.link/publink/show?code=XZsviFJZkSf6CcOxP3LMSMo52xdgGya5iEYV](https://u.pcloud.link/publink/show?code=XZsviFJZkSf6CcOxP3LMSMo52xdgGya5iEYV)
+
+## 🗓️ [[Date/2026-09-03]]
+Listening activity
+
+## 🗓️ [[Date/2026-09-04]]
+Turn in task for week 4; turn in pending assignments.
