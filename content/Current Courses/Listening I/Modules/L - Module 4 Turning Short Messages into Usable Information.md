@@ -95,6 +95,11 @@ After listening, organization is not a decorative final step. It is a way to tes
 
 When comparing answers, explain the evidence that supports your organization. Evidence may be a frequency expression, a time phrase, a sequence marker, a reason, or a direct statement of preference. Keep the evidence connected to the question. Recognizing many words is useful, but comprehension means using those words to build a coherent interpretation.
 ## 🗓️ Monday
+
+ Time after Time (Cyndi Lauper) activity and drawing.
+> [YouTube Music](https://music.youtube.com/watch?v=4A5mE5exvYk&si=-UN0Il4SR6bKrpLV)
+> [YouTube Music](https://music.youtube.com/watch?v=biml2tnoSmc&si=VxIpSRp3N9HJeFee)
+> [YouTube Music](https://music.youtube.com/watch?v=7wBgcalM4c4&si=WVJLC68D5KoaQtKu)
 ## 🗓️ Tuesday
 
 Today's outcome: Handout (study habits)
@@ -103,51 +108,10 @@ Today's outcome: Handout (study habits)
 
 2. Complete handout in class.
 
-## 🗓️ Wednesday
-
-> [!note]- 🗓️ Monday
-> Time after Time (Cyndi Lauper) activity and drawing.
-> [YouTube Music](https://music.youtube.com/watch?v=4A5mE5exvYk&si=-UN0Il4SR6bKrpLV)
-> [YouTube Music](https://music.youtube.com/watch?v=biml2tnoSmc&si=VxIpSRp3N9HJeFee)
-> [YouTube Music](https://music.youtube.com/watch?v=7wBgcalM4c4&si=WVJLC68D5KoaQtKu)
-> [!summary] Summary
-> > Testing
-
-> [!note]- 🗓️ Tuesday
-> 
-Listening handout 1
-
-[https://u.pcloud.link/publink/show?code=XZsviFJZkSf6CcOxP3LMSMo52xdgGya5iEYV](https://u.pcloud.link/publink/show?code=XZsviFJZkSf6CcOxP3LMSMo52xdgGya5iEYV)
-
-> [!note]- 🗓️ Wednesday
-> Handout 2
-
-> [!note]- 🗓️ Thursday
-> Notes from listening activity.
->
-
-> [!note]- 🗓️ Friday
-> 
->
-
-  
-
-## 🗓️ [[Date/2026-09-02]]
-
-Listening handout 2
-
-[https://u.pcloud.link/publink/show?code=XZsviFJZkSf6CcOxP3LMSMo52xdgGya5iEYV](https://u.pcloud.link/publink/show?code=XZsviFJZkSf6CcOxP3LMSMo52xdgGya5iEYV)
-
-## 🗓️ [[Date/2026-09-03]]
-Listening activity
-
-## 🗓️ [[Date/2026-09-04]]
-Turn in task for week 4; turn in pending assignments.
-
 <details>
-<summary>Week 4 Activities</summary>
+<summary>Wednesday</summary>
 
-Content here...
+Complete task for week four and any pending tasks from week 3 and 4.
 
 <details>
 <summary>Activity 1</summary>
@@ -164,3 +128,53 @@ Details for Activity 2...
 </details>
 
 </details>
+## 🗓️ Wednesday
+
+Handout #2 - Study habits
+
+[https://u.pcloud.link/publink/show?code=XZsviFJZkSf6CcOxP3LMSMo52xdgGya5iEYV](https://u.pcloud.link/publink/show?code=XZsviFJZkSf6CcOxP3LMSMo52xdgGya5iEYV)
+
+## Thursday
+
+Listening Activity
+
+
+## Friday
+<details>
+<summary><h2>Friday</h2></summary>
+
+Complete task for week four and any pending tasks from week 3 and 4.
+
+<details>
+<summary>Activity 1</summary>
+
+Details for Activity 1...
+
+</details>
+
+<details>
+<summary>Activity 2</summary>
+
+Details for Activity 2...
+
+</details>
+
+</details>
+
+
+
+
+
+  
+
+## 🗓️ [[Date/2026-09-02]]
+
+Listening handout 2
+
+[https://u.pcloud.link/publink/show?code=XZsviFJZkSf6CcOxP3LMSMo52xdgGya5iEYV](https://u.pcloud.link/publink/show?code=XZsviFJZkSf6CcOxP3LMSMo52xdgGya5iEYV)
+
+## 🗓️ [[Date/2026-09-03]]
+Listening activity
+
+## 🗓️ [[Date/2026-09-04]]
+Turn in task for week 4; turn in pending assignments.
