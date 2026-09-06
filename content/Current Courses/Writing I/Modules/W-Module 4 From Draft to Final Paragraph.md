@@ -12,7 +12,7 @@ chapterWeek:
 coverImage: "[[Ciudad-Universitaria-62-2048x1365]]"
 unit: "[Writing I Unit I: Paragraph Foundations](Writing%20I%20Unit%20I%20Paragraph%20Foundations.md)"
 prior: "[W-Module 3: Planning a Paragraph Before Writing](W-Module%203%20Planning%20a%20Paragraph%20Before%20Writing.md)"
-next: "[W-Chapter 5: Telling a Clear Story About Study and Leisure](W-Chapter%205%20Telling%20a%20Clear%20Story%20About%20Study%20and%20Leisure.md)"
+next: "[W-Chapter 5: Telling a Clear Story About Study and Leisure](W-Module%205%20Telling%20a%20Clear%20Story%20About%20Study%20and%20Leisure.md)"
 reading:
 bookTitle: From Draft to Final Paragraph
 studentDeliverableS: []
@@ -21,7 +21,6 @@ relations: []
 note:
   - "[[Writing I Module 4 Note]]"
 ---
-
 # W-Module 4: From Draft to Final Paragraph - Testing Sept 5
 
 
