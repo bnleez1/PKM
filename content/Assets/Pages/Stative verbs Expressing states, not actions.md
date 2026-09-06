@@ -1,14 +1,15 @@
 ---
-type: 'Page'
-collections: 'Public Pages'
-title: 'Stative verbs: Expressing states, not actions'
-aliases: null
-description: null
+type: Page
+collections: Public Pages
+title: "Stative verbs: Expressing states, not actions"
+aliases:
+description:
 icon: 🔰
-createdAt: '2025-01-02T19:05:25.579Z'
-lastUpdated: '2026-06-28T12:56:11.710Z'
-tags: [GrammarSyntax]
-coverImage: '[Untitled](../Images/Untitled%20(21).md)'
+createdAt: 2025-01-02T19:05:25.579Z
+lastUpdated: 2026-06-28T12:56:11.710Z
+tags:
+  - GrammarSyntax
+coverImage: "[Untitled](../Images/Untitled%20(21).md)"
 ---
 
 # Stative verbs: Expressing states, not actions
@@ -134,4 +135,3 @@ References
 [2] [Dynamic Verbs: Verbs Can be Both Stative and Dynamic Verbs](https://7esl.com/stative-and-dynamic-verbs/)
 
 [3] [Stative vs dynamic verbs (or non-action vs action verbs)](https://test-english.com/grammar-points/a2/stative-vs-dynamic-verbs-or-non-action-vs-action-verbs/)
-

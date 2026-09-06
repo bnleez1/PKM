@@ -1,14 +1,16 @@
 ---
-type: 'Page'
-collections: 'Public Pages'
-title: 'Streamlining Development: Transitioning to Google AI Studio Gemini API Keys'
-aliases: null
-description: null
+type: Page
+collections: Public Pages
+title: "Streamlining Development: Transitioning to Google AI Studio Gemini API Keys"
+aliases:
+description:
 icon: ⚡️
-createdAt: '2026-06-25T12:49:25.956Z'
-lastUpdated: '2026-06-28T12:56:02.564Z'
-tags: [Google, ApiKeys]
-coverImage: '[Untitled](../Images/Untitled%20(223).md)'
+createdAt: 2026-06-25T12:49:25.956Z
+lastUpdated: 2026-06-28T12:56:02.564Z
+tags:
+  - Google
+  - ApiKeys
+coverImage: "[Untitled](../Images/Untitled%20(223).md)"
 ---
 
 # Streamlining Development: Transitioning to Google AI Studio Gemini API Keys
@@ -84,4 +86,3 @@ If you are currently using legacy keys, you should prioritize migrating to the n
 - **Project Linking:** Associating your keys with Google Cloud projects improves security and compliance, which is essential for enterprise-grade applications.
 
 By making this switch, you will be better positioned to leverage the full power of Google’s most advanced AI models while benefiting from a more mature and integrated developer platform.
-

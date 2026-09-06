@@ -4,9 +4,7 @@ description: Making teaching and learning more transparent!
 publish: true
 banner: https://wallup.net/wp-content/uploads/2019/10/336000-landscape-nature-sunset-mountains-river-reflection.jpg
 ---
----
-Welcome to Language Teaching Commons, making teaching and learning more transparent!
----
+### ***Welcome to Language Teaching Commons, making teaching and learning more transparent!***
 
 # Course Resources
 
@@ -22,11 +20,11 @@ Use the links below to access your course.
 - [[60 Public/Website/Current Courses/Discourse Analysis/index|Discourse Analysis]]
 - [[60 Public/Website/Current Courses/Listening I/index|Listening I]]
 - [[60 Public/Website/Current Courses/Writing I/index|Writing I]]
-## Course Archive
-- [[60 Public/Website/99 Course Archive/Grammar in Context II/index|Grammar in Context II]]
-- [[60 Public/Website/99 Course Archive/Thesis Seminar/index|Thesis Seminar]]
-- [[60 Public/Website/99 Course Archive/Writing II/index|Writing II]]
 
+> [!example] Course Archive
+> - [[60 Public/Website/99 Course Archive/Grammar in Context II/index|Grammar in Context II]]
+> - [[60 Public/Website/99 Course Archive/Thesis Seminar/index|Thesis Seminar]]
+> - [[60 Public/Website/99 Course Archive/Writing II/index|Writing II]]
 ## About This Site
 
 Materials on this site may include:

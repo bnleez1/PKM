@@ -1,14 +1,15 @@
 ---
-type: 'Page'
-collections: 'Public Pages'
-title: 'Unlocking infinitive phrases: The key to expressive English'
-aliases: null
-description: null
+type: Page
+collections: Public Pages
+title: "Unlocking infinitive phrases: The key to expressive English"
+aliases:
+description:
 icon: 🔰
-createdAt: '2025-01-02T19:28:05.297Z'
-lastUpdated: '2026-06-28T12:56:20.936Z'
-tags: [GrammarSyntax]
-coverImage: '[Untitled](../Images/Untitled%20(21).md)'
+createdAt: 2025-01-02T19:28:05.297Z
+lastUpdated: 2026-06-28T12:56:20.936Z
+tags:
+  - GrammarSyntax
+coverImage: "[Untitled](../Images/Untitled%20(21).md)"
 ---
 
 # Unlocking infinitive phrases: The key to expressive English
@@ -101,4 +102,3 @@ Try using infinitive phrases in your own sentences. Think about what you want to
 Infinitive phrases are your secret weapon for making your English clearer, richer, and more interesting. Once you start using them, you'll wonder how you ever communicated without them!
 
 Let me know if you'd like more examples or practice exercises. Keep exploring, keep practicing, and keep having fun with English!
-

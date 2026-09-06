@@ -18,4 +18,3 @@ Asking a learner, 'What did you do this weekend?' to spark authentic communicati
 
 **Common Misconception:**
 They are too difficult for beginners.
-

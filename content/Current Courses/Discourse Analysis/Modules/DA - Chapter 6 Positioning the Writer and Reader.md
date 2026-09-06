@@ -113,4 +113,3 @@ Before consulting AI, write a self-review memo identifying two uncertainties. Af
 ## 🗓️ Thursday (9:00 AM - 10:00 AM)
 
 ## 🗓️ Friday (9:00 AM - 10:00 AM)
-

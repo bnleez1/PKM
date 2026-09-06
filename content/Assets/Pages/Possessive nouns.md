@@ -1,14 +1,15 @@
 ---
-type: 'Page'
-collections: 'Public Pages'
+type: Page
+collections: Public Pages
 title: Possessive nouns
-aliases: null
-description: null
+aliases:
+description:
 icon: 🔰
-createdAt: '2025-01-02T19:46:45.526Z'
-lastUpdated: '2026-06-28T12:56:21.274Z'
-tags: [GrammarSyntax]
-coverImage: '[Untitled](../Images/Untitled%20(21).md)'
+createdAt: 2025-01-02T19:46:45.526Z
+lastUpdated: 2026-06-28T12:56:21.274Z
+tags:
+  - GrammarSyntax
+coverImage: "[Untitled](../Images/Untitled%20(21).md)"
 ---
 
 # Possessive nouns
@@ -96,4 +97,3 @@ Possessive nouns are nouns that show ownership or a relationship between two thi
 - The Kardashians' reality show is wildly popular.
 
 - The Williamses' vacation home is in the mountains.
-

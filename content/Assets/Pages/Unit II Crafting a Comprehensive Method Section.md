@@ -1,16 +1,14 @@
 ---
-type: 'Page'
-title: 'Unit II: Crafting a Comprehensive Method Section'
-aliases: null
-description: >-
-  This chapter provides a comprehensive guide to crafting a method section for
-  academic writing, incorporating essential writing techniques and resources to
-  enhance your academic writing skills.
+type: Page
+title: "Unit II: Crafting a Comprehensive Method Section"
+aliases:
+description: This chapter provides a comprehensive guide to crafting a method section for academic writing, incorporating essential writing techniques and resources to enhance your academic writing skills.
 icon: 🧭
-createdAt: '2024-12-27T13:59:53.093Z'
-lastUpdated: '2026-06-02T12:14:38.120Z'
-tags: [Reading]
-coverImage: '[Untitled](../Images/Untitled%20(117).md)'
+createdAt: 2024-12-27T13:59:53.093Z
+lastUpdated: 2026-06-02T12:14:38.120Z
+tags:
+  - Reading
+coverImage: "[Untitled](../Images/Untitled%20(117).md)"
 ---
 
 # Unit II: Crafting a Comprehensive Method Section
@@ -155,4 +153,3 @@ By adhering to these criteria, you can ensure that your method section meets hig
     - Mastering Sentence Types: A Guide to Simple, Compound, Complex, and Compound-Complex Sentences
 
 - **Summary:** These resources provide guidance on using transitions, understanding different types of clauses and sentences, and structuring body paragraphs effectively.
-

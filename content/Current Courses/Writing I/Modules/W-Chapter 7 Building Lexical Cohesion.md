@@ -107,4 +107,3 @@ Keep the original draft and make a simple record with four parts: the issue, the
 ## 🗓️ Thursday
 
 ## 🗓️ Friday
-

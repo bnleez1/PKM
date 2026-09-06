@@ -1,5 +1,5 @@
 ---
-title: Academic Writing
+title: Writing I
 description: Course materials, weekly modules, assignments, and resources for Academic Writing.
 ---
 # Writing I
@@ -12,6 +12,12 @@ This page provides access to weekly learning materials, assignments, activities,
 
 ## Weekly Modules
 
+- [[W-Module 1 Introducing Yourself Through Clear Sentences]]
+- [[W-Module 2 Writing About Routines and Campus Life]]
+- [[W-Module 3 Planning a Paragraph Before Writing]]
+- [[W-Module 4 From Draft to Final Paragraph]]
+- [[W-Module 5 Telling a Clear Story About Study and Leisure]]
+- 
 
 
 ## Assignments

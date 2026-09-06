@@ -1,13 +1,14 @@
 ---
-type: 'Page'
+type: Page
 title: GenAI Disclosure Statements
-aliases: null
-description: null
+aliases:
+description:
 icon: ⚡️
-createdAt: '2026-07-25T14:10:24.016Z'
-lastUpdated: '2026-08-04T13:54:58.196Z'
-tags: [GenAiDisclaimer]
-coverImage: '[Untitled](../Images/Untitled%20(99).md)'
+createdAt: 2026-07-25T14:10:24.016Z
+lastUpdated: 2026-08-04T13:54:58.196Z
+tags:
+  - GenAiDisclaimer
+coverImage: "[Untitled](../Images/Untitled%20(99).md)"
 ---
 
 # GenAI Disclosure Statements
@@ -145,4 +146,3 @@ LinkedIn currently describes Content Credentials for images and videos, not a co
 - For a standing disclosure you use consistently: "AI transparency statement: I believe AI should augment, not replace, human thinking. In my writing, AI may be used for brainstorming, organization, editing, or drafting selected passages. The ideas, professional judgment, and final responsibility for all content are mine." 
 
 - And a concise voice-aligned version: "Transparency note: I use AI intentionally, as an editor, thought partner, and occasional drafting assistant, not as a substitute for original thinking. Every article reflects my own professional judgment, and I take full responsibility for its content." 
-

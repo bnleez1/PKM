@@ -18,4 +18,3 @@ Training learners to 'read between the lines' in authentic listening tasks.
 
 **Common Misconception:**
 The meaning is found in the dictionary definition.
-

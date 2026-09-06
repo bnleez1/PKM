@@ -1,14 +1,15 @@
 ---
-type: 'Page'
-collections: 'Public Pages'
-title: 'So, Such, Very, and Too: A Guide to English Intensifiers'
-aliases: null
-description: null
-icon: null
-createdAt: '2025-03-21T14:40:39.803Z'
-lastUpdated: '2026-06-28T12:57:31.085Z'
-tags: [GrammarSyntax]
-coverImage: '[Untitled](../Images/Untitled%20(245).md)'
+type: Page
+collections: Public Pages
+title: "So, Such, Very, and Too: A Guide to English Intensifiers"
+aliases:
+description:
+icon:
+createdAt: 2025-03-21T14:40:39.803Z
+lastUpdated: 2026-06-28T12:57:31.085Z
+tags:
+  - GrammarSyntax
+coverImage: "[Untitled](../Images/Untitled%20(245).md)"
 ---
 
 # So, Such, Very, and Too: A Guide to English Intensifiers
@@ -154,4 +155,3 @@ Let's break down the uses of "so," "such," "very," and "too" in English. These w
 - **"Too" means "excessively" and has a negative connotation.**
 
 Practice using these words in different contexts, paying close attention to the grammatical structures. Read and listen to native English speakers to see how they use these intensifiers naturally. With consistent effort, you'll master these nuances of the English language.
-

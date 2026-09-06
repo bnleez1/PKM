@@ -166,4 +166,3 @@ Triangulate different data sources to fully answer your research questions. Cons
 - For examples of how to develop a method section, refer to the different empirical studies included in your literature review.
 
 - Refer to the example discussed during whole-group session from February 28, 2025.
-

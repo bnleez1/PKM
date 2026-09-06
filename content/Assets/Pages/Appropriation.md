@@ -49,4 +49,3 @@ During the guided practice, a student uses it exactly as modeled. That is imitat
 However, twenty minutes later during a less structured group work task, one student is trying to organize the group's chaotic brainstorming session. She turns to a dominant peer and says, *"Okay, while I acknowledge your point about the poster design, we gotta finish the writing first."*
 
 This is appropriation in action. The learner took a highly formal, expert-introduced phrase designed for academic debate and repurposed it as an interpersonal management tool to politely but firmly wrangle a peer. She populated the teacher's phrase with her own immediate, authentic intention.
-

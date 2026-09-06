@@ -1,14 +1,15 @@
 ---
-type: 'Page'
-collections: 'Public Pages'
+type: Page
+collections: Public Pages
 title: Reasoning patterns
-aliases: null
-description: null
+aliases:
+description:
 icon: 💡
-createdAt: '2025-01-09T19:35:54.848Z'
-lastUpdated: '2026-06-28T22:56:23.267Z'
-tags: [Writing]
-coverImage: '[Untitled](../Images/Untitled%20(365).md)'
+createdAt: 2025-01-09T19:35:54.848Z
+lastUpdated: 2026-06-28T22:56:23.267Z
+tags:
+  - Writing
+coverImage: "[Untitled](../Images/Untitled%20(365).md)"
 ---
 
 # Reasoning patterns
@@ -120,4 +121,3 @@ In summary, Machi and McEvoy’s (2009) reasoning patterns offer different strat
     - Incorporating cultural content increases motivation.
 
     - Providing personalized learning paths addresses individual needs. Together, these strategies support the conclusion that multimedia resources, cultural content, and personalized learning paths collectively enhance the effectiveness of second language acquisition.
-

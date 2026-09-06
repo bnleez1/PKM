@@ -1,16 +1,14 @@
 ---
-type: 'Page'
+type: Page
 title: Servicio Social - UAA (depto. de idiomas)
-aliases: null
-description: >-
-  A description for the note "Servicio Social - UAA (depto. de idiomas)" could
-  be: Information regarding the upcoming induction course for service social at
-  the UAA's language department in January 2024.
+aliases:
+description: "A description for the note \"Servicio Social - UAA (depto. de idiomas)\" could be: Information regarding the upcoming induction course for service social at the UAA's language department in January 2024."
 icon: ph:bus
-createdAt: '2023-06-09T12:40:15.381Z'
-lastUpdated: '2026-06-24T16:43:28.775Z'
-tags: [UaaServicioSocial]
-coverImage: '[2017-01-08 08.35.08](../Images/2017-01-08%20083508.md)'
+createdAt: 2023-06-09T12:40:15.381Z
+lastUpdated: 2026-06-24T16:43:28.775Z
+tags:
+  - UaaServicioSocial
+coverImage: "[2017-01-08 08.35.08](../Images/2017-01-08%20083508.md)"
 ---
 
 # Servicio Social - UAA (depto. de idiomas)

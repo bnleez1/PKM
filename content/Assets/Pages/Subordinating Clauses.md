@@ -1,15 +1,14 @@
 ---
-type: 'Page'
+type: Page
 title: Subordinating Clauses
-aliases: null
-description: >-
-  An overview of what subordinate clauses are and their usage in English
-  grammar, with a link to a helpful resource for further understanding.
+aliases:
+description: An overview of what subordinate clauses are and their usage in English grammar, with a link to a helpful resource for further understanding.
 icon: 🖋️
-createdAt: '2023-06-06T21:30:33.310Z'
-lastUpdated: '2026-08-26T13:01:26.562Z'
-tags: [Writing]
-coverImage: null
+createdAt: 2023-06-06T21:30:33.310Z
+lastUpdated: 2026-08-26T13:01:26.562Z
+tags:
+  - Writing
+coverImage:
 ---
 
 # Subordinating Clauses
@@ -93,4 +92,3 @@ Subordinating clauses can serve various functions within a sentence. Here are so
     - **Complement:** "Her wish is to find out **why they left**."
 
 Remember that subordinating clauses add depth and complexity to sentences by providing additional information or context. They enhance your writing by allowing you to convey more intricate relationships between ideas.
-

@@ -1,14 +1,15 @@
 ---
-type: 'Page'
-collections: 'Public Pages'
+type: Page
+collections: Public Pages
 title: Crafting a Results and Discussion Section for a Thesis Paper
-aliases: null
-description: null
+aliases:
+description:
 icon: 🔰
-createdAt: '2025-01-17T14:34:59.949Z'
-lastUpdated: '2026-06-28T12:56:51.278Z'
-tags: [Reading]
-coverImage: '[Untitled](../Images/Untitled%20(82).md)'
+createdAt: 2025-01-17T14:34:59.949Z
+lastUpdated: 2026-06-28T12:56:51.278Z
+tags:
+  - Reading
+coverImage: "[Untitled](../Images/Untitled%20(82).md)"
 ---
 
 # Crafting a Results and Discussion Section for a Thesis Paper
@@ -110,4 +111,3 @@ In some cases, it may be appropriate to integrate the results and discussion sec
 #### Conclusion
 
 Creating unified, coherent, and cohesive results and discussion sections is crucial for effectively communicating your research findings. By following the guidelines outlined in this chapter, English language teacher trainers can develop well-structured and insightful sections that contribute meaningfully to the fields of applied linguistics and second language acquisition. Remember to stay organized, be critical, and maintain a clear focus throughout your writing.
-

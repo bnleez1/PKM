@@ -1,13 +1,13 @@
 ---
-type: 'Page'
+type: Page
 title: Three-Tier RTI Template (Expanded Version)
-aliases: null
-description: null
-icon: null
-createdAt: '2026-08-04T12:32:09.614Z'
-lastUpdated: '2026-08-04T12:40:42.894Z'
+aliases:
+description:
+icon:
+createdAt: 2026-08-04T12:32:09.614Z
+lastUpdated: 2026-08-04T12:40:42.894Z
 tags: []
-coverImage: null
+coverImage:
 ---
 
 # Three-Tier RTI Template (Expanded Version)
@@ -237,4 +237,3 @@ Record specific measurable goals, one-to-one coaching, high-frequency practice, 
 ---
 
 > **Updated:** A simpler practical version is now available here: https://app.capacities.io/f1711151-3e8c-449c-8203-f47df61f6ea2/ffe000b9-b55f-4209-8fb4-19582c6f16d6 (https://app.capacities.io/f1711151-3e8c-449c-8203-f47df61f6ea2/ffe000b9-b55f-4209-8fb4-19582c6f16d6)
-

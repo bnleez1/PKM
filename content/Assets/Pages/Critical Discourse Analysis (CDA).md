@@ -18,4 +18,3 @@ Analyzing news headlines with learners to see how passive voice can hide who is 
 
 **Common Misconception:**
 It is only for political speeches.
-

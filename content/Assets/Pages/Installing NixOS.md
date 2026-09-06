@@ -1,13 +1,14 @@
 ---
-type: 'Page'
+type: Page
 title: Installing NixOS
-aliases: null
-description: null
+aliases:
+description:
 icon: ✴️
-createdAt: '2026-07-17T16:09:19.672Z'
-lastUpdated: '2026-07-17T17:19:16.827Z'
-tags: [Linux]
-coverImage: '[Untitled](../Images/Untitled%20(284).md)'
+createdAt: 2026-07-17T16:09:19.672Z
+lastUpdated: 2026-07-17T17:19:16.827Z
+tags:
+  - Linux
+coverImage: "[Untitled](../Images/Untitled%20(284).md)"
 ---
 
 # Installing NixOS
@@ -1523,4 +1524,3 @@ systemctl status nixos-upgrade.service
 Automatic updating follows your **current channel**—for example, NixOS 26.05. It does not normally move you automatically to the next major NixOS release; changing release channels remains a deliberate administrative step. For a new NixOS user, I recommend running manual updates weekly for the first few weeks before enabling unattended upgrades.
 
 [1]: https://nixos.org/manual/nixos/stable/ "NixOS Manual"
-

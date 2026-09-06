@@ -123,4 +123,3 @@ Before submitting, confirm that every scaffold addresses an identified barrier a
 ## 🗓️ Thursday (9:00 AM - 10:00 AM)
 
 ## 🗓️ Friday (9:00 AM - 10:00 AM)
-

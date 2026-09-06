@@ -1,16 +1,14 @@
 ---
-type: 'Page'
+type: Page
 title: Serial or Oxford Comma
-aliases: null
-description: >-
-  A brief guide on the use of the serial comma (Oxford comma) in punctuation,
-  including its purpose and variations based on style guides and regional
-  preferences.
+aliases:
+description: A brief guide on the use of the serial comma (Oxford comma) in punctuation, including its purpose and variations based on style guides and regional preferences.
 icon: 🖋️
-createdAt: '2023-06-06T12:54:04.411Z'
-lastUpdated: '2026-06-14T14:11:39.341Z'
-tags: [Punctuation]
-coverImage: '[Untitled](../Images/Untitled%20(53).md)'
+createdAt: 2023-06-06T12:54:04.411Z
+lastUpdated: 2026-06-14T14:11:39.341Z
+tags:
+  - Punctuation
+coverImage: "[Untitled](../Images/Untitled%20(53).md)"
 ---
 
 # Serial or Oxford Comma
@@ -66,6 +64,3 @@ Now, let's explore how to avoid using the serial comma when desired:
     - By using semicolons, you can separate items in a list without relying on the serial comma.
 
 The serial comma is required when writing academic texts according to the Publication Manual of the American Psychological Association (APA), (2020, p. 155).
-
-
-

@@ -91,4 +91,3 @@ note: []
     - Alejandro
 
         Will redo [Zahir Alejandro Cortes Alvarado EE.docx](https://eduuaa.sharepoint.com/:w:/s/WritingII/IQB4eBATKkoCT5jrZ5CcLcJqAW65ndD4iybD_iIFnT6GkGk?e=Cg1EAe) 
-

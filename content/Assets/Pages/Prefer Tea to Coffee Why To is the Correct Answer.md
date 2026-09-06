@@ -1,14 +1,15 @@
 ---
-type: 'Page'
-collections: 'Public Pages'
+type: Page
+collections: Public Pages
 title: 'Prefer Tea to Coffee: Why "To" is the Correct Answer'
-aliases: null
-description: null
-icon: null
-createdAt: '2025-03-21T14:52:19.982Z'
-lastUpdated: '2026-06-28T12:57:40.824Z'
-tags: [GrammarSyntax]
-coverImage: '[Untitled](../Images/Untitled%20(47).md)'
+aliases:
+description:
+icon:
+createdAt: 2025-03-21T14:52:19.982Z
+lastUpdated: 2026-06-28T12:57:40.824Z
+tags:
+  - GrammarSyntax
+coverImage: "[Untitled](../Images/Untitled%20(47).md)"
 ---
 
 # Prefer Tea to Coffee: Why "To" is the Correct Answer
@@ -74,4 +75,3 @@ Here's where many English language learners stumble, and why:
 - **Exposure:** Ensure students have plenty of contact with the English Language, through reading, watching English-language media, and conversing with native speakers.
 
 By understanding the specific rule, recognizing common pitfalls, and practicing consistently, English language learners can master the "prefer... to..." construction and avoid this common TOEFL trap.
-

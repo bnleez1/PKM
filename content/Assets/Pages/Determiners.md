@@ -1,13 +1,14 @@
 ---
-type: 'Page'
+type: Page
 title: Determiners
-aliases: null
-description: null
+aliases:
+description:
 icon: 🖋️
-createdAt: '2025-01-02T18:47:50.101Z'
-lastUpdated: '2026-06-14T14:25:22.258Z'
-tags: [GrammarSyntax]
-coverImage: '[Untitled](../Images/Untitled%20(13).md)'
+createdAt: 2025-01-02T18:47:50.101Z
+lastUpdated: 2026-06-14T14:25:22.258Z
+tags:
+  - GrammarSyntax
+coverImage: "[Untitled](../Images/Untitled%20(13).md)"
 ---
 
 # Determiners
@@ -103,4 +104,3 @@ Determiners are words or phrases that precede and modify nouns in a sentence. Th
             - *This is the book that I was talking about.*
 
 In summary, determiners are essential for specifying and adding context to nouns in English sentences. They encompass articles, demonstratives, quantifiers, possessives, numbers, distributives, interrogatives, and relative pronouns, each serving a unique purpose in conveying information about the noun they modify.
-

@@ -18,4 +18,3 @@ Discussing why translating a polite L1 request word-for-word into English might 
 
 **Common Misconception:**
 It's a grammar mistake.
-

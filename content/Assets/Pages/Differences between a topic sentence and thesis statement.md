@@ -1,14 +1,15 @@
 ---
-type: 'Page'
-collections: 'Public Pages'
+type: Page
+collections: Public Pages
 title: Differences between a topic sentence and thesis statement
-aliases: null
-description: null
+aliases:
+description:
 icon: ✍️
-createdAt: '2025-01-09T13:57:14.627Z'
-lastUpdated: '2026-06-28T12:56:41.012Z'
-tags: [Writing]
-coverImage: '[Untitled](../Images/Untitled%20(25).md)'
+createdAt: 2025-01-09T13:57:14.627Z
+lastUpdated: 2026-06-28T12:56:41.012Z
+tags:
+  - Writing
+coverImage: "[Untitled](../Images/Untitled%20(25).md)"
 ---
 
 # Differences between a topic sentence and thesis statement
@@ -86,4 +87,3 @@ Here are 10 examples of topic sentences for different paragraphs in an essay abo
 - Topic sentence 10: Alternative sources of protein, such as insects, lab-grown meat, or cultured meat, are promising innovations, but they also face some challenges and limitations.
 
     - **Rewritten**: Promising innovations like lab-grown meat and cultured mean offer alternatives for those who enjoy eating meat notwithstanding their challenges and limitations.
-

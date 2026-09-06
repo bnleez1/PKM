@@ -1,14 +1,15 @@
 ---
-type: 'Page'
-collections: 'Public Pages'
+type: Page
+collections: Public Pages
 title: Gerunds and possessive forms before gerunds
-aliases: null
-description: null
-icon: null
-createdAt: '2025-03-12T13:56:23.842Z'
-lastUpdated: '2026-06-28T22:56:23.362Z'
-tags: [GrammarSyntax]
-coverImage: '[Untitled](../Images/Untitled%20(233).md)'
+aliases:
+description:
+icon:
+createdAt: 2025-03-12T13:56:23.842Z
+lastUpdated: 2026-06-28T22:56:23.362Z
+tags:
+  - GrammarSyntax
+coverImage: "[Untitled](../Images/Untitled%20(233).md)"
 ---
 
 # Gerunds and possessive forms before gerunds
@@ -156,4 +157,3 @@ To master this structure, learners should practice sentences with **prepositions
 - **We talked about them moving to Canada.**
 
 By understanding these patterns, English learners can avoid this common TOEFL grammar mistake and improve their accuracy.
-

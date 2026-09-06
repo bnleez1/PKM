@@ -1,13 +1,13 @@
 ---
-type: 'Page'
+type: Page
 title: Three-Tier RTI Template
-aliases: null
-description: null
-icon: null
-createdAt: '2026-08-04T12:40:35.231Z'
-lastUpdated: '2026-08-28T12:16:44.436Z'
+aliases:
+description:
+icon:
+createdAt: 2026-08-04T12:40:35.231Z
+lastUpdated: 2026-08-28T12:16:44.436Z
 tags: []
-coverImage: null
+coverImage:
 ---
 
 # Three-Tier RTI Template
@@ -93,4 +93,3 @@ Name the task, measure, work sample, observation, or other evidence:
 ---
 
 > **Workflow:** Duplicate this page for each student or trainee. Use the **Current Tier** and **Next Review** properties to surface records needing attention.
-

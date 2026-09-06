@@ -104,4 +104,3 @@ CAADI Worksheet 8, Project 2, and the midterm together mark the end of Unit II. 
 ## 🗓️ Thursday
 
 ## 🗓️ Friday
-

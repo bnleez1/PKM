@@ -1,14 +1,15 @@
 ---
-type: 'Page'
-collections: 'Public Pages'
+type: Page
+collections: Public Pages
 title: The Grammar as Choice Tool
-aliases: null
-description: null
+aliases:
+description:
 icon: ✴️
-createdAt: '2026-06-22T18:23:32.455Z'
-lastUpdated: '2026-06-28T12:56:01.168Z'
-tags: [DiscourseAnalysis]
-coverImage: '[Untitled](../Images/Untitled%20(112).md)'
+createdAt: 2026-06-22T18:23:32.455Z
+lastUpdated: 2026-06-28T12:56:01.168Z
+tags:
+  - DiscourseAnalysis
+coverImage: "[Untitled](../Images/Untitled%20(112).md)"
 ---
 
 # The Grammar as Choice Tool
@@ -76,4 +77,3 @@ Through this brief analysis, we see that the Grammar as Choice tool reveals the 
 ## Conclusion
 
 James Paul Gee’s Grammar as Choice tool transforms text analysis from a superficial reading into a rigorous excavation of meaning. For researchers, discourse analysts, and language educators, it provides a structured methodology to demonstrate how the micro-level mechanics of language construct macro-level social realities. By recognizing that every syntactic structure and lexical item is a selection from a broader menu of options, we empower ourselves and our readers to engage texts more critically, cultivating a heightened awareness of the social forces embedded in our words. Language is never neutral; it is an active, continuous process of choosing how to build the world.Create an 800-1000-word article based on James Paul Gee's Grammar as Choice Tool that discusses what it is, common misconceptions, and an example on how to apply it. Package output as normal text that can be copy-and-pasted to a Capacities page.
-

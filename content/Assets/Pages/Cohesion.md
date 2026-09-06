@@ -18,4 +18,3 @@ Teaching learners how to use pronouns and transition words to make their essays 
 
 **Common Misconception:**
 Cohesion automatically means the text makes sense.
-

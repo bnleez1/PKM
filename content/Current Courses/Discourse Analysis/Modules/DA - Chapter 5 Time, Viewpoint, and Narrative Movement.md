@@ -115,4 +115,3 @@ Revise one confusing shift in two different ways: first by changing the verb for
 ## 🗓️ Thursday (9:00 AM - 10:00 AM)
 
 ## 🗓️ Friday (9:00 AM - 10:00 AM)
-

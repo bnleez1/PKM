@@ -1,13 +1,15 @@
 ---
-type: 'Page'
+type: Page
 title: Rethinking Writing Instruction in the Age of AI
-aliases: null
-description: null
-icon: null
-createdAt: '2026-06-29T18:18:25.269Z'
-lastUpdated: '2026-07-01T16:03:53.253Z'
-tags: [Book, WritingWithAi]
-coverImage: null
+aliases:
+description:
+icon:
+createdAt: 2026-06-29T18:18:25.269Z
+lastUpdated: 2026-07-01T16:03:53.253Z
+tags:
+  - Book
+  - WritingWithAi
+coverImage:
 ---
 
 # Rethinking Writing Instruction in the Age of AI
@@ -89,6 +91,3 @@ Throughout these sections, Laist demystifies AI, showing how it can be introduce
 ## Final Verdict
 
 *Rethinking Writing Instruction in the Age of AI* is an essential text for anyone looking to build a vibrant, transparent, and collaborative community of writers. Laist successfully shifts the conversation from systemic anxiety to instructional opportunity, providing an inspiring roadmap for maintaining human-centered pedagogy in a changing technological landscape.
-
-
-

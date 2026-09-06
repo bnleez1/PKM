@@ -1,13 +1,14 @@
 ---
-type: 'Page'
+type: Page
 title: Thesis Statement
-aliases: null
-description: null
+aliases:
+description:
 icon: 🖋️
-createdAt: '2024-12-31T21:13:21.743Z'
-lastUpdated: '2026-06-05T12:57:24.349Z'
-tags: [Writing]
-coverImage: '[Untitled](../Images/Untitled%20(80).md)'
+createdAt: 2024-12-31T21:13:21.743Z
+lastUpdated: 2026-06-05T12:57:24.349Z
+tags:
+  - Writing
+coverImage: "[Untitled](../Images/Untitled%20(80).md)"
 ---
 
 # Thesis Statement
@@ -292,4 +293,3 @@ A poor thesis statement can manifest in several ways: it might be too vague, ove
     (This is merely announcing what will be talked about, rather than stating a clear, analytical point of view.)
 
 Each of these examples fails to encapsulate the qualities of a strong thesis statement: specificity, clarity, arguably, and conciseness. A good thesis statement should clearly communicate the point that the writer wishes to make and provide a sense of how the argument will be constructed.
-

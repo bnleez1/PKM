@@ -1,13 +1,15 @@
 ---
-type: 'Page'
+type: Page
 title: Learning Experiences Template
-aliases: null
-description: null
-icon: null
-createdAt: '2026-08-13T12:32:48.345Z'
-lastUpdated: '2026-08-13T17:13:41.689Z'
-tags: [TeachingMoves, Curriculum]
-coverImage: null
+aliases:
+description:
+icon:
+createdAt: 2026-08-13T12:32:48.345Z
+lastUpdated: 2026-08-13T17:13:41.689Z
+tags:
+  - TeachingMoves
+  - Curriculum
+coverImage:
 ---
 
 # Learning Experiences Template
@@ -614,4 +616,3 @@ Before using the learning experience:
 - [ ] Students critically evaluate AI output rather than automatically accepting it.
 
 - [ ] Reflection provides evidence of learning, decision-making, or metacognition.
-

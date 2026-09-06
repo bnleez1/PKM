@@ -42,4 +42,3 @@ Complete the following task in class:
 1. Identify assigned text as one of the 12 features discussed in Week 2: [Text Assignments.xlsx.](https://eduuaa.sharepoint.com/:x:/s/DiscourseAnalysis2026/IQCfTRr037cGSL7z3-rvVLRvAXmUfTnYRD6sQ5xu0WHJRPY?e=BsBja9)
 
 2. Analyze, include evidence, and any logical assumptions.
-

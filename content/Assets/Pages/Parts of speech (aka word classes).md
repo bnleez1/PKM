@@ -1,13 +1,14 @@
 ---
-type: 'Page'
+type: Page
 title: Parts of speech (aka word classes)
-aliases: null
-description: null
+aliases:
+description:
 icon: 🔰
-createdAt: '2025-01-02T15:24:58.379Z'
-lastUpdated: '2026-06-17T19:18:13.952Z'
-tags: [GrammarSyntax]
-coverImage: '[Untitled](../Images/Untitled%20(21).md)'
+createdAt: 2025-01-02T15:24:58.379Z
+lastUpdated: 2026-06-17T19:18:13.952Z
+tags:
+  - GrammarSyntax
+coverImage: "[Untitled](../Images/Untitled%20(21).md)"
 ---
 
 # Parts of speech (aka word classes)

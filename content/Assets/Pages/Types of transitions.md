@@ -1,13 +1,14 @@
 ---
-type: 'Page'
+type: Page
 title: Types of transitions
-aliases: null
-description: null
+aliases:
+description:
 icon: 🖋️
-createdAt: '2024-12-31T21:29:17.557Z'
-lastUpdated: '2026-06-17T13:01:00.360Z'
-tags: [Writing]
-coverImage: '[Untitled](../Images/Untitled%20(126).md)'
+createdAt: 2024-12-31T21:29:17.557Z
+lastUpdated: 2026-06-17T13:01:00.360Z
+tags:
+  - Writing
+coverImage: "[Untitled](../Images/Untitled%20(126).md)"
 ---
 
 # Types of transitions
@@ -46,4 +47,3 @@ Reason 2: Transitions may also be used to connect two independent (main) clauses
 # How might I use transitions to begin a thesis statement?
 
 Consider reason 1 and any of the types of transitions listed except for the sentence connector. The reason for avoiding a sentence connector is because the other four options allow the writer to better reference the context of the problem, background information, or historical context often included in an [[Introduction Paragraph]].
-

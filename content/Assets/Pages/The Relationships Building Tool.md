@@ -1,14 +1,15 @@
 ---
-type: 'Page'
-collections: 'Public Pages'
+type: Page
+collections: Public Pages
 title: The Relationships Building Tool
-aliases: null
-description: null
+aliases:
+description:
 icon: ✴️
-createdAt: '2026-06-22T18:25:17.955Z'
-lastUpdated: '2026-06-28T12:56:02.134Z'
-tags: [DiscourseAnalysis]
-coverImage: '[Untitled](../Images/Untitled%20(92).md)'
+createdAt: 2026-06-22T18:25:17.955Z
+lastUpdated: 2026-06-28T12:56:02.134Z
+tags:
+  - DiscourseAnalysis
+coverImage: "[Untitled](../Images/Untitled%20(92).md)"
 ---
 
 # The Relationships Building Tool
@@ -75,4 +76,3 @@ By analyzing these choices, we see that the instructor in Text A is building a f
 ## Conclusion
 
 James Paul Gee’s Relationships Building Tool proves that every sentence we construct is a social proposal. It is an invitation for the listener to accept a specific dynamic of power and proximity. For researchers, writers, and educators, mastering this tool means realizing that you can never "just deliver the facts." Every memo, syllabus, and passing comment is actively managing the social distance between human beings. By reading and writing with this tool in mind, we can move through the world with a heightened awareness of how our grammatical choices bring people closer together or push them fundamentally further apart.
-

@@ -18,4 +18,3 @@ Helping learners understand that 'It's cold in here' is actually a request to cl
 
 **Common Misconception:**
 Always matches the literal words.
-

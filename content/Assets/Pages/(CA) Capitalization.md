@@ -1,12 +1,15 @@
 ---
-type: 'Glossary'
-collections: 'Written Error Code'
+type: Glossary
+collections: Written Error Code
 title: (CA) Capitalization
-tags: [WritingErrorCode, Writing]
+tags:
+  - WritingErrorCode
+  - Writing
 subject: []
 formalDefinition: Capitalizing when not needed and vice versa.
 relatedTerms: []
-pages: ['[[Writing error code list]]']
+pages:
+  - "[[Writing error code list]]"
 notes: []
 ---
 
@@ -92,4 +95,3 @@ Capitalization in English involves using uppercase letters at the beginning of w
 *   Example: "I read a book by Author Jane Doe," but "Jane Doe, the author, wrote a book."
 
 Remember, there are exceptions and more specific rules, especially regarding compound titles, hyphenated words in titles, or more intricate brand names. Also, these rules can vary slightly depending on the style guide being followed (e.g., APA, MLA, Chicago).
-

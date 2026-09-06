@@ -11,7 +11,7 @@ subject: "[[Writing I]]"
 chapterWeek:
 coverImage: "[[Ciudad-Universitaria-62-2048x1365]]"
 unit: "[Writing I Unit II: Everyday Experiences](Writing%20I%20Unit%20II%20Everyday%20Experiences.md)"
-prior: "[W-Chapter 5: Telling a Clear Story About Study and Leisure](W-Chapter%205%20Telling%20a%20Clear%20Story%20About%20Study%20and%20Leisure.md)"
+prior: "[W-Chapter 5: Telling a Clear Story About Study and Leisure](W-Module%205%20Telling%20a%20Clear%20Story%20About%20Study%20and%20Leisure.md)"
 next: "[W-Chapter 7: Building Lexical Cohesion](W-Chapter%207%20Building%20Lexical%20Cohesion.md)"
 reading:
 bookTitle: Connecting Everyday Experiences
@@ -107,4 +107,3 @@ After drafting independently, read the paragraph with criteria. Can you identify
 ## 🗓️ Thursday
 
 ## 🗓️ Friday
-

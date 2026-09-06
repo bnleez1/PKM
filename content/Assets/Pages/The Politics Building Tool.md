@@ -1,14 +1,15 @@
 ---
-type: 'Page'
-collections: 'Public Pages'
+type: Page
+collections: Public Pages
 title: The Politics Building Tool
-aliases: null
-description: null
+aliases:
+description:
 icon: ✴️
-createdAt: '2026-06-22T18:26:08.096Z'
-lastUpdated: '2026-06-28T12:56:02.321Z'
-tags: [DiscourseAnalysis]
-coverImage: '[Untitled](../Images/Untitled%20(72).md)'
+createdAt: 2026-06-22T18:26:08.096Z
+lastUpdated: 2026-06-28T12:56:02.321Z
+tags:
+  - DiscourseAnalysis
+coverImage: "[Untitled](../Images/Untitled%20(72).md)"
 ---
 
 # The Politics Building Tool
@@ -79,4 +80,3 @@ Through this analysis, we see that a grading rubric is never just a scoring mech
 ## Conclusion
 
 James Paul Gee’s Politics Building Tool forces us to abandon the idea of innocent language. It arms researchers, educators, and critical thinkers with a framework to expose how everyday words build invisible hierarchies. By continuously asking what social goods are at stake and who stands to gain or lose from a specific phrasing, we can read texts not just for what they say, but for the world they are trying to build. In the end, analyzing the politics of language is about recognizing that every sentence we construct—whether in a university syllabus, a formal email, or a casual conversation—is a small but significant act of negotiating power.
-

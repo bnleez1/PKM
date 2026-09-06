@@ -18,4 +18,3 @@ Role-playing at a ticket counter or ordering food in a restaurant.
 
 **Common Misconception:**
 It must involve money.
-

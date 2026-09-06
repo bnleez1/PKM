@@ -1,14 +1,15 @@
 ---
-type: 'Page'
-collections: 'Public Pages'
+type: Page
+collections: Public Pages
 title: Anaphoric, cataphoric, and exophoric referencing
-aliases: null
-description: null
+aliases:
+description:
 icon: 🖋️
-createdAt: '2025-01-09T19:40:46.472Z'
-lastUpdated: '2026-06-28T12:56:41.112Z'
-tags: [WritingDiscourse]
-coverImage: null
+createdAt: 2025-01-09T19:40:46.472Z
+lastUpdated: 2026-06-28T12:56:41.112Z
+tags:
+  - WritingDiscourse
+coverImage:
 ---
 
 # Anaphoric, cataphoric, and exophoric referencing
@@ -100,4 +101,3 @@ In this paragraph:
 - **Anaphoric references**: Words like “These studies,” “These techniques,” “This collaboration,” “This hope,” and “Their work” refer back to previously mentioned concepts.
 
 - **Cataphoric references**: Phrases like “Although it may seem daunting,” “Despite the challenges,” and “By investing in research and development” refer to ideas that are explained later in the sentence or paragraph.
-

@@ -1,11 +1,15 @@
 ---
-type: 'Unit'
-collections: 'Academic Writing Units, Units'
+type: Unit
+collections: Academic Writing Units, Units
 title: Academic Writing Unit II
-tags: [Unit, Writing, EnglishSkillDevelopment]
+tags:
+  - Unit
+  - Writing
+  - EnglishSkillDevelopment
 date: 2026-08-24T00:00:00.000Z -> 2026-09-20T00:00:00.000Z
-subject: ['[[Academic Writing]]']
-coverImage: null
+subject:
+  - "[[Academic Writing]]"
+coverImage:
 ---
 
 # Academic Writing Unit II

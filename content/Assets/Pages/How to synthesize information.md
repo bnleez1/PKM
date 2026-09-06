@@ -1,14 +1,14 @@
 ---
-type: 'Page'
-collections: 'Public Pages'
+type: Page
+collections: Public Pages
 title: How to synthesize information
-aliases: null
-description: null
+aliases:
+description:
 icon: 🔰
-createdAt: '2025-01-17T14:16:52.624Z'
-lastUpdated: '2026-06-28T12:56:51.213Z'
+createdAt: 2025-01-17T14:16:52.624Z
+lastUpdated: 2026-06-28T12:56:51.213Z
 tags: []
-coverImage: '[Untitled](../Images/Untitled%20(141).md)'
+coverImage: "[Untitled](../Images/Untitled%20(141).md)"
 ---
 
 # How to synthesize information
@@ -124,4 +124,3 @@ As you prepare to synthesize your information, consider the following questions:
 - How can you articulate the relationships among your sources to illuminate your argument further?
 
 Your journey of synthesis will evolve alongside your research; embrace it, and let it enrich your academic writing.
-

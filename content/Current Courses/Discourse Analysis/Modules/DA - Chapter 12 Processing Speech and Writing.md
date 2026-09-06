@@ -120,4 +120,3 @@ When moving to instruction, label the move as an inference. Research describing 
 ## 🗓️ Thursday (9:00 AM - 10:00 AM)
 
 ## 🗓️ Friday (9:00 AM - 10:00 AM)
-

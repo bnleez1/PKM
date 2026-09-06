@@ -107,4 +107,3 @@ Choose either a travel destination or a future goal. Create a map or table that 
 ## 🗓️ Thursday
 
 ## 🗓️ Friday
-

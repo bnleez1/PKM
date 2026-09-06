@@ -1,13 +1,14 @@
 ---
-type: 'Page'
+type: Page
 title: Transitive vs. intransitive verbs
-aliases: null
-description: null
+aliases:
+description:
 icon: 🖋️
-createdAt: '2024-12-31T21:30:09.236Z'
-lastUpdated: '2025-03-27T18:58:15.043Z'
-tags: [Writing]
-coverImage: '[Untitled](../Images/Untitled%20(107).md)'
+createdAt: 2024-12-31T21:30:09.236Z
+lastUpdated: 2025-03-27T18:58:15.043Z
+tags:
+  - Writing
+coverImage: "[Untitled](../Images/Untitled%20(107).md)"
 ---
 
 # Transitive vs. intransitive verbs
@@ -381,4 +382,3 @@ It's important to note that even these verbs *can* sometimes be used transitivel
 - **Transitive verbs can take direct objects,** while intransitive verbs cannot.
 
 - **This list is not exhaustive.** There are many other transitive and intransitive verbs in English.
-

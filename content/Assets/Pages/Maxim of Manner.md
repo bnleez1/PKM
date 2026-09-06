@@ -18,4 +18,3 @@ Guiding learners to structure an email logically, stating the purpose before the
 
 **Common Misconception:**
 It dictates which specific vocabulary to use.
-

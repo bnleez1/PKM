@@ -1,15 +1,13 @@
 ---
-type: 'Glossary'
-collections: 'Written Error Code'
+type: Glossary
+collections: Written Error Code
 title: VF - verb phrase formation is incorrect
 tags: []
 subject: []
-formalDefinition: >-
-  A **Verb Phrase Formation (VF)** error occurs when a writer selects the
-  correct action and tense for a sentence, but mechanically constructs the
-  combination of helping verbs and main verbs incorrectly.
+formalDefinition: A **Verb Phrase Formation (VF)** error occurs when a writer selects the correct action and tense for a sentence, but mechanically constructs the combination of helping verbs and main verbs incorrectly.
 relatedTerms: []
-pages: ['[[Writing error code list]]']
+pages:
+  - "[[Writing error code list]]"
 notes: []
 ---
 
@@ -77,4 +75,3 @@ When you review your rough draft, look at the complex verbs and check them again
 | **Passive Voice** | 'Be' verb + past participle   | It was build.     | It **was built**.     |
 
 Getting a "VF" error means you are taking risks with your writing. You are moving away from simple subject-verb sentences and attempting complex, academic timeframes. Keep the formulas nearby as you edit, and those structures will soon become second nature.
-

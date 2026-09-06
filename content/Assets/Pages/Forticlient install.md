@@ -1,14 +1,15 @@
 ---
-type: 'Page'
-collections: 'Public Pages'
+type: Page
+collections: Public Pages
 title: Forticlient install
-aliases: null
-description: null
-icon: null
-createdAt: '2025-02-02T14:26:37.094Z'
-lastUpdated: '2026-06-28T12:57:02.039Z'
-tags: [Ubuntu]
-coverImage: '[Untitled](../Images/Untitled%20(385).md)'
+aliases:
+description:
+icon:
+createdAt: 2025-02-02T14:26:37.094Z
+lastUpdated: 2026-06-28T12:57:02.039Z
+tags:
+  - Ubuntu
+coverImage: "[Untitled](../Images/Untitled%20(385).md)"
 ---
 
 # Forticlient install
@@ -77,5 +78,3 @@ References
 [1] [FortiClient Linux Product Downloads Information](https://www.fortinet.com/support/product-downloads/linux)
 
 [2] [Technical Tip: How to install and configure SSL VP ... - Fortinet Community](https://community.fortinet.com/t5/FortiClient/Technical-Tip-How-to-install-and-configure-SSL-VPN-client-in/ta-p/196863)
-
-

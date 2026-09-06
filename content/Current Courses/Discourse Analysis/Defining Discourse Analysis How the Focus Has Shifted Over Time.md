@@ -421,4 +421,3 @@ Fairclough, N. (1989). *Language and power*. Longman.
 Harris, Z. S. (1952). Discourse analysis. *Language, 28*(1), 1–30.
 
 Sacks, H., Schegloff, E. A., & Jefferson, G. (1974). A simplest systematics for the organization of turn-taking for conversation. *Language, 50*(4), 696–735.
-

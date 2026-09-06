@@ -1,13 +1,14 @@
 ---
-type: 'Page'
+type: Page
 title: Quantifiers
-aliases: null
-description: null
+aliases:
+description:
 icon: 🖋️
-createdAt: '2025-01-02T18:46:24.040Z'
-lastUpdated: '2026-06-14T14:25:22.218Z'
-tags: [GrammarSyntax]
-coverImage: '[Untitled](../Images/Untitled%20(13).md)'
+createdAt: 2025-01-02T18:46:24.040Z
+lastUpdated: 2026-06-14T14:25:22.218Z
+tags:
+  - GrammarSyntax
+coverImage: "[Untitled](../Images/Untitled%20(13).md)"
 ---
 
 # Quantifiers
@@ -199,4 +200,3 @@ Quantifiers are words or phrases that tell us how much or how many of something 
 10. Slight
 
 11. Even
-

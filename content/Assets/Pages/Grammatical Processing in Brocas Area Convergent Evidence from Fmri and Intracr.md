@@ -1,19 +1,13 @@
 ---
-type: 'Page'
-title: >-
-  Grammatical Processing in Brocas Area: Convergent Evidence from Fmri and
-  Intracranial Elect...
-aliases: null
-description: >-
-  Though Broca39s Area has long been implicated in grammatical computation,
-  neither aphasiological nor neuroimaging studies have confirmed such a
-  connection, because syntactic processing is often confounded with working
-  memory, articulation, or
+type: Page
+title: "Grammatical Processing in Brocas Area: Convergent Evidence from Fmri and Intracranial Elect..."
+aliases:
+description: Though Broca39s Area has long been implicated in grammatical computation, neither aphasiological nor neuroimaging studies have confirmed such a connection, because syntactic processing is often confounded with working memory, articulation, or
 icon: 🧭
-createdAt: '2023-06-04T14:01:51.073Z'
-lastUpdated: '2025-01-02T12:46:14.507Z'
+createdAt: 2023-06-04T14:01:51.073Z
+lastUpdated: 2025-01-02T12:46:14.507Z
 tags: []
-coverImage: '[Untitled](../Images/Untitled%20(211).md)'
+coverImage: "[Untitled](../Images/Untitled%20(211).md)"
 ---
 
 # Grammatical Processing in Brocas Area: Convergent Evidence from Fmri and Intracranial Elect...
@@ -25,4 +19,3 @@ coverImage: '[Untitled](../Images/Untitled%20(211).md)'
 
 
 www.academia.edu
-

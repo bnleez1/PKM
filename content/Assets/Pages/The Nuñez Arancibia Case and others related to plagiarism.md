@@ -1,14 +1,17 @@
 ---
-type: 'Page'
-collections: 'Public Pages'
+type: Page
+collections: Public Pages
 title: The Nuñez Arancibia Case and others related to plagiarism
-aliases: null
-description: null
+aliases:
+description:
 icon: ☑️
-createdAt: '2025-01-06T12:54:39.741Z'
-lastUpdated: '2026-06-28T12:56:40.795Z'
-tags: [WritingErrorCode, Writing, Plagiarism]
-coverImage: '[Untitled](../Images/Untitled%20(13).md)'
+createdAt: 2025-01-06T12:54:39.741Z
+lastUpdated: 2026-06-28T12:56:40.795Z
+tags:
+  - WritingErrorCode
+  - Writing
+  - Plagiarism
+coverImage: "[Untitled](../Images/Untitled%20(13).md)"
 ---
 
 # The Nuñez Arancibia Case and others related to plagiarism
@@ -70,4 +73,3 @@ While the other cases also involved significant consequences for the individuals
 
 
 💡 **Conclusion**: These cases serve as reminders of the importance of academic integrity and the serious consequences of plagiarism. They also highlight the increasing scrutiny and technological advances in detecting plagiarism, making it more difficult to go unnoticed.
-

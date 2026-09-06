@@ -1,17 +1,14 @@
 ---
-type: 'Page'
-title: 'ELT Cast 127: TOEFL Vocabulary and Reading Preparation using AI (Copy)'
-aliases: null
-description: >-
-  Explore the various types of body paragraphs, including expository, narrative,
-  persuasive, and descriptive, to enhance your writing skills by effectively
-  structuring ideas and supporting your thesis with clear, organized evidence
-  and examples.
+type: Page
+title: "ELT Cast 127: TOEFL Vocabulary and Reading Preparation using AI (Copy)"
+aliases:
+description: Explore the various types of body paragraphs, including expository, narrative, persuasive, and descriptive, to enhance your writing skills by effectively structuring ideas and supporting your thesis with clear, organized evidence and examples.
 icon: 🧭
-createdAt: '2025-01-02T14:07:58.348Z'
-lastUpdated: '2026-07-01T18:22:35.551Z'
-tags: [Writing]
-coverImage: null
+createdAt: 2025-01-02T14:07:58.348Z
+lastUpdated: 2026-07-01T18:22:35.551Z
+tags:
+  - Writing
+coverImage:
 ---
 
 # ELT Cast 127: TOEFL Vocabulary and Reading Preparation using AI (Copy)
@@ -672,4 +669,3 @@ Create a 700-800 word TOEFL reading on the topic of endocrinology and include on
 # TOEFL reading tutorials
 
 [TOEFL Reading Tutorial 1](https://www.notion.so/TOEFL-Reading-Tutorial-1-2d4d8f0b70bf4a4e820533c65496de1e?pvs=21) | [TOEFL Reading Tutorial 2](https://www.notion.so/TOEFL-Reading-Tutorial-2-1064b19081c280aeaea5fd5e180955d8?pvs=21) | [TOEFL Reading Tutorial 3](https://www.notion.so/TOEFL-Reading-Tutorial-3-1064b19081c2802b891dc1223637f6a2?pvs=21) | [TOEFL Reading Tutorial 4](https://www.notion.so/TOEFL-Reading-Tutorial-4-1144b19081c280de8e1ee9a70d73e20c?pvs=21) | [TOEFL Reading Tutorial 5](https://www.notion.so/TOEFL-Reading-Tutorial-5-1144b19081c2803ebe69cf8492199b41?pvs=21) | [TOEFL Reading Tutorial 6](https://www.notion.so/TOEFL-Reading-Tutorial-6-1144b19081c280b98ea0f481e6755fc9?pvs=21)
-

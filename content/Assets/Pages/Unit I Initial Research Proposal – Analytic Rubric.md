@@ -1,15 +1,14 @@
 ---
-type: 'Page'
+type: Page
 title: Unit I Initial Research Proposal – Analytic Rubric
-aliases: null
-description: >-
-  Analytic 100-point rubric for the Unit I Initial Research Proposal; no
-  generative AI use and no preliminary article requirement.
+aliases:
+description: Analytic 100-point rubric for the Unit I Initial Research Proposal; no generative AI use and no preliminary article requirement.
 icon: 🎯
-createdAt: '2026-08-21T12:41:29.367Z'
-lastUpdated: '2026-08-21T12:58:33.287Z'
-tags: [Rubrics]
-coverImage: '[Untitled](../Images/Untitled%20(135).md)'
+createdAt: 2026-08-21T12:41:29.367Z
+lastUpdated: 2026-08-21T12:58:33.287Z
+tags:
+  - Rubrics
+coverImage: "[Untitled](../Images/Untitled%20(135).md)"
 ---
 
 # Unit I Initial Research Proposal – Analytic Rubric
@@ -64,4 +63,3 @@ Use of spelling dictionaries, standard word processors, and non-generative refer
 ## Important Note
 
 This rubric does **not** assess article selection, source integration, or APA references because **scholarly articles are not required for this initial Unit I proposal**. Those expectations can be introduced in later stages of the course.
-

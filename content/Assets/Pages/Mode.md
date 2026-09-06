@@ -18,4 +18,3 @@ Exploring how a live text chat is grammatically closer to spoken language than w
 
 **Common Misconception:**
 Mode just means written or spoken.
-

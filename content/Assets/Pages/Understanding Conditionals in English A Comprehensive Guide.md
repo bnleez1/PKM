@@ -1,14 +1,15 @@
 ---
-type: 'Page'
-collections: 'Public Pages'
-title: 'Understanding Conditionals in English: A Comprehensive Guide'
-aliases: null
-description: null
+type: Page
+collections: Public Pages
+title: "Understanding Conditionals in English: A Comprehensive Guide"
+aliases:
+description:
 icon: 🖋️
-createdAt: '2025-01-03T01:20:24.983Z'
-lastUpdated: '2026-06-28T12:56:30.885Z'
-tags: [GrammarSyntax]
-coverImage: '[Untitled](../Images/Untitled%20(13).md)'
+createdAt: 2025-01-03T01:20:24.983Z
+lastUpdated: 2026-06-28T12:56:30.885Z
+tags:
+  - GrammarSyntax
+coverImage: "[Untitled](../Images/Untitled%20(13).md)"
 ---
 
 # Understanding Conditionals in English: A Comprehensive Guide
@@ -128,4 +129,3 @@ Now it’s your turn! Create sentences using each type of conditional based on y
 5. Mixed Conditional: Combine a past event with a present result.
 
 By practicing these, you’ll gain a better understanding of how to use conditionals in everyday conversation. Remember, making mistakes is part of the learning process, so don’t be afraid to experiment.
-

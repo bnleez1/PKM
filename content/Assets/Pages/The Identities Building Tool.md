@@ -1,14 +1,15 @@
 ---
-type: 'Page'
-collections: 'Public Pages'
+type: Page
+collections: Public Pages
 title: The Identities Building Tool
-aliases: null
-description: null
+aliases:
+description:
 icon: ✴️
-createdAt: '2026-06-22T18:25:04.246Z'
-lastUpdated: '2026-06-28T12:56:01.926Z'
-tags: [DiscourseAnalysis]
-coverImage: '[Untitled](../Images/Untitled%20(261).md)'
+createdAt: 2026-06-22T18:25:04.246Z
+lastUpdated: 2026-06-28T12:56:01.926Z
+tags:
+  - DiscourseAnalysis
+coverImage: "[Untitled](../Images/Untitled%20(261).md)"
 ---
 
 # The Identities Building Tool
@@ -73,4 +74,3 @@ Through this analysis, we see that grammar and vocabulary are not just deliverin
 ## Conclusion
 
 James Paul Gee’s Identities Building Tool transforms how we read by reminding us that every text is a mirror reflecting the social world of its author. It forces us to ask not just what is being said, but *who* is saying it, and who they are asking us to be in response. For educators, researchers, and critical thinkers, this tool is invaluable. It demystifies the ways in which authority is claimed, solidarity is built, and power is exercised through the subtle, everyday choices we make in our grammar and vocabulary. Language is never just a neutral tool for describing the world; it is the very material we use to build ourselves.
-

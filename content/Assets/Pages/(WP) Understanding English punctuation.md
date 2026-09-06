@@ -1,12 +1,15 @@
 ---
-type: 'Glossary'
-collections: 'Written Error Code'
+type: Glossary
+collections: Written Error Code
 title: (WP) Understanding English punctuation
-tags: [WritingErrorCode, Punctuation]
+tags:
+  - WritingErrorCode
+  - Punctuation
 subject: []
-formalDefinition: null
+formalDefinition:
 relatedTerms: []
-pages: ['[[Writing error code list]]']
+pages:
+  - "[[Writing error code list]]"
 notes: []
 ---
 
@@ -115,4 +118,3 @@ Punctuation in English serves various functions, from indicating the structure a
 4.  Example: “He/She will attend the meeting.”
 
 Each punctuation mark can have other, more specific uses, depending on the context and style of writing. Also, the rules and conventions can vary slightly between different forms of English (e.g., American vs. British English) and different style guides.
-

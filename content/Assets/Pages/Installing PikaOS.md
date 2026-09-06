@@ -1,14 +1,15 @@
 ---
-type: 'Page'
-collections: 'Public Pages'
+type: Page
+collections: Public Pages
 title: Installing PikaOS
-aliases: null
-description: null
-icon: null
-createdAt: '2026-06-25T14:34:37.351Z'
-lastUpdated: '2026-06-28T12:56:02.626Z'
-tags: [Linux]
-coverImage: null
+aliases:
+description:
+icon:
+createdAt: 2026-06-25T14:34:37.351Z
+lastUpdated: 2026-06-28T12:56:02.626Z
+tags:
+  - Linux
+coverImage:
 ---
 
 # Installing PikaOS
@@ -154,4 +155,3 @@ coverImage: null
     - **If using Hyprland:** Open `~/.config/hypr/exec.conf` and do the exact same replacement.
 
     *(Bonus tip: The application open in the background of your screenshot is the native* ***Pikman Update Manager****, which handles both APT packages and Flatpaks for PikaOS!)*
-

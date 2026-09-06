@@ -18,4 +18,3 @@ Designing pair-work tasks that maximize the time learners spend negotiating mean
 
 **Common Misconception:**
 Just having them read aloud counts as STT.
-

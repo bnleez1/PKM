@@ -18,4 +18,3 @@ Explaining narrative hooks (e.g., 'When he arrived, John was shocked') to advanc
 
 **Common Misconception:**
 It is rarely used in real English.
-

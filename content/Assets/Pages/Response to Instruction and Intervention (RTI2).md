@@ -1,14 +1,16 @@
 ---
-type: 'Page'
-collections: 'Public Pages'
+type: Page
+collections: Public Pages
 title: Response to Instruction and Intervention (RTI2)
-aliases: null
-description: null
-icon: null
-createdAt: '2025-02-07T14:31:58.999Z'
-lastUpdated: '2026-06-28T12:57:10.754Z'
-tags: [Assessment, RTI]
-coverImage: null
+aliases:
+description:
+icon:
+createdAt: 2025-02-07T14:31:58.999Z
+lastUpdated: 2026-06-28T12:57:10.754Z
+tags:
+  - Assessment
+  - RTI
+coverImage:
 ---
 
 # Response to Instruction and Intervention (RTI2)
@@ -182,4 +184,3 @@ RTI² is a powerful framework that significantly enhances educational practices 
 **Reference (UAA Digital Library - Ebrary)**
 
 Fisher, D., & Frey, N. (2010). Enhancing RTI : *How to ensure success with effective classroom instruction and intervention*. Alexandria, VA: Association for Supervision & Curriculum Development (ASCD). Retrieved from [http://www.ebrary.com](http://www.ebrary.com/)
-

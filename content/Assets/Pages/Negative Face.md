@@ -18,4 +18,3 @@ Teaching learners to use hedging (e.g., 'I know you're busy, but...') when askin
 
 **Common Misconception:**
 It means being pessimistic.
-

@@ -21,7 +21,6 @@ relations: []
 note:
   - "[[Writing I Week 1 note]]"
 ---
-
 # W-Module 1: Introducing Yourself Through Clear Sentences
 
 
@@ -140,4 +139,3 @@ Prepare a short personal profile. First, list possible details about your backgr
 ## 🗓️ Friday
 
 Complete [[Writing I Week 1 Assignment]].
-

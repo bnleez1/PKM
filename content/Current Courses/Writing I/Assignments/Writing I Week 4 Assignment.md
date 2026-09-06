@@ -61,4 +61,3 @@ grouping: Pairs
 ## Deliverable to Teams Assignment
 
 1. Attached Word document to Teams assignment.
-

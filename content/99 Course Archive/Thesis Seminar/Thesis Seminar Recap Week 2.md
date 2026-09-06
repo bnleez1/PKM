@@ -1,19 +1,19 @@
 ---
-type: 'Module'
+type: Module
 title: Thesis Seminar Recap Week 2
 tags: []
-date: '2025-02-10T00:00:00.000Z'
-status: null
-subject: null
-chapterWeek: null
-coverImage: null
-unit: null
-prior: null
-next: null
-reading: null
-bookTitle: null
+date: 2025-02-10T00:00:00.000Z
+status:
+subject:
+chapterWeek:
+coverImage:
+unit:
+prior:
+next:
+reading:
+bookTitle:
 studentDeliverableS: []
-semester: null
+semester:
 relations: []
 note: []
 ---
@@ -61,4 +61,3 @@ note: []
     - [[Thesis Statement]]: What's the difference between a thesis statement for a five-paragraph essay and one for a 2,500 literature review? 
 
     - [[Thesis statement and skeleton outline]]
-

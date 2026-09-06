@@ -18,4 +18,3 @@ Guiding learners to analyze the situation, relationship, and purpose before choo
 
 **Common Misconception:**
 Context is just the physical setting.
-

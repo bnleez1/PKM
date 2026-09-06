@@ -1,14 +1,15 @@
 ---
-type: 'Page'
-collections: 'Public Pages'
+type: Page
+collections: Public Pages
 title: Nominal (noun) clauses
-aliases: null
-description: null
+aliases:
+description:
 icon: 🔰
-createdAt: '2025-01-02T19:19:46.063Z'
-lastUpdated: '2026-06-28T12:56:11.932Z'
-tags: [GrammarSyntax]
-coverImage: '[Untitled](../Images/Untitled%20(21).md)'
+createdAt: 2025-01-02T19:19:46.063Z
+lastUpdated: 2026-06-28T12:56:11.932Z
+tags:
+  - GrammarSyntax
+coverImage: "[Untitled](../Images/Untitled%20(21).md)"
 ---
 
 # Nominal (noun) clauses
@@ -72,4 +73,3 @@ Here are some tips for using nominal clauses effectively:
 - Be sure to use the correct introductory word for the type of nominal clause you are creating.
 
 - Make sure that the nominal clause is grammatically correct and that it makes sense in the context of the sentence.
-

@@ -1,19 +1,20 @@
 ---
-type: 'Module'
+type: Module
 title: Grammar in Context II ePortfolio Task I
-tags: [Assessment]
-date: null
-status: null
-subject: null
-chapterWeek: null
-coverImage: null
-unit: null
-prior: null
-next: null
-reading: null
-bookTitle: null
+tags:
+  - Assessment
+date:
+status:
+subject:
+chapterWeek:
+coverImage:
+unit:
+prior:
+next:
+reading:
+bookTitle:
 studentDeliverableS: []
-semester: null
+semester:
 relations: []
 note: []
 ---
@@ -316,4 +317,3 @@ note: []
         - Below 9 points: F (Unsatisfactory)
 
 - Each team member submits assignment to Teams.
-

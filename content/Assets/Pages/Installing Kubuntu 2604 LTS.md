@@ -1,13 +1,14 @@
 ---
-type: 'Page'
+type: Page
 title: Installing Kubuntu 26.04 LTS
-aliases: null
-description: null
-icon: null
-createdAt: '2026-07-11T02:06:17.196Z'
-lastUpdated: '2026-07-19T13:44:53.314Z'
-tags: [Linux]
-coverImage: null
+aliases:
+description:
+icon:
+createdAt: 2026-07-11T02:06:17.196Z
+lastUpdated: 2026-07-19T13:44:53.314Z
+tags:
+  - Linux
+coverImage:
 ---
 
 # Installing Kubuntu 26.04 LTS
@@ -1321,5 +1322,3 @@ coverImage: null
         This will give you a list of all available packages that have "pdf" and "thumbnailer" in their name or description, allowing you to find the correct package name if it has been changed.
 
         For your situation, simply running `sudo apt install evince` is the most direct and probable fix. 👍
-
-

@@ -22,4 +22,3 @@ grouping:
 
 
 Complete listening handout ([Sofia_and_Diego_Compare_Contrast_Handout.docx)](https://eduuaa.sharepoint.com/:w:/s/ListeningI2026/IQDi1ZkOpoVMRpe8qVUGnOrgAc3CikZe-wjHbWLywiwIrmA?e=BWQdKK) in class and submit assignment to Listening I Task Week 2 assignment in Teams.
-

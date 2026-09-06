@@ -39,4 +39,3 @@ grouping:
 ## Deliverable to Teams Assignment
 
 1. Attached Word document to Writing I Week 2 Assignment.
-

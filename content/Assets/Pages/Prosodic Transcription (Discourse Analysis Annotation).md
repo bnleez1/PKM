@@ -1,14 +1,15 @@
 ---
-type: 'Page'
-collections: 'Public Pages'
+type: Page
+collections: Public Pages
 title: Prosodic Transcription (Discourse Analysis Annotation)
-aliases: null
-description: null
+aliases:
+description:
 icon: 🔍️
-createdAt: '2026-06-23T12:28:52.923Z'
-lastUpdated: '2026-06-28T12:56:02.365Z'
-tags: [DiscourseAnalysis]
-coverImage: '[Untitled](../Images/Untitled%20(143).md)'
+createdAt: 2026-06-23T12:28:52.923Z
+lastUpdated: 2026-06-28T12:56:02.365Z
+tags:
+  - DiscourseAnalysis
+coverImage: "[Untitled](../Images/Untitled%20(143).md)"
 ---
 
 # Prosodic Transcription (Discourse Analysis Annotation)
@@ -20,7 +21,7 @@ This specific notation style is a form of **prosodic transcription** or **discou
 
 ---
 
-![annotation](../Images/Media/annotation.png)
+[annotation](../Images/Media/annotation.png)
 [[annotation|annotation - Notes]]
 
 ---
@@ -62,4 +63,3 @@ Alongside the slashes, the transcriber uses typography to capture other phonetic
 When sharing materials like this with a wider community of educators or directly with students, it shifts the focus from *what* is being said to *how* it is being said.
 
 Standard text often causes English learners to read rhythmically flat or to pause at unnatural places (like taking a breath exactly where a comma sits, regardless of the spoken flow). By analyzing transcripts formatted with this slash notation, learners can visually grasp how native speakers chunk words together, where they breathe, and how they use stress to convey meaning beyond the literal definitions of the words.
-

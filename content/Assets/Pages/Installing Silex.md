@@ -1,13 +1,14 @@
 ---
-type: 'Page'
+type: Page
 title: Installing Silex
-aliases: null
-description: null
-icon: null
-createdAt: '2026-08-31T12:25:52.767Z'
-lastUpdated: '2026-08-31T15:42:30.816Z'
-tags: [Website]
-coverImage: null
+aliases:
+description:
+icon:
+createdAt: 2026-08-31T12:25:52.767Z
+lastUpdated: 2026-08-31T15:42:30.816Z
+tags:
+  - Website
+coverImage:
 ---
 
 # Installing Silex
@@ -154,4 +155,3 @@ coverImage: null
         **Keep Silex open on only one PC at a time.** Treat this as transferring your work between computers, rather than simultaneous editing.
 
     Your edits and templates synchronize **without clicking Publish**. Click **Publish** only when you want to update the public website. Keep occasional separate backups, since synchronization also carries deletions and mistakes to the other PC.
-

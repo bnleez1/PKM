@@ -61,4 +61,3 @@ Use this open assignment to complete independent English practice in the **CAADI
 ## Use of AI and Other Support
 
 Use dictionaries, reference materials, CAADI resources, and digital tools only when they support the learning goal of the worksheet. **Do not use GenAI to complete the worksheet for you.** If a worksheet explicitly permits GenAI, follow the instructions provided and document your use when required.
-

@@ -105,4 +105,3 @@ CAADI Worksheet 10 completes the required CAADI sequence. Apply gist listening, 
 ## 🗓️ Thursday
 
 ## 🗓️ Friday
-

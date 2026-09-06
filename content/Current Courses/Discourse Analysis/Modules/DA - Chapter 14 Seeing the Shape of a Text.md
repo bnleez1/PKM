@@ -121,4 +121,3 @@ Before submitting, ask whether the proposed macrostructure is supported by sever
 ## 🗓️ Thursday (9:00 AM - 10:00 AM)
 
 ## 🗓️ Friday (9:00 AM - 10:00 AM)
-

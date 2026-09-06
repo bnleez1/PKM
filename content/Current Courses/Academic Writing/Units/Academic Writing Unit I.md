@@ -1,11 +1,15 @@
 ---
-type: 'Unit'
-collections: 'Academic Writing Units, Units'
+type: Unit
+collections: Academic Writing Units, Units
 title: Academic Writing Unit I
-tags: [Unit, Writing, EnglishSkillDevelopment]
+tags:
+  - Unit
+  - Writing
+  - EnglishSkillDevelopment
 date: 2026-08-10T00:00:00.000Z -> 2026-08-23T00:00:00.000Z
-subject: ['[[Academic Writing]]']
-coverImage: null
+subject:
+  - "[[Academic Writing]]"
+coverImage:
 ---
 
 # Academic Writing Unit I
@@ -107,4 +111,3 @@ Students will independently use their learning to:
 ## 🎯 Stage 3 - Learning Sequence
 
 [Academic Writing Modules](../Modules/Academic%20Writing%20Modules.csv)
-

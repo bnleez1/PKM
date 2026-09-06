@@ -1,16 +1,15 @@
 ---
-type: 'Glossary'
-collections: 'Written Error Code'
+type: Glossary
+collections: Written Error Code
 title: (BH) Boosting and the nuances of hedging
-tags: [WritingErrorCode, Writing]
+tags:
+  - WritingErrorCode
+  - Writing
 subject: []
-formalDefinition: >-
-  Boosting is a rhetorical device that is used to express confidence in a claim
-  or statement; hedging is a linguistic technique used in writing and speech to
-  express caution or uncertainty, to soften statements, and to demonstrate
-  politeness or diplomacy. 
+formalDefinition: "Boosting is a rhetorical device that is used to express confidence in a claim or statement; hedging is a linguistic technique used in writing and speech to express caution or uncertainty, to soften statements, and to demonstrate politeness or diplomacy. "
 relatedTerms: []
-pages: ['[[Writing error code list]]']
+pages:
+  - "[[Writing error code list]]"
 notes: []
 ---
 
@@ -112,4 +111,3 @@ Hedging is a linguistic technique used in writing and speech to express caution 
 ## Conclusion
 
 Hedging is an important tool for writers who wish to convey their ideas accurately while acknowledging the complexity of their subject or the limitations of their knowledge. By using hedging appropriately, writers can make their writing more nuanced, credible, and respectful of different perspectives. It’s important, however, not to overuse hedging, as it can make statements overly vague or imply a lack of confidence in your own work. Balance is key.
-

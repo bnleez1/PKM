@@ -1,13 +1,13 @@
 ---
-type: 'Page'
+type: Page
 title: Installing Mullvad VPN
-aliases: null
-description: null
-icon: null
-createdAt: '2026-07-24T00:12:24.830Z'
-lastUpdated: '2026-07-24T00:17:56.144Z'
+aliases:
+description:
+icon:
+createdAt: 2026-07-24T00:12:24.830Z
+lastUpdated: 2026-07-24T00:17:56.144Z
 tags: []
-coverImage: null
+coverImage:
 ---
 
 # Installing Mullvad VPN
@@ -79,4 +79,3 @@ mullvad lockdown-mode set on
 ```
 
 That blocks internet traffic until Mullvad is connected.
-

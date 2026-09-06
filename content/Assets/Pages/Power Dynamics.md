@@ -18,4 +18,3 @@ Empowering learners to recognize and respond to language that patronizes or marg
 
 **Common Misconception:**
 Power is only held by the teacher.
-

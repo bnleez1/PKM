@@ -1,17 +1,18 @@
 ---
-type: 'Module'
+type: Module
 title: Grammar in Context II Week 10
-tags: [GrammarSyntax]
-date: null
+tags:
+  - GrammarSyntax
+date:
 status: Taught
-subject: null
-chapterWeek: null
-coverImage: null
-unit: null
-prior: null
-next: null
-reading: null
-bookTitle: null
+subject:
+chapterWeek:
+coverImage:
+unit:
+prior:
+next:
+reading:
+bookTitle:
 studentDeliverableS: []
 semester: Spring 2025
 relations: []
@@ -76,4 +77,3 @@ note: []
 
 
 ## [[Date/2025-04-04]]
-

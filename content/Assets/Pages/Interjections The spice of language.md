@@ -1,17 +1,15 @@
 ---
-type: 'Page'
-collections: 'Public Pages'
-title: 'Interjections: The spice of language'
-aliases: null
-description: >-
-  Interjections are expressive words and phrases that enhance communication by
-  conveying emotions and reactions, functioning as linguistic seasoning that
-  bridges spoken and written language.
+type: Page
+collections: Public Pages
+title: "Interjections: The spice of language"
+aliases:
+description: Interjections are expressive words and phrases that enhance communication by conveying emotions and reactions, functioning as linguistic seasoning that bridges spoken and written language.
 icon: 🔰
-createdAt: '2025-01-02T19:52:51.318Z'
-lastUpdated: '2026-06-28T12:56:30.855Z'
-tags: [GrammarSyntax]
-coverImage: '[Untitled](../Images/Untitled%20(21).md)'
+createdAt: 2025-01-02T19:52:51.318Z
+lastUpdated: 2026-06-28T12:56:30.855Z
+tags:
+  - GrammarSyntax
+coverImage: "[Untitled](../Images/Untitled%20(21).md)"
 ---
 
 # Interjections: The spice of language
@@ -101,4 +99,3 @@ By carefully considering these factors, you can use punctuation to effectively c
 ## Conclusion
 
 Interjections are a vital part of language, enriching our communication with color and emotion. They are the exclamation points of the spoken word, the sparks that ignite our conversations, the seasoning that makes our language flavorful. So next time you're writing or speaking, don't be afraid to sprinkle in a few interjections – they might just be the secret ingredient your communication needs.
-

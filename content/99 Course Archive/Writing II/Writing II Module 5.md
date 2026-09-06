@@ -1,20 +1,22 @@
 ---
-type: 'Module'
-collections: 'Writing II Modules'
+type: Module
+collections: Writing II Modules
 title: Writing II Module 5
-tags: [Module, Archive]
+tags:
+  - Module
+  - Archive
 date: 2026-02-23T00:00:00.000Z -> 2026-03-01T00:00:00.000Z
-status: null
-subject: '[[Writing II]]'
-chapterWeek: null
-coverImage: null
-unit: null
-prior: '[[Writing II Module 4]]'
-next: '[[Writing II Module 6]]'
-reading: null
-bookTitle: null
+status:
+subject: "[[Writing II]]"
+chapterWeek:
+coverImage:
+unit:
+prior: "[[Writing II Module 4]]"
+next: "[[Writing II Module 6]]"
+reading:
+bookTitle:
 studentDeliverableS: []
-semester: null
+semester:
 relations: []
 note: []
 ---
@@ -201,4 +203,3 @@ I can meet with anyone from 2:00 PM - 3:00 PM one day this week if you confirm a
 1. Working with your writing partner, leave thoughtful and respectful feedback.
 
 2. Make changes to your text as necessary, based on what your writing partner suggests and what we discuss in class.
-

@@ -1,14 +1,15 @@
 ---
-type: 'Page'
-collections: 'Public Pages'
+type: Page
+collections: Public Pages
 title: Topic sentence-heading-thesis alignment
-aliases: null
-description: null
+aliases:
+description:
 icon: 🧭
-createdAt: '2025-01-09T19:25:33.548Z'
-lastUpdated: '2026-06-28T12:56:41.048Z'
-tags: [Writing]
-coverImage: '[Untitled](../Images/Untitled%20(258).md)'
+createdAt: 2025-01-09T19:25:33.548Z
+lastUpdated: 2026-06-28T12:56:41.048Z
+tags:
+  - Writing
+coverImage: "[Untitled](../Images/Untitled%20(258).md)"
 ---
 
 # Topic sentence-heading-thesis alignment
@@ -61,4 +62,3 @@ Given the increasing problem of urban air pollution, cities can significantly im
 3. Investment in public transportation infrastructure can provide a cleaner and more efficient alternative to car travel.
 
 4. Public awareness campaigns about the benefits of public transportation can help shift commuter habits towards more sustainable options.
-

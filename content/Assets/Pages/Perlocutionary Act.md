@@ -18,4 +18,3 @@ Discussing cross-cultural misunderstandings where a well-intentioned compliment 
 
 **Common Misconception:**
 The speaker has full control over it.
-

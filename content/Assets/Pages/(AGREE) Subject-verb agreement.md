@@ -1,14 +1,15 @@
 ---
-type: 'Glossary'
-collections: 'Written Error Code'
+type: Glossary
+collections: Written Error Code
 title: (AGREE) Subject-verb agreement
-tags: [WritingErrorCode, Writing]
+tags:
+  - WritingErrorCode
+  - Writing
 subject: []
-formalDefinition: >-
-  Subject-verb agreement in English is a grammatical rule that states the verb
-  in a sentence must agree in number with the subject. 
+formalDefinition: "Subject-verb agreement in English is a grammatical rule that states the verb in a sentence must agree in number with the subject. "
 relatedTerms: []
-pages: ['[[Writing error code list]]']
+pages:
+  - "[[Writing error code list]]"
 notes: []
 ---
 
@@ -299,4 +300,3 @@ While not directly an exception to the *verb* agreement rule, pronoun agreement 
     "Neither the coach nor the players is/are happy," you could write: "The coach is not happy, and neither are the players." or "The coach and the players are both unhappy."
 
 By understanding these exceptions and complexities, you can navigate the sometimes-tricky world of subject-verb agreement with correlative conjunctions with greater confidence and accuracy.
-

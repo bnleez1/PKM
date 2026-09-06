@@ -1,13 +1,13 @@
 ---
-type: 'Page'
+type: Page
 title: Newsletter template
-aliases: null
-description: null
-icon: null
-createdAt: '2025-01-04T13:35:35.064Z'
-lastUpdated: '2025-01-04T13:37:08.830Z'
+aliases:
+description:
+icon:
+createdAt: 2025-01-04T13:35:35.064Z
+lastUpdated: 2025-01-04T13:37:08.830Z
 tags: []
-coverImage: null
+coverImage:
 ---
 
 # Newsletter template
@@ -71,4 +71,3 @@ Here are four innovative newsletter design ideas tailored for instructors, train
 - **Visuals**: Use vibrant colors and dynamic layouts that inspire action, with motivational quotes and progress trackers to keep readers engaged.
 
 These designs can foster community, encourage engagement, and provide valuable resources while maintaining a professional and appealing look.
-

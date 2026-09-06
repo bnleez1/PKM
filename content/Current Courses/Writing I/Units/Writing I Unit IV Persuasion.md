@@ -1,11 +1,14 @@
 ---
-type: 'Unit'
-collections: 'Writing I Units, Units'
-title: 'Writing I Unit IV: Persuasion'
-tags: [Writing, EnglishSkillDevelopment]
+type: Unit
+collections: Writing I Units, Units
+title: "Writing I Unit IV: Persuasion"
+tags:
+  - Writing
+  - EnglishSkillDevelopment
 date: 2026-11-02T00:00:00.000Z -> 2026-12-06T00:00:00.000Z
-subject: ['[[Writing I]]']
-coverImage: null
+subject:
+  - "[[Writing I]]"
+coverImage:
 ---
 
 # Writing I Unit IV: Persuasion
@@ -61,4 +64,3 @@ Students will independently use their learning to:
 ### B. Other Evidence
 
 ## 🎯 Stage 3 - Learning Sequence
-

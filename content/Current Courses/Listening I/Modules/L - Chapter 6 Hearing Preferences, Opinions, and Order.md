@@ -103,4 +103,3 @@ CAADI Worksheet 6 should show a clear progression: identify the overall attitude
 ## 🗓️ Thursday
 
 ## 🗓️ Friday
-

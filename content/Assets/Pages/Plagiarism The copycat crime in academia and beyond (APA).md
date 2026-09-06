@@ -1,12 +1,16 @@
 ---
-type: 'Glossary'
-collections: 'Written Error Code'
-title: 'Plagiarism: The copycat crime in academia and beyond (APA)'
-tags: [WritingErrorCode, Writing, Plagiarism]
+type: Glossary
+collections: Written Error Code
+title: "Plagiarism: The copycat crime in academia and beyond (APA)"
+tags:
+  - WritingErrorCode
+  - Writing
+  - Plagiarism
 subject: []
-formalDefinition: null
+formalDefinition:
 relatedTerms: []
-pages: ['[[Writing error code list]]']
+pages:
+  - "[[Writing error code list]]"
 notes: []
 ---
 
@@ -115,4 +119,3 @@ Again, plagiarism is the act of using someone else's work or ideas without givin
 7. **Source-Based Plagiarism**: Involves misrepresenting the content or context of your sources. This could be citing a source that doesn't exist, or inaccurately summarizing a source's content.
 
 By understanding and avoiding these types of plagiarism, you can maintain academic integrity and the trust of your peers and superiors.
-

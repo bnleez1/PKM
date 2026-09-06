@@ -1,16 +1,14 @@
 ---
-type: 'Page'
-title: 'Unit I: Crafting a Research Article for Academic Journals'
-aliases: null
-description: >-
-  This chapter provides a comprehensive guide to crafting a research article for
-  academic journals, incorporating essential writing techniques and resources to
-  enhance your academic writing skills. 
+type: Page
+title: "Unit I: Crafting a Research Article for Academic Journals"
+aliases:
+description: "This chapter provides a comprehensive guide to crafting a research article for academic journals, incorporating essential writing techniques and resources to enhance your academic writing skills. "
 icon: 🧭
-createdAt: '2024-12-27T13:57:53.230Z'
-lastUpdated: '2026-06-02T12:14:38.494Z'
-tags: [Reading]
-coverImage: '[Untitled](../Images/Untitled%20(117).md)'
+createdAt: 2024-12-27T13:57:53.230Z
+lastUpdated: 2026-06-02T12:14:38.494Z
+tags:
+  - Reading
+coverImage: "[Untitled](../Images/Untitled%20(117).md)"
 ---
 
 # Unit I: Crafting a Research Article for Academic Journals
@@ -135,4 +133,3 @@ By following these guidelines, you can increase the likelihood of your article b
 - [[Types of transitions]], [[Types of clauses]], [Mastering sentence types: A guide to simple, compound, complex, and compound-complex sentences](Mastering%20sentence%20types%20A%20guide%20to%20simple,%20compound,%20complex,%20and%20compound-com.md), [[Types of body paragraphs]]:
 
     - **Summary:** These resources provide guidance on using transitions, understanding different types of clauses and sentences, and structuring body paragraphs effectively.
-

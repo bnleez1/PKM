@@ -18,4 +18,3 @@ Teaching vocabulary in chunks (verb+noun pairs) rather than as isolated lists of
 
 **Common Misconception:**
 Any two words that make grammatical sense together.
-

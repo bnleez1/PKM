@@ -1,13 +1,14 @@
 ---
-type: 'Page'
+type: Page
 title: Installing Nobara KDE
-aliases: null
-description: null
+aliases:
+description:
 icon: 🖥️
-createdAt: '2026-07-09T14:39:58.489Z'
-lastUpdated: '2026-08-30T16:48:21.345Z'
-tags: [Linux]
-coverImage: '[Untitled](../Images/Untitled%20(255).md)'
+createdAt: 2026-07-09T14:39:58.489Z
+lastUpdated: 2026-08-30T16:48:21.345Z
+tags:
+  - Linux
+coverImage: "[Untitled](../Images/Untitled%20(255).md)"
 ---
 
 # Installing Nobara KDE
@@ -803,4 +804,3 @@ coverImage: '[Untitled](../Images/Untitled%20(255).md)'
         **Removal:** delete only the dedicated family folder you created, then run `fc-cache -f`. For packaged fonts, remove the specific package with `sudo dnf remove PACKAGE_NAME`, reviewing the proposed transaction first.
 
         **Maintenance:** repository fonts update through Nobara’s updater. Manually downloaded fonts need manual updates; replace the old files rather than accumulating multiple versions.
-

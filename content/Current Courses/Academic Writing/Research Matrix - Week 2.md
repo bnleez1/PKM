@@ -1,21 +1,22 @@
 ---
-type: 'Assignment'
+type: Assignment
 title: Research Matrix - Week 2
 icon: ⚡️
-tags: [Research]
-courseS: ['[[Academic Writing]]']
-unitS: '[[Academic Writing Unit I]]'
-module: >-
-  [AW-Module 2: From Broad Interest to Researchable
-  Proposal](../Modules/AW-Module%202%20From%20Broad%20Interest%20to%20Researchable%20Proposal.md)
-dueDate: '2026-08-21T00:00:00.000Z'
-status: '[[In Progress]]'
-learningOutcomes: ['[[Narrowing down a topic]]']
-rubric: null
+tags:
+  - Research
+courseS:
+  - "[[Academic Writing]]"
+unitS: "[[Academic Writing Unit I]]"
+module: "[AW-Module 2: From Broad Interest to Researchable Proposal](../Modules/AW-Module%202%20From%20Broad%20Interest%20to%20Researchable%20Proposal.md)"
+dueDate: 2026-08-21T00:00:00.000Z
+status: "[[In Progress]]"
+learningOutcomes:
+  - "[[Narrowing down a topic]]"
+rubric:
 aiUse: []
-coverImage: '[Untitled](../Images/Untitled%20(1).md)'
+coverImage: "[Untitled](../Images/Untitled%20(1).md)"
 durationHours: 10
-grouping: null
+grouping:
 ---
 
 # Research Matrix - Week 2
@@ -71,4 +72,3 @@ Complete one row of the Academic Writing Matrix for your proposed Unit I researc
 **Submit your completed Week 2 Research Topic Matrix entry containing all eight required fields.** Your matrix entry should be concise enough to scan quickly but specific enough that another reader can understand what you plan to investigate, why it matters, who it concerns, and which preliminary sources support the problem.
 
 **Completion check:** one complete row, three APA-formatted scholarly article references, and no missing fields.
-

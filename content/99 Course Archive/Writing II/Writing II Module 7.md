@@ -1,20 +1,22 @@
 ---
-type: 'Module'
-collections: 'Writing II Modules'
+type: Module
+collections: Writing II Modules
 title: Writing II Module 7
-tags: [Module, Archive]
+tags:
+  - Module
+  - Archive
 date: 2026-03-09T00:00:00.000Z -> 2026-03-15T00:00:00.000Z
-status: null
-subject: '[[Writing II]]'
-chapterWeek: null
-coverImage: null
-unit: null
-prior: '[[Writing II Module 6]]'
-next: '[[Writing II Module 8]]'
-reading: null
-bookTitle: null
+status:
+subject: "[[Writing II]]"
+chapterWeek:
+coverImage:
+unit:
+prior: "[[Writing II Module 6]]"
+next: "[[Writing II Module 8]]"
+reading:
+bookTitle:
 studentDeliverableS: []
-semester: null
+semester:
 relations: []
 note: []
 ---
@@ -1096,4 +1098,3 @@ A key takeaway for writing an expository essay is to use signposting to guide th
 4. Begin Writing II: Body Paragraph 1 Task.
 
 5. Request feedback as needed (in class and outside of class).
-

@@ -1,20 +1,22 @@
 ---
-type: 'Module'
-collections: 'Writing II Modules'
+type: Module
+collections: Writing II Modules
 title: Writing II Module 3
-tags: [Module, Archive]
+tags:
+  - Module
+  - Archive
 date: 2026-02-09T00:00:00.000Z -> 2026-02-15T00:00:00.000Z
-status: null
-subject: '[[Writing II]]'
-chapterWeek: null
-coverImage: null
-unit: null
-prior: '[[Writing II Module 2]]'
-next: '[[Writing II Module 4]]'
-reading: null
-bookTitle: null
+status:
+subject: "[[Writing II]]"
+chapterWeek:
+coverImage:
+unit:
+prior: "[[Writing II Module 2]]"
+next: "[[Writing II Module 4]]"
+reading:
+bookTitle:
 studentDeliverableS: []
-semester: null
+semester:
 relations: []
 note: []
 ---
@@ -416,4 +418,3 @@ note: []
 ## Take Action
 
 1. Continue working in your shared Word document in Descriptive Essays.
-

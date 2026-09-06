@@ -18,4 +18,3 @@ Teaching learners how to sound more natural by dropping redundant words (e.g., '
 
 **Common Misconception:**
 Ellipsis is a grammatical error or 'lazy' speech.
-

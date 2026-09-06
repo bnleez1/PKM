@@ -1,14 +1,15 @@
 ---
-type: 'Page'
-collections: 'Public Pages'
+type: Page
+collections: Public Pages
 title: Noun clauses and indirect questions
-aliases: null
-description: null
-icon: null
-createdAt: '2025-03-12T14:03:22.919Z'
-lastUpdated: '2026-06-28T12:57:30.751Z'
-tags: [GrammarSyntax]
-coverImage: '[Untitled](../Images/Untitled%20(142).md)'
+aliases:
+description:
+icon:
+createdAt: 2025-03-12T14:03:22.919Z
+lastUpdated: 2026-06-28T12:57:30.751Z
+tags:
+  - GrammarSyntax
+coverImage: "[Untitled](../Images/Untitled%20(142).md)"
 ---
 
 # Noun clauses and indirect questions
@@ -132,4 +133,3 @@ To master this structure, learners should practice converting **direct yes/no qu
 - **Did they finish the project?** → *We are not sure whether they finished the project.*
 
 By understanding **noun clause connectors** and how they function in indirect questions, TOEFL test takers can improve their grammar accuracy and avoid common errors.
-

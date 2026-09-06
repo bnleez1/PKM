@@ -18,4 +18,3 @@ Assessing a learner’s ability to successfully resolve a conflict, regardless o
 
 **Common Misconception:**
 It just means having a big vocabulary.
-

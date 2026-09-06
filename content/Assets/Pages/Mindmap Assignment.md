@@ -1,13 +1,13 @@
 ---
-type: 'Page'
+type: Page
 title: Mindmap Assignment
-aliases: null
-description: null
+aliases:
+description:
 icon: ✴️
-createdAt: '2026-07-24T17:03:57.971Z'
-lastUpdated: '2026-07-24T19:23:11.125Z'
+createdAt: 2026-07-24T17:03:57.971Z
+lastUpdated: 2026-07-24T19:23:11.125Z
 tags: []
-coverImage: '[Untitled](../Images/Untitled%20(103).md)'
+coverImage: "[Untitled](../Images/Untitled%20(103).md)"
 ---
 
 # Mindmap Assignment
@@ -157,7 +157,7 @@ coverImage: '[Untitled](../Images/Untitled%20(103).md)'
 
     > **ChatGPT 5.6 Sol-High Prompt**: @Create image Create a mind map for the following activity: @Create image Create a mind map for the following activity: The activity consists of creating a concept map that hierarchically represents the relationships between teaching, planning, and the course syllabus, distinguishing between their implicit and explicit elements. Your map must be legible, hierarchical, and coherent, created on a slide or using a specific application (a specialized digital tool for creating mind maps). Instructions Review the presentation and identify the central concepts addressed. Use the following as the main concept: Course syllabus Select the concepts that are directly related to this: teaching; teaching planning; levels of planning; curriculum; lesson planning; educational model; curricular model; pedagogical or didactic model; implicit elements; explicit elements. Organize the concepts hierarchically, from the most general to the most specific. Avoid simply listing them. Represent the relationship between the three planning levels: Macro level: curriculum. Meso level: course syllabus. Micro level: lesson planning and learning activities. Incorporate two main branches from the course syllabus concept: Implicit elements: conception of education; conception of teaching and learning; role of the teacher; role of the student; institutional values; conception of assessment; commitment to society. Explicit elements: identification data; course description; learning objectives; specific content and objectives; teaching and learning methodology; teaching resources; assessment; reference sources. 7. Connect the concepts with lines or arrows and include linking words, for example: “derives from”; “is based on”; “specifies”; “guides”; “is organized into”; “includes”; “translates into”; “contributes to”. 8. Verify that each relationship forms a complete proposition. For example: The course syllabus is derived from the curriculum. Review the clarity, hierarchy, and conceptual precision before submitting the product. Review Criteria Includes the presentation's core concepts. Establishes an appropriate hierarchy. Differentiates between implicit and explicit elements. Connects macro, meso, and micro levels. Uses precise linking words. Presents correct conceptual relationships. Maintains clarity and visual balance.
 
-    ![Mind Map](../Images/Media/Mind%20Map.png)
+    [Mind Map](../Images/Media/Mind%20Map.png)
     [[Mind Map|Mind Map - Notes]]
 
 
@@ -182,4 +182,3 @@ coverImage: '[Untitled](../Images/Untitled%20(103).md)'
     3. How implicit elements influence more macro and meso level planning while explicit elements reflect more meso and micro level planning.
 
     4. How UAA continuing education courses attempt to link curriculum models (macro level planning) to pedagogical models (meso level planning) and instructional designs (micro level planning).
-

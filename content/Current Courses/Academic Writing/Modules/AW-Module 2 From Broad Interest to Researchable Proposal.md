@@ -317,4 +317,3 @@ Today, we write our [[Unit I Initial Research Proposal]].
     - [ ] I reviewed the proposal for B2+ academic English, spelling, punctuation, coherence, and formatting.
 
     - [ ] I included the Academic Integrity Declaration.
-

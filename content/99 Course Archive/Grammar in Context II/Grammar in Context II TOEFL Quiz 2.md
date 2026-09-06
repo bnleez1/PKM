@@ -1,17 +1,19 @@
 ---
-type: 'Module'
+type: Module
 title: Grammar in Context II TOEFL Quiz 2
-tags: [Assessment, GrammarSyntax]
-date: null
+tags:
+  - Assessment
+  - GrammarSyntax
+date:
 status: Taught
-subject: null
-chapterWeek: null
-coverImage: null
-unit: null
-prior: null
-next: null
-reading: null
-bookTitle: null
+subject:
+chapterWeek:
+coverImage:
+unit:
+prior:
+next:
+reading:
+bookTitle:
 studentDeliverableS: []
 semester: Spring 2025
 relations: []
@@ -48,4 +50,3 @@ Grades are on a curve: Percentage grade to points out of 10 (percentage on a cur
 Points assigned to Teams out of three points possible
 
 Percentage on a curve * 3
-

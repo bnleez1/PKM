@@ -1,13 +1,14 @@
 ---
-type: 'Page'
+type: Page
 title: Reference as a Form of Grammatical Cohesion
-aliases: null
-description: null
+aliases:
+description:
 icon: ✴️
-createdAt: '2026-08-26T04:05:42.106Z'
-lastUpdated: '2026-08-28T12:17:34.611Z'
-tags: [DiscourseAnalysis]
-coverImage: '[Untitled](../Images/Untitled%20(8).md)'
+createdAt: 2026-08-26T04:05:42.106Z
+lastUpdated: 2026-08-28T12:17:34.611Z
+tags:
+  - DiscourseAnalysis
+coverImage: "[Untitled](../Images/Untitled%20(8).md)"
 ---
 # Reference as a Form of Grammatical Cohesion
 
@@ -180,4 +181,3 @@ The text contains several cohesive reference relationships. **They** refers to *
 Without these connections, a writer would need to repeat the same information constantly. Reference allows language users to build meaning across sentences efficiently.
 
 When analyzing reference as part of discourse analysis, therefore, it is useful to ask three questions: **What is the referring expression? What does it refer to? Where must the reader or listener look to identify that meaning?** These questions make it possible to identify not only individual pronouns or demonstratives but also the larger network of grammatical connections that gives a text cohesion.
-

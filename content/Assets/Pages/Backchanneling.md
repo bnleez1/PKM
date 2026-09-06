@@ -18,4 +18,3 @@ Training learners to use active listening sounds to keep a conversation flowing 
 
 **Common Misconception:**
 It interrupts the speaker.
-

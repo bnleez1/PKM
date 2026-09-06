@@ -1,14 +1,15 @@
 ---
-type: 'Page'
-collections: 'Public Pages'
+type: Page
+collections: Public Pages
 title: Abstract nouns
-aliases: null
-description: null
+aliases:
+description:
 icon: 🔰
-createdAt: '2025-01-02T19:41:08.519Z'
-lastUpdated: '2026-06-28T12:56:21.154Z'
-tags: [GrammarSyntax]
-coverImage: '[Untitled](../Images/Untitled%20(21).md)'
+createdAt: 2025-01-02T19:41:08.519Z
+lastUpdated: 2026-06-28T12:56:21.154Z
+tags:
+  - GrammarSyntax
+coverImage: "[Untitled](../Images/Untitled%20(21).md)"
 ---
 
 # Abstract nouns
@@ -92,4 +93,3 @@ These nouns describe the various conditions and phases of life and the universe:
 ### **The Importance of Abstract Nouns**
 
 Abstract nouns are essential for expressing complex ideas and emotions, for engaging in philosophical discussions, and for understanding the human experience. They add depth and nuance to our language, allowing us to communicate beyond the realm of the tangible and explore the vast landscape of the human mind.
-

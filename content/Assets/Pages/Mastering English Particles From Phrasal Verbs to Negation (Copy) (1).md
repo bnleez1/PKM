@@ -1,13 +1,14 @@
 ---
-type: 'Page'
-title: 'Mastering English Particles: From Phrasal Verbs to Negation (Copy)'
-aliases: null
-description: null
+type: Page
+title: "Mastering English Particles: From Phrasal Verbs to Negation (Copy)"
+aliases:
+description:
 icon: 🔰
-createdAt: '2025-01-02T18:59:04.236Z'
-lastUpdated: '2025-01-02T18:59:08.852Z'
-tags: [GrammarSyntax]
-coverImage: '[Untitled](../Images/Untitled%20(21).md)'
+createdAt: 2025-01-02T18:59:04.236Z
+lastUpdated: 2025-01-02T18:59:08.852Z
+tags:
+  - GrammarSyntax
+coverImage: "[Untitled](../Images/Untitled%20(21).md)"
 ---
 
 # Mastering English Particles: From Phrasal Verbs to Negation (Copy)
@@ -85,4 +86,3 @@ These particles help form questions without carrying significant meaning by them
 - **Focus particles**: highlight certain words (e.g., "only bought").
 
 - **Interrogative particles**: aid in forming questions (e.g., "Do you like...?").
-

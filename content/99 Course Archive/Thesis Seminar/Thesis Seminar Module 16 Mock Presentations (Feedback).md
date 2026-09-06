@@ -25,7 +25,7 @@ note: []
 
 ## Group Feedback
 
-![Thesis_Defense_Presentation_Success_Guide](../Images/Media/Thesis_Defense_Presentation_Success_Guide.png)
+[Thesis_Defense_Presentation_Success_Guide](../Images/Media/Thesis_Defense_Presentation_Success_Guide.png)
 [[Thesis_Defense_Presentation_Success_Guide|Thesis_Defense_Presentation_Success_Guide - Notes]]
 
 - Academic Presentation Standards: Strategies for Oral Defense
@@ -1977,4 +1977,3 @@ note: []
         17. 18:40
 
     1. Review possible questions examiners might ask.
-

@@ -1,14 +1,15 @@
 ---
-type: 'Page'
-collections: 'Public Pages'
+type: Page
+collections: Public Pages
 title: Understanding Signposting in Academic Writing
-aliases: null
-description: null
+aliases:
+description:
 icon: ⏱️
-createdAt: '2025-01-07T18:38:39.408Z'
-lastUpdated: '2026-06-28T12:56:40.914Z'
-tags: [Writing]
-coverImage: '[Untitled](../Images/Untitled%20(384).md)'
+createdAt: 2025-01-07T18:38:39.408Z
+lastUpdated: 2026-06-28T12:56:40.914Z
+tags:
+  - Writing
+coverImage: "[Untitled](../Images/Untitled%20(384).md)"
 ---
 
 # Understanding Signposting in Academic Writing
@@ -76,4 +77,3 @@ Consider the following examples to see how signposting can be used effectively:
 #### Conclusion
 
 Signposting is a valuable tool in academic writing, helping to guide the reader through the text and highlight key points. However, it is important to use signposts judiciously to avoid redundancy, a patronizing tone, distraction, and wordiness. By striking the right balance, writers can ensure that their arguments are clear, coherent, and engaging, without overwhelming the reader with excessive signposting.
-

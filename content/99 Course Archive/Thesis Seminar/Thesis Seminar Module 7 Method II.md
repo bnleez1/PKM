@@ -90,4 +90,3 @@ note: []
 - Which of the following designs best fits your study: Phenomenology_Diving into a lived experience, Case study_ Delving deep into specifics, or Narrative research?
 
 - Using AI to generate ideas for creating a questionnaire
-

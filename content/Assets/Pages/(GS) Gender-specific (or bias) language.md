@@ -1,14 +1,15 @@
 ---
-type: 'Glossary'
-collections: 'Written Error Code'
+type: Glossary
+collections: Written Error Code
 title: (GS) Gender-specific (or bias) language
-tags: [WritingErrorCode, Writing]
+tags:
+  - WritingErrorCode
+  - Writing
 subject: []
-formalDefinition: >-
-  Language to promote fair, accurate, and respectful language for all
-  individuals.
+formalDefinition: Language to promote fair, accurate, and respectful language for all individuals.
 relatedTerms: []
-pages: ['[[Writing error code list]]']
+pages:
+  - "[[Writing error code list]]"
 notes: []
 ---
 
@@ -104,4 +105,3 @@ Here are some examples of how to use gender-inclusive language:
 - Instead of saying "he or she," say "they."
 
 By using gender-inclusive language, you can help to create a more inclusive and respectful environment for everyone.
-

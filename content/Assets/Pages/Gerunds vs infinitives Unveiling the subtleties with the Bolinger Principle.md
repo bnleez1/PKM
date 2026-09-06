@@ -1,13 +1,14 @@
 ---
-type: 'Page'
-title: 'Gerunds vs. infinitives: Unveiling the subtleties with the Bolinger Principle'
-aliases: null
-description: null
+type: Page
+title: "Gerunds vs. infinitives: Unveiling the subtleties with the Bolinger Principle"
+aliases:
+description:
 icon: 🖋️
-createdAt: '2025-01-02T18:31:53.580Z'
-lastUpdated: '2026-06-12T20:41:43.838Z'
-tags: [GrammarSyntax]
-coverImage: '[Untitled](../Images/Untitled%20(13).md)'
+createdAt: 2025-01-02T18:31:53.580Z
+lastUpdated: 2026-06-12T20:41:43.838Z
+tags:
+  - GrammarSyntax
+coverImage: "[Untitled](../Images/Untitled%20(13).md)"
 ---
 
 # Gerunds vs. infinitives: Unveiling the subtleties with the Bolinger Principle
@@ -125,4 +126,3 @@ Here are some additional tips for using gerunds and infinitives:
 - **Get feedback from a native speaker.** If you are not sure which form to use, ask a native speaker for help.
 
 By following these tips, you can avoid making mistakes with gerunds and infinitives.
-

@@ -1,14 +1,15 @@
 ---
-type: 'Page'
-collections: 'Public Pages'
+type: Page
+collections: Public Pages
 title: Verb phrases
-aliases: null
-description: null
+aliases:
+description:
 icon: 🖋️
-createdAt: '2025-01-03T01:27:43.075Z'
-lastUpdated: '2026-06-28T12:56:30.961Z'
-tags: [GrammarSyntax]
-coverImage: '[Untitled](../Images/Untitled%20(13).md)'
+createdAt: 2025-01-03T01:27:43.075Z
+lastUpdated: 2026-06-28T12:56:30.961Z
+tags:
+  - GrammarSyntax
+coverImage: "[Untitled](../Images/Untitled%20(13).md)"
 ---
 
 # Verb phrases
@@ -182,4 +183,3 @@ Verb phrases are used to convey different meanings and nuances in sentences. The
 ### Conclusion
 
 Understanding and using verb phrases correctly is crucial for mastering English. By recognizing the different types of verb phrases and practicing their formation and usage, you can enhance your language skills and communicate more effectively. Keep practicing, and soon you’ll find that using verb phrases becomes second nature!
-

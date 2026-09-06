@@ -20,7 +20,6 @@ semester: Fall 2026
 relations: []
 note: []
 ---
-
 # W-Module 2: Writing About Routines and Campus Life
 
 
@@ -107,7 +106,7 @@ Create categories such as times, places, actions, people, and feelings. Add word
 
 - Daily Routines
 
-    ![ChatGPT Image Aug 18, 2026, 11_38_18 AM](../Images/Media/ChatGPT%20Image%20Aug%2018,%202026,%2011_38_18%20AM.png)
+    [ChatGPT Image Aug 18, 2026, 11_38_18 AM](../Images/Media/ChatGPT%20Image%20Aug%2018,%202026,%2011_38_18%20AM.png)
     [[ChatGPT Image Aug 18, 2026, 11_38_18 AM|ChatGPT Image Aug 18, 2026, 11_38_18 AM - Notes]]
 
 - [Mastering sentence types: A guide to simple, compound, complex, and compound-complex sentences](../Pages/Mastering%20sentence%20types%20A%20guide%20to%20simple,%20compound,%20complex,%20and%20compound-com.md)
@@ -133,4 +132,3 @@ Complete [handout](https://eduuaa.sharepoint.com/:w:/s/WritingI2026/IQABxWH-tn8j
 - Complete [[Writing I Week 2 Assignment]].
 
 - 
-

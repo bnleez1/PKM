@@ -18,4 +18,3 @@ Showing learners a corpus tool to prove that 'rely on' is vastly more common tha
 
 **Common Misconception:**
 It replaces the need for grammar books.
-

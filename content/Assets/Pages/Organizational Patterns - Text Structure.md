@@ -1,14 +1,15 @@
 ---
-type: 'Page'
-collections: 'Public Pages'
+type: Page
+collections: Public Pages
 title: Organizational Patterns - Text Structure
-aliases: null
-description: null
+aliases:
+description:
 icon: ✍️
-createdAt: '2025-01-08T14:19:47.871Z'
-lastUpdated: '2026-06-28T12:56:40.947Z'
-tags: [Writing]
-coverImage: '[Untitled](../Images/Untitled%20(29).md)'
+createdAt: 2025-01-08T14:19:47.871Z
+lastUpdated: 2026-06-28T12:56:40.947Z
+tags:
+  - Writing
+coverImage: "[Untitled](../Images/Untitled%20(29).md)"
 ---
 
 # Organizational Patterns - Text Structure

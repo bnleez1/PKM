@@ -1,14 +1,15 @@
 ---
-type: 'Page'
-collections: 'Public Pages'
+type: Page
+collections: Public Pages
 title: Participial phrases
-aliases: null
-description: null
+aliases:
+description:
 icon: 🔰
-createdAt: '2025-01-02T19:30:48.222Z'
-lastUpdated: '2026-06-28T12:56:20.998Z'
-tags: [GrammarSyntax]
-coverImage: '[Untitled](../Images/Untitled%20(21).md)'
+createdAt: 2025-01-02T19:30:48.222Z
+lastUpdated: 2026-06-28T12:56:20.998Z
+tags:
+  - GrammarSyntax
+coverImage: "[Untitled](../Images/Untitled%20(21).md)"
 ---
 
 # Participial phrases
@@ -236,5 +237,3 @@ An adjective clause modifies a noun or pronoun and usually starts with a relativ
 - Grammarians might use "reduced adjective clause" to emphasize the relationship to the full clause and the transformation process. They might use "participial phrase" to describe the structure itself, regardless of whether it's thought of as a reduction.
 
 For practical purposes, especially when teaching, understanding that these participial phrases function *like* adjective clauses and can often be derived from them by removing the relative pronoun and `be` verb is a very useful concept. They are two ways of looking at largely the same grammatical structure and function.
-
-

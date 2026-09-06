@@ -18,4 +18,3 @@ Teaching advanced learners how to understand sarcasm and humor in English televi
 
 **Common Misconception:**
 It means the speaker is lying or making a mistake.
-

@@ -1,13 +1,14 @@
 ---
-type: 'Page'
+type: Page
 title: A Deep Dive into Commas
-aliases: null
-description: null
+aliases:
+description:
 icon: ⚡️
-createdAt: '2026-08-18T17:35:57.612Z'
-lastUpdated: '2026-08-18T18:54:03.816Z'
-tags: [Punctuation]
-coverImage: '[Untitled](../Images/Untitled%20(232).md)'
+createdAt: 2026-08-18T17:35:57.612Z
+lastUpdated: 2026-08-18T18:54:03.816Z
+tags:
+  - Punctuation
+coverImage: "[Untitled](../Images/Untitled%20(232).md)"
 ---
 
 # A Deep Dive into Commas
@@ -184,4 +185,3 @@ Sometimes, it can be tricky to decide. Here's a helpful tip:
     - My brother, who lives in California, is coming to visit for the holidays.
 
 **Remember:** Comma usage, while guided by rules, also has a touch of style to it. The best way to master it is through practice and reading a variety of well-written texts.
-

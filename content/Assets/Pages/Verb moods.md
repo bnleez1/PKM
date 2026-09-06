@@ -1,14 +1,15 @@
 ---
-type: 'Page'
-collections: 'Public Pages'
+type: Page
+collections: Public Pages
 title: Verb moods
-aliases: null
-description: null
+aliases:
+description:
 icon: 🔰
-createdAt: '2025-01-02T19:34:36.612Z'
-lastUpdated: '2026-06-28T12:56:21.057Z'
-tags: [GrammarSyntax]
-coverImage: '[Untitled](../Images/Untitled%20(21).md)'
+createdAt: 2025-01-02T19:34:36.612Z
+lastUpdated: 2026-06-28T12:56:21.057Z
+tags:
+  - GrammarSyntax
+coverImage: "[Untitled](../Images/Untitled%20(21).md)"
 ---
 
 # Verb moods
@@ -120,4 +121,3 @@ Expresses wishes, hypothetical situations, suggestions, demands, or conditions t
     - **Should** you need assistance, please call.
 
     - **Could** you please pass the bread?
-

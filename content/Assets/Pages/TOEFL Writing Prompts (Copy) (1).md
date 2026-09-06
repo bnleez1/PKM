@@ -1,13 +1,14 @@
 ---
-type: 'Page'
+type: Page
 title: TOEFL Writing Prompts (Copy)
-aliases: null
-description: null
+aliases:
+description:
 icon: 🔰
-createdAt: '2025-01-02T15:24:58.406Z'
-lastUpdated: '2026-05-31T23:49:03.194Z'
-tags: [Writing]
-coverImage: '[Untitled](../Images/Untitled%20(21).md)'
+createdAt: 2025-01-02T15:24:58.406Z
+lastUpdated: 2026-05-31T23:49:03.194Z
+tags:
+  - Writing
+coverImage: "[Untitled](../Images/Untitled%20(21).md)"
 ---
 
 # TOEFL Writing Prompts (Copy)
@@ -73,4 +74,3 @@ coverImage: '[Untitled](../Images/Untitled%20(21).md)'
 - Is it more important to focus on economic growth or environmental protection?
 
 Remember, the key to writing a successful TOEFL essay is to present clear arguments, provide examples and evidence to support your points, and demonstrate a good command of English grammar and vocabulary. Practice writing essays on various topics to become comfortable with the format and expectations of the TOEFL writing section.
-

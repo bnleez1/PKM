@@ -18,4 +18,3 @@ Practicing giving directions or discussing timelines where the physical location
 
 **Common Misconception:**
 Deictic words have fixed dictionary meanings.
-

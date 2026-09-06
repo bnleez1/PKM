@@ -59,4 +59,3 @@ Analyze the TOEFL institutional testing program and determine all of the differe
 Prompt 7 gets good results using 2.0 Pro (experimental)
 
 [[TOEFL Grammar Structure 1]] | [[TOEFL Structure 2]] | [[TOEFL Structure 3]] | [[TOEFL Structure 4]] | [[TOEFL Structure 5]] | [[TOEFL Structure 6]] | [[TOEFL Structure 7]] | [[TOEFL Structure 8]] | [[TOEFL Structure 9]] | [[TOEFL Structure 10]] | [[TOEFL Structure 11]] | [[TOEFL Structure 12]] | [[TOEFL Structure 13]] | [[TOEFL Structure 14]] | [[TOEFL Structure 15]] | [[TOEFL Structure 16]]
-

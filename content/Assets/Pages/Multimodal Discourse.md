@@ -18,4 +18,3 @@ Analyzing infographics or TikTok videos as legitimate texts in the language clas
 
 **Common Misconception:**
 It just means using a PowerPoint.
-

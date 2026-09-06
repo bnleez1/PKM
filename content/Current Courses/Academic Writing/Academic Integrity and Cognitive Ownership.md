@@ -1,15 +1,17 @@
 ---
-type: 'Lecture'
+type: Lecture
 title: Academic Integrity and Cognitive Ownership
-tags: [Lecture]
-course: '[[Academic Writing]]'
-weeklyModule: ['[AW-Module 1: Academic Integrity and Cognitive Ownership](../Modules/AW-Module%201%20Academic%20Integrity%20and%20Cognitive%20Ownership.md)']
+tags:
+  - Lecture
+course: "[[Academic Writing]]"
+weeklyModule:
+  - "[AW-Module 1: Academic Integrity and Cognitive Ownership](../Modules/AW-Module%201%20Academic%20Integrity%20and%20Cognitive%20Ownership.md)"
 duration: 20 minutes
-unit: '[[Academic Writing Unit I]]'
-status: '[[Planning]]'
-essentialQuestion: null
-note: '[[Private note_100820261122]]'
-coverImage: '[Untitled](../Images/Untitled%20(173).md)'
+unit: "[[Academic Writing Unit I]]"
+status: "[[Planning]]"
+essentialQuestion:
+note: "[[Private note_100820261122]]"
+coverImage: "[Untitled](../Images/Untitled%20(173).md)"
 ---
 
 # Academic Integrity and Cognitive Ownership

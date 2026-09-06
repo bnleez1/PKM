@@ -24,7 +24,7 @@ note:
 
 # L - Module 1: Listening Begins Before the Audio
 
-![Listening I week 1](../Audios/Media/Listening%20I%20week%201.mp3)
+[Listening I week 1](../Audios/Media/Listening%20I%20week%201.mp3)
 [[Listening I week 1|Listening I week 1 - Notes]]
 
 ⚡️ Introductions, Personal Background, and the Before–During–After Listening Cycle
@@ -136,4 +136,3 @@ Song activity...
 ## 🗓️ Friday
 
 Today, we will take attendance in our classroom, and then go to CAADI to complete [[Listening CAADI Worksheet 1]]
-

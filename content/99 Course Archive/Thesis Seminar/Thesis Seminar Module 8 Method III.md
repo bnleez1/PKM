@@ -98,4 +98,3 @@ note: []
 - Remember the kind of study you chose: Phenomenology_Diving into a lived experience, Case study_ Delving deep into specifics, or Narrative research?
 
 - Using AI to generate ideas for creating a questionnaire
-

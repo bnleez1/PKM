@@ -1,14 +1,15 @@
 ---
-type: 'Page'
-collections: 'Public Pages'
+type: Page
+collections: Public Pages
 title: Copula verbs
-aliases: null
-description: null
+aliases:
+description:
 icon: 🔰
-createdAt: '2025-01-02T19:08:02.441Z'
-lastUpdated: '2026-06-28T12:56:11.767Z'
-tags: [GrammarSyntax]
-coverImage: '[Untitled](../Images/Untitled%20(21).md)'
+createdAt: 2025-01-02T19:08:02.441Z
+lastUpdated: 2026-06-28T12:56:11.767Z
+tags:
+  - GrammarSyntax
+coverImage: "[Untitled](../Images/Untitled%20(21).md)"
 ---
 
 # Copula verbs
@@ -184,4 +185,3 @@ Copular verbs, also known as linking verbs, are verbs that connect the subject o
 Copular verbs are essential in English as they link the subject to additional information about the subject. They help in describing states, conditions, and characteristics. By using copular verbs effectively, you can create sentences that are clear, descriptive, and varied.
 
 Would you like to dive deeper into any specific copular verb or need more examples?
-

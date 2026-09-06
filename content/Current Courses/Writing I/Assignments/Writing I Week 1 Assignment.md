@@ -51,4 +51,3 @@ grouping:
 1. Attached Word document to Writing I Week 1 Assignment.
 
 2. Submit text of your paragraph for this week.
-

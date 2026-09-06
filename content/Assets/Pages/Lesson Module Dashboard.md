@@ -1,14 +1,14 @@
 ---
-type: 'Page'
-collections: 'Public Pages'
+type: Page
+collections: Public Pages
 title: Lesson Module Dashboard
-aliases: null
-description: null
+aliases:
+description:
 icon: 📜
-createdAt: '2026-06-16T14:14:52.709Z'
-lastUpdated: '2026-07-23T19:07:13.016Z'
+createdAt: 2026-06-16T14:14:52.709Z
+lastUpdated: 2026-07-23T19:07:13.016Z
 tags: []
-coverImage: '[Untitled](../Images/Untitled%20(5).md)'
+coverImage: "[Untitled](../Images/Untitled%20(5).md)"
 ---
 
 # Lesson Module Dashboard
@@ -26,4 +26,3 @@ coverImage: '[Untitled](../Images/Untitled%20(5).md)'
 [[Weekly Lesson Plans - Aug-Dec 2026]]
 
 ---
-

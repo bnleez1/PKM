@@ -1,14 +1,15 @@
 ---
-type: 'Page'
-collections: 'Public Pages'
+type: Page
+collections: Public Pages
 title: Collective nouns
-aliases: null
-description: null
+aliases:
+description:
 icon: 🔰
-createdAt: '2025-01-02T19:43:35.146Z'
-lastUpdated: '2026-06-28T12:56:21.210Z'
-tags: [GrammarSyntax]
-coverImage: '[Untitled](../Images/Untitled%20(21).md)'
+createdAt: 2025-01-02T19:43:35.146Z
+lastUpdated: 2026-06-28T12:56:21.210Z
+tags:
+  - GrammarSyntax
+coverImage: "[Untitled](../Images/Untitled%20(21).md)"
 ---
 
 # Collective nouns
@@ -212,4 +213,3 @@ Which is correct?
 **Incorrect:** The cast are taking a break before the next scene. **Correct:** The cast **is** taking a break before the next scene. (Cast acts as a single unit)
 
 **Incorrect:** The band are playing their most popular song. **Correct:** The band **is** playing their most popular song. (Band acts as a single unit)
-

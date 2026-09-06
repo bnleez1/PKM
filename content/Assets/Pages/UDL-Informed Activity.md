@@ -1,13 +1,14 @@
 ---
-type: 'Page'
+type: Page
 title: UDL-Informed Activities
-aliases: null
-description: null
-icon: null
-createdAt: '2026-06-20T19:27:01.269Z'
-lastUpdated: '2026-06-20T19:36:11.726Z'
-tags: [Activity]
-coverImage: null
+aliases:
+description:
+icon:
+createdAt: 2026-06-20T19:27:01.269Z
+lastUpdated: 2026-06-20T19:36:11.726Z
+tags:
+  - Activity
+coverImage:
 ---
 
 # UDL-Informed Activities
@@ -64,5 +65,3 @@ Learners will:
 ## Add Activity Title
 
 Add complete overview and instructions for this activity and leave extra suggestions towards the end.
-
-

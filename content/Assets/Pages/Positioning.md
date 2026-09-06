@@ -18,4 +18,3 @@ Encouraging learners to position themselves as capable experts in their field wh
 
 **Common Misconception:**
 It refers to physical placement in a classroom.
-

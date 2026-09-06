@@ -1,20 +1,22 @@
 ---
-type: 'Module'
-collections: 'Writing II Modules'
+type: Module
+collections: Writing II Modules
 title: Writing II Module 12
-tags: [Module, Archive]
+tags:
+  - Module
+  - Archive
 date: 2026-04-13T00:00:00.000Z -> 2026-04-19T00:00:00.000Z
-status: null
-subject: '[[Writing II]]'
-chapterWeek: null
-coverImage: null
-unit: null
-prior: '[[Writing II Module 11]]'
-next: '[[Writing II Module 13]]'
-reading: null
-bookTitle: null
+status:
+subject: "[[Writing II]]"
+chapterWeek:
+coverImage:
+unit:
+prior: "[[Writing II Module 11]]"
+next: "[[Writing II Module 13]]"
+reading:
+bookTitle:
 studentDeliverableS: []
-semester: null
+semester:
 relations: []
 note: []
 ---
@@ -201,7 +203,7 @@ During this activity, check each other’s work and make sure each is using prop
 
 ## Wednesday
 
-![Argumentative Essay](../Images/Media/Argumentative%20Essay.png)
+[Argumentative Essay](../Images/Media/Argumentative%20Essay.png)
 [[Argumentative Essay|Argumentative Essay - Notes]]
 
 
@@ -433,7 +435,7 @@ I will be in CAADI April 16, 2026 2:00 PM to meet with any students to discuss 1
 
 ## Thursday
 
-![Argumentative Essay](../Images/Media/Argumentative%20Essay.png)
+[Argumentative Essay](../Images/Media/Argumentative%20Essay.png)
 [[Argumentative Essay|Argumentative Essay - Notes]]
 
 
@@ -767,4 +769,3 @@ Today’s class is designed for those who either missed class on April 13, 2026 
 5. Once you have completed your five-sentence paragraph, write below your paragraph the three parts of an introduction paragraph.
 
 6. Hand in your work in class today - there is nothing to submit to Microsoft Teams.
-

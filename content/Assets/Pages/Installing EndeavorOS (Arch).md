@@ -1,14 +1,14 @@
 ---
-type: 'Page'
-collections: 'Public Pages'
+type: Page
+collections: Public Pages
 title: Installing EndeavorOS (Arch)
-aliases: null
-description: null
+aliases:
+description:
 icon: 🖥️
-createdAt: '2026-06-08T13:46:49.872Z'
-lastUpdated: '2026-06-28T12:57:41.809Z'
+createdAt: 2026-06-08T13:46:49.872Z
+lastUpdated: 2026-06-28T12:57:41.809Z
 tags: []
-coverImage: '[Untitled](../Images/Untitled%20(228).md)'
+coverImage: "[Untitled](../Images/Untitled%20(228).md)"
 ---
 
 # Installing EndeavorOS (Arch)
@@ -1303,4 +1303,3 @@ coverImage: '[Untitled](../Images/Untitled%20(228).md)'
     ```text
     sudo pacman -S gnome-tweak-tool
     ```
-

@@ -18,4 +18,3 @@ Used to evaluate authentic materials to ensure they reflect natural language use
 
 **Common Misconception:**
 It only analyzes spoken conversation.
-

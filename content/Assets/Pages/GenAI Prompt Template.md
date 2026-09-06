@@ -1,13 +1,14 @@
 ---
-type: 'Page'
+type: Page
 title: GenAI Prompt
-aliases: null
-description: null
-icon: null
-createdAt: '2025-01-12T14:44:01.607Z'
-lastUpdated: '2025-01-12T14:45:15.901Z'
-tags: [GenAiDisclaimer]
-coverImage: null
+aliases:
+description:
+icon:
+createdAt: 2025-01-12T14:44:01.607Z
+lastUpdated: 2025-01-12T14:45:15.901Z
+tags:
+  - GenAiDisclaimer
+coverImage:
 ---
 
 # GenAI Prompt
@@ -31,6 +32,3 @@ For the point and aspects of (**point 1**) explained above, in terms of (**topic
 # Reference
 
 Price, N. (2023). *The only 3 CHATGPT prompt templates you need to produce content fast that doesn't suck for nonfiction writers*. reedsy.com 
-
-
-

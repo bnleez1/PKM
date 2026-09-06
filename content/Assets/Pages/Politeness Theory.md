@@ -18,4 +18,3 @@ Showing learners that 'Give me a pen' with a 'please' is still less polite than 
 
 **Common Misconception:**
 Politeness just means saying 'please' and 'thank you'.
-

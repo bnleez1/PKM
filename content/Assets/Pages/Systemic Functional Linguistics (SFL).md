@@ -18,4 +18,3 @@ Teaching grammar based on its function (e.g., using passive voice to sound more 
 
 **Common Misconception:**
 It is just another set of prescriptive grammar rules.
-

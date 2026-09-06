@@ -107,4 +107,3 @@ This week’s chapter prepares you to hear not only what team members say but wh
 ## 🗓️ Thursday
 
 ## 🗓️ Friday
-

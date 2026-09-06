@@ -1,20 +1,22 @@
 ---
-type: 'Module'
-collections: 'Writing II Modules'
+type: Module
+collections: Writing II Modules
 title: Writing II Module 8
-tags: [Module, Archive]
+tags:
+  - Module
+  - Archive
 date: 2026-03-16T00:00:00.000Z -> 2026-03-22T00:00:00.000Z
-status: null
-subject: '[[Writing II]]'
-chapterWeek: null
-coverImage: null
-unit: null
-prior: '[[Writing II Module 7]]'
-next: '[[Writing II Module 9]]'
-reading: null
-bookTitle: null
+status:
+subject: "[[Writing II]]"
+chapterWeek:
+coverImage:
+unit:
+prior: "[[Writing II Module 7]]"
+next: "[[Writing II Module 9]]"
+reading:
+bookTitle:
 studentDeliverableS: []
-semester: null
+semester:
 relations: []
 note: []
 ---
@@ -362,4 +364,3 @@ Your goal is to complete your first draft (expository five-paragraph essay) by M
 2. Begin Writing II: Body Paragraph 3 Task
 
 3. Request feedback as needed (in class and outside of class).
-

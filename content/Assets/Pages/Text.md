@@ -18,4 +18,3 @@ Analyzing a brief text message exchange or a billboard as a complete, analyzable
 
 **Common Misconception:**
 A text must be a written document or book.
-

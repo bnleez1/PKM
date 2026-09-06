@@ -1,14 +1,15 @@
 ---
-type: 'Glossary'
-collections: 'Written Error Code'
+type: Glossary
+collections: Written Error Code
 title: (MO) Modal verbs
-tags: [AcademicWriting, WritingErrorCode]
+tags:
+  - AcademicWriting
+  - WritingErrorCode
 subject: []
-formalDefinition: >-
-  Modal verbs are auxiliary verbs that express necessity, possibility,
-  permission, ability, probability, or obligation.
+formalDefinition: Modal verbs are auxiliary verbs that express necessity, possibility, permission, ability, probability, or obligation.
 relatedTerms: []
-pages: ['[[Writing error code list]]']
+pages:
+  - "[[Writing error code list]]"
 notes: []
 ---
 
@@ -174,4 +175,3 @@ Periphrastic modals or modal-like expressions (i.e., phrasal modals) are phrases
 - They can offer alternatives in contexts where a modal verb's tense or form limitation is an issue.
 
 Understanding phrasal modals enriches communication, allowing for more precise expression of modality, especially in more complex or formal contexts.
-

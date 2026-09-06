@@ -18,4 +18,3 @@ Creating an environment where students respond to each other's ideas, not just t
 
 **Common Misconception:**
 Just a casual classroom chat.
-

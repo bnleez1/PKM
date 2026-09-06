@@ -103,4 +103,3 @@ This week’s goal is not to hear every reduced sound perfectly. It is to recogn
 ## 🗓️ Thursday
 
 ## 🗓️ Friday
-

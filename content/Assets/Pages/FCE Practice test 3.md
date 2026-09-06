@@ -1,14 +1,15 @@
 ---
-type: 'Page'
-collections: 'FCE Practice Tests, Public Pages'
+type: Page
+collections: FCE Practice Tests, Public Pages
 title: FCE Practice test 3
-aliases: null
-description: null
-icon: null
-createdAt: '2025-03-18T19:00:42.621Z'
-lastUpdated: '2026-06-28T12:57:30.952Z'
-tags: [Assessment]
-coverImage: '[Untitled](../Images/Untitled%20(56).md)'
+aliases:
+description:
+icon:
+createdAt: 2025-03-18T19:00:42.621Z
+lastUpdated: 2026-06-28T12:57:30.952Z
+tags:
+  - Assessment
+coverImage: "[Untitled](../Images/Untitled%20(56).md)"
 ---
 
 # FCE Practice test 3
@@ -174,4 +175,3 @@ The concert \_\_\_ because of the rain.
 5. if I had finished
 
 6. was called off
-

@@ -1,13 +1,13 @@
 ---
-type: 'Page'
+type: Page
 title: SQR3
-aliases: null
-description: null
+aliases:
+description:
 icon: 🧭
-createdAt: '2025-01-02T13:59:33.518Z'
-lastUpdated: '2025-01-02T14:03:40.263Z'
+createdAt: 2025-01-02T13:59:33.518Z
+lastUpdated: 2025-01-02T14:03:40.263Z
 tags: []
-coverImage: '[Untitled](../Images/Untitled%20(393).md)'
+coverImage: "[Untitled](../Images/Untitled%20(393).md)"
 ---
 
 # SQR3
@@ -33,4 +33,3 @@ Some examples of topics that you can use the KWL questioning technique for are:
 - Ancient Civilizations: You can have students learn about the history and culture of ancient civilizations, such as Egypt, Greece, Rome, China, etc. You can ask them to locate them on a map, describe their achievements and contributions to society, and compare their similarities and differences.
 
 The KWL questioning technique is a useful strategy for teaching and learning in any subject area. [It can help students activate their background knowledge, generate interest and inquiry, and enhance their comprehension and retention of new information2](https://www.teachervision.com/graphic-organizer/using-kwl-classroom)[3](https://iosrjournals.org/iosr-jrme/papers/Vol-11%20Issue-2/Series-6/E1102062935.pdf).
-

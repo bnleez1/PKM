@@ -1,15 +1,14 @@
 ---
-type: 'Page'
+type: Page
 title: eportfolio feedback 13062023
-aliases: null
-description: >-
-  This note provides feedback and suggestions for improving an eportfolio, such
-  as avoiding
-icon: null
-createdAt: '2023-06-13T15:21:44.170Z'
-lastUpdated: '2026-06-01T14:34:19.813Z'
-tags: [WritingWorkshop]
-coverImage: '[[UAA Logo]]'
+aliases:
+description: This note provides feedback and suggestions for improving an eportfolio, such as avoiding
+icon:
+createdAt: 2023-06-13T15:21:44.170Z
+lastUpdated: 2026-06-01T14:34:19.813Z
+tags:
+  - WritingWorkshop
+coverImage: "[[UAA Logo]]"
 ---
 
 # eportfolio feedback 13062023
@@ -193,8 +192,3 @@ UPTC credit;
 2: Include separate pages within your eportfolio for each type of artifact (assignment).
 
 ## Rafael
-
-
-
-
-

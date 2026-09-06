@@ -120,7 +120,7 @@ The second part of the week should move from practice to production. Students us
 
 ## 🗓️ [[Date/2026-08-26]] (11:00 AM - 1:00 PM)
 
-![20260826_124548](../Images/Media/20260826_124548.jpg)
+[20260826_124548](../Images/Media/20260826_124548.jpg)
 [[20260826_124548|20260826_124548 - Notes]]
 
 
@@ -162,4 +162,3 @@ You will need to bring to class a printed article to complete today's task. We w
 1. Complete first article review.
 
 2. Bring a second article to review with you to class next Wednesday.
-

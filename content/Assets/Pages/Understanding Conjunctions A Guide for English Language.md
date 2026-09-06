@@ -1,13 +1,14 @@
 ---
-type: 'Page'
-title: 'Understanding Conjunctions: A Guide for English Language '
-aliases: null
-description: null
+type: Page
+title: "Understanding Conjunctions: A Guide for English Language "
+aliases:
+description:
 icon: 🖋️
-createdAt: '2025-01-02T18:50:16.716Z'
-lastUpdated: '2026-08-28T12:34:54.400Z'
-tags: [GrammarSyntax]
-coverImage: '[Untitled](../Images/Untitled%20(13).md)'
+createdAt: 2025-01-02T18:50:16.716Z
+lastUpdated: 2026-08-28T12:34:54.400Z
+tags:
+  - GrammarSyntax
+coverImage: "[Untitled](../Images/Untitled%20(13).md)"
 ---
 
 # Understanding Conjunctions: A Guide for English Language 
@@ -133,4 +134,3 @@ Understanding and using conjunctions correctly can significantly improve your wr
 4. but
 
 By practicing these examples and understanding the rules, you’ll become more confident in using conjunctions in your sentences. Happy learning!
-

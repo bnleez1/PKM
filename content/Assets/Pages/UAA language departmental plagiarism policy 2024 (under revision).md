@@ -1,12 +1,16 @@
 ---
-type: 'Glossary'
-collections: 'Written Error Code'
+type: Glossary
+collections: Written Error Code
 title: UAA language departmental plagiarism policy 2024 (under revision)
-tags: [WritingErrorCode, Writing, Plagiarism]
+tags:
+  - WritingErrorCode
+  - Writing
+  - Plagiarism
 subject: []
-formalDefinition: null
+formalDefinition:
 relatedTerms: []
-pages: ['[[Writing error code list]]']
+pages:
+  - "[[Writing error code list]]"
 notes: []
 ---
 
@@ -116,4 +120,3 @@ If any cases of plagiarism are found in any class assignments, the result will b
 - University of North Texas. (2022). Plagiarism. [https://guides.library.unt.edu/plagiarism/types](https://guides.library.unt.edu/plagiarism/types)
 
 - UAA. 2012. Ley Orgánica de la Universidad Autónoma de Aguascalientes. México.
-

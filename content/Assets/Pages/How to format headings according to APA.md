@@ -1,14 +1,15 @@
 ---
-type: 'Page'
-collections: 'Public Pages'
+type: Page
+collections: Public Pages
 title: How to format headings according to APA
-aliases: null
-description: null
+aliases:
+description:
 icon: 🔰
-createdAt: '2025-01-27T12:54:26.676Z'
-lastUpdated: '2026-06-28T12:57:01.927Z'
-tags: [Writing]
-coverImage: '[Untitled](../Images/Untitled%20(233).md)'
+createdAt: 2025-01-27T12:54:26.676Z
+lastUpdated: 2026-06-28T12:57:01.927Z
+tags:
+  - Writing
+coverImage: "[Untitled](../Images/Untitled%20(233).md)"
 ---
 
 # How to format headings according to APA
@@ -39,4 +40,3 @@ Levels one, two, and three follow title case (See Sentence Case vs. Title Case).
 
 
 💡 Always check with your instructor if you feel you need more than three levels of headings.
-

@@ -1,14 +1,14 @@
 ---
-type: 'Page'
-collections: 'Public Pages'
+type: Page
+collections: Public Pages
 title: How to write an expository essay
-aliases: null
-description: null
+aliases:
+description:
 icon: 📚️
-createdAt: '2026-06-08T19:25:44.140Z'
-lastUpdated: '2026-06-28T12:57:51.124Z'
+createdAt: 2026-06-08T19:25:44.140Z
+lastUpdated: 2026-06-28T12:57:51.124Z
 tags: []
-coverImage: '[Untitled](../Images/Untitled%20(194).md)'
+coverImage: "[Untitled](../Images/Untitled%20(194).md)"
 ---
 
 # How to write an expository essay
@@ -56,4 +56,3 @@ Every major point must be supported by facts, statistics, or citations from reli
 ### 5. Prioritize Cohesion and Transitions
 
 Because expository essays handle dense factual information, the reader needs clear signposts. Strong transition words (e.g., "furthermore," "conversely," "subsequently") are critical for moving the reader smoothly from one logical block to the next without losing the thread of the explanation.
-

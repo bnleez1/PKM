@@ -1,14 +1,15 @@
 ---
-type: 'Page'
-collections: 'Public Pages'
+type: Page
+collections: Public Pages
 title: A Claim and premises
-aliases: null
-description: null
+aliases:
+description:
 icon: ✍️
-createdAt: '2025-01-07T14:19:44.018Z'
-lastUpdated: '2026-06-28T12:56:40.883Z'
-tags: [Writing]
-coverImage: '[Untitled](../Images/Untitled%20(25).md)'
+createdAt: 2025-01-07T14:19:44.018Z
+lastUpdated: 2026-06-28T12:56:40.883Z
+tags:
+  - Writing
+coverImage: "[Untitled](../Images/Untitled%20(25).md)"
 ---
 
 # A Claim and premises
@@ -78,4 +79,3 @@ In essence, a premise is a statement or proposition that serves as the foundatio
 - Use evidence, examples, and data to back up your premises.
 
 - Acknowledge and address potential counterarguments to demonstrate critical thinking.
-

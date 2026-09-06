@@ -1,17 +1,17 @@
 ---
-type: 'Module'
+type: Module
 title: Weekly Lesson Module Template
 tags: []
-date: null
+date:
 status: Taught
-subject: null
-chapterWeek: null
-coverImage: '[[Ciudad-Universitaria-62-2048x1365]]'
-unit: null
-prior: null
-next: null
-reading: null
-bookTitle: null
+subject:
+chapterWeek:
+coverImage: "[[Ciudad-Universitaria-62-2048x1365]]"
+unit:
+prior:
+next:
+reading:
+bookTitle:
 studentDeliverableS: []
 semester: Spring 2025
 relations: []
@@ -36,4 +36,3 @@ note: []
 ## 🗓️ Thursday
 
 ## 🗓️ Friday
-

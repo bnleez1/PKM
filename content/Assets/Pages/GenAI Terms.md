@@ -1,13 +1,15 @@
 ---
-type: 'Page'
+type: Page
 title: GenAI Terms
-aliases: null
-description: null
+aliases:
+description:
 icon: ✴️
-createdAt: '2026-07-15T18:40:34.101Z'
-lastUpdated: '2026-07-15T18:41:00.797Z'
-tags: [GenAI, GenAiDisclaimer]
-coverImage: '[Untitled](../Images/Untitled%20(159).md)'
+createdAt: 2026-07-15T18:40:34.101Z
+lastUpdated: 2026-07-15T18:41:00.797Z
+tags:
+  - GenAI
+  - GenAiDisclaimer
+coverImage: "[Untitled](../Images/Untitled%20(159).md)"
 ---
 
 # GenAI Terms
@@ -79,4 +81,3 @@ For substantial text generation:
 > Portions of this document were generated with ChatGPT. The author verified the information, revised the output, and accepts responsibility for the final version.
 
 The most neutral umbrella term is **“AI-assisted content.”** The clearest formal label is **“Generative AI use statement.”**
-

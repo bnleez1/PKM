@@ -1,14 +1,15 @@
 ---
-type: 'Page'
-collections: 'Public Pages'
+type: Page
+collections: Public Pages
 title: Regular verbs
-aliases: null
-description: null
+aliases:
+description:
 icon: 🔰
-createdAt: '2025-01-02T19:16:57.077Z'
-lastUpdated: '2026-08-20T18:45:43.745Z'
-tags: [GrammarSyntax]
-coverImage: '[Untitled](../Images/Untitled%20(21).md)'
+createdAt: 2025-01-02T19:16:57.077Z
+lastUpdated: 2026-08-20T18:45:43.745Z
+tags:
+  - GrammarSyntax
+coverImage: "[Untitled](../Images/Untitled%20(21).md)"
 ---
 
 # Regular verbs
@@ -88,4 +89,3 @@ The pronunciation of the "-ed" ending depends on the sound that comes before it:
 - If there's no vibration (like with /p/, /k/, /s/), the "-ed" ending will be pronounced as /t/.
 
 By understanding the rules of regular verb formation and mastering the pronunciation of the "-ed" ending, you can confidently express actions in the past with accuracy and fluency.
-

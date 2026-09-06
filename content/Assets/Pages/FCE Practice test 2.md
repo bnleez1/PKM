@@ -1,14 +1,15 @@
 ---
-type: 'Page'
-collections: 'FCE Practice Tests, Public Pages'
+type: Page
+collections: FCE Practice Tests, Public Pages
 title: FCE Practice test 2
-aliases: null
-description: null
-icon: null
-createdAt: '2025-03-18T18:48:27.603Z'
-lastUpdated: '2026-06-28T12:57:30.908Z'
-tags: [Assessment]
-coverImage: '[Untitled](../Images/Untitled%20(56).md)'
+aliases:
+description:
+icon:
+createdAt: 2025-03-18T18:48:27.603Z
+lastUpdated: 2026-06-28T12:57:30.908Z
+tags:
+  - Assessment
+coverImage: "[Untitled](../Images/Untitled%20(56).md)"
 ---
 
 # FCE Practice test 2
@@ -164,4 +165,3 @@ For questions 25–30, complete the second sentence so that it has a similar mea
 29. in case it
 
 30. although he was
-

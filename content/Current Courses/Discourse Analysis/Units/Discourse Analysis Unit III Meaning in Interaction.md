@@ -103,4 +103,3 @@ Students will independently use their learning to:
 ## 🎯 Stage 3 - Learning Sequence
 
 [Discourse Analysis Modules](../Modules/Discourse%20Analysis%20Modules.csv)
-

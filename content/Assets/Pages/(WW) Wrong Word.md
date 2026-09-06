@@ -1,15 +1,13 @@
 ---
-type: 'Glossary'
-collections: 'Written Error Code'
+type: Glossary
+collections: Written Error Code
 title: (WW) Wrong Word
 tags: []
 subject: []
-formalDefinition: >-
-  The specific words you chose sound awkward, unconventional, or atypical to a
-  native English speaker to a degree that the meaning of the text becomes
-  unintelligible.
+formalDefinition: The specific words you chose sound awkward, unconventional, or atypical to a native English speaker to a degree that the meaning of the text becomes unintelligible.
 relatedTerms: []
-pages: ['[[Writing error code list]]']
+pages:
+  - "[[Writing error code list]]"
 notes: []
 ---
 
@@ -80,4 +78,3 @@ When you get your paper back and see **WW**, don't just guess another word. Foll
 4. **Ask for the nuance.** If you are stuck between two words, ask your teacher: *"What is the difference in feeling between X and Y?"*
 
 Making a "Wrong Word" mistake means you are pushing yourself to use new vocabulary. It is a sign of growth, not failure. By understanding *why* the word didn't work, you add a more precise, powerful tool to your language toolkit.
-

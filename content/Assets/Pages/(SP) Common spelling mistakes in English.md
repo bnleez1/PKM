@@ -1,12 +1,15 @@
 ---
-type: 'Glossary'
-collections: 'Written Error Code'
+type: Glossary
+collections: Written Error Code
 title: (SP) Common spelling mistakes in English
-tags: [WritingErrorCode, GrammarSyntax]
+tags:
+  - WritingErrorCode
+  - GrammarSyntax
 subject: []
-formalDefinition: null
+formalDefinition:
 relatedTerms: []
-pages: ['[[Writing error code list]]']
+pages:
+  - "[[Writing error code list]]"
 notes: []
 ---
 
@@ -79,4 +82,3 @@ notes: []
 - **Break down words into syllables:** This can make it easier to spell long or difficult words.
 
 - **Practice spelling words that you often misspell:** This will help you improve your spelling skills.
-

@@ -1,16 +1,13 @@
 ---
-type: 'Page'
+type: Page
 title: AI can be helpful to teachers
-aliases: null
-description: >-
-  An analysis of the potential impact of AI on teaching, challenging the
-  assertion that it will be the most significant transformation in education,
-  based on Larry Ferlazzo's reflections.
+aliases:
+description: An analysis of the potential impact of AI on teaching, challenging the assertion that it will be the most significant transformation in education, based on Larry Ferlazzo's reflections.
 icon: 🧭
-createdAt: '2023-06-05T18:21:54.978Z'
-lastUpdated: '2026-06-07T22:05:46.111Z'
+createdAt: 2023-06-05T18:21:54.978Z
+lastUpdated: 2026-06-07T22:05:46.111Z
 tags: []
-coverImage: '[Untitled](../Images/Untitled%20(53).md)'
+coverImage: "[Untitled](../Images/Untitled%20(53).md)"
 ---
 
 # AI can be helpful to teachers
@@ -41,5 +38,3 @@ Comment: I'm trying to imagine not adapting current AI advancements to one's tea
 Comment: I tend to take a stronger stance regarding AI and teaching. Where WiFi and able instructors exist, generative AI (along with human intelligence) will revolutionize teaching or teaching will become obsolete. Generative AI will be integrated into teacher planning, implementation, and assessment. Teacher planning, implementation, and assessment will involve all educational stakeholders (i.e., human intelligence) along with generative AI to make better educational decisions going forward. Moreover, generative AI will be integrated into teacher PD that will continue to intertwine to one's teaching practice. Human and (generative) artificial intelligence will no longer be separate.
 
 Certainly, where Wifi and instructors are not available, one or the other will continue to make due, offering a less than optimal educative experience.
-
-

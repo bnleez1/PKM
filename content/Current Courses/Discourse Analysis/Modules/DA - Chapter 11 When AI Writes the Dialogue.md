@@ -120,4 +120,3 @@ The teacher remains accountable for cultural representation. If the model produc
 ## 🗓️ Thursday (9:00 AM - 10:00 AM)
 
 ## 🗓️ Friday (9:00 AM - 10:00 AM)
-

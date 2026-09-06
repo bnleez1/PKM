@@ -18,4 +18,3 @@ Monitoring yourself to ensure your explanations are concise and not dominating t
 
 **Common Misconception:**
 All TTT is bad.
-

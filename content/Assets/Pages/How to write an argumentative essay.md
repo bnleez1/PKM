@@ -1,14 +1,14 @@
 ---
-type: 'Page'
-collections: 'Public Pages'
+type: Page
+collections: Public Pages
 title: How to write an argumentative essay
-aliases: null
-description: null
+aliases:
+description:
 icon: 📚️
-createdAt: '2026-06-08T19:25:57.647Z'
-lastUpdated: '2026-06-28T12:57:51.150Z'
+createdAt: 2026-06-08T19:25:57.647Z
+lastUpdated: 2026-06-28T12:57:51.150Z
 tags: []
-coverImage: '[Untitled](../Images/Untitled%20(125).md)'
+coverImage: "[Untitled](../Images/Untitled%20(125).md)"
 ---
 
 # How to write an argumentative essay
@@ -54,4 +54,3 @@ While persuasive writing in marketing or politics might lean heavily on emotiona
 ### 5. Synthesize, Don't Just Cite
 
 Strong argumentative writing weaves multiple sources together to build a case, rather than just dropping isolated quotes into paragraphs. Paraphrasing and synthesizing literature to show a consensus—or a conflict—demonstrates a higher level of analytical control over the research.
-

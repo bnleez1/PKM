@@ -1,14 +1,15 @@
 ---
-type: 'Page'
-collections: 'Public Pages'
+type: Page
+collections: Public Pages
 title: Installing Debian 13
-aliases: null
-description: null
+aliases:
+description:
 icon: 🖱️
-createdAt: '2026-06-15T00:16:32.389Z'
-lastUpdated: '2026-08-16T14:44:59.979Z'
-tags: [Linux]
-coverImage: '[Untitled](../Images/Untitled%20(156).md)'
+createdAt: 2026-06-15T00:16:32.389Z
+lastUpdated: 2026-08-16T14:44:59.979Z
+tags:
+  - Linux
+coverImage: "[Untitled](../Images/Untitled%20(156).md)"
 ---
 
 # Installing Debian 13
@@ -2223,4 +2224,3 @@ sudo apt purge ibus im-config
 ```
 
 1. **Reboot your system**. KDE will now rely purely on its native keyboard layout manager.
-

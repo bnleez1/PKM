@@ -97,4 +97,3 @@ This week, listening becomes part of problem-solving. The listener’s responsib
 ## 🗓️ Thursday
 
 ## 🗓️ Friday
-

@@ -1,21 +1,22 @@
 ---
-type: 'Page'
-collections: 'Public Pages'
+type: Page
+collections: Public Pages
 title: Installing Zorin 18.1
-aliases: null
-description: null
+aliases:
+description:
 icon: ☄️
-createdAt: '2026-06-04T12:23:36.261Z'
-lastUpdated: '2026-08-26T16:47:48.107Z'
-tags: [Linux]
-coverImage: '[Untitled](../Images/Untitled%20(10).md)'
+createdAt: 2026-06-04T12:23:36.261Z
+lastUpdated: 2026-08-26T16:47:48.107Z
+tags:
+  - Linux
+coverImage: "[Untitled](../Images/Untitled%20(10).md)"
 ---
 
 # Installing Zorin 18.1
 
 - System
 
-    ![fastfetch3](../Images/Media/fastfetch3.png)
+    [fastfetch3](../Images/Media/fastfetch3.png)
     [[fastfetch3|fastfetch3 - Notes]]
 
 - Installing Zorin Wallpapers
@@ -1377,4 +1378,3 @@ coverImage: '[Untitled](../Images/Untitled%20(10).md)'
     💡
 
     Troubleshooting (Zorin 18.1):
-

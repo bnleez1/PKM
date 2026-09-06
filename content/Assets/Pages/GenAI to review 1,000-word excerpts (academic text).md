@@ -1,14 +1,15 @@
 ---
-type: 'Page'
-collections: 'Public Pages'
+type: Page
+collections: Public Pages
 title: GenAI to review 1,000-word excerpts (academic text)
-aliases: null
-description: null
+aliases:
+description:
 icon: 🧭
-createdAt: '2025-01-15T12:49:59.935Z'
-lastUpdated: '2026-06-28T12:56:51.077Z'
-tags: [Writing]
-coverImage: '[Untitled](../Images/Untitled%20(43).md)'
+createdAt: 2025-01-15T12:49:59.935Z
+lastUpdated: 2026-06-28T12:56:51.077Z
+tags:
+  - Writing
+coverImage: "[Untitled](../Images/Untitled%20(43).md)"
 ---
 
 # GenAI to review 1,000-word excerpts (academic text)
@@ -48,8 +49,3 @@ For the suggestions mentioned above for [insert key point], provide further deta
 ```text
 Assess the following academic text for proper coherency and cohesion within a typical method section of a research-based academic article: 1) review that no verbs are being overused; 2) review that each paragraph develops a particular aspect typically found in the method section: participants, instruments, procedure, and data analysis; 3) review that each paragraph is coherent in terms of using direct repetition, pronouns, synynyms, hypernyms, and hyponyms from one sentence to the next; 5) review that ideas flow from sentence to sentence using proper sentence connectors, prepositional phrases, participial phrases, and infinitive phrases - that no one type of transition is being overused; 6) review that figurative language is not being used such as idiomatic expressions, colloquialisms, phrasal verbs, and slang; 7) review that "there is/are" is not being used; 8) review that all punctuation and capitalization is begin used correctly; 10) identify the writing style format (e.g., APA, etc.) being used and that it is being used correctly:   
 ```
-
-
-
-
-

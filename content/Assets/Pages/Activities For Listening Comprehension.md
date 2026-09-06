@@ -1,13 +1,14 @@
 ---
-type: 'Page'
-title: 'Activities For Listening Comprehension '
-aliases: null
-description: null
+type: Page
+title: "Activities For Listening Comprehension "
+aliases:
+description:
 icon: 🔰
-createdAt: '2025-01-02T14:18:06.866Z'
-lastUpdated: '2026-06-16T13:17:19.953Z'
-tags: [Listening]
-coverImage: '[Untitled](../Images/Untitled%20(338).md)'
+createdAt: 2025-01-02T14:18:06.866Z
+lastUpdated: 2026-06-16T13:17:19.953Z
+tags:
+  - Listening
+coverImage: "[Untitled](../Images/Untitled%20(338).md)"
 ---
 
 # Activities For Listening Comprehension 
@@ -79,4 +80,3 @@ coverImage: '[Untitled](../Images/Untitled%20(338).md)'
         - Logic puzzles
 
         - Brain teasers
-

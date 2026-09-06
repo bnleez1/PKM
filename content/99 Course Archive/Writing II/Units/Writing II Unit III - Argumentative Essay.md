@@ -1,11 +1,12 @@
 ---
-type: 'Unit'
-collections: 'Writing II Units, Units'
+type: Unit
+collections: Writing II Units, Units
 title: Writing II Unit III - Argumentative Essay
 tags: []
 date: 2026-04-06T00:00:00.000Z -> 2026-06-05T00:00:00.000Z
-subject: ['[[Writing II]]']
-coverImage: null
+subject:
+  - "[[Writing II]]"
+coverImage:
 ---
 
 # Writing II Unit III - Argumentative Essay
@@ -281,4 +282,3 @@ Below is a **complete Understanding by Design (UbD)** plan for **Unit III – Ar
 ---
 
 Writing II: Unit III Note
-

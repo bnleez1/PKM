@@ -59,4 +59,3 @@ note: []
 ## 🗓️ Thursday
 
 ## 🗓️ Friday
-

@@ -1,14 +1,15 @@
 ---
-type: 'Page'
-collections: 'Public Pages'
+type: Page
+collections: Public Pages
 title: The Intonation Tool
-aliases: null
-description: null
+aliases:
+description:
 icon: ✴️
-createdAt: '2026-06-22T18:24:34.734Z'
-lastUpdated: '2026-06-28T12:56:01.445Z'
-tags: [DiscourseAnalysis]
-coverImage: '[Untitled](../Images/Untitled%20(280).md)'
+createdAt: 2026-06-22T18:24:34.734Z
+lastUpdated: 2026-06-28T12:56:01.445Z
+tags:
+  - DiscourseAnalysis
+coverImage: "[Untitled](../Images/Untitled%20(280).md)"
 ---
 
 # The Intonation Tool
@@ -82,4 +83,3 @@ On paper, without intonation, this is a simple, neutral yes/no question. There i
 By applying the Intonation Tool, we discover that a single, five-word sentence can function as a neutral clarification, a challenge to a student's character, or a demand for task completion.
 
 James Paul Gee’s Intonation Tool reminds us that the transcript is not the territory. The words on a page are only a fraction of the communicative event. For discourse analysts, mastering this tool means learning to listen to the architecture of thought, revealing how speakers actively mold information, assumptions, and social relationships through the simple rise and fall of their voices.
-

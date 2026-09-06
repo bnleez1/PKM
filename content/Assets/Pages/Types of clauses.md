@@ -1,13 +1,14 @@
 ---
-type: 'Page'
+type: Page
 title: Types of clauses
-aliases: null
-description: null
+aliases:
+description:
 icon: 🧭
-createdAt: '2025-01-02T11:49:48.325Z'
-lastUpdated: '2026-06-23T15:14:29.720Z'
-tags: [GrammarSyntax]
-coverImage: null
+createdAt: 2025-01-02T11:49:48.325Z
+lastUpdated: 2026-06-23T15:14:29.720Z
+tags:
+  - GrammarSyntax
+coverImage:
 ---
 
 # Types of clauses
@@ -45,4 +46,3 @@ Here are a few key points about dependent clauses:
     - [Subordinating clauses](https://www.notion.so/Subordinating-clauses-abbf04d362e845efb6bdb5096527949f?pvs=21) **(adverb clauses)**: Describe a verb, adjective, or another adverb and answer questions like why, when, where, and how. Example: “I will call you when I arrive.”
 
     - [Nominal (noun) clauses](https://www.notion.so/Nominal-noun-clauses-2396216a883444238f605374c988b4e2?pvs=21): Act as a noun in the sentence and can be a subject, object, or complement. Example: “What you said was surprising.”
-

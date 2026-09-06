@@ -1,14 +1,15 @@
 ---
-type: 'Page'
-collections: 'Public Pages'
+type: Page
+collections: Public Pages
 title: Appositive phrases
-aliases: null
-description: null
+aliases:
+description:
 icon: 🖋️
-createdAt: '2025-01-03T01:33:44.310Z'
-lastUpdated: '2026-06-28T12:56:31.025Z'
-tags: [GrammarSyntax]
-coverImage: '[Untitled](../Images/Untitled%20(13).md)'
+createdAt: 2025-01-03T01:33:44.310Z
+lastUpdated: 2026-06-28T12:56:31.025Z
+tags:
+  - GrammarSyntax
+coverImage: "[Untitled](../Images/Untitled%20(13).md)"
 ---
 
 # Appositive phrases
@@ -76,4 +77,3 @@ Here are examples of appositive phrases in different contexts:
 - This tool, a versatile gadget, can handle multiple tasks.
 
 Appositive phrases provide context, description, and elaboration in sentences, enhancing the reader's understanding and engagement. They are a valuable tool for writers to add depth and variety to their writing, while also allowing for more precise communication.
-

@@ -1,16 +1,14 @@
 ---
-type: 'Page'
+type: Page
 title: Working towards a problem statement
-aliases: null
-description: >-
-  This page provides guidance on narrowing down a researchable topic for
-  academic writing, with a focus on reflecting personal experiences as a
-  teacher.
+aliases:
+description: This page provides guidance on narrowing down a researchable topic for academic writing, with a focus on reflecting personal experiences as a teacher.
 icon: 🧭
-createdAt: '2023-06-02T12:54:04.922Z'
-lastUpdated: '2026-06-14T18:33:46.430Z'
-tags: [AcademicWriting]
-coverImage: null
+createdAt: 2023-06-02T12:54:04.922Z
+lastUpdated: 2026-06-14T18:33:46.430Z
+tags:
+  - AcademicWriting
+coverImage:
 ---
 
 # Working towards a problem statement
@@ -116,4 +114,3 @@ One of the most difficult tasks when writing a five-paragraph essay is narrowing
 - The Craft of Research, Third Edition
 
 - The Literature Review: Six Steps to Success
-

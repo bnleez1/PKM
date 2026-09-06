@@ -1,14 +1,15 @@
 ---
-type: 'Page'
-collections: 'Public Pages'
+type: Page
+collections: Public Pages
 title: Behind the Syllabus Podcast
-aliases: null
-description: null
+aliases:
+description:
 icon: 🎙️
-createdAt: '2026-06-16T16:19:21.195Z'
-lastUpdated: '2026-07-18T02:43:09.244Z'
-tags: [PodcastEpisodes]
-coverImage: '[Untitled](../Images/Untitled%20(101).md)'
+createdAt: 2026-06-16T16:19:21.195Z
+lastUpdated: 2026-07-18T02:43:09.244Z
+tags:
+  - PodcastEpisodes
+coverImage: "[Untitled](../Images/Untitled%20(101).md)"
 ---
 
 # Behind the Syllabus Podcast

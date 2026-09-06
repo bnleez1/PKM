@@ -1,13 +1,14 @@
 ---
-type: 'Page'
+type: Page
 title: Sentence Stems For Formulating Questions
-aliases: null
-description: null
+aliases:
+description:
 icon: 🔰
-createdAt: '2025-01-02T14:15:12.804Z'
-lastUpdated: '2026-08-18T18:51:24.258Z'
-tags: [GrammarSyntax]
-coverImage: '[Untitled](../Images/Untitled%20(21).md)'
+createdAt: 2025-01-02T14:15:12.804Z
+lastUpdated: 2026-08-18T18:51:24.258Z
+tags:
+  - GrammarSyntax
+coverImage: "[Untitled](../Images/Untitled%20(21).md)"
 ---
 
 # Sentence Stems For Formulating Questions
@@ -51,4 +52,3 @@ coverImage: '[Untitled](../Images/Untitled%20(21).md)'
 - What approach or strategy could you use to... ?
 
 - How else might you say... ?
-

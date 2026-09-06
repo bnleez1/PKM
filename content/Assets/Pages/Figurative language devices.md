@@ -1,16 +1,14 @@
 ---
-type: 'Page'
+type: Page
 title: Figurative language devices
-aliases: null
-description: >-
-  Explore the world of figurative language devices with examples of metaphors,
-  similes, personification, and hyperbole, along with comparisons of similes vs.
-  metaphors and personification vs. anthropomorphism.
-icon: null
-createdAt: '2023-06-06T19:47:25.974Z'
-lastUpdated: '2026-06-14T18:33:46.384Z'
-tags: [CreativeWriting]
-coverImage: null
+aliases:
+description: Explore the world of figurative language devices with examples of metaphors, similes, personification, and hyperbole, along with comparisons of similes vs. metaphors and personification vs. anthropomorphism.
+icon:
+createdAt: 2023-06-06T19:47:25.974Z
+lastUpdated: 2026-06-14T18:33:46.384Z
+tags:
+  - CreativeWriting
+coverImage:
 ---
 
 # Figurative language devices
@@ -74,4 +72,3 @@ Figurative language refers to a wide range of [literary devices](https://literar
 [42 Idiom Origins - mental_floss on YouTube (Ep. 29)](https://youtu.be/WW5FDhsHkUg)[42 Idiom Origins - mental_floss on YouTube (Ep. 29) - Notes](../Weblinks/42%20Idiom%20Origins%20-%20mental_floss%20on%20YouTube%20(Ep%2029)%20(1).md)
 
 [[Examples of figurative language]]
-

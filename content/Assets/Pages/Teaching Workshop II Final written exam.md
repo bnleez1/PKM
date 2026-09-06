@@ -1,15 +1,13 @@
 ---
-type: 'Page'
-title: 'Teaching Workshop II: Final written exam'
-aliases: null
-description: >-
-  An examination for a teaching workshop focusing on listening and speaking
-  strategies, with a rubric for the answers provided.
+type: Page
+title: "Teaching Workshop II: Final written exam"
+aliases:
+description: An examination for a teaching workshop focusing on listening and speaking strategies, with a rubric for the answers provided.
 icon: 🏫
-createdAt: '2023-11-27T02:43:30.811Z'
-lastUpdated: '2026-06-01T14:34:19.790Z'
+createdAt: 2023-11-27T02:43:30.811Z
+lastUpdated: 2026-06-01T14:34:19.790Z
 tags: []
-coverImage: '[Untitled](../Images/Untitled%20(20).md)'
+coverImage: "[Untitled](../Images/Untitled%20(20).md)"
 ---
 
 # Teaching Workshop II: Final written exam
@@ -79,4 +77,3 @@ Demonstrates a good understanding of writing strategies and applies them to prod
 Shows some understanding of writing strategies and attempts to apply them. Students may struggle to produce clear, organized, and supported written work. They may need significant support with vocabulary or grammar, and they may have difficulty revising and editing their work.
 
 Has limited understanding of writing strategies and struggles to apply them effectively. Students may have difficulty producing clear, organized, and supported written work. They may require extensive support with vocabulary or grammar, and they may not be able to revise and edit their work effectively.
-

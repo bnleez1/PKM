@@ -18,4 +18,3 @@ Using praise and inclusive language ('We are all learning together') to build cl
 
 **Common Misconception:**
 It means having a positive attitude.
-

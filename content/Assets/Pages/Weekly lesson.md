@@ -1,14 +1,14 @@
 ---
-type: 'Page'
-collections: 'Public Pages'
+type: Page
+collections: Public Pages
 title: Weekly lesson
-aliases: null
-description: null
+aliases:
+description:
 icon: 🏫
-createdAt: '2025-01-03T12:30:45.485Z'
-lastUpdated: '2026-06-28T12:56:31.157Z'
+createdAt: 2025-01-03T12:30:45.485Z
+lastUpdated: 2026-06-28T12:56:31.157Z
 tags: []
-coverImage: null
+coverImage:
 ---
 
 # Weekly lesson
@@ -24,4 +24,3 @@ coverImage: null
 # Thursday
 
 # Friday
-

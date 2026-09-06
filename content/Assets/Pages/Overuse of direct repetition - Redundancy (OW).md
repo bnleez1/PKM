@@ -1,15 +1,15 @@
 ---
-type: 'Page'
+type: Page
 title: Overuse of direct repetition - Redundancy (OW)
-aliases: null
-description: >-
-  Missing words can significantly impact the clarity and correctness of formal
-  texts written by English language learners.
+aliases:
+description: Missing words can significantly impact the clarity and correctness of formal texts written by English language learners.
 icon: 🖋️
-createdAt: '2025-01-01T13:01:51.933Z'
-lastUpdated: '2026-06-11T13:35:10.407Z'
-tags: [WritingErrorCode, WritingDiscourse]
-coverImage: '[Untitled](../Images/Untitled%20(13).md)'
+createdAt: 2025-01-01T13:01:51.933Z
+lastUpdated: 2026-06-11T13:35:10.407Z
+tags:
+  - WritingErrorCode
+  - WritingDiscourse
+coverImage: "[Untitled](../Images/Untitled%20(13).md)"
 ---
 
 # Overuse of direct repetition - Redundancy (OW)
@@ -80,4 +80,3 @@ Let’s apply the Paramedic Method to the previous example:
 8. **Rephrase**: "He went to the store to buy food."
 
 By employing the Paramedic Method, ELLs can create sentences that are not only clearer but also more engaging.
-

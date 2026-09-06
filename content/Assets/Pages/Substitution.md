@@ -18,4 +18,3 @@ Practicing ordering food naturally: 'I'll have the red apple, and he'll have the
 
 **Common Misconception:**
 It's the same as ellipsis.
-

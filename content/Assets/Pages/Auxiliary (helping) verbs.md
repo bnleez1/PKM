@@ -1,14 +1,15 @@
 ---
-type: 'Page'
-collections: 'Public Pages'
+type: Page
+collections: Public Pages
 title: Auxiliary (helping) verbs
-aliases: null
-description: null
+aliases:
+description:
 icon: 🔰
-createdAt: '2025-01-02T19:11:19.729Z'
-lastUpdated: '2026-06-28T12:56:11.795Z'
-tags: [GrammarSyntax]
-coverImage: '[Untitled](../Images/Untitled%20(21).md)'
+createdAt: 2025-01-02T19:11:19.729Z
+lastUpdated: 2026-06-28T12:56:11.795Z
+tags:
+  - GrammarSyntax
+coverImage: "[Untitled](../Images/Untitled%20(21).md)"
 ---
 
 # Auxiliary (helping) verbs
@@ -148,4 +149,3 @@ Let's see how helping verbs can transform the meaning of a sentence:
 - **She might sing.** (Expressing possibility)
 
 I hope this deeper explanation clarifies the versatile role of helping verbs in English! Let me know if you have any more questions.
-

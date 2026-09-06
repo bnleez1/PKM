@@ -1,15 +1,14 @@
 ---
-type: 'Glossary'
-collections: 'Written Error Code'
-title: 'OW - Overuse of direct repetition of word(s) '
+type: Glossary
+collections: Written Error Code
+title: "OW - Overuse of direct repetition of word(s) "
 tags: []
 subject: []
-formalDefinition: >-
-  An **Overuse of Words (OW)** error occurs when a writer repeats the exact same
-  vocabulary word or phrase too closely together within a paragraph, creating an
-  unnatural "echo" effect for the reader.
-relatedTerms: ['[[(WD) Written discourse]]']
-pages: ['[[Writing error code list]]']
+formalDefinition: An **Overuse of Words (OW)** error occurs when a writer repeats the exact same vocabulary word or phrase too closely together within a paragraph, creating an unnatural "echo" effect for the reader.
+relatedTerms:
+  - "[[(WD) Written discourse]]"
+pages:
+  - "[[Writing error code list]]"
 notes: []
 ---
 

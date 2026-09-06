@@ -1,13 +1,14 @@
 ---
-type: 'Page'
+type: Page
 title: TOEFL Reading Strategies & Feedback
-aliases: null
-description: null
+aliases:
+description:
 icon: 🔰
-createdAt: '2025-01-02T13:27:27.676Z'
-lastUpdated: '2026-06-07T23:10:06.200Z'
-tags: [Reading]
-coverImage: '[Untitled](../Images/Untitled%20(21).md)'
+createdAt: 2025-01-02T13:27:27.676Z
+lastUpdated: 2026-06-07T23:10:06.200Z
+tags:
+  - Reading
+coverImage: "[Untitled](../Images/Untitled%20(21).md)"
 ---
 
 # TOEFL Reading Strategies & Feedback
@@ -58,4 +59,3 @@ Consistent practice is key to improving your reading skills. Use practice tests,
 [[TOEFL Reading Tutorial 5]]
 
 [[TOEFL Reading Tutorial 6]]
-

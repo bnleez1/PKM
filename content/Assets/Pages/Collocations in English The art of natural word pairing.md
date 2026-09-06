@@ -1,13 +1,14 @@
 ---
-type: 'Page'
-title: 'Collocations in English: The art of natural word pairing'
-aliases: null
-description: null
+type: Page
+title: "Collocations in English: The art of natural word pairing"
+aliases:
+description:
 icon: 🖋️
-createdAt: '2025-01-02T18:35:32.571Z'
-lastUpdated: '2026-06-12T20:41:43.874Z'
-tags: [GrammarSyntax]
-coverImage: '[Untitled](../Images/Untitled%20(13).md)'
+createdAt: 2025-01-02T18:35:32.571Z
+lastUpdated: 2026-06-12T20:41:43.874Z
+tags:
+  - GrammarSyntax
+coverImage: "[Untitled](../Images/Untitled%20(13).md)"
 ---
 
 # Collocations in English: The art of natural word pairing
@@ -459,4 +460,3 @@ Understanding and using collocations effectively can significantly improve langu
 29. **Study** the market
 
 30. **Take** it for granted
-

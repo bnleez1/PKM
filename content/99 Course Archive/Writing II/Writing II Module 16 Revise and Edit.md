@@ -354,4 +354,3 @@ Complete linking sentence handout.
     6. At least one example of a comma used in a compound sentence.
 
     7. Only one example of a comma used as an appositive. ‣
-

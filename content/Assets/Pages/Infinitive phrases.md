@@ -1,14 +1,15 @@
 ---
-type: 'Page'
-collections: 'Public Pages'
+type: Page
+collections: Public Pages
 title: Infinitive phrases
-aliases: null
-description: null
+aliases:
+description:
 icon: 🖋️
-createdAt: '2025-01-03T01:30:39.457Z'
-lastUpdated: '2026-06-28T12:56:30.984Z'
-tags: [GrammarSyntax]
-coverImage: '[Untitled](../Images/Untitled%20(13).md)'
+createdAt: 2025-01-03T01:30:39.457Z
+lastUpdated: 2026-06-28T12:56:30.984Z
+tags:
+  - GrammarSyntax
+coverImage: "[Untitled](../Images/Untitled%20(13).md)"
 ---
 
 # Infinitive phrases
@@ -98,4 +99,3 @@ Here are examples of infinitive phrases in different contexts:
 - He should study more to improve his grades.
 
 Infinitive phrases are flexible components of language, allowing for greater expressiveness and variety in sentence structure. They can appear at the beginning, middle, or end of sentences and contribute to the depth and complexity of your writing or speech.
-

@@ -1,11 +1,12 @@
 ---
-type: 'Unit'
-collections: 'Writing II Units, Units'
+type: Unit
+collections: Writing II Units, Units
 title: Writing II Unit I - Descriptive Essay
 tags: []
 date: 2026-01-26T00:00:00.000Z -> 2026-02-27T00:00:00.000Z
-subject: ['[[Writing II]]']
-coverImage: null
+subject:
+  - "[[Writing II]]"
+coverImage:
 ---
 
 # Writing II Unit I - Descriptive Essay
@@ -167,4 +168,3 @@ Students will independently use their learning to:
 - **Revision checklists** and **self‑assessments** (global → local).
 
 - **Exit tickets** tied to essential questions (e.g., "What did you revise to sharpen the central impression today?").
-

@@ -1,12 +1,10 @@
 ---
-type: 'Unit'
-title: 'Discourse Analysis Unit I: Foundations: Text'
+type: Unit
+title: "Discourse Analysis Unit I: Foundations: Text"
 tags: []
-date: null
+date:
 subject: []
-coverImage: null
+coverImage:
 ---
 
 # Discourse Analysis Unit I: Foundations: Text
-
-

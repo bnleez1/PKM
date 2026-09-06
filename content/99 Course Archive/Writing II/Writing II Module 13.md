@@ -1,20 +1,22 @@
 ---
-type: 'Module'
-collections: 'Writing II Modules'
+type: Module
+collections: Writing II Modules
 title: Writing II Module 13
-tags: [Module, Archive]
+tags:
+  - Module
+  - Archive
 date: 2026-05-04T00:00:00.000Z -> 2026-05-10T00:00:00.000Z
-status: null
-subject: '[[Writing II]]'
-chapterWeek: null
-coverImage: null
-unit: null
-prior: '[[Writing II Module 12]]'
-next: '[[Writing II Module 14]]'
-reading: null
-bookTitle: null
+status:
+subject: "[[Writing II]]"
+chapterWeek:
+coverImage:
+unit:
+prior: "[[Writing II Module 12]]"
+next: "[[Writing II Module 14]]"
+reading:
+bookTitle:
 studentDeliverableS: []
-semester: null
+semester:
 relations: []
 note: []
 ---
@@ -228,4 +230,3 @@ Remember you are working on your first draft, so make sure to use your own words
     4. Complete your introduction paragraph by May 22, 2026.
 
     5. Complete your first body paragraph by May 27, 2026.
-

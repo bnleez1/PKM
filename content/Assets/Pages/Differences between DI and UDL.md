@@ -1,14 +1,14 @@
 ---
-type: 'Page'
-collections: 'Public Pages'
+type: Page
+collections: Public Pages
 title: Differences between DI and UDL
-aliases: null
-description: null
-icon: null
-createdAt: '2025-02-12T18:15:54.812Z'
-lastUpdated: '2026-08-10T17:45:40.670Z'
+aliases:
+description:
+icon:
+createdAt: 2025-02-12T18:15:54.812Z
+lastUpdated: 2026-08-10T17:45:40.670Z
 tags: []
-coverImage: null
+coverImage:
 ---
 
 # Differences between DI and UDL
@@ -58,4 +58,3 @@ Let's delve deeper into the differences between Differentiated Instruction (DI) 
 Both approaches aim to create inclusive and effective learning environments, but they differ in their focus, implementation, and scope. By understanding these differences, educators can better choose the approach that aligns with their teaching philosophy and the needs of their students.
 
 Do you have any specific scenarios or subjects in mind where you would like to see these approaches applied?
-

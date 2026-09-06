@@ -1,20 +1,22 @@
 ---
-type: 'Module'
-collections: 'Writing II Modules'
+type: Module
+collections: Writing II Modules
 title: Writing II Module 1
-tags: [Module, Archive]
+tags:
+  - Module
+  - Archive
 date: 2026-01-26T00:00:00.000Z -> 2026-02-01T00:00:00.000Z
-status: null
-subject: '[[Writing II]]'
-chapterWeek: null
-coverImage: null
-unit: null
-prior: null
-next: '[[Writing II Module 2]]'
-reading: null
-bookTitle: null
+status:
+subject: "[[Writing II]]"
+chapterWeek:
+coverImage:
+unit:
+prior:
+next: "[[Writing II Module 2]]"
+reading:
+bookTitle:
 studentDeliverableS: []
-semester: null
+semester:
 relations: []
 note: []
 ---
@@ -680,4 +682,3 @@ In the context of this Writing II chapter on descriptive writing, the concept em
 5. Add your group images… each representing a different sense.
 
 6. Create a unique thesis statement based on your jigsaw group theme from January 28, 2026.
-

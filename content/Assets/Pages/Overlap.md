@@ -18,4 +18,3 @@ Showing learners how enthusiastic overlap is common and acceptable in informal E
 
 **Common Misconception:**
 Overlap is always rude.
-

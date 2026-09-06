@@ -18,4 +18,3 @@ Categorizing functional language lessons (e.g., 'How to make an apology' rather 
 
 **Common Misconception:**
 Words only transmit information.
-

@@ -24,7 +24,7 @@ note:
 
 # DA - Module 1: Entering the World of Discourse
 
-![DA week 1](../Audios/Media/DA%20week%201.mp3)
+[DA week 1](../Audios/Media/DA%20week%201.mp3)
 [[DA week 1|DA week 1 - Notes]]
 
 ⚡️ From course orientation to the historical foundations of language-in-context inquiry
@@ -153,4 +153,3 @@ Readings for this week: Chapter 1 from [Celce-Murcia (2000)_Discourse and Contex
     3. [[Week 1 task]]
 
 ## 🗓️ Friday (9:00 AM - 10:00 AM)
-

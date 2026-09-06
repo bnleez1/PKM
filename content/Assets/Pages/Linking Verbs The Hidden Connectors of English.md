@@ -1,14 +1,15 @@
 ---
-type: 'Page'
-collections: 'Public Pages'
-title: 'Linking Verbs: The Hidden Connectors of English'
-aliases: null
-description: null
+type: Page
+collections: Public Pages
+title: "Linking Verbs: The Hidden Connectors of English"
+aliases:
+description:
 icon: 🔰
-createdAt: '2025-01-02T19:07:08.660Z'
-lastUpdated: '2026-06-28T12:56:11.742Z'
-tags: [GrammarSyntax]
-coverImage: '[Untitled](../Images/Untitled%20(21).md)'
+createdAt: 2025-01-02T19:07:08.660Z
+lastUpdated: 2026-06-28T12:56:11.742Z
+tags:
+  - GrammarSyntax
+coverImage: "[Untitled](../Images/Untitled%20(21).md)"
 ---
 
 # Linking Verbs: The Hidden Connectors of English
@@ -110,4 +111,3 @@ Some verbs act as linking verbs only in certain situations.
 **Spotting Linking Verbs**
 
 Here's a quick trick: If you can replace the verb with a form of "to be" (am, is, are, was, were) and the sentence still makes sense, you've probably got a linking verb.
-

@@ -18,4 +18,3 @@ Teaching basic functional dialogues so learners have automatic responses to stan
 
 **Common Misconception:**
 Any two sentences spoken in a row.
-

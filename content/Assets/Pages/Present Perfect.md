@@ -1,13 +1,14 @@
 ---
-type: 'Page'
+type: Page
 title: Present Perfect
-aliases: null
-description: null
+aliases:
+description:
 icon: 🔰
-createdAt: '2025-01-02T15:12:24.837Z'
-lastUpdated: '2026-06-23T14:18:21.098Z'
-tags: [GrammarSyntax]
-coverImage: '[Untitled](../Images/Untitled%20(380).md)'
+createdAt: 2025-01-02T15:12:24.837Z
+lastUpdated: 2026-06-23T14:18:21.098Z
+tags:
+  - GrammarSyntax
+coverImage: "[Untitled](../Images/Untitled%20(380).md)"
 ---
 
 # Present Perfect
@@ -103,4 +104,3 @@ We use the present perfect in several situations:
 ## **Practice and Patience**
 
 Remember, mastering the present perfect takes practice and patience. Keep these points in mind, and you'll be using this tense like a pro in no time!
-

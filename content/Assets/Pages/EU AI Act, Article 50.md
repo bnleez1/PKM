@@ -1,13 +1,14 @@
 ---
-type: 'Page'
+type: Page
 title: EU AI Act, Article 50
-aliases: null
-description: null
+aliases:
+description:
 icon: ✴️
-createdAt: '2026-07-25T13:59:09.377Z'
-lastUpdated: '2026-07-25T14:11:12.581Z'
-tags: [GenAI]
-coverImage: '[Untitled](../Images/Untitled%20(104).md)'
+createdAt: 2026-07-25T13:59:09.377Z
+lastUpdated: 2026-07-25T14:11:12.581Z
+tags:
+  - GenAI
+coverImage: "[Untitled](../Images/Untitled%20(104).md)"
 ---
 
 # EU AI Act, Article 50
@@ -126,4 +127,3 @@ AI may improve:
     - Encourages an AI ecosystem consistent with EU values
 
     - Enables the free movement of AI-based goods and services across the internal market
-

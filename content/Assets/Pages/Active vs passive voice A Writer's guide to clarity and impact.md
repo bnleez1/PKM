@@ -1,13 +1,14 @@
 ---
-type: 'Page'
-title: 'Active vs. passive voice: A Writer''s guide to clarity and impact'
-aliases: null
-description: null
+type: Page
+title: "Active vs. passive voice: A Writer's guide to clarity and impact"
+aliases:
+description:
 icon: 🔰
-createdAt: '2025-01-02T15:17:50.487Z'
-lastUpdated: '2026-06-14T17:48:56.008Z'
-tags: [GrammarSyntax]
-coverImage: '[Untitled](../Images/Untitled%20(21).md)'
+createdAt: 2025-01-02T15:17:50.487Z
+lastUpdated: 2026-06-14T17:48:56.008Z
+tags:
+  - GrammarSyntax
+coverImage: "[Untitled](../Images/Untitled%20(21).md)"
 ---
 
 # Active vs. passive voice: A Writer's guide to clarity and impact
@@ -257,4 +258,3 @@ In summary, the **present simple**, **past simple**, and **present perfect** pas
 2. The song will have been being recorded by the artist.
 
 3. The garden will have been being tended by the gardener.
-

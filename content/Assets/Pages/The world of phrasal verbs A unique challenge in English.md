@@ -1,14 +1,15 @@
 ---
-type: 'Page'
-collections: 'Public Pages'
-title: 'The world of phrasal verbs: A unique challenge in English'
-aliases: null
-description: null
+type: Page
+collections: Public Pages
+title: "The world of phrasal verbs: A unique challenge in English"
+aliases:
+description:
 icon: 🔰
-createdAt: '2025-01-02T19:13:58.894Z'
-lastUpdated: '2026-06-28T12:56:11.825Z'
-tags: [Vocabulary]
-coverImage: '[Untitled](../Images/Untitled%20(21).md)'
+createdAt: 2025-01-02T19:13:58.894Z
+lastUpdated: 2026-06-28T12:56:11.825Z
+tags:
+  - Vocabulary
+coverImage: "[Untitled](../Images/Untitled%20(21).md)"
 ---
 
 # The world of phrasal verbs: A unique challenge in English
@@ -348,4 +349,3 @@ Examples:
 59. **Wind up**: Finish, end up
 
 60. **Zero in on**: Focus closely on
-

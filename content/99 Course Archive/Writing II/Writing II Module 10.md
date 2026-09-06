@@ -1,20 +1,22 @@
 ---
-type: 'Module'
-collections: 'Writing II Modules'
+type: Module
+collections: Writing II Modules
 title: Writing II Module 10
-tags: [Module, Archive]
+tags:
+  - Module
+  - Archive
 date: 2026-03-30T00:00:00.000Z -> 2026-04-05T00:00:00.000Z
-status: null
-subject: '[[Writing II]]'
-chapterWeek: null
-coverImage: null
-unit: null
-prior: '[[Writing II Module 9]]'
-next: '[[Writing II Module 11]]'
-reading: null
-bookTitle: null
+status:
+subject: "[[Writing II]]"
+chapterWeek:
+coverImage:
+unit:
+prior: "[[Writing II Module 9]]"
+next: "[[Writing II Module 11]]"
+reading:
+bookTitle:
 studentDeliverableS: []
-semester: null
+semester:
 relations: []
 note: []
 ---
@@ -205,4 +207,3 @@ Your goal is to complete your first draft (expository five-paragraph essay) by M
 1. Complete Writing II: Introduction Paragraph Task and Conclusion Paragraph.
 
 2. Request feedback as needed.
-

@@ -18,4 +18,3 @@ Explaining why native speakers naturally assume a learner's broken sentence has 
 
 **Common Misconception:**
 Speakers are always honest and helpful.
-

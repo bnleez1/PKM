@@ -1,16 +1,14 @@
 ---
-type: 'Page'
-collections: 'Public Pages'
+type: Page
+collections: Public Pages
 title: prosody
-aliases: null
-description: null
-icon: null
-createdAt: '2025-02-18T16:37:10.033Z'
-lastUpdated: '2026-06-28T12:57:10.889Z'
+aliases:
+description:
+icon:
+createdAt: 2025-02-18T16:37:10.033Z
+lastUpdated: 2026-06-28T12:57:10.889Z
 tags: []
-coverImage: null
+coverImage:
 ---
 
 # prosody
-
-

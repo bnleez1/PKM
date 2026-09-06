@@ -18,4 +18,3 @@ Using established scripts to lower anxiety for beginners navigating familiar pub
 
 **Common Misconception:**
 A written dialogue to memorize.
-

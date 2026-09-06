@@ -1,14 +1,15 @@
 ---
-type: 'Glossary'
-collections: 'Written Error Code'
+type: Glossary
+collections: Written Error Code
 title: (PREP) Prepositions
-tags: [WritingErrorCode, GrammarSyntax]
+tags:
+  - WritingErrorCode
+  - GrammarSyntax
 subject: []
-formalDefinition: >-
-  A preposition is a word used in English to express the relationship of a noun
-  or pronoun to other elements of the sentence.
+formalDefinition: A preposition is a word used in English to express the relationship of a noun or pronoun to other elements of the sentence.
 relatedTerms: []
-pages: ['[[Writing error code list]]']
+pages:
+  - "[[Writing error code list]]"
 notes: []
 ---
 
@@ -668,4 +669,3 @@ To overcome these challenges, Spanish-speaking learners can use several strategi
 99. **In the absence of** - En ausencia de
 
 100. **On the edge of** - Al borde de
-

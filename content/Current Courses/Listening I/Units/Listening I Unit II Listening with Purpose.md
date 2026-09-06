@@ -1,11 +1,14 @@
 ---
-type: 'Unit'
-collections: 'Listening I Units, Units'
-title: 'Listening I Unit II: Listening with Purpose'
-tags: [Writing, EnglishSkillDevelopment]
+type: Unit
+collections: Listening I Units, Units
+title: "Listening I Unit II: Listening with Purpose"
+tags:
+  - Writing
+  - EnglishSkillDevelopment
 date: 2026-09-07T00:00:00.000Z -> 2026-10-04T00:00:00.000Z
-subject: ['[[Listening I]]']
-coverImage: null
+subject:
+  - "[[Listening I]]"
+coverImage:
 ---
 
 # Listening I Unit II: Listening with Purpose
@@ -299,4 +302,3 @@ The course syllabus specifies that **English use represents 50% of the grade for
 - After an independent first attempt, authorized **GenAI-supported reflection** in which students analyze a specific difficulty, compare possible listening strategies, or generate similar A2-level practice rather than seeking answers to the original task.
 
 - A brief **AI decision trace** documenting suggestions accepted or rejected and explaining how the learner plans to modify their listening strategy, directly reflecting the Unit II GenAI expectations in the syllabus.
-

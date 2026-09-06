@@ -1,17 +1,14 @@
 ---
-type: 'Page'
-collections: 'Public Pages'
+type: Page
+collections: Public Pages
 title: Benjamin L. Stewart - About me
-aliases: null
-description: >-
-  Welcome to my hub! My name is Benjamin L. Stewart and I am an English language
-  teacher trainer who enjoys making much of my teaching and learning experience
-  transparent to others. 
+aliases:
+description: "Welcome to my hub! My name is Benjamin L. Stewart and I am an English language teacher trainer who enjoys making much of my teaching and learning experience transparent to others. "
 icon: 🧭
-createdAt: '2026-06-04T16:19:13.192Z'
-lastUpdated: '2026-07-23T13:36:23.183Z'
+createdAt: 2026-06-04T16:19:13.192Z
+lastUpdated: 2026-07-23T13:36:23.183Z
 tags: []
-coverImage: '[[Banner_Me]]'
+coverImage: "[[Banner_Me]]"
 ---
 
 # Benjamin L. Stewart - About me
@@ -27,7 +24,7 @@ coverImage: '[[Banner_Me]]'
 
 ---
 
-![Me_230720260728](../Images/Media/Me_230720260728.png)
+[Me_230720260728](../Images/Media/Me_230720260728.png)
 [[Me_230720260728|Me_230720260728 - Notes]]
 
 [Public Pages](./Public%20Pages.csv)
@@ -52,4 +49,3 @@ My [[GenAI Policy]].
 ## 📚️ Subject Archive
 
 [[Academic Writing UAA Instructors]] | [[Class Observation]] | [[Grammar in Context II]] | [[Listening & Speaking I]] | [[Teaching Workshop II]] | [[Thesis Seminar]] | [[Writing II]] | [[Writing Workshop]]
-

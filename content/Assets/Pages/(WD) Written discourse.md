@@ -1,14 +1,16 @@
 ---
-type: 'Glossary'
-collections: 'Written Error Code'
+type: Glossary
+collections: Written Error Code
 title: (WD) Written discourse
-tags: [WritingErrorCode, WritingDiscourse, Writing]
+tags:
+  - WritingErrorCode
+  - WritingDiscourse
+  - Writing
 subject: []
-formalDefinition: >-
-  Writing a unified, coherent, and cohesive text in English, especially in the
-  context of written discourse, involves several key strategies. 
+formalDefinition: "Writing a unified, coherent, and cohesive text in English, especially in the context of written discourse, involves several key strategies. "
 relatedTerms: []
-pages: ['[[Writing error code list]]']
+pages:
+  - "[[Writing error code list]]"
 notes: []
 ---
 
@@ -201,4 +203,3 @@ When writing an academic empirical research paper, the choice of verb tense is c
 - The choice of tense can also be influenced by the norms of your specific academic discipline, so it's a good idea to consult recent papers in your field as examples.
 
 Following these guidelines helps ensure that your research paper is clear, coherent, and appropriately conveys the timing and nature of your research.
-

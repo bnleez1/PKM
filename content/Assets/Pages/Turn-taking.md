@@ -18,4 +18,3 @@ Helping learners adapt to English turn-taking speeds, which may be faster or slo
 
 **Common Misconception:**
 There are universal rules for turn-taking.
-

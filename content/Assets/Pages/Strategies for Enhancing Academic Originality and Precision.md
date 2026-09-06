@@ -1,21 +1,26 @@
 ---
-type: 'Page'
-collections: 'Public Pages'
+type: Page
+collections: Public Pages
 title: Strategies for Enhancing Academic Originality and Precision
-aliases: null
-description: null
+aliases:
+description:
 icon: ✍️
-createdAt: '2026-06-12T21:10:54.522Z'
-lastUpdated: '2026-06-28T12:57:51.225Z'
-tags: [Writing, AcademicWriting, Plagiarism, GrammarSyntax, GenAI]
-coverImage: '[Untitled](../Images/Untitled%20(237).md)'
+createdAt: 2026-06-12T21:10:54.522Z
+lastUpdated: 2026-06-28T12:57:51.225Z
+tags:
+  - Writing
+  - AcademicWriting
+  - Plagiarism
+  - GrammarSyntax
+  - GenAI
+coverImage: "[Untitled](../Images/Untitled%20(237).md)"
 ---
 
 # Strategies for Enhancing Academic Originality and Precision
 
 [Increase Originality Scores (unlisted)](https://www.youtube.com/watch?v=gj3lQDwXQXc)[Increase Originality Scores (unlisted) - Notes](../Weblinks/Increase%20Originality%20Scores%20(unlisted)%20(5).md)
 
-![Increase originality score](../Audios/Media/Increase%20originality%20score.mp3)
+[Increase originality score](../Audios/Media/Increase%20originality%20score.mp3)
 [[Increase originality score|Increase originality score - Notes]]
 
 The provided video outlines practical strategies for students to improve their academic originality scores while simultaneously enhancing the overall quality and clarity of their [[Writing I]], [[Writing II]], and [[Thesis Seminar]]. By carefully analyzing an originality report, writers can identify opportunities to make their text more descriptive, specific, and structurally sound.
@@ -61,5 +66,5 @@ The provided video outlines practical strategies for students to improve their a
 
     2. Embrace Errors: It is much better to have grammatical errors in a first draft and maintain your authentic voice than to use technology that arbitrarily changes the text 21, 35. Students should work directly with instructors to genuinely understand their structural errors and learn how to fix them manually.
 
-![How_to_increase_your_originality_score](../Audios/Media/How_to_increase_your_originality_score.m4a)
+[How_to_increase_your_originality_score](../Audios/Media/How_to_increase_your_originality_score.m4a)
 [[How_to_increase_your_originality_score|How_to_increase_your_originality_score - Notes]]

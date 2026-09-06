@@ -1,16 +1,13 @@
 ---
-type: 'Page'
+type: Page
 title: Lesson plan II
-aliases: null
-description: >-
-  This lesson plan focuses on teaching English vocabulary and phrases related to
-  social media, as well as providing practice in reading and discussing social
-  media content.
+aliases:
+description: This lesson plan focuses on teaching English vocabulary and phrases related to social media, as well as providing practice in reading and discussing social media content.
 icon: 🧭
-createdAt: '2023-11-20T12:33:06.279Z'
-lastUpdated: '2026-08-19T16:28:43.755Z'
+createdAt: 2023-11-20T12:33:06.279Z
+lastUpdated: 2026-08-19T16:28:43.755Z
 tags: []
-coverImage: '[Untitled](../Images/Untitled%20(53).md)'
+coverImage: "[Untitled](../Images/Untitled%20(53).md)"
 ---
 
 # Lesson plan II
@@ -84,4 +81,3 @@ coverImage: '[Untitled](../Images/Untitled%20(53).md)'
 ---
 
 Remember to adjust the speed and content of the lesson to the proficiency level of the students. You might need to simplify the vocabulary or offer additional explanations for beginners, whereas advanced learners may benefit from more in-depth discussion on the nuances of social media communication in English.
-

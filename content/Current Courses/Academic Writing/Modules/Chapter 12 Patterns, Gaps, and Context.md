@@ -122,4 +122,3 @@ The second part of the week should move from practice to production. Students us
 ## 🗓️ Thursday (12:00 PM - 1:00 PM)
 
 ## 🗓️ Friday (10:00 AM - 12:00 PM)
-

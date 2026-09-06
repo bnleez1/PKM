@@ -1,12 +1,15 @@
 ---
-type: 'Glossary'
-collections: 'Written Error Code'
+type: Glossary
+collections: Written Error Code
 title: (CS) Comma Splice
-tags: [Punctuation, WritingErrorCode]
+tags:
+  - Punctuation
+  - WritingErrorCode
 subject: []
-formalDefinition: null
+formalDefinition:
 relatedTerms: []
-pages: ['[[Writing error code list]]']
+pages:
+  - "[[Writing error code list]]"
 notes: []
 ---
 
@@ -73,4 +76,3 @@ A comma splice occurs when two independent clauses (clauses that can stand alone
     - Using a Subordinating Conjunction: “Although the project is due soon, we haven’t started working on it.”
 
 Correcting a comma splice enhances the clarity and grammatical correctness of your writing. Each method of correction offers a slightly different nuance, allowing you to choose the one that best fits the context and desired flow of your text (See [[(WD) Written discourse]].).
-

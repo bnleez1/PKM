@@ -1,22 +1,23 @@
 ---
-type: 'Page'
-collections: 'Public Pages'
+type: Page
+collections: Public Pages
 title: Academic Writing (Literature Review) Rubric
-aliases: null
-description: null
+aliases:
+description:
 icon: 🎯
-createdAt: '2026-06-18T15:15:05.282Z'
-lastUpdated: '2026-06-28T12:58:00.842Z'
-tags: [Writing, Assessment, Rubrics]
-coverImage: '[Untitled](../Images/Untitled%20(252).md)'
+createdAt: 2026-06-18T15:15:05.282Z
+lastUpdated: 2026-06-28T12:58:00.842Z
+tags:
+  - Writing
+  - Assessment
+  - Rubrics
+coverImage: "[Untitled](../Images/Untitled%20(252).md)"
 ---
-
 # Academic Writing (Literature Review) Rubric
 
 
 This writing rubric was designed for [[Academic Writing]].
 
-![UAA_Lit_Review_Rubric_v4](../Files/Media/UAA_Lit_Review_Rubric_v4.xlsx)
 [[UAA_Lit_Review_Rubric_v4|UAA_Lit_Review_Rubric_v4 - Notes]]
 
 ## Problem Framing & Rationale (10 pts)
@@ -66,4 +67,3 @@ This evaluates the strict adherence to the mechanical rules of scholarly attribu
 - **Formatting and Mechanics:** This includes the correct use of APA 7th edition guidelines for in-text citations (narrative and parenthetical), formatting the references page, and handling direct quotes versus paraphrasing.
 
 - **Academic Integrity:** This is where the originality score comes into play. It ensures ethical source use. It penalizes patchwriting (heavily borrowing sentence structures from a source and just swapping out a few synonyms) and ensures that the student is genuinely generating their own synthesis of the material.
-

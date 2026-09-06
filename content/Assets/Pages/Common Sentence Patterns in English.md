@@ -1,13 +1,14 @@
 ---
-type: 'Page'
+type: Page
 title: Common Sentence Patterns in English
-aliases: null
-description: null
+aliases:
+description:
 icon: ✴️
-createdAt: '2026-08-18T18:51:16.439Z'
-lastUpdated: '2026-08-18T18:52:03.823Z'
-tags: [GrammarSyntax]
-coverImage: '[Untitled](../Images/Untitled%20(17).md)'
+createdAt: 2026-08-18T18:51:16.439Z
+lastUpdated: 2026-08-18T18:52:03.823Z
+tags:
+  - GrammarSyntax
+coverImage: "[Untitled](../Images/Untitled%20(17).md)"
 ---
 
 # Common Sentence Patterns in English
@@ -343,4 +344,3 @@ English sentences follow predictable patterns that help us communicate clearly a
 7. **Combine patterns** to create sophisticated, mature writing.
 
 Understanding these sentence patterns provides the foundation for clear, effective communication in English. Whether you're writing academic papers, business emails, or creative stories, these structures will help you express your ideas with precision and variety.
-

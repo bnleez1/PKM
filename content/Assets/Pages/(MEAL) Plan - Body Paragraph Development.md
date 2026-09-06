@@ -1,13 +1,15 @@
 ---
-type: 'Page'
+type: Page
 title: (MEAL) Plan - Body Paragraph Development
-aliases: null
-description: null
-icon: null
-createdAt: '2023-06-06T21:07:07.502Z'
-lastUpdated: '2026-08-27T16:13:40.603Z'
-tags: [AcademicWriting, WritingErrorCode]
-coverImage: null
+aliases:
+description:
+icon:
+createdAt: 2023-06-06T21:07:07.502Z
+lastUpdated: 2026-08-27T16:13:40.603Z
+tags:
+  - AcademicWriting
+  - WritingErrorCode
+coverImage:
 ---
 
 # (MEAL) Plan - Body Paragraph Development
@@ -145,4 +147,3 @@ Think of paragraph length in terms of sentences first. Typically, body paragraph
 [Paragraphing: MEAL Plan](https://owl.excelsior.edu/research/drafting-and-integrating/drafting-and-integrating-paragraphing/)[Paragraphing: MEAL Plan - Notes](../Weblinks/Paragraphing%20MEAL%20Plan.md)
 
 ---
-

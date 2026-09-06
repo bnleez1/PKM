@@ -18,4 +18,3 @@ Increasing wait time to 5 seconds to give learners the cognitive space to transl
 
 **Common Misconception:**
 A long pause means the students don't know the answer.
-

@@ -1,13 +1,14 @@
 ---
-type: 'Page'
+type: Page
 title: Introductory Phrases
-aliases: null
-description: null
+aliases:
+description:
 icon: 🧭
-createdAt: '2023-06-04T14:33:52.273Z'
-lastUpdated: '2026-06-17T13:00:30.765Z'
-tags: [Writing]
-coverImage: '[Untitled](../Images/Untitled%20(53).md)'
+createdAt: 2023-06-04T14:33:52.273Z
+lastUpdated: 2026-06-17T13:00:30.765Z
+tags:
+  - Writing
+coverImage: "[Untitled](../Images/Untitled%20(53).md)"
 ---
 
 # Introductory Phrases
@@ -155,4 +156,3 @@ Conjunctive adverbs connect two independent clauses and show the relationship be
     - **However**, I decided to stay home because I was tired; **therefore**, I missed the party.
 
 These examples illustrate how introductory phrases can be used to add variety and depth to your writing.
-

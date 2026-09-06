@@ -164,6 +164,3 @@ note: []
 ## Video Archive
 
 [Thesis Seminar: Weekly recap 3](https://www.youtube.com/watch?v=VUFGoRwQO18)[Thesis Seminar: Weekly recap 3 - Notes](../Weblinks/Thesis%20Seminar%20Weekly%20recap%203%20(1).md)
-
-
-

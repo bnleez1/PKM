@@ -20,7 +20,6 @@ semester: Fall 2026
 relations: []
 note: []
 ---
-
 # W-Module 3: Planning a Paragraph Before Writing
 
 
@@ -124,7 +123,7 @@ Worked on text, adding punctuation, capitalization, and identifying types of sen
 
 - Answer key for text 1
 
-    ![Answer key](../PDFs/Media/Answer%20key.pdf)
+    [Answer key](../PDFs/Media/Answer%20key.pdf)
     [[Answer key|Answer key - Notes]]
 
 
@@ -275,4 +274,3 @@ Worked on text, adding punctuation, capitalization, and identifying types of sen
     7. The wording of the paragraph is mine.
 
 ## 🗓️ Friday
-

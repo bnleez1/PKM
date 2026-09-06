@@ -1,14 +1,15 @@
 ---
-type: 'Page'
-collections: 'Public Pages'
+type: Page
+collections: Public Pages
 title: Crafting a Literature Review for a Thesis Paper
-aliases: null
-description: null
+aliases:
+description:
 icon: 🔰
-createdAt: '2025-01-17T14:27:28.907Z'
-lastUpdated: '2026-06-28T12:56:51.241Z'
-tags: [Reading]
-coverImage: '[Untitled](../Images/Untitled%20(82).md)'
+createdAt: 2025-01-17T14:27:28.907Z
+lastUpdated: 2026-06-28T12:56:51.241Z
+tags:
+  - Reading
+coverImage: "[Untitled](../Images/Untitled%20(82).md)"
 ---
 
 # Crafting a Literature Review for a Thesis Paper
@@ -224,5 +225,3 @@ A well-conducted literature review is foundational in the research process. It n
 - Anthropomorphisms/personification
 
     [https://youtu.be/WD1J1m0OwwE](https://youtu.be/WD1J1m0OwwE)
-
-

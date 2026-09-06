@@ -1,14 +1,15 @@
 ---
-type: 'Page'
-collections: 'Public Pages'
+type: Page
+collections: Public Pages
 title: The Topic and Theme Tool
-aliases: null
-description: null
+aliases:
+description:
 icon: ✴️
-createdAt: '2026-06-22T18:22:49.310Z'
-lastUpdated: '2026-06-28T12:56:01.102Z'
-tags: [DiscourseAnalysis]
-coverImage: '[Untitled](../Images/Untitled%20(251).md)'
+createdAt: 2026-06-22T18:22:49.310Z
+lastUpdated: 2026-06-28T12:56:01.102Z
+tags:
+  - DiscourseAnalysis
+coverImage: "[Untitled](../Images/Untitled%20(251).md)"
 ---
 
 # The Topic and Theme Tool
@@ -87,4 +88,3 @@ By analyzing the themes, we realize that Text B and Text C are doing heavy publi
 ## Conclusion
 
 James Paul Gee’s Topic and Theme Tool demonstrates that the beginning of a sentence is a powerful framing device. It establishes the lens through which the rest of the information must be viewed. For discourse analysts, educators, and critical readers, this tool provides a methodical way to dismantle how a text guides our attention. By consistently asking, "What is the point of departure here?" we can resist being passively led by a text and instead actively interrogate the worldview the author is attempting to build, one starting point at a time.
-

@@ -1,14 +1,16 @@
 ---
-type: 'Page'
-collections: 'Public Pages'
+type: Page
+collections: Public Pages
 title: Action Plan Designs for Three-Tier Intensive RTI Support
-aliases: null
-description: null
+aliases:
+description:
 icon: 💯
-createdAt: '2026-06-12T14:50:59.428Z'
-lastUpdated: '2026-06-28T12:57:51.199Z'
-tags: [Assessment, RTI]
-coverImage: null
+createdAt: 2026-06-12T14:50:59.428Z
+lastUpdated: 2026-06-28T12:57:51.199Z
+tags:
+  - Assessment
+  - RTI
+coverImage:
 ---
 
 # Action Plan Designs for Three-Tier Intensive RTI Support
@@ -56,4 +58,3 @@ This design functions as a running log of revisions. It tracks not just what you
 ---
 
 > **Key insight:** The most common failure point in Tier 3 for higher education is a lack of strict exit criteria. Ensure whichever design you use includes a definitive metric for when the trainee no longer needs 1-on-1 intensive support and can return to Tier 1 or Tier 2.
-

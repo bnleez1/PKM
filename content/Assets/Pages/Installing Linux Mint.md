@@ -1,14 +1,15 @@
 ---
-type: 'Page'
-collections: 'Public Pages'
+type: Page
+collections: Public Pages
 title: Installing Linux Mint
-aliases: null
-description: null
-icon: null
-createdAt: '2025-03-17T12:49:10.455Z'
-lastUpdated: '2026-08-07T14:01:47.656Z'
-tags: [Linux]
-coverImage: '[Untitled](../Images/Untitled%20(61).md)'
+aliases:
+description:
+icon:
+createdAt: 2025-03-17T12:49:10.455Z
+lastUpdated: 2026-08-07T14:01:47.656Z
+tags:
+  - Linux
+coverImage: "[Untitled](../Images/Untitled%20(61).md)"
 ---
 
 # Installing Linux Mint
@@ -3729,4 +3730,3 @@ coverImage: '[Untitled](../Images/Untitled%20(61).md)'
     Your external drive and Google Drive are now successfully paired and will sync automatically in the background.
 
     Are you running Ubuntu, or are you using a different Linux distribution that might require slightly different steps for the startup configuration?
-

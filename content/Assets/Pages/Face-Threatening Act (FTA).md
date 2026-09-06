@@ -18,4 +18,3 @@ Practicing how to politely disagree with a colleague without causing offense.
 
 **Common Misconception:**
 Only insults are FTAs.
-

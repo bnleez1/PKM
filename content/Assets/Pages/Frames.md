@@ -18,4 +18,3 @@ Showing how framing a test as a 'learning opportunity' changes student engagemen
 
 **Common Misconception:**
 Physical borders of an image.
-

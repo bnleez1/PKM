@@ -1,13 +1,14 @@
 ---
-type: 'Page'
-title: 'A comprehensive guide to English verb tenses: Mastering the art of time'
-aliases: null
-description: null
+type: Page
+title: "A comprehensive guide to English verb tenses: Mastering the art of time"
+aliases:
+description:
 icon: 🔰
-createdAt: '2025-01-02T15:05:44.783Z'
-lastUpdated: '2026-06-14T17:48:56.052Z'
-tags: [GrammarSyntax]
-coverImage: '[Untitled](../Images/Untitled%20(21).md)'
+createdAt: 2025-01-02T15:05:44.783Z
+lastUpdated: 2026-06-14T17:48:56.052Z
+tags:
+  - GrammarSyntax
+coverImage: "[Untitled](../Images/Untitled%20(21).md)"
 ---
 
 # A comprehensive guide to English verb tenses: Mastering the art of time
@@ -292,4 +293,3 @@ Now for a slightly more advanced concept: perfect continuous tenses. These combi
     - Example: We **will have been waiting** for this moment for a long time.
 
     - Example: The band **will have been performing** for two hours by the time the concert ends.
-

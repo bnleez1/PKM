@@ -18,4 +18,3 @@ Teaching learners how to integrate sources and citations naturally in academic w
 
 **Common Misconception:**
 It only means direct quotation.
-

@@ -1,13 +1,14 @@
 ---
-type: 'Page'
+type: Page
 title: Relative clauses
-aliases: null
-description: null
+aliases:
+description:
 icon: 🖋️
-createdAt: '2025-01-02T18:40:25.853Z'
-lastUpdated: '2026-06-12T20:41:43.910Z'
-tags: [GrammarSyntax]
-coverImage: '[Untitled](../Images/Untitled%20(13).md)'
+createdAt: 2025-01-02T18:40:25.853Z
+lastUpdated: 2026-06-12T20:41:43.910Z
+tags:
+  - GrammarSyntax
+coverImage: "[Untitled](../Images/Untitled%20(13).md)"
 ---
 
 # Relative clauses
@@ -100,4 +101,3 @@ A relative clause usually begins with the following relative pronouns: who, (to/
 - My friend Alicia who is a talented artist painted this picture.
 
 - Her youngest son whose ambition is to be a pilot is studying physics.
-

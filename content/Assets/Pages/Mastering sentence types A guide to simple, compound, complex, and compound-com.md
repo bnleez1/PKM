@@ -1,18 +1,15 @@
 ---
-type: 'Page'
-title: >-
-  Mastering sentence types: A guide to simple, compound, complex, and
-  compound-complex sentences
-aliases: null
-description: >-
-  A comprehensive guide detailing the four main types of sentences—simple,
-  compound, complex, and compound-complex—highlighting their structures,
-  meanings, uses, and providing illustrative examples to enhance writing skills.
+type: Page
+title: "Mastering sentence types: A guide to simple, compound, complex, and compound-complex sentences"
+aliases:
+description: A comprehensive guide detailing the four main types of sentences—simple, compound, complex, and compound-complex—highlighting their structures, meanings, uses, and providing illustrative examples to enhance writing skills.
 icon: 🖋️
-createdAt: '2025-01-01T17:12:40.783Z'
-lastUpdated: '2026-06-05T12:32:59.370Z'
-tags: [WritingErrorCode, Writing]
-coverImage: '[Untitled](../Images/Untitled%20(13).md)'
+createdAt: 2025-01-01T17:12:40.783Z
+lastUpdated: 2026-06-05T12:32:59.370Z
+tags:
+  - WritingErrorCode
+  - Writing
+coverImage: "[Untitled](../Images/Untitled%20(13).md)"
 ---
 
 # Mastering sentence types: A guide to simple, compound, complex, and compound-complex sentences
@@ -106,4 +103,3 @@ English grammar offers a rich tapestry of sentence structures, each with its own
 Mastering the four sentence structures empowers you to express your thoughts with clarity, precision, and style. By understanding the form, meaning, and use of simple, compound, complex, and compound-complex sentences, you can elevate your writing and communication skills to new heights. So, embrace the versatility of English grammar, experiment with different sentence structures, and unlock the full potential of your language abilities.
 
 Remember, effective communication is an art, and a well-crafted sentence is its masterpiece.
-

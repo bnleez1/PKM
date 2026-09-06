@@ -627,4 +627,3 @@ Throughout these lessons, emphasis was placed on **academic integrity**, **syste
 - Lesson 1.5
 
     - Complete TS Reflection 1 and Thesis Seminar Week 1 Task.
-

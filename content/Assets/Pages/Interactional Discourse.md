@@ -18,4 +18,3 @@ Practicing small talk, chatting about the weekend, and building rapport with col
 
 **Common Misconception:**
 It has no structure or rules.
-

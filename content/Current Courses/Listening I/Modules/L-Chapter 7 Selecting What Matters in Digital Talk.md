@@ -112,4 +112,3 @@ CAADI Worksheet 7 provides another opportunity to separate main ideas, relevant 
 ## 🗓️ Thursday
 
 ## 🗓️ Friday
-

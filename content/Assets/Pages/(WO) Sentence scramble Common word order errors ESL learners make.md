@@ -1,12 +1,15 @@
 ---
-type: 'Glossary'
-collections: 'Written Error Code'
-title: '(WO) Sentence scramble: Common word order errors ESL learners make'
-tags: [WritingErrorCode, Writing]
+type: Glossary
+collections: Written Error Code
+title: "(WO) Sentence scramble: Common word order errors ESL learners make"
+tags:
+  - WritingErrorCode
+  - Writing
 subject: []
-formalDefinition: null
+formalDefinition:
 relatedTerms: []
-pages: ['[[Writing error code list]]']
+pages:
+  - "[[Writing error code list]]"
 notes: []
 ---
 
@@ -27,4 +30,3 @@ If you want to learn more about word order and how to avoid these mistakes, you 
 - [Question Formation in English](https://benjaminlstewart.com/forming-questions-in-english-a-breakdown-with-examples/)
 
 - [Subordinate Clauses](https://benjaminlstewart.com/subordinating-adverbial-clause-adding-depth-to-ones-ideas/)
-

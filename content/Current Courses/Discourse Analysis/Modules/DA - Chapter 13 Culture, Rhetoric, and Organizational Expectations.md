@@ -118,4 +118,3 @@ In classroom feedback, invite writers to articulate their rhetorical choices bef
 ## 🗓️ Thursday (9:00 AM - 10:00 AM)
 
 ## 🗓️ Friday (9:00 AM - 10:00 AM)
-

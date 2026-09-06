@@ -1,14 +1,16 @@
 ---
-type: 'Glossary'
-collections: 'Written Error Code'
+type: Glossary
+collections: Written Error Code
 title: (AP) Apostrophe
-tags: [WritingErrorCode, Writing]
+tags:
+  - WritingErrorCode
+  - Writing
 subject: []
-formalDefinition: >-
-  The apostrophe serves several important functions, including indicating
-  possession, forming contractions, and sometimes creating plurals.
-relatedTerms: ['[[(WP) Understanding English punctuation]]']
-pages: ['[[Writing error code list]]']
+formalDefinition: The apostrophe serves several important functions, including indicating possession, forming contractions, and sometimes creating plurals.
+relatedTerms:
+  - "[[(WP) Understanding English punctuation]]"
+pages:
+  - "[[Writing error code list]]"
 notes: []
 ---
 
@@ -155,4 +157,3 @@ Regular writing practice can help reinforce correct apostrophe usage. Try writin
 ### Conclusion
 
 The apostrophe is a crucial punctuation mark in English that serves to indicate possession, form contractions, and occasionally create plurals. However, it is also a common source of errors for English language learners. By understanding the rules and practicing regularly, learners can improve their use of apostrophes and enhance the clarity and correctness of their writing. Remember to proofread carefully, use grammar tools, and read widely to reinforce your understanding of apostrophe usage.
-

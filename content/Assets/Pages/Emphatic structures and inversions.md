@@ -1,16 +1,14 @@
 ---
-type: 'Page'
+type: Page
 title: Emphatic structures and inversions
-aliases: null
-description: >-
-  Emphatic structures and inversion are powerful tools in academic writing that
-  can enhance clarity, emphasis, and engagement. Let’s delve into each concept
-  and see how they can be effectively used.
-icon: null
-createdAt: '2025-01-01T17:32:15.475Z'
-lastUpdated: '2026-01-11T08:54:09.803Z'
-tags: [Writing]
-coverImage: '[Untitled](../Images/Untitled%20(326).md)'
+aliases:
+description: Emphatic structures and inversion are powerful tools in academic writing that can enhance clarity, emphasis, and engagement. Let’s delve into each concept and see how they can be effectively used.
+icon:
+createdAt: 2025-01-01T17:32:15.475Z
+lastUpdated: 2026-01-11T08:54:09.803Z
+tags:
+  - Writing
+coverImage: "[Untitled](../Images/Untitled%20(326).md)"
 ---
 
 # Emphatic structures and inversions
@@ -186,4 +184,3 @@ Cleft sentences can indeed be used in academic writing, but they should be emplo
     - *Cleft*: It is not in the data collection that the issue lies, but in the analysis.
 
 In summary, cleft sentences can be a valuable tool in academic writing when used appropriately. They can help emphasize important points and clarify complex ideas, but should be used in moderation to maintain a formal and clear writing style.
-

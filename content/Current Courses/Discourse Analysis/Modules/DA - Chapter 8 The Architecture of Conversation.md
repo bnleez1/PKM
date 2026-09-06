@@ -118,4 +118,3 @@ This disciplined sequence prevents the transcript from becoming a psychological 
 ## 🗓️ Thursday (9:00 AM - 10:00 AM)
 
 ## 🗓️ Friday (9:00 AM - 10:00 AM)
-

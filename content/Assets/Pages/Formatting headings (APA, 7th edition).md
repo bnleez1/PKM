@@ -1,14 +1,15 @@
 ---
-type: 'Page'
-collections: 'Public Pages'
+type: Page
+collections: Public Pages
 title: Formatting headings (APA, 7th edition)
-aliases: null
-description: null
+aliases:
+description:
 icon: 📜
-createdAt: '2026-06-14T13:15:52.411Z'
-lastUpdated: '2026-06-28T12:57:51.283Z'
-tags: [APA]
-coverImage: '[Untitled](../Images/Untitled%20(377).md)'
+createdAt: 2026-06-14T13:15:52.411Z
+lastUpdated: 2026-06-28T12:57:51.283Z
+tags:
+  - APA
+coverImage: "[Untitled](../Images/Untitled%20(377).md)"
 ---
 
 # Formatting headings (APA, 7th edition)
@@ -37,4 +38,3 @@ When writing longer academic texts like a 5,000 to 6,000-word thesis paper, then
 
 
 💡 Always check with your instructor if you feel you need more than three levels of headings.
-

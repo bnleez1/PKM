@@ -47,4 +47,3 @@ Imagine a speaking task where a B2-level English learner is asked to describe a 
 First, they describe it to the teacher. Because the teacher is an "expert" interlocutor with evaluative power, the student speaks carefully, using stiff, formal vocabulary, pausing frequently to monitor their own grammar, and taking very few risks. The discourse is rigid.
 
 Next, the teacher asks the student to explain the exact same hobby to a peer who knows nothing about computers. Suddenly, the student's language transforms. Because the peer is a "novice" interlocutor, the student naturally begins using analogies, checking for understanding (*"You know how a car engine works? It's like that..."*), and using a warmer, more animated tone. By explicitly pointing out this shift to the students, the teacher transparently demonstrates how their language choices are powerfully dictated by who is sitting across from them.
-

@@ -1,13 +1,14 @@
 ---
-type: 'Page'
+type: Page
 title: Lesson Plan Tutorial Query
-aliases: null
-description: null
+aliases:
+description:
 icon: ✴️
-createdAt: '2026-07-23T15:57:18.719Z'
-lastUpdated: '2026-07-23T15:59:03.817Z'
-tags: [Capacities]
-coverImage: '[Untitled](../Images/Untitled%20(106).md)'
+createdAt: 2026-07-23T15:57:18.719Z
+lastUpdated: 2026-07-23T15:59:03.817Z
+tags:
+  - Capacities
+coverImage: "[Untitled](../Images/Untitled%20(106).md)"
 ---
 
 # Lesson Plan Tutorial Query
@@ -198,4 +199,3 @@ coverImage: '[Untitled](../Images/Untitled%20(106).md)'
     Capacities specifically supports linking to a saved query by name and changing its link view to **Embed**. (Capacities Documentation)
 
     [1]: https://docs.capacities.io/reference/queries?utm_source=chatgpt.com "Queries - Capacities Documentation"
-

@@ -52,4 +52,3 @@ Imagine an advanced reading class struggling with a dense, authentic news articl
 The teacher projects the first paragraph and highlights phrases like *"Despite this,"* *"It is critical to note,"* and *"As we will see."* The teacher explains, *"You don't need to understand every noun in this text to follow the author's argument. These highlighted phrases are the author talking directly to you, telling you when to turn left, when to pay close attention, and what to expect next."*
 
 By actively teaching these markers, the teacher shifts the students' focus from decoding individual words to recognizing the macro-structure of the discourse, immediately lowering their affective filter and boosting reading comprehension.
-

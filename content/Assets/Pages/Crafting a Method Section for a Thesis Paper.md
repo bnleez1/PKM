@@ -1,14 +1,15 @@
 ---
-type: 'Page'
-collections: 'Public Pages'
+type: Page
+collections: Public Pages
 title: Crafting a Method Section for a Thesis Paper
-aliases: null
-description: null
+aliases:
+description:
 icon: 🔰
-createdAt: '2025-01-17T14:35:04.378Z'
-lastUpdated: '2026-06-28T12:56:51.302Z'
-tags: [Reading]
-coverImage: '[Untitled](../Images/Untitled%20(82).md)'
+createdAt: 2025-01-17T14:35:04.378Z
+lastUpdated: 2026-06-28T12:56:51.302Z
+tags:
+  - Reading
+coverImage: "[Untitled](../Images/Untitled%20(82).md)"
 ---
 
 # Crafting a Method Section for a Thesis Paper
@@ -66,4 +67,3 @@ Analyzing data in qualitative and mixed methods research requires a thoughtful a
 #### Conclusion
 
 Writing a comprehensive method section is essential for the transparency and credibility of your research. By carefully detailing your participants, instrument design, data collection, and data analysis, you provide a clear roadmap for others to understand and replicate your study. This chapter has outlined the key components and considerations for English language teacher trainers conducting qualitative and mixed methods research in applied linguistics and second language acquisition.
-

@@ -18,4 +18,3 @@ Helping students rewrite a casual text message into a formal academic email.
 
 **Common Misconception:**
 Register is just formal vs. informal.
-

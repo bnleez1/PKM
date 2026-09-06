@@ -1,14 +1,15 @@
 ---
-type: 'Page'
-collections: 'Public Pages'
+type: Page
+collections: Public Pages
 title: Possessive adjectives
-aliases: null
-description: null
+aliases:
+description:
 icon: 🔰
-createdAt: '2025-01-02T19:48:07.229Z'
-lastUpdated: '2026-06-28T12:56:21.308Z'
-tags: [GrammarSyntax]
-coverImage: '[Untitled](../Images/Untitled%20(21).md)'
+createdAt: 2025-01-02T19:48:07.229Z
+lastUpdated: 2026-06-28T12:56:21.308Z
+tags:
+  - GrammarSyntax
+coverImage: "[Untitled](../Images/Untitled%20(21).md)"
 ---
 
 # Possessive adjectives
@@ -126,4 +127,3 @@ Here are the possessive adjectives in English:
 - Their garden is full of flowers.
 
 Understanding and using possessive adjectives correctly helps make your sentences clear and specific about ownership.
-

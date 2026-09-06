@@ -18,4 +18,3 @@ Coaching students to stop over-explaining simple answers in speaking exams like 
 
 **Common Misconception:**
 Longer answers are always better.
-

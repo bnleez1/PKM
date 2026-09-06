@@ -1,13 +1,14 @@
 ---
-type: 'Page'
+type: Page
 title: Demonstratives
-aliases: null
-description: null
+aliases:
+description:
 icon: 🔰
-createdAt: '2025-01-02T18:56:26.965Z'
-lastUpdated: '2026-06-17T19:16:54.070Z'
-tags: [GrammarSyntax]
-coverImage: '[Untitled](../Images/Untitled%20(21).md)'
+createdAt: 2025-01-02T18:56:26.965Z
+lastUpdated: 2026-06-17T19:16:54.070Z
+tags:
+  - GrammarSyntax
+coverImage: "[Untitled](../Images/Untitled%20(21).md)"
 ---
 
 # Demonstratives
@@ -94,4 +95,3 @@ In both cases, whether as pronouns or adjectives, demonstratives help establish 
 ## Avoid overusing when writing an academic text
 
 Try to avoid overusing demonstrative adjectives and pronouns when writing an academic text. Instead, try rephrasing what was already mentioned by paraphrasing or using direct repetition.
-

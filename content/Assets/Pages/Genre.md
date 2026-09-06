@@ -18,4 +18,3 @@ Using genre analysis to teach learners the specific structural moves expected in
 
 **Common Misconception:**
 Genre only applies to literature or movies.
-

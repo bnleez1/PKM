@@ -1,13 +1,15 @@
 ---
-type: 'Page'
+type: Page
 title: GenAI Integrated Guide
-aliases: null
-description: null
-icon: null
-createdAt: '2026-07-05T15:59:11.670Z'
-lastUpdated: '2026-07-06T21:28:14.431Z'
-tags: [GenAI, TeachingPracticum]
-coverImage: null
+aliases:
+description:
+icon:
+createdAt: 2026-07-05T15:59:11.670Z
+lastUpdated: 2026-07-06T21:28:14.431Z
+tags:
+  - GenAI
+  - TeachingPracticum
+coverImage:
 ---
 
 # GenAI Integrated Guide
@@ -187,4 +189,3 @@ coverImage: null
     - **For Discourse Analysis:** You could add an assignment where students actively critique the linguistic choices, biases, and structures of AI-generated text as part of the curriculum itself.
 
 - How to employ document
-

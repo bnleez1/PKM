@@ -1,13 +1,14 @@
 ---
-type: 'Page'
+type: Page
 title: CAADI Assignment Template
-aliases: null
-description: null
-icon: null
-createdAt: '2026-08-14T12:36:06.856Z'
-lastUpdated: '2026-08-14T12:36:29.467Z'
-tags: [Template]
-coverImage: null
+aliases:
+description:
+icon:
+createdAt: 2026-08-14T12:36:06.856Z
+lastUpdated: 2026-08-14T12:36:29.467Z
+tags:
+  - Template
+coverImage:
 ---
 
 # CAADI Assignment Template
@@ -91,4 +92,3 @@ This assignment is considered complete when you:
 Use dictionaries, reference materials, CAADI resources, and digital tools only when they support the learning goal of the worksheet. **Do not use GenAI to complete the worksheet for you.** If a worksheet explicitly permits GenAI, follow the instructions provided and document your use when required.
 
 > **Instructor note:** Duplicate this Assignment for each CAADI open assignment. Add the due date and, when appropriate, connect it to the relevant Unit or Module. Adjust the evidence requirements if a particular worksheet requires audio, screenshots, or another format.
-

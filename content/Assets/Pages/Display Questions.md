@@ -18,4 +18,3 @@ Limiting display questions (e.g., 'What color is this?') to basic checks, moving
 
 **Common Misconception:**
 They are real communicative questions.
-

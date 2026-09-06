@@ -1,13 +1,14 @@
 ---
-type: 'Page'
+type: Page
 title: TOEFL speaking prompts
-aliases: null
-description: null
+aliases:
+description:
 icon: 🗣️
-createdAt: '2025-01-02T14:04:59.968Z'
-lastUpdated: '2026-06-14T18:33:36.704Z'
-tags: [Speaking]
-coverImage: null
+createdAt: 2025-01-02T14:04:59.968Z
+lastUpdated: 2026-06-14T18:33:36.704Z
+tags:
+  - Speaking
+coverImage:
 ---
 
 # TOEFL speaking prompts
@@ -64,4 +65,3 @@ coverImage: null
 30.  Explain the professor's viewpoint on a problem presented in the listening passage and how it relates to the conversation.
 
 - Practice responding to these prompts to improve your speaking skills and become familiar with the expectations of the TOEFL speaking section.
-

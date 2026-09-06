@@ -1,14 +1,15 @@
 ---
-type: 'Page'
-collections: 'Public Pages'
+type: Page
+collections: Public Pages
 title: Installing Ubuntu 26.04 LTS
-aliases: null
-description: null
-icon: null
-createdAt: '2026-06-04T22:53:23.936Z'
-lastUpdated: '2026-08-20T12:21:17.048Z'
-tags: [Linux]
-coverImage: null
+aliases:
+description:
+icon:
+createdAt: 2026-06-04T22:53:23.936Z
+lastUpdated: 2026-08-20T12:21:17.048Z
+tags:
+  - Linux
+coverImage:
 ---
 
 # Installing Ubuntu 26.04 LTS
@@ -2657,4 +2658,3 @@ coverImage: null
     ```text
     gsettings set org.gnome.shell.extensions.dash-to-dock click-action 'minimize'
     ```
-

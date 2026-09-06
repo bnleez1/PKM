@@ -601,4 +601,3 @@ Choose an everyday communicative example and consider:
 **What could discourse analysis reveal that sentence-level grammatical analysis alone would probably miss?**
 
 ## Historical Development (time table)
-

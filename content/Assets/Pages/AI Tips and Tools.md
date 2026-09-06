@@ -1,14 +1,14 @@
 ---
-type: 'Page'
-collections: 'Public Pages'
+type: Page
+collections: Public Pages
 title: AI Tips and Tools
-aliases: null
-description: null
-icon: null
-createdAt: '2025-02-05T13:07:56.344Z'
-lastUpdated: '2026-06-29T18:18:55.024Z'
+aliases:
+description:
+icon:
+createdAt: 2025-02-05T13:07:56.344Z
+lastUpdated: 2026-06-29T18:18:55.024Z
 tags: []
-coverImage: null
+coverImage:
 ---
 
 # AI Tips and Tools
@@ -171,4 +171,3 @@ Adobe Firefly
 [Text to Speech & AI Voice Generator](https://elevenlabs.io/)
 
 [Tutor AI - Your personal AI tutor to learn anything](https://tutorai.me/)
-

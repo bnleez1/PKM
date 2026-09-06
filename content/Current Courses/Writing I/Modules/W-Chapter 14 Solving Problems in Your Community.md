@@ -108,4 +108,3 @@ Create an organizer with the problem, affected group, cause or effect, proposed 
 ## 🗓️ Thursday
 
 ## 🗓️ Friday
-

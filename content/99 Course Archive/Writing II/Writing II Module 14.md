@@ -1,20 +1,22 @@
 ---
-type: 'Module'
-collections: 'Writing II Modules'
+type: Module
+collections: Writing II Modules
 title: Writing II Module 14
-tags: [Module, Archive]
+tags:
+  - Module
+  - Archive
 date: 2026-05-11T00:00:00.000Z -> 2026-05-17T00:00:00.000Z
-status: null
-subject: '[[Writing II]]'
-chapterWeek: null
-coverImage: null
-unit: null
-prior: '[[Writing II Module 13]]'
-next: '[[Writing II Module 15]]'
-reading: null
-bookTitle: null
+status:
+subject: "[[Writing II]]"
+chapterWeek:
+coverImage:
+unit:
+prior: "[[Writing II Module 13]]"
+next: "[[Writing II Module 15]]"
+reading:
+bookTitle:
 studentDeliverableS: []
-semester: null
+semester:
 relations: []
 note: []
 ---
@@ -505,4 +507,3 @@ Today’s a writing day…
     6. At least one example of a comma used in a compound sentence.
 
     7. Only one example of a comma used as an appositive. Appositive phrases
-

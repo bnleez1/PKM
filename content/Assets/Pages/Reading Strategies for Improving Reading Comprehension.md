@@ -1,13 +1,14 @@
 ---
-type: 'Page'
+type: Page
 title: Reading Strategies for Improving Reading Comprehension
-aliases: null
-description: null
+aliases:
+description:
 icon: 📖
-createdAt: '2026-08-26T12:16:16.651Z'
-lastUpdated: '2026-08-28T12:17:04.585Z'
-tags: [Reading]
-coverImage: '[Untitled](../Images/Untitled%20(14).md)'
+createdAt: 2026-08-26T12:16:16.651Z
+lastUpdated: 2026-08-28T12:17:04.585Z
+tags:
+  - Reading
+coverImage: "[Untitled](../Images/Untitled%20(14).md)"
 ---
 
 # Reading Strategies for Improving Reading Comprehension
@@ -65,4 +66,3 @@ Here’s a list of **reading strategies** you can practice with your English lan
 7. **Reflection Journals** – Learners write a short reflection on what they understood, found challenging, or found interesting.
 
 8. **Graphic Organizers** – Concept maps, Venn diagrams, or T-charts to organize information from the text.
-

@@ -1,14 +1,15 @@
 ---
-type: 'Page'
-collections: 'Public Pages'
+type: Page
+collections: Public Pages
 title: Nominal (noun) phrases
-aliases: null
-description: null
+aliases:
+description:
 icon: 🖋️
-createdAt: '2025-01-03T01:26:35.396Z'
-lastUpdated: '2026-06-28T12:56:30.939Z'
-tags: [GrammarSyntax]
-coverImage: '[Untitled](../Images/Untitled%20(13).md)'
+createdAt: 2025-01-03T01:26:35.396Z
+lastUpdated: 2026-06-28T12:56:30.939Z
+tags:
+  - GrammarSyntax
+coverImage: "[Untitled](../Images/Untitled%20(13).md)"
 ---
 
 # Nominal (noun) phrases
@@ -39,4 +40,3 @@ coverImage: '[Untitled](../Images/Untitled%20(13).md)'
     - Seen as the girl in the red dress, Sarah felt like a cliché. - object of the preposition
 
     - To see the girl in the red dress brought back memories. - object of the infinitive phrase within the subject, “To see the girl in the red dress…”
-

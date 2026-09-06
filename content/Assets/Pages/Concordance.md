@@ -18,4 +18,3 @@ Having learners analyze a concordance line to discover the grammar rules of a wo
 
 **Common Misconception:**
 A type of dictionary definition.
-

@@ -1,13 +1,16 @@
 ---
-type: 'Page'
+type: Page
 title: Deep Research (AI) into GenAI Use in Higher Education
-aliases: null
-description: null
+aliases:
+description:
 icon: ✴️
-createdAt: '2026-07-14T13:48:35.870Z'
-lastUpdated: '2026-07-16T14:16:06.362Z'
-tags: [GenAI, GenAiDisclaimer, Curriculum]
-coverImage: '[Untitled](../Images/Untitled%20(137).md)'
+createdAt: 2026-07-14T13:48:35.870Z
+lastUpdated: 2026-07-16T14:16:06.362Z
+tags:
+  - GenAI
+  - GenAiDisclaimer
+  - Curriculum
+coverImage: "[Untitled](../Images/Untitled%20(137).md)"
 ---
 
 # Deep Research (AI) into GenAI Use in Higher Education
@@ -93,7 +96,7 @@ The most important analytical distinction here is between standards that univers
 
 The clearest way to understand today’s standards environment is as a layered governance stack.
 
-![HigherEd GenAI Standards](../Images/Media/HigherEd%20GenAI%20Standards.png)
+[HigherEd GenAI Standards](../Images/Media/HigherEd%20GenAI%20Standards.png)
 [[HigherEd GenAI Standards|HigherEd GenAI Standards - Notes]]
 
 [[38]](https://internet2.edu/wp-content/uploads/2020/03/D0C-SEC-Hevcat20170425.pdf)
@@ -141,7 +144,7 @@ The sixth step is to treat AI literacy as both curricular and operational. The m
 
 A workable implementation sequence looks like this:
 
-![Implementation Sequence](../Images/Media/Implementation%20Sequence.png)
+[Implementation Sequence](../Images/Media/Implementation%20Sequence.png)
 [[Implementation Sequence|Implementation Sequence - Notes]]
 
 [[50]](https://www.educause.edu/higher-education-community-vendor-assessment-toolkit)
@@ -293,5 +296,3 @@ The practical recommendation, in one sentence, is this: **build your university�
 [https://ai-challenges.nist.gov/uassets/6](https://ai-challenges.nist.gov/uassets/6)
 
 [[49]](https://www.edpb.europa.eu/system/files/2025-04/ai-privacy-risks-and-mitigations-in-llms.pdf) edpb.europa.eu
-
-

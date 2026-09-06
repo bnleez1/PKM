@@ -1,16 +1,14 @@
 ---
-type: 'Page'
+type: Page
 title: Conclusion paragraph
-aliases: null
-description: >-
-  A conclusion paragraph serves to reinforce the main thesis and draw
-  connections to broader concepts, providing a sense of closure to the overall
-  argument or discussion.
+aliases:
+description: A conclusion paragraph serves to reinforce the main thesis and draw connections to broader concepts, providing a sense of closure to the overall argument or discussion.
 icon: 🧭
-createdAt: '2023-06-04T14:28:41.507Z'
-lastUpdated: '2026-06-14T17:49:45.828Z'
-tags: [AcademicWriting]
-coverImage: null
+createdAt: 2023-06-04T14:28:41.507Z
+lastUpdated: 2026-06-14T17:49:45.828Z
+tags:
+  - AcademicWriting
+coverImage:
 ---
 
 # Conclusion paragraph
@@ -28,4 +26,3 @@ The purpose of a conclusion paragraph is to remind the reader of the main point 
 **Significance****:** Usually in three-to-five sentences, describe the significance, relevance, or big idea that relates to the thesis. Make connections to other relevant contexts that apply to the thesis. Perhaps make predictions about future aspects related to the thesis statement. In most cases, this will be the only time you'll use the future tense in your paper.
 
 **Closing statement****:** The closing statement is the most general idea of the paragraph. It's the most broad statement that leaves the reader thinking about the thesis statement and overall text. Some writers choose a famous quote to conclude the paper, but experiment with creating your own final saying, thought, etc. Try to come up with your own final quote that best applies to your paper.
-

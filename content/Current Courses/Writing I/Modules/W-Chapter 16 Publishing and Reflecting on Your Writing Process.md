@@ -108,4 +108,3 @@ Review work from Week 1 and compare it with the final paragraph. Identify change
 ## 🗓️ Thursday
 
 ## 🗓️ Friday
-

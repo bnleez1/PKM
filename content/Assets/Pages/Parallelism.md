@@ -1,13 +1,14 @@
 ---
-type: 'Page'
+type: Page
 title: Parallelism
-aliases: null
-description: null
+aliases:
+description:
 icon: 🖋️
-createdAt: '2025-01-02T18:43:45.925Z'
-lastUpdated: '2026-06-12T20:41:43.937Z'
-tags: [GrammarSyntax]
-coverImage: '[Untitled](../Images/Untitled%20(13).md)'
+createdAt: 2025-01-02T18:43:45.925Z
+lastUpdated: 2026-06-12T20:41:43.937Z
+tags:
+  - GrammarSyntax
+coverImage: "[Untitled](../Images/Untitled%20(13).md)"
 ---
 
 # Parallelism
@@ -65,4 +66,3 @@ Parallelism can occur in a variety of ways:
 - I quickly ran to the store, bought the milk, and then went home.
 
 As you can see, parallelism can make your writing more concise, clear, and emphatic. By using parallelism in your writing, you can improve your communication skills and make your writing more effective.
-

@@ -1,20 +1,22 @@
 ---
-type: 'Module'
-collections: 'Writing II Modules'
+type: Module
+collections: Writing II Modules
 title: Writing II Module 11
-tags: [Module, Archive]
+tags:
+  - Module
+  - Archive
 date: 2026-04-06T00:00:00.000Z -> 2026-04-12T00:00:00.000Z
-status: null
-subject: '[[Writing II]]'
-chapterWeek: null
-coverImage: null
-unit: null
-prior: '[[Writing II Module 10]]'
-next: '[[Writing II Module 12]]'
-reading: null
-bookTitle: null
+status:
+subject: "[[Writing II]]"
+chapterWeek:
+coverImage:
+unit:
+prior: "[[Writing II Module 10]]"
+next: "[[Writing II Module 12]]"
+reading:
+bookTitle:
 studentDeliverableS: []
-semester: null
+semester:
 relations: []
 note: []
 ---
@@ -396,4 +398,3 @@ Make sure you write your paragraph as consecutive sentences and not a list of se
         3. Create one analysis sentence where you comment, explain, analyze, etc. that links the evidence to the main idea (topic sentence).
 
         4. Conclude your paragraph with a linking sentence that would segue into another paragraph or you may include a summarizing sentence.
-

@@ -1,13 +1,15 @@
 ---
-type: 'Page'
+type: Page
 title: (FRAG) Sentence fragment
-aliases: null
-description: null
+aliases:
+description:
 icon: 🖋️
-createdAt: '2025-01-01T12:43:41.300Z'
-lastUpdated: '2026-06-23T14:43:59.044Z'
-tags: [Punctuation, WritingErrorCode]
-coverImage: '[Untitled](../Images/Untitled%20(13).md)'
+createdAt: 2025-01-01T12:43:41.300Z
+lastUpdated: 2026-06-23T14:43:59.044Z
+tags:
+  - Punctuation
+  - WritingErrorCode
+coverImage: "[Untitled](../Images/Untitled%20(13).md)"
 ---
 
 # (FRAG) Sentence fragment
@@ -55,4 +57,3 @@ Here are some tips for avoiding sentence fragments:
 Sentence fragments can make your writing sound choppy and unprofessional. By following these tips, you can avoid sentence fragments and write clear, concise sentences.
 
 The error code "FRAG" refers to sentence fragment and is considered a more serious type of writing error. Also it's called a "sentence fragment", fragments actually occur at the clause level: main clause, noun clause functioning as a subject or object, relative (adjective) clauses, and subordinating (adverbial) clauses. Refer to the [[Writing error code list]].
-

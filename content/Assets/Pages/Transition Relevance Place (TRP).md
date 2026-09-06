@@ -18,4 +18,3 @@ Teaching learners to recognize intonation drops and pauses as signals that it is
 
 **Common Misconception:**
 TRPs are explicitly announced.
-

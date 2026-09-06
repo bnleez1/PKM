@@ -122,4 +122,3 @@ note: []
 - For qualitative research, include how you coded and categorized your data, including any software used.
 
 - Describe how you analyzed descriptive data (i.e., quantitative data) to create tables and/or figures showing percentages, frequencies, etc.
-

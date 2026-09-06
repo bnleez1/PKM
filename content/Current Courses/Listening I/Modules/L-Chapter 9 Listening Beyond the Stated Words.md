@@ -107,4 +107,3 @@ CAADI Worksheet 9 should show that inference grows from accurate global and sele
 ## 🗓️ Thursday
 
 ## 🗓️ Friday
-

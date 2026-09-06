@@ -1,14 +1,15 @@
 ---
-type: 'Page'
-collections: 'Public Pages'
+type: Page
+collections: Public Pages
 title: Shopping and Money
-aliases: null
-description: null
+aliases:
+description:
 icon: 🔰
-createdAt: '2025-01-25T15:22:42.999Z'
-lastUpdated: '2026-06-28T12:57:01.566Z'
-tags: [Reading]
-coverImage: '[Untitled](../Images/Untitled%20(9).md)'
+createdAt: 2025-01-25T15:22:42.999Z
+lastUpdated: 2026-06-28T12:57:01.566Z
+tags:
+  - Reading
+coverImage: "[Untitled](../Images/Untitled%20(9).md)"
 ---
 
 # Shopping and Money
@@ -64,4 +65,3 @@ Finding a balance between financial security and material desires can be challen
 #### Conclusion
 
 Our spending habits reflect our personal values and priorities, and they can have a significant impact on our happiness and well-being. By understanding the effects of consumerism and practicing mindful spending, we can achieve a balance between financial security and material desires. Remember that true happiness comes from experiences, relationships, and personal growth, not just material possessions. By making thoughtful choices and prioritizing what truly matters, we can lead a fulfilling and financially secure life.
-

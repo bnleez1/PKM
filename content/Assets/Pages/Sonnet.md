@@ -1,15 +1,15 @@
 ---
-type: 'Page'
+type: Page
 title: Sonnet
-aliases: null
-description: >-
-  Learn about the different forms of sonnets, the history of their creation, and
-  the rules of their composition in this informative and educational note.
+aliases:
+description: Learn about the different forms of sonnets, the history of their creation, and the rules of their composition in this informative and educational note.
 icon: 🧭
-createdAt: '2023-06-05T13:17:05.519Z'
-lastUpdated: '2023-11-27T13:05:38.726Z'
-tags: [CreativeWriting, Poetry]
-coverImage: '[Untitled](../Images/Untitled%20(53).md)'
+createdAt: 2023-06-05T13:17:05.519Z
+lastUpdated: 2023-11-27T13:05:38.726Z
+tags:
+  - CreativeWriting
+  - Poetry
+coverImage: "[Untitled](../Images/Untitled%20(53).md)"
 ---
 
 # Sonnet

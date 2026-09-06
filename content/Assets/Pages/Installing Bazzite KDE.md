@@ -1,13 +1,13 @@
 ---
-type: 'Page'
+type: Page
 title: Installing Bazzite KDE
-aliases: null
-description: null
+aliases:
+description:
 icon: 🏛️
-createdAt: '2026-08-29T23:56:31.098Z'
-lastUpdated: '2026-08-30T00:21:16.471Z'
+createdAt: 2026-08-29T23:56:31.098Z
+lastUpdated: 2026-08-30T00:21:16.471Z
 tags: []
-coverImage: '[Untitled](../Images/Untitled%20(6).md)'
+coverImage: "[Untitled](../Images/Untitled%20(6).md)"
 ---
 
 # Installing Bazzite KDE
@@ -447,4 +447,3 @@ coverImage: '[Untitled](../Images/Untitled%20(6).md)'
     After installation, **Gear Lever should also appear in the KDE Application Launcher**, so you normally won't need to start it from the terminal again.
 
     This is a good Bazzite-friendly method because Gear Lever is installed as a **Flatpak**, so it does not modify or layer packages into Bazzite's immutable base system.
-

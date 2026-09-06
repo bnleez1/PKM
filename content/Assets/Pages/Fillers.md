@@ -18,4 +18,3 @@ Showing learners how native speakers use fillers, and teaching them natural Engl
 
 **Common Misconception:**
 They should be completely eliminated from speech.
-

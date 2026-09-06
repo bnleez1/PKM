@@ -105,4 +105,3 @@ This week combines community understanding with self-directed development. Stron
 ## 🗓️ Thursday
 
 ## 🗓️ Friday
-

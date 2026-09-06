@@ -1,13 +1,14 @@
 ---
-type: 'Page'
+type: Page
 title: Installing Fedora 44 Gnome
-aliases: null
-description: null
+aliases:
+description:
 icon: 🏛️
-createdAt: '2026-07-18T21:25:40.086Z'
-lastUpdated: '2026-08-23T00:34:14.477Z'
-tags: [Linux]
-coverImage: '[Untitled](../Images/Untitled%20(28).md)'
+createdAt: 2026-07-18T21:25:40.086Z
+lastUpdated: 2026-08-23T00:34:14.477Z
+tags:
+  - Linux
+coverImage: "[Untitled](../Images/Untitled%20(28).md)"
 ---
 
 # Installing Fedora 44 Gnome
@@ -2586,4 +2587,3 @@ coverImage: '[Untitled](../Images/Untitled%20(28).md)'
     [6]: https://github.com/TibixDev/winboat/releases/tag/v0.9.0 "Release v0.9.0 · TibixDev/winboat · GitHub"
 
     [7]: https://winboat.app/ "WinBoat - Run Windows Apps on Linux with Seamless Integration"
-

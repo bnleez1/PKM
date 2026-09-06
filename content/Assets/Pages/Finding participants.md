@@ -1,14 +1,15 @@
 ---
-type: 'Page'
-collections: 'Public Pages'
+type: Page
+collections: Public Pages
 title: Finding participants
-aliases: null
-description: null
+aliases:
+description:
 icon: ph-books
-createdAt: '2025-01-12T20:12:47.134Z'
-lastUpdated: '2026-06-30T17:51:36.853Z'
-tags: [Research]
-coverImage: '[Untitled](../Images/Untitled%20(227).md)'
+createdAt: 2025-01-12T20:12:47.134Z
+lastUpdated: 2026-06-30T17:51:36.853Z
+tags:
+  - Research
+coverImage: "[Untitled](../Images/Untitled%20(227).md)"
 ---
 
 # Finding participants
@@ -37,4 +38,3 @@ coverImage: '[Untitled](../Images/Untitled%20(227).md)'
 - Are your participants able and willing to take part in an intervention?
 
     When your participants are teachers, make sure from the beginning they are willing and able to take part in an intervention, even if you decide later that one is not required. Make sure the school, institution, or business allows the flexibility necessary for a teacher to take part in an intervention as well.
-

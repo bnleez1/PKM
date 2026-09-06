@@ -1,15 +1,14 @@
 ---
-type: 'Page'
+type: Page
 title: Writing Workshop_Wk17
-aliases: null
-description: >-
-  A reminder about the upcoming final poetry reading and review of figurative
-  language devices for the Writing Workshop_Wk17.
+aliases:
+description: A reminder about the upcoming final poetry reading and review of figurative language devices for the Writing Workshop_Wk17.
 icon: 🧭
-createdAt: '2023-06-04T13:53:08.808Z'
-lastUpdated: '2026-08-18T13:46:55.589Z'
-tags: [WritingWorkshop]
-coverImage: null
+createdAt: 2023-06-04T13:53:08.808Z
+lastUpdated: 2026-08-18T13:46:55.589Z
+tags:
+  - WritingWorkshop
+coverImage:
 ---
 
 # Writing Workshop_Wk17
@@ -247,4 +246,3 @@ coverImage: null
         - [Danna](https://eduuaa-my.sharepoint.com/:w:/g/personal/lee_stewart_edu_uaa_mx/EeKL8yO-VHNAgEcMH0cyEK0BLXT6SH0w9QPyk1_3m9uUhA?e=bHWREa)
 
         - [Sigrid](https://eduuaa-my.sharepoint.com/:w:/g/personal/lee_stewart_edu_uaa_mx/EcaX5E35mGVOgP6-VrC-DxYB6oZ4pjKrS0Ok3xz6IZC4mA?e=gQUVcU)
-

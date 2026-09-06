@@ -1,14 +1,14 @@
 ---
-type: 'Page'
-collections: 'Public Pages'
+type: Page
+collections: Public Pages
 title: What is a Creative Commons License?
-aliases: null
-description: null
+aliases:
+description:
 icon: 📑
-createdAt: '2026-06-03T13:53:29.229Z'
-lastUpdated: '2026-06-28T12:57:41.535Z'
+createdAt: 2026-06-03T13:53:29.229Z
+lastUpdated: 2026-06-28T12:57:41.535Z
 tags: []
-coverImage: '[Untitled](../Images/Untitled%20(226).md)'
+coverImage: "[Untitled](../Images/Untitled%20(226).md)"
 ---
 
 # What is a Creative Commons License?
@@ -140,4 +140,3 @@ If you are just mentioning the AI tool in a paragraph (without showing the image
 
 D’Armenio, E., Deliège, A., & Dondero, M. G. (2024). Semiotics of Machinic Co-Enunciation. *Signata*, *15*. [https://doi.org/10.4000/127x4](https://www.google.com/search?q=https://doi.org/10.4000/127x4)
 Cited by: 23
-

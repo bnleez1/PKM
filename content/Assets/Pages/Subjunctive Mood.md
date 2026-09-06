@@ -1,14 +1,15 @@
 ---
-type: 'Page'
-collections: 'Public Pages'
+type: Page
+collections: Public Pages
 title: Subjunctive Mood
-aliases: null
-description: null
+aliases:
+description:
 icon: 🔰
-createdAt: '2025-01-02T19:35:30.903Z'
-lastUpdated: '2026-06-28T12:56:21.099Z'
-tags: [GrammarSyntax]
-coverImage: '[Untitled](../Images/Untitled%20(21).md)'
+createdAt: 2025-01-02T19:35:30.903Z
+lastUpdated: 2026-06-28T12:56:21.099Z
+tags:
+  - GrammarSyntax
+coverImage: "[Untitled](../Images/Untitled%20(21).md)"
 ---
 
 # Subjunctive Mood
@@ -333,4 +334,3 @@ While not part of the list above, the **past subjunctive** is used with the verb
 - **Hypotheticals use "were"** → (*If I were you, I would study more.*)
 
 By mastering these verbs and structures, English learners can **correctly use the subjunctive mood** in both spoken and written English.
-

@@ -18,4 +18,3 @@ Analyzing reading comprehension texts to find how seemingly unrelated paragraphs
 
 **Common Misconception:**
 Irrelevant statements mean the speaker wasn't listening.
-

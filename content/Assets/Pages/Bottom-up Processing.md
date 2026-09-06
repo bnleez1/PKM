@@ -18,4 +18,3 @@ Practicing phonics and vocabulary decoding for lower-level learners.
 
 **Common Misconception:**
 It is the only way to read.
-

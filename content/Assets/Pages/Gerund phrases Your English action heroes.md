@@ -1,14 +1,15 @@
 ---
-type: 'Page'
-collections: 'Public Pages'
-title: 'Gerund phrases: Your English action heroes'
-aliases: null
-description: null
+type: Page
+collections: Public Pages
+title: "Gerund phrases: Your English action heroes"
+aliases:
+description:
 icon: 🔰
-createdAt: '2025-01-02T19:29:17.961Z'
-lastUpdated: '2026-06-28T12:56:20.970Z'
-tags: [GrammarSyntax]
-coverImage: '[Untitled](../Images/Untitled%20(21).md)'
+createdAt: 2025-01-02T19:29:17.961Z
+lastUpdated: 2026-06-28T12:56:20.970Z
+tags:
+  - GrammarSyntax
+coverImage: "[Untitled](../Images/Untitled%20(21).md)"
 ---
 
 # Gerund phrases: Your English action heroes
@@ -177,4 +178,3 @@ If you have any questions or want to explore more examples, let me know. Keep pr
 - The book was praised for its thought-provoking storytelling.
 
 Gerund phrases provide flexibility in sentence structure and contribute to the richness of expression in writing and speech. They allow you to convey actions and processes in a noun-like form, which can add depth and nuance to your communication.
-

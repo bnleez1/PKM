@@ -1,17 +1,15 @@
 ---
-type: 'Page'
+type: Page
 title: Iambic Pentameter
-aliases: null
-description: >-
-  Iambic Pentameter is a common meter in English poetry, consisting of ten
-  syllables per line with a specific pattern of stressed and unstressed
-  syllables, and has been utilized by renowned poets such as Shakespeare and
-  Milton.
+aliases:
+description: Iambic Pentameter is a common meter in English poetry, consisting of ten syllables per line with a specific pattern of stressed and unstressed syllables, and has been utilized by renowned poets such as Shakespeare and Milton.
 icon: 🧭
-createdAt: '2023-05-31T16:32:39.150Z'
-lastUpdated: '2026-06-17T19:16:54.099Z'
-tags: [Poetry, CreativeWriting]
-coverImage: null
+createdAt: 2023-05-31T16:32:39.150Z
+lastUpdated: 2026-06-17T19:16:54.099Z
+tags:
+  - Poetry
+  - CreativeWriting
+coverImage:
 ---
 
 # Iambic Pentameter
@@ -41,4 +39,3 @@ coverImage: null
     - Underline or highlight each word or syllable (if more than a one-syllable word) that five stresses that follow iambic pentameter: syllables 2, 4, 6, 8, and 10.
 
     - Check to see that the underlined or highlighted stresses 1) land on content words (nouns, verbs, adjectives, and adverbs) and not on function words like articles, prepositions, and connectors; the only except are pronouns which are typically not stressed and 2) land on the standard way to pronounce words with two or more syllables.
-

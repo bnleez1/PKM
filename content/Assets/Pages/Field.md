@@ -18,4 +18,3 @@ Ensuring the vocabulary in a lesson matches the specific professional field of b
 
 **Common Misconception:**
 Just the vocabulary used.
-

@@ -1,13 +1,13 @@
 ---
-type: 'Page'
-title: 'Lexical Cohesion: How Vocabulary Holds a Text Together'
-aliases: null
-description: null
+type: Page
+title: "Lexical Cohesion: How Vocabulary Holds a Text Together"
+aliases:
+description:
 icon: ✴️
-createdAt: '2026-06-23T13:06:30.566Z'
-lastUpdated: '2026-08-28T12:40:24.709Z'
+createdAt: 2026-06-23T13:06:30.566Z
+lastUpdated: 2026-08-28T12:40:24.709Z
 tags: []
-coverImage: '[Untitled](../Images/Untitled%20(11).md)'
+coverImage: "[Untitled](../Images/Untitled%20(11).md)"
 ---
 
 # Lexical Cohesion: How Vocabulary Holds a Text Together
@@ -239,4 +239,3 @@ When analyzing lexical cohesion, an important question is therefore:
 **What vocabulary relationships connect one part of the text with another?**
 
 Looking for lexical chains can reveal those relationships. A reader might underline repeated words, circle synonyms, identify superordinate categories and their members, or group vocabulary belonging to the same semantic field. Doing so makes visible something that readers often process unconsciously: the network of vocabulary relationships that helps transform individual sentences into a unified discourse.
-

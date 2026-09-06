@@ -1,13 +1,14 @@
 ---
-type: 'Page'
+type: Page
 title: Installing Siduction Linux Distro
-aliases: null
-description: null
+aliases:
+description:
 icon: ✴️
-createdAt: '2026-07-18T02:39:23.949Z'
-lastUpdated: '2026-08-03T15:50:45.294Z'
-tags: [Linux]
-coverImage: '[Untitled](../Images/Untitled%20(424).md)'
+createdAt: 2026-07-18T02:39:23.949Z
+lastUpdated: 2026-08-03T15:50:45.294Z
+tags:
+  - Linux
+coverImage: "[Untitled](../Images/Untitled%20(424).md)"
 ---
 
 # Installing Siduction Linux Distro
@@ -1946,4 +1947,3 @@ coverImage: '[Untitled](../Images/Untitled%20(424).md)'
     [12]: https://quarto.org/docs/get-started/hello/rstudio.html "Tutorial: Hello, Quarto – Quarto"
 
     [13]: https://packages.debian.org/sid/rkward?utm_source=chatgpt.com "Debian -- Details of package rkward in sid"
-

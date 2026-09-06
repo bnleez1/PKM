@@ -1,14 +1,15 @@
 ---
-type: 'Page'
-collections: 'Public Pages'
+type: Page
+collections: Public Pages
 title: Mastering TOEFL Vocabulary
-aliases: null
-description: null
+aliases:
+description:
 icon: 🔰
-createdAt: '2025-01-03T01:36:18.768Z'
-lastUpdated: '2026-06-28T12:56:31.051Z'
-tags: [Vocabulary]
-coverImage: '[Untitled](../Images/Untitled%20(21).md)'
+createdAt: 2025-01-03T01:36:18.768Z
+lastUpdated: 2026-06-28T12:56:31.051Z
+tags:
+  - Vocabulary
+coverImage: "[Untitled](../Images/Untitled%20(21).md)"
 ---
 
 # Mastering TOEFL Vocabulary

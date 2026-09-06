@@ -1,14 +1,15 @@
 ---
-type: 'Page'
-collections: 'Public Pages'
+type: Page
+collections: Public Pages
 title: Health and Fitness
-aliases: null
-description: null
+aliases:
+description:
 icon: 🔰
-createdAt: '2025-01-25T15:21:28.571Z'
-lastUpdated: '2026-06-28T12:57:01.483Z'
-tags: [Reading]
-coverImage: '[Untitled](../Images/Untitled%20(9).md)'
+createdAt: 2025-01-25T15:21:28.571Z
+lastUpdated: 2026-06-28T12:57:01.483Z
+tags:
+  - Reading
+coverImage: "[Untitled](../Images/Untitled%20(9).md)"
 ---
 
 # Health and Fitness
@@ -56,4 +57,3 @@ Balancing personal health goals with societal expectations can be challenging. H
 #### Conclusion
 
 Health and fitness are influenced by societal norms and values, but it is important to find a balance that works for you. By understanding the relationship between mental and physical well-being, setting realistic goals, and listening to your body, you can achieve a healthy and balanced lifestyle. Remember that health and fitness come in many forms, and it is important to focus on what makes you feel good and happy. So, take care of yourself, stay active, and enjoy the journey to better health and fitness!
-

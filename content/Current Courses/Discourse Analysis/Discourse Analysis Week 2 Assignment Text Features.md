@@ -74,4 +74,3 @@ Complete the following task:
 2. Your analysis completed on your own.
 
 3. Your completed GenAI Appendix.
-

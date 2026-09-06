@@ -1,19 +1,15 @@
 ---
-type: 'Page'
-collections: 'Public Pages'
+type: Page
+collections: Public Pages
 title: Adverbs
-aliases: null
-description: >-
-  Adverbs are versatile grammatical elements that modify verbs, adjectives, or
-  other adverbs, categorized into types such as simple adverbs, phrases, and
-  clauses, each serving various functions of manner, time, place, degree,
-  frequency, reason, purpose, condition, and concession to enhance clarity and
-  detail in communication.
+aliases:
+description: Adverbs are versatile grammatical elements that modify verbs, adjectives, or other adverbs, categorized into types such as simple adverbs, phrases, and clauses, each serving various functions of manner, time, place, degree, frequency, reason, purpose, condition, and concession to enhance clarity and detail in communication.
 icon: 🔰
-createdAt: '2025-01-02T19:51:43.572Z'
-lastUpdated: '2026-06-28T12:56:21.377Z'
-tags: [GrammarSyntax]
-coverImage: '[Untitled](../Images/Untitled%20(21).md)'
+createdAt: 2025-01-02T19:51:43.572Z
+lastUpdated: 2026-06-28T12:56:21.377Z
+tags:
+  - GrammarSyntax
+coverImage: "[Untitled](../Images/Untitled%20(21).md)"
 ---
 
 # Adverbs
@@ -167,4 +163,3 @@ There are three main types of adverbs:
 - Adverbs can be used to create emphasis. For example, the adverb "really" can be used to emphasize the adjective "beautiful" to mean "really beautiful."
 
 - Adverbs can be used to create a sense of rhythm and flow in a sentence. For example, the adverb "then" can be used to connect two clauses of a sentence.
-

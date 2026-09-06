@@ -1,18 +1,15 @@
 ---
-type: 'Page'
-collections: 'Public Pages'
+type: Page
+collections: Public Pages
 title: Adjectives
-aliases: null
-description: >-
-  This note provides a comprehensive overview of adjectives in English grammar,
-  detailing various types such as descriptive, quantitative, demonstrative,
-  possessive, interrogative, distributive, proper, as well as comparative and
-  superlative forms, complete with formation rules and examples.
+aliases:
+description: This note provides a comprehensive overview of adjectives in English grammar, detailing various types such as descriptive, quantitative, demonstrative, possessive, interrogative, distributive, proper, as well as comparative and superlative forms, complete with formation rules and examples.
 icon: 🔰
-createdAt: '2025-01-02T19:49:42.970Z'
-lastUpdated: '2026-06-28T12:56:21.342Z'
-tags: [GrammarSyntax]
-coverImage: '[Untitled](../Images/Untitled%20(21).md)'
+createdAt: 2025-01-02T19:49:42.970Z
+lastUpdated: 2026-06-28T12:56:21.342Z
+tags:
+  - GrammarSyntax
+coverImage: "[Untitled](../Images/Untitled%20(21).md)"
 ---
 
 # Adjectives
@@ -198,4 +195,3 @@ Some adjectives have irregular superlative forms that don't follow the standard 
 - She lives the **farthest** from school.
 
 - He is the **eldest** son in the family.
-

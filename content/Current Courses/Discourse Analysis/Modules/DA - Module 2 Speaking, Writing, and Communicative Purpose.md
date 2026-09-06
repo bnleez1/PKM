@@ -259,5 +259,3 @@ Begin [Discourse Analysis Week 2 Assignment: Text Features](../Assignments/Disco
 Complete [Discourse Analysis Week 2 Assignment: Text Features](../Assignments/Discourse%20Analysis%20Week%202%20Assignment%20Text%20Features.md).
 
 Complete your analysis from [Week 1](https://eduuaa.sharepoint.com/:f:/s/DiscourseAnalysis2026/IgCAManLVfBfRoOW3YjEn80NAa-Pc8u-ir6hm2PuPriYmZ4?e=j6YZox)(nothing to submit to Teams).
-
-

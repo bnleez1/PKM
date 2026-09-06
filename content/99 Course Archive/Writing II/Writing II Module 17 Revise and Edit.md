@@ -25,7 +25,7 @@ note: []
 
 ## [Book of Argumentative Essays](https://docs.google.com/document/d/1CBVzXJQKjD1306Zae38BOpTNhlO52C56HGPdI-R7uH4/edit?usp=sharing)
 
-![Writing II_1](../Images/Media/Writing%20II_1.png)
+[Writing II_1](../Images/Media/Writing%20II_1.png)
 [[Writing II_1|Writing II_1 - Notes]]
 
 ## Lesson for [[Date/2026-06-01]]
@@ -83,7 +83,7 @@ note: []
 
 - For those who have a completed first draft (and are content with their grade in Teams)...
 
-![20260601_094915](../Images/Media/20260601_094915.jpg)
+[20260601_094915](../Images/Media/20260601_094915.jpg)
 **Peer assessment notes**
 [[20260601_094915|20260601_094915 - Notes]]
 
@@ -158,5 +158,3 @@ Submit your final argumentative essay as a Word document to the Argumentative Es
 Final grades will be posted on Saturday. Anyone may attend class on Monday to redo any one of their three essays.
 
 ## 
-
-

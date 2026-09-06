@@ -1,13 +1,15 @@
 ---
-type: 'Page'
-title: 'Student Guide: Writing a 250-300 Word Article Review'
-aliases: null
-description: null
+type: Page
+title: "Student Guide: Writing a 250-300 Word Article Review"
+aliases:
+description:
 icon: 📖
-createdAt: '2026-08-26T12:05:30.887Z'
-lastUpdated: '2026-08-28T12:17:24.545Z'
-tags: [Writing, Research]
-coverImage: '[Untitled](../Images/Untitled%20(15).md)'
+createdAt: 2026-08-26T12:05:30.887Z
+lastUpdated: 2026-08-28T12:17:24.545Z
+tags:
+  - Writing
+  - Research
+coverImage: "[Untitled](../Images/Untitled%20(15).md)"
 ---
 
 # Student Guide: Writing a 250-300 Word Article Review
@@ -171,4 +173,3 @@ Before submitting your review, make sure that a reader could understand:
 - why the article is relevant to your own research.
 
 The purpose of the review is not simply to prove that you read the article. It is to show that you can **identify, understand, evaluate, and use research that contributes to your developing study**.
-

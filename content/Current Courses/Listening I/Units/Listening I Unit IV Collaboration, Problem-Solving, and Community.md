@@ -1,11 +1,14 @@
 ---
-type: 'Unit'
-collections: 'Listening I Units, Units'
-title: 'Listening I Unit IV: Collaboration, Problem-Solving, and Community'
-tags: [Writing, EnglishSkillDevelopment]
+type: Unit
+collections: Listening I Units, Units
+title: "Listening I Unit IV: Collaboration, Problem-Solving, and Community"
+tags:
+  - Writing
+  - EnglishSkillDevelopment
 date: 2026-11-02T00:00:00.000Z -> 2026-12-06T00:00:00.000Z
-subject: ['[[Listening I]]']
-coverImage: null
+subject:
+  - "[[Listening I]]"
+coverImage:
 ---
 
 # Listening I Unit IV: Collaboration, Problem-Solving, and Community
@@ -61,4 +64,3 @@ Students will independently use their learning to:
 ### B. Other Evidence
 
 ## 🎯 Stage 3 - Learning Sequence
-

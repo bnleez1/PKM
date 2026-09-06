@@ -1,14 +1,15 @@
 ---
-type: 'Page'
-collections: 'Public Pages'
+type: Page
+collections: Public Pages
 title: Verbs
-aliases: null
-description: null
+aliases:
+description:
 icon: 🔰
-createdAt: '2025-01-02T19:02:52.017Z'
-lastUpdated: '2026-06-28T12:56:11.623Z'
-tags: [GrammarSyntax]
-coverImage: '[Untitled](../Images/Untitled%20(21).md)'
+createdAt: 2025-01-02T19:02:52.017Z
+lastUpdated: 2026-06-28T12:56:11.623Z
+tags:
+  - GrammarSyntax
+coverImage: "[Untitled](../Images/Untitled%20(21).md)"
 ---
 
 # Verbs
@@ -388,4 +389,3 @@ While the three above are the primary moods, some sources also recognize these a
 **Important Note:**
 
 The subjunctive mood is becoming less common in modern English, and some of its uses are being replaced by the indicative mood. However, it is still used in certain formal contexts and grammatical constructions.
-

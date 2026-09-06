@@ -1,14 +1,16 @@
 ---
-type: 'Glossary'
-collections: 'Written Error Code'
+type: Glossary
+collections: Written Error Code
 title: (SS) Common sentence structures in English
-tags: [WritingErrorCode, GrammarSyntax]
+tags:
+  - WritingErrorCode
+  - GrammarSyntax
 subject: []
-formalDefinition: >-
-  Sentence patterns in English refer to the ways in which words are structured
-  within a sentence to convey meaning. 
+formalDefinition: "Sentence patterns in English refer to the ways in which words are structured within a sentence to convey meaning. "
 relatedTerms: []
-pages: ['[[Writing error code list]]', '[Mastering sentence types: A guide to simple, compound, complex, and compound-complex sentences](../Pages/Mastering%20sentence%20types%20A%20guide%20to%20simple,%20compound,%20complex,%20and%20compound-com.md)']
+pages:
+  - "[[Writing error code list]]"
+  - "[Mastering sentence types: A guide to simple, compound, complex, and compound-complex sentences](../Pages/Mastering%20sentence%20types%20A%20guide%20to%20simple,%20compound,%20complex,%20and%20compound-com.md)"
 notes: []
 ---
 
@@ -77,4 +79,3 @@ Sentence patterns in English refer to the ways in which words are structured wit
 - Explanation: Compound sentences consist of two or more independent clauses connected by coordinating conjunctions (and, but, or) or semicolons.
 
 - These are just a few examples of sentence patterns in English. Understanding different sentence patterns helps to construct varied and coherent sentences, making communication more effective and engaging.
-

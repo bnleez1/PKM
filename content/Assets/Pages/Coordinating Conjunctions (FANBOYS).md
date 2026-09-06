@@ -1,14 +1,15 @@
 ---
-type: 'Page'
-collections: 'Public Pages'
+type: Page
+collections: Public Pages
 title: Coordinating Conjunctions (FANBOYS)
-aliases: null
-description: null
+aliases:
+description:
 icon: ⚡️
-createdAt: '2025-01-17T13:52:38.744Z'
-lastUpdated: '2026-08-26T13:02:16.792Z'
-tags: [GrammarSyntax]
-coverImage: '[Untitled](../Images/Untitled%20(285).md)'
+createdAt: 2025-01-17T13:52:38.744Z
+lastUpdated: 2026-08-26T13:02:16.792Z
+tags:
+  - GrammarSyntax
+coverImage: "[Untitled](../Images/Untitled%20(285).md)"
 ---
 
 # Coordinating Conjunctions (FANBOYS)
@@ -150,4 +151,3 @@ Coordinating conjunctions can also be combined in more complex sentences. Here�
 ## Conclusion
 
 Coordinating conjunctions are essential tools in English, instrumental in creating a smooth and coherent narrative. By connecting words, phrases, and independent clauses, they enhance clarity and allow for more sophisticated sentence structures. Understanding how to correctly form and use these conjunctions, while avoiding common pitfalls, can drastically improve one's writing and speaking skills. So, as you continue to write and communicate, remember the power of FANBOYS—For, And, Nor, But, Or, Yet, So. They are more than just words; they are the threads that weave your thoughts into a logical tapestry.
-

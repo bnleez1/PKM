@@ -123,4 +123,3 @@ Before course closure, verify that the final products distinguish description fr
 ## 🗓️ Thursday (9:00 AM - 10:00 AM)
 
 ## 🗓️ Friday (9:00 AM - 10:00 AM)
-

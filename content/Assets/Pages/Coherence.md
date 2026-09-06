@@ -18,4 +18,3 @@ Helping a student reorganize a paragraph so the progression of ideas makes logic
 
 **Common Misconception:**
 Coherence is just using linking words.
-

@@ -1,14 +1,15 @@
 ---
-type: 'Page'
-collections: 'Public Pages'
-title: 'Installing SyncThing '
-aliases: null
-description: null
+type: Page
+collections: Public Pages
+title: "Installing SyncThing "
+aliases:
+description:
 icon: ✴️
-createdAt: '2025-03-19T12:14:20.046Z'
-lastUpdated: '2026-07-22T14:54:46.641Z'
-tags: [Linux]
-coverImage: '[Untitled](../Images/Untitled%20(250).md)'
+createdAt: 2025-03-19T12:14:20.046Z
+lastUpdated: 2026-07-22T14:54:46.641Z
+tags:
+  - Linux
+coverImage: "[Untitled](../Images/Untitled%20(250).md)"
 ---
 
 # Installing SyncThing 
@@ -2038,4 +2039,3 @@ coverImage: '[Untitled](../Images/Untitled%20(250).md)'
     - **Folder marker missing:** Remount the real external drive; never populate the empty mount-point directory underneath it.
 
     - **Office data unexpectedly appears at Home:** Send & Receive merges files already present on both sides. Begin with an empty Office destination if Home should supply the initial dataset.
-

@@ -1,13 +1,14 @@
 ---
-type: 'Page'
+type: Page
 title: Thesis statement and skeleton outline
-aliases: null
-description: null
-icon: null
-createdAt: '2023-06-07T18:46:45.517Z'
-lastUpdated: '2026-06-23T14:17:45.246Z'
-tags: [Writing]
-coverImage: null
+aliases:
+description:
+icon:
+createdAt: 2023-06-07T18:46:45.517Z
+lastUpdated: 2026-06-23T14:17:45.246Z
+tags:
+  - Writing
+coverImage:
 ---
 
 # Thesis statement and skeleton outline
@@ -225,4 +226,3 @@ A poor thesis statement can manifest in several ways: it might be too vague, ove
 *   "In this essay, I will talk about the causes of financial crises." (This is merely announcing what will be talked about, rather than stating a clear, analytical point of view.)
 
 Each of these examples fails to encapsulate the qualities of a strong thesis statement: specificity, clarity, arguably, and conciseness. A good thesis statement should clearly communicate the point that the writer wishes to make and provide a sense of how the argument will be constructed.
-

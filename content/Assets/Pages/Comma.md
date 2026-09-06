@@ -1,13 +1,14 @@
 ---
-type: 'Page'
+type: Page
 title: Comma
-aliases: null
-description: null
+aliases:
+description:
 icon: 🧭
-createdAt: '2023-06-06T12:50:00.597Z'
-lastUpdated: '2026-06-05T12:32:59.346Z'
-tags: [Punctuation]
-coverImage: '[Untitled](../Images/Untitled%20(212).md)'
+createdAt: 2023-06-06T12:50:00.597Z
+lastUpdated: 2026-06-05T12:32:59.346Z
+tags:
+  - Punctuation
+coverImage: "[Untitled](../Images/Untitled%20(212).md)"
 ---
 
 # Comma
@@ -67,4 +68,3 @@ Commas are punctuation marks used in writing to indicate a pause or separation o
 - Incorrect: The boy who is wearing a blue shirt, is my friend.
 
 - Correct: The boy who is wearing a blue shirt is my friend.
-

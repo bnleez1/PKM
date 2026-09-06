@@ -18,4 +18,3 @@ Teaching students to track 'who' or 'what' 'it' refers to in a complex reading p
 
 **Common Misconception:**
 It's just a literary repetition device.
-

@@ -1,14 +1,16 @@
 ---
-type: 'Page'
-collections: 'Public Pages'
+type: Page
+collections: Public Pages
 title: Installing Ubuntu 24.04
-aliases: null
-description: null
-icon: null
-createdAt: '2025-01-09T12:18:23.905Z'
-lastUpdated: '2026-06-28T12:56:40.977Z'
-tags: [Linux, Ubuntu]
-coverImage: null
+aliases:
+description:
+icon:
+createdAt: 2025-01-09T12:18:23.905Z
+lastUpdated: 2026-06-28T12:56:40.977Z
+tags:
+  - Linux
+  - Ubuntu
+coverImage:
 ---
 
 # Installing Ubuntu 24.04
@@ -162,7 +164,7 @@ sudo add-apt-repository universe && sudo apt install libfuse2
 
 ## Gnome extensions
 
-![Gnome extensions](../Images/Media/Gnome%20extensions.jpg)
+[Gnome extensions](../Images/Media/Gnome%20extensions.jpg)
 [[Gnome extensions|Gnome extensions - Notes]]
 
 
@@ -554,6 +556,3 @@ dpkg -l | grep libreoffice
     [1] [Disable paste on middle click : r/kde - Reddit](https://www.reddit.com/r/kde/comments/s4lvuc/disable_paste_on_middle_click/)
 
     [2] [How do I disable this selection popup for Copy? : r/kde - Reddit](https://www.reddit.com/r/kde/comments/qa58oa/how_do_i_disable_this_selection_popup_for_copy/)
-
-
-

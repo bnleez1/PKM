@@ -107,4 +107,3 @@ Use an organizer with four parts: opinion, reason one with example, reason two w
 ## 🗓️ Thursday
 
 ## 🗓️ Friday
-

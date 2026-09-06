@@ -1,16 +1,14 @@
 ---
-type: 'Page'
+type: Page
 title: Dos and Don't when writing an academic text
-aliases: null
-description: >-
-  A concise guide outlining dos and don'ts when writing an academic text,
-  including tips for final formatting in Microsoft Word and proper usage of the
-  Serial or Oxford Comma.
+aliases:
+description: A concise guide outlining dos and don'ts when writing an academic text, including tips for final formatting in Microsoft Word and proper usage of the Serial or Oxford Comma.
 icon: 🖋️
-createdAt: '2023-06-05T13:42:27.744Z'
-lastUpdated: '2026-06-02T12:14:38.091Z'
-tags: [AcademicWriting]
-coverImage: '[Untitled](../Images/Untitled%20(53).md)'
+createdAt: 2023-06-05T13:42:27.744Z
+lastUpdated: 2026-06-02T12:14:38.091Z
+tags:
+  - AcademicWriting
+coverImage: "[Untitled](../Images/Untitled%20(53).md)"
 ---
 
 # Dos and Don't when writing an academic text
@@ -122,8 +120,3 @@ coverImage: '[Untitled](../Images/Untitled%20(53).md)'
 - [How to Use ‘‘et al.’’ in APA Style (7th Edition)](https://besteditproof.com/en/academy/how-to-use-et-al-in-apa-style-7th-edition)
 
 - [Parenthetical versus narrative in-text citations](https://apastyle.apa.org/style-grammar-guidelines/citations/basic-principles/parenthetical-versus-narrative)
-
-
-
-
-

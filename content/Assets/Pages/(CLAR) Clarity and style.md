@@ -1,12 +1,15 @@
 ---
-type: 'Glossary'
-collections: 'Written Error Code'
+type: Glossary
+collections: Written Error Code
 title: (CLAR) Clarity and style
-tags: [Writing, WritingDiscourse]
+tags:
+  - Writing
+  - WritingDiscourse
 subject: []
-formalDefinition: null
+formalDefinition:
 relatedTerms: []
-pages: ['[[Writing error code list]]']
+pages:
+  - "[[Writing error code list]]"
 notes: []
 ---
 
@@ -303,4 +306,3 @@ When writing an academic text, it’s important to consider using language that 
         These nouns can be too broad and lack the specificity needed for clear and precise academic writing. Instead, it's better to use more specific terms that accurately convey your meaning.
 
     - **Vague expressions**: Steer clear of vague expressions and ambiguous terms that may lead to confusion.
-

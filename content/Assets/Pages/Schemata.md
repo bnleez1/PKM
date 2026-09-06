@@ -18,4 +18,3 @@ Activating learners' prior knowledge about a topic before giving them a reading 
 
 **Common Misconception:**
 Schemata are built purely through language.
-

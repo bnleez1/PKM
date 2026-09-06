@@ -1,11 +1,12 @@
 ---
-type: 'Unit'
-collections: 'Writing II Units, Units'
+type: Unit
+collections: Writing II Units, Units
 title: Writing II Unit II - Expository Essay
 tags: []
 date: 2026-03-02T00:00:00.000Z -> 2026-04-03T00:00:00.000Z
-subject: ['[[Writing II]]']
-coverImage: null
+subject:
+  - "[[Writing II]]"
+coverImage:
 ---
 
 # Writing II Unit II - Expository Essay
@@ -243,4 +244,3 @@ As you move through Unit II, remember that effective exposition is purposeful, o
 ---
 
 Below is a **complete Understanding by Design (UbD)** plan for **Unit II – Expository Essay (Weeks 6–10; ~25 hours; 35% of course grade)**, aligned to your syllabus and CEFR B1+ targets. It follows Wiggins & McTighe’s three stages—**Desired Results → Evidence → Learning Plan**—with explicit **transfer**, **meaning**, and **acquisition** elements. PDF (Writing II…labus 2026)([https://eduuaa-my.sharepoint.com/personal/lee_stewart_edu_uaa_mx/Documents/Microsoft%20Copilot%20Chat%20Files/Writing%20II%20Syllabus%202026.pdf](https://eduuaa-my.sharepoint.com/personal/lee_stewart_edu_uaa_mx/Documents/Microsoft%20Copilot%20Chat%20Files/Writing%20II%20Syllabus%202026.pdf)), files.ascd.org([https://files.ascd.org/staticfiles/ascd/pdf/siteASCD/publications/UbD_WhitePaper0312.pdf](https://files.ascd.org/staticfiles/ascd/pdf/siteASCD/publications/UbD_WhitePaper0312.pdf))
-

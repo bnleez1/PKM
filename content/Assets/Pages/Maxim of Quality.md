@@ -18,4 +18,3 @@ Understanding cultural differences in 'saving face' versus blunt honesty in the 
 
 **Common Misconception:**
 Irony violates quality and is a breakdown of communication.
-

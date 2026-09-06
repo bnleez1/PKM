@@ -1,14 +1,15 @@
 ---
-type: 'Page'
-collections: 'Public Pages'
+type: Page
+collections: Public Pages
 title: Understanding Theme and Rheme in Academic Writing
-aliases: null
-description: null
+aliases:
+description:
 icon: 💡
-createdAt: '2025-01-21T14:48:03.443Z'
-lastUpdated: '2026-06-28T12:56:51.329Z'
-tags: [WritingDiscourse]
-coverImage: null
+createdAt: 2025-01-21T14:48:03.443Z
+lastUpdated: 2026-06-28T12:56:51.329Z
+tags:
+  - WritingDiscourse
+coverImage:
 ---
 # Understanding Theme and Rheme in Academic Writing
 
@@ -87,4 +88,3 @@ In each of these examples, the theme introduces the subject of the sentence, whi
 #### Conclusion
 
 Understanding and effectively using theme and rheme can significantly enhance the clarity and coherence of your academic writing. By structuring your sentences with a clear theme and rheme, you can guide your readers through your text, emphasize key points, and create a logical progression of ideas. Practice identifying and using theme and rheme in your writing to improve your academic texts and communicate your ideas more effectively.
-

@@ -1,14 +1,15 @@
 ---
-type: 'Page'
-collections: 'Public Pages'
+type: Page
+collections: Public Pages
 title: Optimizing Listening Strategies at the CEFR A2 Level
-aliases: null
-description: null
+aliases:
+description:
 icon: 👂️
-createdAt: '2026-06-16T13:11:45.487Z'
-lastUpdated: '2026-06-28T12:57:51.524Z'
-tags: [Listening]
-coverImage: '[Untitled](../Images/Untitled%20(108).md)'
+createdAt: 2026-06-16T13:11:45.487Z
+lastUpdated: 2026-06-28T12:57:51.524Z
+tags:
+  - Listening
+coverImage: "[Untitled](../Images/Untitled%20(108).md)"
 ---
 
 # Optimizing Listening Strategies at the CEFR A2 Level
@@ -120,4 +121,3 @@ Implementation is most effective when structured through a three-phase framework
 - **Scrivener (2005):** Focus on the practical application of top-down theories in real-world settings.
 
 - **Díaz-Rico (2004):** Categorization of listening activities into Repetition, Understanding, and Communication.
-

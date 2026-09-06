@@ -1,14 +1,16 @@
 ---
-type: 'Glossary'
-collections: 'Written Error Code'
+type: Glossary
+collections: Written Error Code
 title: (PRO) Pronouns
-tags: [WritingErrorCode, GrammarSyntax]
+tags:
+  - WritingErrorCode
+  - GrammarSyntax
 subject: []
-formalDefinition: >-
-  A pronoun is a word that replaces a noun or noun phrase to avoid repetition
-  and streamline language. 
-relatedTerms: ['[[(WD) Written discourse]]']
-pages: ['[[Writing error code list]]']
+formalDefinition: "A pronoun is a word that replaces a noun or noun phrase to avoid repetition and streamline language. "
+relatedTerms:
+  - "[[(WD) Written discourse]]"
+pages:
+  - "[[Writing error code list]]"
 notes: []
 ---
 
@@ -704,4 +706,3 @@ Intensive pronouns are used to avoid ambiguity in a sentence when it's not clear
 - He saw *himself* in the mirror. (Intensive - he, and not someone else, saw his own image)
 
 In summary, intensive pronouns are used to emphasize or intensify a preceding noun or pronoun in a sentence. They are identical in form to reflexive pronouns but serve a different purpose. Intensive pronouns add emphasis, clarity, or contrast to a sentence, making the meaning more explicit. They are always placed immediately after the noun or pronoun they are emphasizing.
-

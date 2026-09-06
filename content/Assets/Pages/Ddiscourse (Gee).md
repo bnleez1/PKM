@@ -18,4 +18,3 @@ Helping learners acquire the 'Discourse' of an academic community, not just the 
 
 **Common Misconception:**
 It's just a spelling difference.
-

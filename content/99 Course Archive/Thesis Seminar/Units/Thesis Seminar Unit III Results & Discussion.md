@@ -1,11 +1,13 @@
 ---
-type: 'Unit'
-collections: 'Units'
-title: 'Thesis Seminar Unit III: Results & Discussion'
-tags: [Unit]
+type: Unit
+collections: Units
+title: "Thesis Seminar Unit III: Results & Discussion"
+tags:
+  - Unit
 date: 2026-03-02T00:00:00.000Z -> 2026-04-10T00:00:00.000Z
-subject: ['[[Thesis Seminar]]']
-coverImage: null
+subject:
+  - "[[Thesis Seminar]]"
+coverImage:
 ---
 
 # Thesis Seminar Unit III: Results & Discussion
@@ -43,4 +45,3 @@ Draft a results and discussion section that answers research questions in a unif
 - Write an academic (formal) text using standard English that is coherent, cohesive, and on topic.
 
 # Stage 2 - Assessment Evidence
-

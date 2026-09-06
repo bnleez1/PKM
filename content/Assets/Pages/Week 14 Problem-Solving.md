@@ -1,14 +1,17 @@
 ---
-type: 'Page'
-collections: 'PROPE Topics, Public Pages'
-title: 'Week 14: Problem-Solving'
-aliases: null
-description: null
+type: Page
+collections: PROPE Topics, Public Pages
+title: "Week 14: Problem-Solving"
+aliases:
+description:
 icon: 📙
-createdAt: '2026-06-20T16:50:48.350Z'
-lastUpdated: '2026-06-28T12:55:52.507Z'
-tags: [Writing, Listening, EnglishSkillDevelopment]
-coverImage: '[Untitled](../Images/Untitled%20(34).md)'
+createdAt: 2026-06-20T16:50:48.350Z
+lastUpdated: 2026-06-28T12:55:52.507Z
+tags:
+  - Writing
+  - Listening
+  - EnglishSkillDevelopment
+coverImage: "[Untitled](../Images/Untitled%20(34).md)"
 ---
 
 # Week 14: Problem-Solving
@@ -40,4 +43,3 @@ This specific listening focus is designed to train the brain to filter linguisti
 As a teacher trainer, observing learners grapple with these concepts provides invaluable data. I continuously monitor how these specific writing and listening points interact. Do the listening strategies reinforce the structural awareness required for writing? Does the explicit instruction in writing syntax help learners decode complex spoken sentences? These are the questions we openly explore in our classroom discussions. We map our progress visually, tracking our mastery of the week's goals. This visible learning approach ensures that every student knows exactly where they stand, where they are going, and what they need to do to get there.
 
 I invite fellow educators to adapt these focuses for their own contexts. How do you approach this specific writing point? What scaffolding techniques have you found effective when teaching this listening strategy? Let's build a vibrant, engaging community of practice. Share your lesson adaptations, your learners' breakthroughs, and even the spectacular failures that taught you something new. By maintaining this level of professional transparency, we elevate the quality of instruction far beyond what any of us could achieve in isolation. The journey of language learning—and language teaching—is infinitely richer when shared.
-

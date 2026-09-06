@@ -1,19 +1,19 @@
 ---
-type: 'Page'
-collections: 'Public Pages'
+type: Page
+collections: Public Pages
 title: Installing Ubuntu 26.04 LTS
-aliases: null
-description: null
-icon: null
-createdAt: '2026-06-03T18:01:18.613Z'
-lastUpdated: '2026-06-28T12:57:41.604Z'
+aliases:
+description:
+icon:
+createdAt: 2026-06-03T18:01:18.613Z
+lastUpdated: 2026-06-28T12:57:41.604Z
 tags: []
-coverImage: null
+coverImage:
 ---
 
 # Installing Ubuntu 26.04 LTS
 
-![Gemini_Generated_Image_7mtkx77mtkx77mtk](../Images/Media/Gemini_Generated_Image_7mtkx77mtkx77mtk.png)
+[Gemini_Generated_Image_7mtkx77mtkx77mtk](../Images/Media/Gemini_Generated_Image_7mtkx77mtkx77mtk.png)
 [[Gemini_Generated_Image_7mtkx77mtkx77mtk|Gemini_Generated_Image_7mtkx77mtkx77mtk - Notes]]
 
 - Setting up rclone like Google Drive App
@@ -642,4 +642,3 @@ coverImage: null
     6. Click **Add Printer**.
 
     Once the queue is created via CUPS, the `hplip` background service will detect when print jobs hit that specific queue and inject the necessary binary firmware payload to the printer over the USB cable automatically.
-

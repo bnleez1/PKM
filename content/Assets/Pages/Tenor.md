@@ -18,4 +18,3 @@ Adjusting role-play scenarios so learners practice speaking to a peer differentl
 
 **Common Misconception:**
 It refers strictly to emotion.
-

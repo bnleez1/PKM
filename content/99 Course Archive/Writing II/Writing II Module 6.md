@@ -1,20 +1,22 @@
 ---
-type: 'Module'
-collections: 'Writing II Modules'
+type: Module
+collections: Writing II Modules
 title: Writing II Module 6
-tags: [Module, Archive]
+tags:
+  - Module
+  - Archive
 date: 2026-03-02T00:00:00.000Z -> 2026-03-08T00:00:00.000Z
-status: null
-subject: '[[Writing II]]'
-chapterWeek: null
-coverImage: null
-unit: null
-prior: '[[Writing II Module 5]]'
-next: '[[Writing II Module 7]]'
-reading: null
-bookTitle: null
+status:
+subject: "[[Writing II]]"
+chapterWeek:
+coverImage:
+unit:
+prior: "[[Writing II Module 5]]"
+next: "[[Writing II Module 7]]"
+reading:
+bookTitle:
 studentDeliverableS: []
-semester: null
+semester:
 relations: []
 note: []
 ---
@@ -1117,4 +1119,3 @@ Today is the last day to make final changes to your expository essay in Descript
     2. Option 2: Write a series compound sentences with “so” that uncover possible results based on the topic you wish to write about.
 
 3. Submit your answers to steps 1 and 2 to the progress report #4 in Teams.
-

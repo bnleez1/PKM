@@ -1,14 +1,16 @@
 ---
-type: 'Page'
-collections: 'Public Pages'
+type: Page
+collections: Public Pages
 title: Formatting Word Document according to APA
-aliases: null
-description: null
-icon: null
-createdAt: '2026-06-14T13:13:52.363Z'
-lastUpdated: '2026-06-28T12:57:51.257Z'
-tags: [HowTo, FormattingWord]
-coverImage: null
+aliases:
+description:
+icon:
+createdAt: 2026-06-14T13:13:52.363Z
+lastUpdated: 2026-06-28T12:57:51.257Z
+tags:
+  - HowTo
+  - FormattingWord
+coverImage:
 ---
 
 # Formatting Word Document according to APA

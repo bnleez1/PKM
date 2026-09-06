@@ -1,13 +1,14 @@
 ---
-type: 'Page'
-title: 'Reference vs. Substitution: Two Grammatical Cohesion Resources'
-aliases: null
-description: null
+type: Page
+title: "Reference vs. Substitution: Two Grammatical Cohesion Resources"
+aliases:
+description:
 icon: ⚡️
-createdAt: '2026-08-28T12:17:31.515Z'
-lastUpdated: '2026-08-28T12:33:34.933Z'
-tags: [DiscourseAnalysis]
-coverImage: '[Untitled](../Images/Untitled%20(7).md)'
+createdAt: 2026-08-28T12:17:31.515Z
+lastUpdated: 2026-08-28T12:33:34.933Z
+tags:
+  - DiscourseAnalysis
+coverImage: "[Untitled](../Images/Untitled%20(7).md)"
 ---
 
 # Reference vs. Substitution: Two Grammatical Cohesion Resources
@@ -143,4 +144,3 @@ The broader lesson is that cohesion is not simply a list of forms. Reference and
 Celce-Murcia, M., & Olshtain, E. (2000). *Discourse and context in language teaching: A guide for language teachers*. Cambridge University Press.
 
 Paltridge, B. (2022). *Discourse analysis: An introduction* (3rd ed.). Bloomsbury Academic.
-

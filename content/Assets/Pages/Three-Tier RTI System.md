@@ -1,14 +1,15 @@
 ---
-type: 'Page'
-collections: 'Public Pages'
+type: Page
+collections: Public Pages
 title: Three-Tier RTI System
-aliases: null
-description: null
+aliases:
+description:
 icon: 💯
-createdAt: '2026-06-12T13:35:17.319Z'
-lastUpdated: '2026-06-28T12:57:51.173Z'
-tags: [Assessment]
-coverImage: '[Untitled](../Images/Untitled%20(343).md)'
+createdAt: 2026-06-12T13:35:17.319Z
+lastUpdated: 2026-06-28T12:57:51.173Z
+tags:
+  - Assessment
+coverImage: "[Untitled](../Images/Untitled%20(343).md)"
 ---
 
 # Three-Tier RTI System
@@ -63,4 +64,3 @@ In your Object Type settings, create a new template (e.g., "RTI Student Profile"
 ---
 
 > **Workflow Tip:** Once you tag trainees with their `Current Tier` property, you can create a dynamic **Query** in Capacities that automatically surfaces a dashboard of all your Tier 2 and Tier 3 students, ensuring nobody slips through the cracks during a busy semester.
-

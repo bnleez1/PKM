@@ -1,14 +1,15 @@
 ---
-type: 'Page'
-collections: 'Public Pages'
+type: Page
+collections: Public Pages
 title: Learning processes that promote listening comprehension
-aliases: null
-description: null
+aliases:
+description:
 icon: 👂️
-createdAt: '2026-06-16T13:07:37.380Z'
-lastUpdated: '2026-06-28T12:57:51.498Z'
-tags: [Listening]
-coverImage: '[Untitled](../Images/Untitled%20(303).md)'
+createdAt: 2026-06-16T13:07:37.380Z
+lastUpdated: 2026-06-28T12:57:51.498Z
+tags:
+  - Listening
+coverImage: "[Untitled](../Images/Untitled%20(303).md)"
 ---
 
 # Learning processes that promote listening comprehension
@@ -242,4 +243,3 @@ Repeat a word, sentence, segment, or the complete text over and over again, moni
 1. Prepare students to react by performing an action beyond identifying “targets”.
 
 2. Students select the order of listening from a set of audios/videos which in conjunction complete a whole message.
-

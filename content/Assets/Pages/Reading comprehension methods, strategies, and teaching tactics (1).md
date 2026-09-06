@@ -1,13 +1,14 @@
 ---
-type: 'Page'
+type: Page
 title: Reading comprehension methods, strategies, and teaching tactics
-aliases: null
-description: null
+aliases:
+description:
 icon: 🔰
-createdAt: '2025-01-02T14:11:54.158Z'
-lastUpdated: '2026-06-16T13:17:20.015Z'
-tags: [Reading]
-coverImage: '[Untitled](../Images/Untitled%20(380).md)'
+createdAt: 2025-01-02T14:11:54.158Z
+lastUpdated: 2026-06-16T13:17:20.015Z
+tags:
+  - Reading
+coverImage: "[Untitled](../Images/Untitled%20(380).md)"
 ---
 
 # Reading comprehension methods, strategies, and teaching tactics
@@ -71,4 +72,3 @@ coverImage: '[Untitled](../Images/Untitled%20(380).md)'
 - Advanced language learners↔Comprehension checks, guessing from context, clue searching, making inferences, cloze techniques, reverse cloze, scrambled stories, extracting specific information, skimming, scanning, paraphrasing, gisting/resume, passage completion, identifying sociolinguistics factors, filling out forms, anticipating/predicting, understanding discourse structures, understanding link works and referents.
 
 - Related link: [[Activities For Listening Comprehension]]
-

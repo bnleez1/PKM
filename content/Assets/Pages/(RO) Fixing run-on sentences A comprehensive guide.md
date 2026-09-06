@@ -1,15 +1,16 @@
 ---
-type: 'Glossary'
-collections: 'Written Error Code'
-title: '(RO) Fixing run-on sentences: A comprehensive guide'
-tags: [WritingErrorCode, GrammarSyntax]
+type: Glossary
+collections: Written Error Code
+title: "(RO) Fixing run-on sentences: A comprehensive guide"
+tags:
+  - WritingErrorCode
+  - GrammarSyntax
 subject: []
-formalDefinition: >-
-  A run-on sentence occurs when two or more independent clauses (clauses that
-  can stand alone as separate sentences) are improperly joined without
-  appropriate punctuation or conjunctions. 
-relatedTerms: ['[[(CLAR) Clarity and style]]']
-pages: ['[[Writing error code list]]']
+formalDefinition: "A run-on sentence occurs when two or more independent clauses (clauses that can stand alone as separate sentences) are improperly joined without appropriate punctuation or conjunctions. "
+relatedTerms:
+  - "[[(CLAR) Clarity and style]]"
+pages:
+  - "[[Writing error code list]]"
 notes: []
 ---
 
@@ -175,5 +176,3 @@ Write two original run-on sentences and then correct them.
     4. We visited the museum yesterday. It was really interesting.
 
     **Part C (example correction):** Last weekend, we went hiking. The weather was perfect and sunny. We packed sandwiches, fruits, and water, and we left early in the morning. The hike was challenging, so we were tired but happy. At the top of the mountain, the view was incredible, and we took lots of photos. Hiking is a great activity because it keeps us healthy and connected to nature.
-
-

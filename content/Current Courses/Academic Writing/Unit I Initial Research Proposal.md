@@ -1,20 +1,21 @@
 ---
-type: 'Assignment'
+type: Assignment
 title: Unit I Initial Research Proposal
-icon: null
-tags: [Research]
-courseS: ['[[Academic Writing]]']
-unitS: '[[Academic Writing Unit I]]'
-module: >-
-  [AW-Module 2: From Broad Interest to Researchable
-  Proposal](../Modules/AW-Module%202%20From%20Broad%20Interest%20to%20Researchable%20Proposal.md)
-dueDate: '2026-08-21T00:00:00.000Z'
-status: '[[In Progress]]'
-learningOutcomes: ['[[Narrowing down a topic]]']
-rubric: '[[Unit I Initial Research Proposal – Analytic Rubric]]'
+icon:
+tags:
+  - Research
+courseS:
+  - "[[Academic Writing]]"
+unitS: "[[Academic Writing Unit I]]"
+module: "[AW-Module 2: From Broad Interest to Researchable Proposal](../Modules/AW-Module%202%20From%20Broad%20Interest%20to%20Researchable%20Proposal.md)"
+dueDate: 2026-08-21T00:00:00.000Z
+status: "[[In Progress]]"
+learningOutcomes:
+  - "[[Narrowing down a topic]]"
+rubric: "[[Unit I Initial Research Proposal – Analytic Rubric]]"
 aiUse: []
-coverImage: null
-durationHours: null
+coverImage:
+durationHours:
 grouping: Individual
 ---
 
@@ -188,4 +189,3 @@ The assignment will be evaluated using the linked **Unit I Initial Research Prop
 - **50 points:** grammatical accuracy and sentence control; academic vocabulary and register; clarity, precision, and concision; coherence and cohesion; mechanics and readability.
 
 **Important:** Article selection, source integration, and APA references are **not assessed in this initial proposal** because articles are not required at this stage.
-

@@ -1,16 +1,14 @@
 ---
-type: 'Page'
+type: Page
 title: Introduction Paragraph
-aliases: null
-description: >-
-  An introductory paragraph serves the purpose of providing a concise rationale
-  for academic writing, offering context and background information to the
-  reader.
+aliases:
+description: An introductory paragraph serves the purpose of providing a concise rationale for academic writing, offering context and background information to the reader.
 icon: 🧭
-createdAt: '2023-06-01T18:55:22.371Z'
-lastUpdated: '2026-06-14T18:33:23.294Z'
-tags: [AcademicWriting]
-coverImage: null
+createdAt: 2023-06-01T18:55:22.371Z
+lastUpdated: 2026-06-14T18:33:23.294Z
+tags:
+  - AcademicWriting
+coverImage:
 ---
 
 # Introduction Paragraph
@@ -34,5 +32,3 @@ After hooking the audience, describe the context of the problem in about three-t
 ### Thesis statement
 
 The thesis statement should begin with a (contrasting) transition (i.e., [[Introductory Phrases]] [introductory phrase](https://www.englishbix.com/5-types-of-introductory-phrases/), subordinating clause, or [sentence connector](https://medium.com/@danhduy9/list-of-sentence-connectors-in-english-with-examples-1952c02fa374)) from the context of the problem to a clearly stated "answer"; that is, your thesis statement is a potential solution to the problem stated earlier. Also, consider the thesis statement as the one-sentence "answer" to your primary research question. The thesis statement should be one sentence that occurs at the end of the introductory paragraph, and should include the main two-to-four points to be discussed throughout the body of the literature review. See [Thesis Statement](https://www.notion.so/Thesis-Statement-c08ce26ccb934b00b0a92ce6da5c6416).
-
-

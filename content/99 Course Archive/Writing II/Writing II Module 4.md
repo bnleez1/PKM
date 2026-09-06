@@ -1,20 +1,22 @@
 ---
-type: 'Module'
-collections: 'Writing II Modules'
+type: Module
+collections: Writing II Modules
 title: Writing II Module 4
-tags: [Module, Archive]
+tags:
+  - Module
+  - Archive
 date: 2026-02-16T00:00:00.000Z -> 2026-02-22T00:00:00.000Z
-status: null
-subject: '[[Writing II]]'
-chapterWeek: null
-coverImage: null
-unit: null
-prior: '[[Writing II Module 3]]'
-next: '[[Writing II Module 5]]'
-reading: null
-bookTitle: null
+status:
+subject: "[[Writing II]]"
+chapterWeek:
+coverImage:
+unit:
+prior: "[[Writing II Module 3]]"
+next: "[[Writing II Module 5]]"
+reading:
+bookTitle:
 studentDeliverableS: []
-semester: null
+semester:
 relations: []
 note: []
 ---
@@ -519,4 +521,3 @@ Next week, can meet with anyone from 2:00 PM - 3:00 PM one day next week if you 
 ## Take Action
 
 1. Complete Descriptive Essay Progress Report 2.
-

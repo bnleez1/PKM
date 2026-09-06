@@ -1,11 +1,13 @@
 ---
-type: 'Unit'
-collections: 'Units'
-title: 'Thesis Seminar Unit II: Method'
-tags: [Unit]
+type: Unit
+collections: Units
+title: "Thesis Seminar Unit II: Method"
+tags:
+  - Unit
 date: 2026-03-02T00:00:00.000Z -> 2026-04-10T00:00:00.000Z
-subject: ['[[Thesis Seminar]]']
-coverImage: null
+subject:
+  - "[[Thesis Seminar]]"
+coverImage:
 ---
 
 # Thesis Seminar Unit II: Method
@@ -47,4 +49,3 @@ Draft a method section in support of a recent research project to be published i
 - Write an academic (formal) text using standard English that is coherent, cohesive, and on topic.
 
 # Stage 2 - Assessment Evidence
-

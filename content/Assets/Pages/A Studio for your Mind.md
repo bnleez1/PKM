@@ -1,17 +1,15 @@
 ---
-type: 'Page'
+type: Page
 title: A Studio for your Mind
-aliases: null
-description: >-
-  A Studio for your Mind offers a next-generation note-taking app designed for
-  personal knowledge management, providing a calm and focused environment for
-  intellectual pursuits in the age of information overload and constant
-  distraction.
+aliases:
+description: A Studio for your Mind offers a next-generation note-taking app designed for personal knowledge management, providing a calm and focused environment for intellectual pursuits in the age of information overload and constant distraction.
 icon: 📚️
-createdAt: '2023-05-30T22:02:47.390Z'
-lastUpdated: '2026-06-07T22:07:56.382Z'
-tags: [Capacities, KnowledgeManagement]
-coverImage: '[[Studio of your Mind]]'
+createdAt: 2023-05-30T22:02:47.390Z
+lastUpdated: 2026-06-07T22:07:56.382Z
+tags:
+  - Capacities
+  - KnowledgeManagement
+coverImage: "[[Studio of your Mind]]"
 ---
 
 # A Studio for your Mind
@@ -59,4 +57,3 @@ Read more about [dates and daily notes](https://docs.capacities.io/reference/da
 [Capacities Docs](https://docs.capacities.io/)[[Capacities Docs|Capacities Docs - Notes]]
 
 [Why we built Capacities](https://capacities.io/about/manifesto)[[Why we built Capacities|Why we built Capacities - Notes]]
-

@@ -1,14 +1,16 @@
 ---
-type: 'Page'
-collections: 'Public Pages'
-title: 'Organizing an effective argument: Methods and examples'
-aliases: null
-description: null
+type: Page
+collections: Public Pages
+title: "Organizing an effective argument: Methods and examples"
+aliases:
+description:
 icon: 🧭
-createdAt: '2025-01-07T14:15:44.614Z'
-lastUpdated: '2026-06-28T12:56:40.833Z'
-tags: [Writing, Research]
-coverImage: '[Untitled](../Images/Untitled%20(29).md)'
+createdAt: 2025-01-07T14:15:44.614Z
+lastUpdated: 2026-06-28T12:56:40.833Z
+tags:
+  - Writing
+  - Research
+coverImage: "[Untitled](../Images/Untitled%20(29).md)"
 ---
 
 # Organizing an effective argument: Methods and examples
@@ -173,4 +175,3 @@ By following this structure, a Rogerian argument essay can effectively present a
 
 
 💡 [[A Claim and premises]]: Consider the following as different claims: your thesis statement, topic sentences from body paragraphs, assertions from outside sources that serve as evidence (or grounds) for broader claims, the reporting of findings from your own research, and your interpretation of your findings. More specific claims that support more broad claims are called premises. A sound argument contains premises that lead to broader claims that align to the main idea of your paper. Consider this when writing your literature review: the evidence sentences (or grounds) support the topic sentence of the body paragraph. The body sentences of the paragraph support the level II heading that marks your two-to-four subsections of your literature review. The level II headings (or subsections) should align with your thesis statement. In terms of your results and discussion section, your findings (direct quotations, statistics, observations, responses to questionnaires, etc.) should align or support the topic sentence of each body paragraph. Each body paragraph should align with the respective level II heading (subsection). Each level II heading should relate directly to a set of research questions and/or a hypothesis. The thesis statement should answer the research questions and/or be aligned with the hypothesis.
-

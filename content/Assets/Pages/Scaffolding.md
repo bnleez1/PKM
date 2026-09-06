@@ -18,4 +18,3 @@ Providing sentence starters and functional chunks before putting students into a
 
 **Common Misconception:**
 Doing the work for the student.
-

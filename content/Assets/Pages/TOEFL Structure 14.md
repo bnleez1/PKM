@@ -1,16 +1,14 @@
 ---
-type: 'Page'
-collections: 'Public Pages'
+type: Page
+collections: Public Pages
 title: TOEFL Structure 14
-aliases: null
-description: null
-icon: null
-createdAt: '2025-03-11T12:17:25.904Z'
-lastUpdated: '2026-06-28T12:57:21.165Z'
+aliases:
+description:
+icon:
+createdAt: 2025-03-11T12:17:25.904Z
+lastUpdated: 2026-06-28T12:57:21.165Z
 tags: []
-coverImage: null
+coverImage:
 ---
 
 # TOEFL Structure 14
-
-

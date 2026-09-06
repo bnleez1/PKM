@@ -1,14 +1,15 @@
 ---
-type: 'Glossary'
-collections: 'Written Error Code'
+type: Glossary
+collections: Written Error Code
 title: (ART) Article (determiner)
-tags: [WritingErrorCode, Writing]
+tags:
+  - WritingErrorCode
+  - Writing
 subject: []
-formalDefinition: >-
-  Articles are a type of determiner in English that provide information about
-  the noun they precede. 
+formalDefinition: "Articles are a type of determiner in English that provide information about the noun they precede. "
 relatedTerms: []
-pages: ['[[Writing error code list]]']
+pages:
+  - "[[Writing error code list]]"
 notes: []
 ---
 
@@ -55,4 +56,3 @@ Articles are a type of determiner in English that provide information about the 
 - The choice between "a" and "an" is determined by the sound that follows the article, not necessarily the first letter. For example, "an hour" (because "hour" starts with a vowel sound) and "a university" (because "university" starts with a "ju" sound, which is a consonant sound).
 
 Articles are essential in English because they help clarify whether the speaker is referring to something specific or something non-specific. They also play a crucial role in making sentences grammatically correct and conveying precise meaning.
-

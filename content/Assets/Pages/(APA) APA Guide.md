@@ -31,8 +31,8 @@ notes: []
 
 # APA Links
 
-![reference-examples](../PDFs/Media/reference-examples.pdf)
+[reference-examples](../PDFs/Media/reference-examples.pdf)
 [[reference-examples|reference-examples - Notes]]
 
-![apa-common-citations-and-references-4](../PDFs/Media/apa-common-citations-and-references-4.pdf)
+[apa-common-citations-and-references-4](../PDFs/Media/apa-common-citations-and-references-4.pdf)
 [[apa-common-citations-and-references-4|apa-common-citations-and-references-4 - Notes]]

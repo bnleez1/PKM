@@ -1,11 +1,14 @@
 ---
-type: 'Unit'
-collections: 'Listening I Units, Units'
-title: 'Listening I Unit I: Building a Foundation'
-tags: [Writing, EnglishSkillDevelopment]
+type: Unit
+collections: Listening I Units, Units
+title: "Listening I Unit I: Building a Foundation"
+tags:
+  - Writing
+  - EnglishSkillDevelopment
 date: 2026-08-10T00:00:00.000Z -> 2026-09-06T00:00:00.000Z
-subject: ['[[Listening I]]']
-coverImage: null
+subject:
+  - "[[Listening I]]"
+coverImage:
 ---
 
 # Listening I Unit I: Building a Foundation
@@ -216,5 +219,3 @@ The syllabus establishes English use as **50% of the grade for each assessed ite
 - Short **AI-literacy classification activities** in which students distinguish between appropriate uses of GenAI for listening preparation and uses that improperly replace independent comprehension.
 
 - When GenAI preparation is authorized, a brief **AI Learning Trace** documenting the tool, date, prompt, purpose, relevant output, and the student's decision about how—or whether—to use that preparation.
-
-

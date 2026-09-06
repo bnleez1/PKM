@@ -1,15 +1,13 @@
 ---
-type: 'Glossary'
-collections: 'Written Error Code'
+type: Glossary
+collections: Written Error Code
 title: (WC) Word Choice
 tags: []
 subject: []
-formalDefinition: >-
-  While your sentence is entirely intelligible (it makes sense), the specific
-  words you chose sound awkward, unconventional, or atypical to a native English
-  speaker.
+formalDefinition: While your sentence is entirely intelligible (it makes sense), the specific words you chose sound awkward, unconventional, or atypical to a native English speaker.
 relatedTerms: []
-pages: ['[[Writing error code list]]']
+pages:
+  - "[[Writing error code list]]"
 notes: []
 ---
 

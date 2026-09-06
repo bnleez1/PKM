@@ -1,17 +1,13 @@
 ---
-type: 'Page'
+type: Page
 title: The difference between an appositive and an absolute phrase
-aliases: null
-description: >-
-  An appositive is a noun or noun phrase that provides more information about a
-  nearby noun, while an absolute phrase is a group of words that modifies the
-  entire sentence, and understanding the difference between the two can help
-  improve sentence structure and clarity.
+aliases:
+description: An appositive is a noun or noun phrase that provides more information about a nearby noun, while an absolute phrase is a group of words that modifies the entire sentence, and understanding the difference between the two can help improve sentence structure and clarity.
 icon: 🧭
-createdAt: '2023-06-04T14:48:38.963Z'
-lastUpdated: '2026-06-17T19:16:54.147Z'
+createdAt: 2023-06-04T14:48:38.963Z
+lastUpdated: 2026-06-17T19:16:54.147Z
 tags: []
-coverImage: '[Untitled](../Images/Untitled%20(301).md)'
+coverImage: "[Untitled](../Images/Untitled%20(301).md)"
 ---
 
 # The difference between an appositive and an absolute phrase
@@ -39,4 +35,3 @@ An absolute phrase is a modifier that contains a noun or pronoun along with a pa
 In this example, "Her eyes filled with tears" is the absolute phrase. It provides additional information about the subject of the sentence, but it is not directly related to any specific noun or pronoun. The absolute phrase adds emotional context to the sentence.
 
 To summarize, an appositive is a noun or noun phrase that renames or provides more information about a specific noun, while an absolute phrase is a modifier that adds extra detail to the sentence but isn't directly related to any specific noun.
-

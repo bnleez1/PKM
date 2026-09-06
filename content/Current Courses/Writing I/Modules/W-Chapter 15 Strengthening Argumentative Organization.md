@@ -108,4 +108,3 @@ For each important comment, record the source, the issue, your action, and your 
 ## 🗓️ Thursday
 
 ## 🗓️ Friday
-

@@ -1,14 +1,15 @@
 ---
-type: 'Page'
-collections: 'Public Pages'
-title: 'Rubric: Literature Review'
-aliases: null
-description: null
-icon: null
-createdAt: '2025-01-25T15:57:22.767Z'
-lastUpdated: '2026-06-28T12:57:01.636Z'
-tags: [Assessment]
-coverImage: null
+type: Page
+collections: Public Pages
+title: "Rubric: Literature Review"
+aliases:
+description:
+icon:
+createdAt: 2025-01-25T15:57:22.767Z
+lastUpdated: 2026-06-28T12:57:01.636Z
+tags:
+  - Assessment
+coverImage:
 ---
 
 # Rubric: Literature Review
@@ -40,4 +41,3 @@ coverImage: null
 
 
 💡 Literature review is based on, "... an integrated research project relevant to the teaching of English as an additional language" ([syllabus](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/d52bdaab-21cf-4ecc-a111-6d2993ad954e/Thesis_Seminar_Syllabus_2021_v3.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210209%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210209T130630Z&X-Amz-Expires=86400&X-Amz-Signature=021f77e7b6336674f60d4aecc80ec62304ca7527023eb8f85ac031b6c7c712f4&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Thesis%2520Seminar%2520Syllabus%25202021_v3.pdf%22)).
-

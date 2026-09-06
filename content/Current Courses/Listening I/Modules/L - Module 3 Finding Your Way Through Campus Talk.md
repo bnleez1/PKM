@@ -478,4 +478,3 @@ Today's audio will require you to draw in your notebook as notes for recreating 
 1. Complete [Greenfield University Campus Listening Quiz – Fill out form.](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=kuLi4dYhSUi3EE1H2VeK0ItjcCXTT1VEvQ9aSPhTcDNUNjM5Rk0zM0pWMlU3NlJaWDAzRFhCTlI4VyQlQCNjPTEu)
 
 2. Submit [[Listening CAADI Worksheet 2]] to Teams.
-

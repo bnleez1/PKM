@@ -18,4 +18,3 @@ Using surrounding sentences to guess the meaning of an unknown vocabulary word i
 
 **Common Misconception:**
 Same as context.
-

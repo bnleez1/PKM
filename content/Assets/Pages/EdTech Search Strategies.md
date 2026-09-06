@@ -1,14 +1,15 @@
 ---
-type: 'Page'
-collections: 'Public Pages'
+type: Page
+collections: Public Pages
 title: EdTech Search Strategies
-aliases: null
-description: null
-icon: null
-createdAt: '2025-01-03T14:09:23.744Z'
-lastUpdated: '2026-06-28T12:56:31.214Z'
-tags: [Research]
-coverImage: null
+aliases:
+description:
+icon:
+createdAt: 2025-01-03T14:09:23.744Z
+lastUpdated: 2026-06-28T12:56:31.214Z
+tags:
+  - Research
+coverImage:
 ---
 
 # EdTech Search Strategies
@@ -74,4 +75,3 @@ Recommended Mobil Apps If you have space on your phone, I would recommend that y
 - Microsoft Teams
 
 - [Dictionary.com: English Words - Apps on Google Play](https://play.google.com/store/apps/details?id=com.dictionary&hl=en_US&gl=US&pli=1)
-

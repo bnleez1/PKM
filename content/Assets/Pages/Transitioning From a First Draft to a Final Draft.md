@@ -1,14 +1,15 @@
 ---
-type: 'Page'
-collections: 'Public Pages'
+type: Page
+collections: Public Pages
 title: Transitioning From a First Draft to a Final Draft
-aliases: null
-description: null
+aliases:
+description:
 icon: 🧭
-createdAt: '2026-06-03T12:13:55.189Z'
-lastUpdated: '2026-06-28T12:57:41.131Z'
-tags: [InProgress]
-coverImage: '[Untitled](../Images/Untitled%20(31).md)'
+createdAt: 2026-06-03T12:13:55.189Z
+lastUpdated: 2026-06-28T12:57:41.131Z
+tags:
+  - InProgress
+coverImage: "[Untitled](../Images/Untitled%20(31).md)"
 ---
 
 # Transitioning From a First Draft to a Final Draft

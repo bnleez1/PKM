@@ -1,14 +1,14 @@
 ---
-type: 'Page'
-collections: 'Public Pages'
+type: Page
+collections: Public Pages
 title: Observation sheet
-aliases: null
-description: null
+aliases:
+description:
 icon: 🏫
-createdAt: '2025-03-15T03:17:32.789Z'
-lastUpdated: '2026-06-28T12:57:30.803Z'
+createdAt: 2025-03-15T03:17:32.789Z
+lastUpdated: 2026-06-28T12:57:30.803Z
 tags: []
-coverImage: '[Untitled](../Images/Untitled%20(260).md)'
+coverImage: "[Untitled](../Images/Untitled%20(260).md)"
 ---
 
 # Observation sheet
@@ -48,6 +48,3 @@ Create a header at the top of the page that might include the following: logo, d
 
 
 etc.
-
-
-

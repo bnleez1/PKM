@@ -18,4 +18,3 @@ Having learners predict the content of a news article based only on the headline
 
 **Common Misconception:**
 It involves ignoring the actual text.
-

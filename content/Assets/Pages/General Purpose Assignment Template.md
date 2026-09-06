@@ -1,13 +1,14 @@
 ---
-type: 'Page'
+type: Page
 title: General Purpose Assignment Template
-aliases: null
-description: null
-icon: null
-createdAt: '2026-08-14T12:50:27.181Z'
-lastUpdated: '2026-08-14T12:50:49.095Z'
-tags: [Template]
-coverImage: null
+aliases:
+description:
+icon:
+createdAt: 2026-08-14T12:50:27.181Z
+lastUpdated: 2026-08-14T12:50:49.095Z
+tags:
+  - Template
+coverImage:
 ---
 
 # General Purpose Assignment Template
@@ -129,4 +130,3 @@ Your work will be evaluated according to the following criteria:
 ## Instructor Notes
 
 Duplicate this template before editing it for a specific assignment. Then set the appropriate **Course(s), Unit(s), Module, Due date, Status, Learning Outcomes, Rubric, AI Use, Duration, and Grouping** properties in Capacities. Delete any sections that are not relevant to the specific task.
-

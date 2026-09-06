@@ -18,4 +18,3 @@ Analyzing the exact phonetic and syntactic production of a learner's sentence.
 
 **Common Misconception:**
 It includes the speaker's hidden intention.
-

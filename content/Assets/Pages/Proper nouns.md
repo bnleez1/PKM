@@ -1,14 +1,15 @@
 ---
-type: 'Page'
-collections: 'Public Pages'
+type: Page
+collections: Public Pages
 title: Proper nouns
-aliases: null
-description: null
+aliases:
+description:
 icon: 🔰
-createdAt: '2025-01-02T19:39:55.110Z'
-lastUpdated: '2026-06-28T12:56:21.129Z'
-tags: [GrammarSyntax]
-coverImage: '[Untitled](../Images/Untitled%20(21).md)'
+createdAt: 2025-01-02T19:39:55.110Z
+lastUpdated: 2026-06-28T12:56:21.129Z
+tags:
+  - GrammarSyntax
+coverImage: "[Untitled](../Images/Untitled%20(21).md)"
 ---
 
 # Proper nouns
@@ -95,4 +96,3 @@ These nouns are used to refer to unique items or products with distinct names:
 ### **The Significance of Proper Nouns**
 
 Proper nouns are more than just labels – they carry with them a sense of history, culture, and identity. They connect us to the past, ground us in the present, and point us towards the future. By using proper nouns correctly, we can communicate with precision, express our unique perspectives, and share the rich tapestry of human experience.
-

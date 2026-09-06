@@ -1,18 +1,20 @@
 ---
-type: 'Page'
+type: Page
 title: GenAI Policy
-aliases: null
-description: null
+aliases:
+description:
 icon: ⚖️
-createdAt: '2026-06-30T12:12:04.947Z'
-lastUpdated: '2026-08-07T19:05:28.172Z'
-tags: [GenAI, Curriculum]
-coverImage: '[[ChatGPT Image Jul 15, 2026, 12_36_05 PM]]'
+createdAt: 2026-06-30T12:12:04.947Z
+lastUpdated: 2026-08-07T19:05:28.172Z
+tags:
+  - GenAI
+  - Curriculum
+coverImage: "[[ChatGPT Image Jul 15, 2026, 12_36_05 PM]]"
 ---
 
 # GenAI Policy
 
-![ChatGPT Image Jul 15, 2026, 12_43_55 PM](../Images/Media/ChatGPT%20Image%20Jul%2015,%202026,%2012_43_55%20PM.png)
+[ChatGPT Image Jul 15, 2026, 12_43_55 PM](../Images/Media/ChatGPT%20Image%20Jul%2015,%202026,%2012_43_55%20PM.png)
 **Image generated with ChatGPT image generation by OpenAI on July 15, 2026, using a prompt supplied by the author. The image was created to illustrate responsible, transparent, and learner-centered use of generative AI in language education.**
 [[ChatGPT Image Jul 15, 2026, 12_43_55 PM|ChatGPT Image Jul 15, 2026, 12_43_55 PM - Notes]]
 
@@ -167,5 +169,3 @@ Sincerely,
 [[GenAI Assessment Scale for BA in ELT Programs]]
 
 [[GenAI Syllabus Statements]] (restricted access)
-
-
