@@ -8,7 +8,7 @@ pages:
 notes: []
 banner: https://i5.walmartimages.com/asr/b1ccbfe8-ce2e-458b-a555-c1c34fcb1516_1.7919312e6d27cfdd89f05effe6de8206.jpeg
 ---
-A plugin literally called **Toggle** now exists and gives Notion-style `|> ... <|` toggles inside Obsidian. ([Obsidian Community](https://community.obsidian.md/plugins/toggle-premium?utm_source=chatgpt.com "Toggle - Obsidian Plugin")) The problem is that Quartz does not natively understand that custom syntax, so I would **not** choose it for content you expect to work on your public website.
+ plugin literally called **Toggle** now exists and gives Notion-style `|> ... <|` toggles inside Obsidian. ([Obsidian Community](https://community.obsidian.md/plugins/toggle-premium?utm_source=chatgpt.com "Toggle - Obsidian Plugin")) The problem is that Quartz does not natively understand that custom syntax, so I would **not** choose it for content you expect to work on your public website.
 
 For your setup, the safest options are:
 

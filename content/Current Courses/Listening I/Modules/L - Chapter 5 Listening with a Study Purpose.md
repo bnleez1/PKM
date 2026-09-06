@@ -85,7 +85,7 @@ Keep a short decision trace. Record one suggestion you accepted, one you rejecte
 
 CAADI Worksheet 5 provides another study-habits text. Apply global listening first, selective listening second, and keyword analysis afterward. Your goal is to leave the week with notes that are shorter, clearer, and more useful.
 
-## 🗓️ [[Date/2026-08-31]]
+## 🗓️ [[2026-08-31]]
 
 ---
 
@@ -167,7 +167,7 @@ Listening handout 2
 
 [https://u.pcloud.link/publink/show?code=XZsviFJZkSf6CcOxP3LMSMo52xdgGya5iEYV](https://u.pcloud.link/publink/show?code=XZsviFJZkSf6CcOxP3LMSMo52xdgGya5iEYV)
 
-## 🗓️ [[Date/2026-09-03]]
+## 🗓️ [[2026-09-03]]
 Listening activity
 
 ## 🗓️ [[Date/2026-09-04]]

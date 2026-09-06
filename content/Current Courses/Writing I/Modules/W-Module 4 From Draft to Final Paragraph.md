@@ -98,7 +98,7 @@ Feedback is most useful when you translate it into a writing decision. A classma
 
 Prepare a clean final version and keep the earlier draft. In the reflection, name one meaningful revision and one editing change. Explain why each change improved the paragraph. Then identify one goal for Unit II, such as using sequence connectors more accurately or reducing sentence fragments. Your reflection should refer to evidence: “I added an example after sentence three because my peer did not understand why the campus library helps me.” Submit the final paragraph, the earlier draft, and the reflection. The collection shows both product and process.
 
-## 🗓️ [[Date/2026-08-31]]
+## 🗓️ [[2026-08-31]]
 
 - Here are common sentence connectors to introduce a conclusion or summarizing sentence in a body paragraph (not always needed).
 
@@ -152,7 +152,7 @@ Complete [[Writing I Week 4 Assignment]].
 
 ## 🗓️ [[Date/2026-09-02]]
 
-## 🗓️ [[Date/2026-09-03]]
+## 🗓️ [[2026-09-03]]
 
 ## 🗓️ [[Date/2026-09-04]]
 

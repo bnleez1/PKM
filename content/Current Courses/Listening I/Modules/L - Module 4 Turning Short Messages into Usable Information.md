@@ -173,7 +173,7 @@ Listening handout 2
 
 [https://u.pcloud.link/publink/show?code=XZsviFJZkSf6CcOxP3LMSMo52xdgGya5iEYV](https://u.pcloud.link/publink/show?code=XZsviFJZkSf6CcOxP3LMSMo52xdgGya5iEYV)
 
-## 🗓️ [[Date/2026-09-03]]
+## 🗓️ [[2026-09-03]]
 Listening activity
 
 ## 🗓️ [[Date/2026-09-04]]
