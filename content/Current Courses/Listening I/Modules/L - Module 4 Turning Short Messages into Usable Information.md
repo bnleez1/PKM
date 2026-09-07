@@ -21,6 +21,10 @@ semester: Fall 2026
 relations: []
 note:
   - "[[Listening I Module 4 Note]]"
+gh-publish: true
+gh-path: content/Current Courses/Listening I/Modules
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Listening I/Modules/L - Module 4 Turning Short Messages into Usable Information
 ---
 # L - Module 4: Turning Short Messages into Usable Information
 
@@ -178,3 +182,4 @@ Listening activity
 
 ## 🗓️ [[Date/2026-09-04]]
 Turn in task for week 4; turn in pending assignments.
+

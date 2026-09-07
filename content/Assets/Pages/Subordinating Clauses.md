@@ -9,6 +9,10 @@ lastUpdated: 2026-08-26T13:01:26.562Z
 tags:
   - Writing
 coverImage:
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Subordinating Clauses
 ---
 
 # Subordinating Clauses
@@ -92,3 +96,4 @@ Subordinating clauses can serve various functions within a sentence. Here are so
     - **Complement:** "Her wish is to find out **why they left**."
 
 Remember that subordinating clauses add depth and complexity to sentences by providing additional information or context. They enhance your writing by allowing you to convey more intricate relationships between ideas.
+

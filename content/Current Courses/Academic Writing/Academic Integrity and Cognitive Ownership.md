@@ -12,6 +12,10 @@ status: "[[Planning]]"
 essentialQuestion:
 note: "[[Private note_100820261122]]"
 coverImage: "[Untitled](../Images/Untitled%20(173).md)"
+gh-publish: true
+gh-path: content/Current Courses/Academic Writing
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Academic Writing/Academic Integrity and Cognitive Ownership
 ---
 
 # Academic Integrity and Cognitive Ownership

@@ -10,6 +10,10 @@ tags:
   - AcademicWriting
   - WritingErrorCode
 coverImage:
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/(MEAL) Plan - Body Paragraph Development
 ---
 
 # (MEAL) Plan - Body Paragraph Development
@@ -147,3 +151,4 @@ Think of paragraph length in terms of sentences first. Typically, body paragraph
 [Paragraphing: MEAL Plan](https://owl.excelsior.edu/research/drafting-and-integrating/drafting-and-integrating-paragraphing/)[Paragraphing: MEAL Plan - Notes](../Weblinks/Paragraphing%20MEAL%20Plan.md)
 
 ---
+

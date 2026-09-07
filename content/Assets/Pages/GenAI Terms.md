@@ -10,6 +10,10 @@ tags:
   - GenAI
   - GenAiDisclaimer
 coverImage: "[Untitled](../Images/Untitled%20(159).md)"
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/GenAI Terms
 ---
 
 # GenAI Terms
@@ -81,3 +85,4 @@ For substantial text generation:
 > Portions of this document were generated with ChatGPT. The author verified the information, revised the output, and accepts responsibility for the final version.
 
 The most neutral umbrella term is **“AI-assisted content.”** The clearest formal label is **“Generative AI use statement.”**
+

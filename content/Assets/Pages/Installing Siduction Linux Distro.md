@@ -9,6 +9,10 @@ lastUpdated: 2026-08-03T15:50:45.294Z
 tags:
   - Linux
 coverImage: "[Untitled](../Images/Untitled%20(424).md)"
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Installing Siduction Linux Distro
 ---
 
 # Installing Siduction Linux Distro
@@ -1947,3 +1951,4 @@ coverImage: "[Untitled](../Images/Untitled%20(424).md)"
     [12]: https://quarto.org/docs/get-started/hello/rstudio.html "Tutorial: Hello, Quarto – Quarto"
 
     [13]: https://packages.debian.org/sid/rkward?utm_source=chatgpt.com "Debian -- Details of package rkward in sid"
+

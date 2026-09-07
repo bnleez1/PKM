@@ -10,6 +10,10 @@ tags:
   - Book
   - WritingWithAi
 coverImage:
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Rethinking Writing Instruction in the Age of AI
 ---
 
 # Rethinking Writing Instruction in the Age of AI
@@ -91,3 +95,6 @@ Throughout these sections, Laist demystifies AI, showing how it can be introduce
 ## Final Verdict
 
 *Rethinking Writing Instruction in the Age of AI* is an essential text for anyone looking to build a vibrant, transparent, and collaborative community of writers. Laist successfully shifts the conversation from systemic anxiety to instructional opportunity, providing an inspiring roadmap for maintaining human-centered pedagogy in a changing technological landscape.
+
+
+

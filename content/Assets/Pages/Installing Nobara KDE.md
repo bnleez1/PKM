@@ -9,6 +9,10 @@ lastUpdated: 2026-08-30T16:48:21.345Z
 tags:
   - Linux
 coverImage: "[Untitled](../Images/Untitled%20(255).md)"
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Installing Nobara KDE
 ---
 
 # Installing Nobara KDE
@@ -804,3 +808,4 @@ coverImage: "[Untitled](../Images/Untitled%20(255).md)"
         **Removal:** delete only the dedicated family folder you created, then run `fc-cache -f`. For packaged fonts, remove the specific package with `sudo dnf remove PACKAGE_NAME`, reviewing the proposed transaction first.
 
         **Maintenance:** repository fonts update through Nobara’s updater. Manually downloaded fonts need manual updates; replace the old files rather than accumulating multiple versions.
+

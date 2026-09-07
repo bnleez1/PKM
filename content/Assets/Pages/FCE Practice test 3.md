@@ -10,6 +10,10 @@ lastUpdated: 2026-06-28T12:57:30.952Z
 tags:
   - Assessment
 coverImage: "[Untitled](../Images/Untitled%20(56).md)"
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/FCE Practice test 3
 ---
 
 # FCE Practice test 3
@@ -175,3 +179,4 @@ The concert \_\_\_ because of the rain.
 5. if I had finished
 
 6. was called off
+

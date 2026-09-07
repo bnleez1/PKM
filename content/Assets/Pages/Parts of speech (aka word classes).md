@@ -9,6 +9,10 @@ lastUpdated: 2026-06-17T19:18:13.952Z
 tags:
   - GrammarSyntax
 coverImage: "[Untitled](../Images/Untitled%20(21).md)"
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Parts of speech (aka word classes)
 ---
 
 # Parts of speech (aka word classes)

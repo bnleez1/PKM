@@ -10,6 +10,10 @@ tags:
   - Capacities
   - KnowledgeManagement
 coverImage: "[[Studio of your Mind]]"
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/A Studio for your Mind
 ---
 
 # A Studio for your Mind
@@ -57,3 +61,4 @@ Read more about [dates and daily notes](https://docs.capacities.io/reference/da
 [Capacities Docs](https://docs.capacities.io/)[[Capacities Docs|Capacities Docs - Notes]]
 
 [Why we built Capacities](https://capacities.io/about/manifesto)[[Why we built Capacities|Why we built Capacities - Notes]]
+

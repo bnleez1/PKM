@@ -9,6 +9,10 @@ lastUpdated: 2026-06-12T20:41:43.910Z
 tags:
   - GrammarSyntax
 coverImage: "[Untitled](../Images/Untitled%20(13).md)"
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Relative clauses
 ---
 
 # Relative clauses
@@ -101,3 +105,4 @@ A relative clause usually begins with the following relative pronouns: who, (to/
 - My friend Alicia who is a talented artist painted this picture.
 
 - Her youngest son whose ambition is to be a pilot is studying physics.
+

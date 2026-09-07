@@ -10,6 +10,10 @@ lastUpdated: 2026-06-28T12:57:51.343Z
 tags:
   - Research
 coverImage:
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/From Data to Defensible Themes
 ---
 
 # From Data to Defensible Themes
@@ -585,3 +589,4 @@ Thesis Seminar Class Calendar 2026.pdf
 - A theme map (themes, subthemes, evidence)
 
 - 2–4 defensible claims that directly answer the RQs
+

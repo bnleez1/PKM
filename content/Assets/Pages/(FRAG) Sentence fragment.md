@@ -10,6 +10,10 @@ tags:
   - Punctuation
   - WritingErrorCode
 coverImage: "[Untitled](../Images/Untitled%20(13).md)"
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/(FRAG) Sentence fragment
 ---
 
 # (FRAG) Sentence fragment
@@ -57,3 +61,4 @@ Here are some tips for avoiding sentence fragments:
 Sentence fragments can make your writing sound choppy and unprofessional. By following these tips, you can avoid sentence fragments and write clear, concise sentences.
 
 The error code "FRAG" refers to sentence fragment and is considered a more serious type of writing error. Also it's called a "sentence fragment", fragments actually occur at the clause level: main clause, noun clause functioning as a subject or object, relative (adjective) clauses, and subordinating (adverbial) clauses. Refer to the [[Writing error code list]].
+

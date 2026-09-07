@@ -10,6 +10,10 @@ lastUpdated: 2026-06-28T12:56:11.742Z
 tags:
   - GrammarSyntax
 coverImage: "[Untitled](../Images/Untitled%20(21).md)"
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Linking Verbs The Hidden Connectors of English
 ---
 
 # Linking Verbs: The Hidden Connectors of English
@@ -111,3 +115,4 @@ Some verbs act as linking verbs only in certain situations.
 **Spotting Linking Verbs**
 
 Here's a quick trick: If you can replace the verb with a form of "to be" (am, is, are, was, were) and the sentence still makes sense, you've probably got a linking verb.
+

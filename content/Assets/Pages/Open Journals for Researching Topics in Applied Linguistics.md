@@ -10,6 +10,10 @@ lastUpdated: 2026-08-20T18:27:46.525Z
 tags:
   - Research
 coverImage: "[Untitled](../Images/Untitled%20(53).md)"
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Open Journals for Researching Topics in Applied Linguistics
 ---
 
 # Open Journals for Researching Topics in Applied Linguistics
@@ -279,3 +283,4 @@ URL: [https://revistas.udea.edu.co/index.php/ikala](https://revistas.udea.edu.co
 # Expanded Open-Access Journal Directory — August 2026
 
 > **Use this section as the current curated journal list.** The earlier links on this page include some subscription/hybrid journals and general research tools. The journals below provide **free online access for readers** to their research content. Some open-access journals may charge authors publication fees, so free reader access should not be confused with free publication.
+

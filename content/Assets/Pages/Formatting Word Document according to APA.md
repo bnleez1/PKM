@@ -11,6 +11,10 @@ tags:
   - HowTo
   - FormattingWord
 coverImage:
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Formatting Word Document according to APA
 ---
 
 # Formatting Word Document according to APA

@@ -9,6 +9,10 @@ formalDefinition: The social, cultural, and physical environment in which langua
 relatedTerms: []
 pages: []
 notes: []
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Context
 ---
 
 # Context
@@ -18,3 +22,4 @@ Guiding learners to analyze the situation, relationship, and purpose before choo
 
 **Common Misconception:**
 Context is just the physical setting.
+

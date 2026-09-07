@@ -9,6 +9,10 @@ lastUpdated: 2026-06-05T12:32:59.346Z
 tags:
   - Punctuation
 coverImage: "[Untitled](../Images/Untitled%20(212).md)"
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Comma
 ---
 
 # Comma
@@ -68,3 +72,4 @@ Commas are punctuation marks used in writing to indicate a pause or separation o
 - Incorrect: The boy who is wearing a blue shirt, is my friend.
 
 - Correct: The boy who is wearing a blue shirt is my friend.
+

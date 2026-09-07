@@ -9,6 +9,10 @@ lastUpdated: 2026-07-08T17:09:01.707Z
 tags:
   - Linux
 coverImage: "[Untitled](../Images/Untitled%20(52).md)"
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Installing Cosmic Desktop
 ---
 
 # Installing Cosmic Desktop
@@ -181,3 +185,4 @@ coverImage: "[Untitled](../Images/Untitled%20(52).md)"
     - replace the internal Realtek RTL8852BE card with an **Intel AX200/AX210 Wi-Fi/Bluetooth card**, if your PC supports replaceable M.2 Wi-Fi cards.
 
     For now, try the **full power reset** and the **Wi-Fi off test** first. Those are the two most likely no-cost fixes.
+

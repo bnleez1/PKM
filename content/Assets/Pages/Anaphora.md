@@ -9,6 +9,10 @@ formalDefinition: A cohesive device where a word (often a pronoun) refers back t
 relatedTerms: []
 pages: []
 notes: []
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Anaphora
 ---
 
 # Anaphora
@@ -18,3 +22,4 @@ Teaching students to track 'who' or 'what' 'it' refers to in a complex reading p
 
 **Common Misconception:**
 It's just a literary repetition device.
+

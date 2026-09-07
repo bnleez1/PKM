@@ -10,6 +10,10 @@ tags:
   - Poetry
   - CreativeWriting
 coverImage:
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Iambic Pentameter
 ---
 
 # Iambic Pentameter
@@ -39,3 +43,4 @@ coverImage:
     - Underline or highlight each word or syllable (if more than a one-syllable word) that five stresses that follow iambic pentameter: syllables 2, 4, 6, 8, and 10.
 
     - Check to see that the underlined or highlighted stresses 1) land on content words (nouns, verbs, adjectives, and adverbs) and not on function words like articles, prepositions, and connectors; the only except are pronouns which are typically not stressed and 2) land on the standard way to pronounce words with two or more syllables.
+

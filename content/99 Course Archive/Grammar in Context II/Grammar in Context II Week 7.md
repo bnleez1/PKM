@@ -17,6 +17,10 @@ studentDeliverableS: []
 semester: Spring 2025
 relations: []
 note: []
+gh-publish: true
+gh-path: content/99 Course Archive/Grammar in Context II
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/99 Course Archive/Grammar in Context II/Grammar in Context II Week 7
 ---
 
 # Grammar in Context II Week 7
@@ -218,3 +222,4 @@ Gema
 # [[Date/2025-03-14]]
 
 - Complete .
+

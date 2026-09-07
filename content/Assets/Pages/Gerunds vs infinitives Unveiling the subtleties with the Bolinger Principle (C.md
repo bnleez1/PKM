@@ -10,6 +10,10 @@ lastUpdated: 2026-06-28T12:56:31.077Z
 tags:
   - GrammarSyntax
 coverImage: "[Untitled](../Images/Untitled%20(13).md)"
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Gerunds vs infinitives Unveiling the subtleties with the Bolinger Principle (C
 ---
 
 # Gerunds vs. infinitives: Unveiling the subtleties with the Bolinger Principle (Copy)
@@ -127,3 +131,4 @@ Here are some additional tips for using gerunds and infinitives:
 - **Get feedback from a native speaker.** If you are not sure which form to use, ask a native speaker for help.
 
 By following these tips, you can avoid making mistakes with gerunds and infinitives.
+

@@ -10,6 +10,10 @@ lastUpdated: 2026-06-28T22:56:23.335Z
 tags:
   - GrammarSyntax
 coverImage: "[Untitled](../Images/Untitled%20(47).md)"
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Inverted sentence structure
 ---
 
 # Inverted sentence structure
@@ -247,3 +251,5 @@ To master this structure, learners should practice similar examples:
 - **Scarcely had we finished dinner when the guests arrived.**
 
 By understanding **negative adverbial inversion**, TOEFL test takers can avoid common errors and improve their grammar accuracy.
+
+

@@ -11,6 +11,10 @@ tags:
   - GenAiDisclaimer
   - Assessment
 coverImage: "[Untitled](../Images/Untitled%20(55).md)"
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/GenAI Assessment Scale for BA in ELT Programs
 ---
 
 # GenAI Assessment Scale for BA in ELT Programs
@@ -130,3 +134,4 @@ When implementing this scale across the BA curriculum, it is imperative to avoid
 - **Focus**: Extensive AI use aimed at enhancing student work and preparing them for real-world, discipline-specific scenarios in their future teaching careers.
 
 - **Application**: Ideal for capstone ELT research projects or advanced curriculum design modules. Future educators co-design tasks, prompt the AI to synthesize themes across multiple dense pedagogical papers, identify gaps in the AI's synthesis, and develop their own overarching arguments.
+

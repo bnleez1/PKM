@@ -9,6 +9,10 @@ lastUpdated: 2026-06-14T18:33:46.430Z
 tags:
   - AcademicWriting
 coverImage:
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Working towards a problem statement
 ---
 
 # Working towards a problem statement
@@ -114,3 +118,4 @@ One of the most difficult tasks when writing a five-paragraph essay is narrowing
 - The Craft of Research, Third Edition
 
 - The Literature Review: Six Steps to Success
+

@@ -18,6 +18,10 @@ studentDeliverableS: []
 semester: Fall 2026
 relations: []
 note: []
+gh-publish: true
+gh-path: content/Current Courses/Academic Writing/Modules
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Academic Writing/Modules/AW-Module 2 From Broad Interest to Researchable Proposal
 ---
 
 # AW-Module 2: From Broad Interest to Researchable Proposal
@@ -317,3 +321,4 @@ Today, we write our [[Unit I Initial Research Proposal]].
     - [ ] I reviewed the proposal for B2+ academic English, spelling, punctuation, coherence, and formatting.
 
     - [ ] I included the Academic Integrity Declaration.
+

@@ -10,6 +10,10 @@ lastUpdated: 2026-06-28T12:56:31.214Z
 tags:
   - Research
 coverImage:
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/EdTech Search Strategies
 ---
 
 # EdTech Search Strategies
@@ -75,3 +79,4 @@ Recommended Mobil Apps If you have space on your phone, I would recommend that y
 - Microsoft Teams
 
 - [Dictionary.com: English Words - Apps on Google Play](https://play.google.com/store/apps/details?id=com.dictionary&hl=en_US&gl=US&pli=1)
+

@@ -9,6 +9,10 @@ date: 2026-09-07T00:00:00.000Z -> 2026-10-04T00:00:00.000Z
 subject:
   - "[[Writing I]]"
 coverImage:
+gh-publish: true
+gh-path: content/Current Courses/Writing I/Units
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Writing I/Units/Writing I Unit II Everyday Experiences
 ---
 
 # Writing I Unit II: Everyday Experiences
@@ -64,3 +68,4 @@ Students will independently use their learning to:
 ### B. Other Evidence
 
 ## 🎯 Stage 3 - Learning Sequence
+

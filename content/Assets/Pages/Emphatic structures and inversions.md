@@ -9,6 +9,10 @@ lastUpdated: 2026-01-11T08:54:09.803Z
 tags:
   - Writing
 coverImage: "[Untitled](../Images/Untitled%20(326).md)"
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Emphatic structures and inversions
 ---
 
 # Emphatic structures and inversions
@@ -184,3 +188,4 @@ Cleft sentences can indeed be used in academic writing, but they should be emplo
     - *Cleft*: It is not in the data collection that the issue lies, but in the analysis.
 
 In summary, cleft sentences can be a valuable tool in academic writing when used appropriately. They can help emphasize important points and clarify complex ideas, but should be used in moderation to maintain a formal and clear writing style.
+

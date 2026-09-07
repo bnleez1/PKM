@@ -8,6 +8,10 @@ createdAt: 2026-07-08T13:10:42.044Z
 lastUpdated: 2026-07-08T13:11:06.589Z
 tags: []
 coverImage:
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Installing Website in pCloud
 ---
 
 # Installing Website in pCloud
@@ -231,3 +235,4 @@ coverImage:
     For a simple public teaching-resource library, pCloud is enough. For a long-term professional website, I would use pCloud as the **download/media host** and GitHub Pages, Substack, or a proper website builder as the main public website.
 
     [1]: https://help.pcloud.com/article/public-folder?utm_source=chatgpt.com "Public Folder Functionality"
+

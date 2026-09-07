@@ -11,6 +11,10 @@ relatedTerms: []
 pages:
   - "[[Writing error code list]]"
 notes: []
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/(CA) Capitalization
 ---
 
 # (CA) Capitalization
@@ -95,3 +99,4 @@ Capitalization in English involves using uppercase letters at the beginning of w
 *   Example: "I read a book by Author Jane Doe," but "Jane Doe, the author, wrote a book."
 
 Remember, there are exceptions and more specific rules, especially regarding compound titles, hyphenated words in titles, or more intricate brand names. Also, these rules can vary slightly depending on the style guide being followed (e.g., APA, MLA, Chicago).
+

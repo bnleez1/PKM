@@ -19,6 +19,10 @@ studentDeliverableS: []
 semester:
 relations: []
 note: []
+gh-publish: true
+gh-path: content/99 Course Archive/Writing II
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/99 Course Archive/Writing II/Writing II Module 11
 ---
 
 # Writing II Module 11
@@ -398,3 +402,4 @@ Make sure you write your paragraph as consecutive sentences and not a list of se
         3. Create one analysis sentence where you comment, explain, analyze, etc. that links the evidence to the main idea (topic sentence).
 
         4. Conclude your paragraph with a linking sentence that would segue into another paragraph or you may include a summarizing sentence.
+

@@ -20,6 +20,10 @@ studentDeliverableS: []
 semester: Fall 2026
 relations: []
 note: []
+gh-publish: true
+gh-path: content/Current Courses/Listening I/Modules
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Listening I/Modules/L - Chapter 5 Listening with a Study Purpose
 banner: https://institute.careerguide.com/wp-content/uploads/2023/04/2023-4-3.jpg
 ---
 # L - Chapter 5: Listening with a Study Purpose

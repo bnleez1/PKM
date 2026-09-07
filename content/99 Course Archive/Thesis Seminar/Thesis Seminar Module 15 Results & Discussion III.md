@@ -19,6 +19,10 @@ studentDeliverableS: []
 semester:
 relations: []
 note: []
+gh-publish: true
+gh-path: content/99 Course Archive/Thesis Seminar
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/99 Course Archive/Thesis Seminar/Thesis Seminar Module 15 Results & Discussion III
 ---
 
 # Thesis Seminar Module 15: Results & Discussion III
@@ -220,3 +224,4 @@ Students can strengthen the clarity and credibility of a Results & Discussion ch
 ### 🎯 Video Archive
 
 [Thesis Seminar Recap for Week 15](https://www.youtube.com/watch?v=V0Kx89ek8L4)[Thesis Seminar Recap for Week 15 - Notes](../Weblinks/Thesis%20Seminar%20Recap%20for%20Week%2015%20(1).md)
+

@@ -12,6 +12,10 @@ relatedTerms: []
 pages:
   - "[[Writing error code list]]"
 notes: []
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/(WD) Written discourse
 ---
 
 # (WD) Written discourse
@@ -203,3 +207,4 @@ When writing an academic empirical research paper, the choice of verb tense is c
 - The choice of tense can also be influenced by the norms of your specific academic discipline, so it's a good idea to consult recent papers in your field as examples.
 
 Following these guidelines helps ensure that your research paper is clear, coherent, and appropriately conveys the timing and nature of your research.
+

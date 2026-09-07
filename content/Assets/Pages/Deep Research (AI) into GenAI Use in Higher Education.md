@@ -11,6 +11,10 @@ tags:
   - GenAiDisclaimer
   - Curriculum
 coverImage: "[Untitled](../Images/Untitled%20(137).md)"
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Deep Research (AI) into GenAI Use in Higher Education
 ---
 
 # Deep Research (AI) into GenAI Use in Higher Education
@@ -296,3 +300,5 @@ The practical recommendation, in one sentence, is this: **build your universityâ
 [https://ai-challenges.nist.gov/uassets/6](https://ai-challenges.nist.gov/uassets/6)
 
 [[49]](https://www.edpb.europa.eu/system/files/2025-04/ai-privacy-risks-and-mitigations-in-llms.pdf) edpb.europa.eu
+
+

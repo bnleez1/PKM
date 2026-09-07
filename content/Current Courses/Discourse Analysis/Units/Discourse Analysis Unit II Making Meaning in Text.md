@@ -10,6 +10,8 @@ date: 2026-08-31T00:00:00.000Z -> 2026-09-27T00:00:00.000Z
 subject:
   - "[[02 Projects/Discourse Analysis]]"
 coverImage:
+gh-publish: true
+gh-path: content/Current Courses/Discourse Analysis/Units
 ---
 
 # Discourse Analysis Unit II: Making Meaning in Text

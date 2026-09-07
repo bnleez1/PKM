@@ -1,6 +1,8 @@
 ---
 title: Writing II
 description: Writing activities, weekly modules, assignments, and resources for Writing II.
+gh-publish: true
+gh-path: content/99 Course Archive/Writing II
 ---
 
 # Writing II

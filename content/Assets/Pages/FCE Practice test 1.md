@@ -10,6 +10,10 @@ lastUpdated: 2026-06-28T22:56:23.384Z
 tags:
   - Assessment
 coverImage: "[Untitled](../Images/Untitled%20(56).md)"
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/FCE Practice test 1
 ---
 
 # FCE Practice test 1
@@ -136,3 +140,4 @@ Answers: 25. had difficulty understanding
 29. if I had enjoyed
 
 30. not old enough to
+

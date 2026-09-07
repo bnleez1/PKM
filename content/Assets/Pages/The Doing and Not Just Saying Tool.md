@@ -10,6 +10,10 @@ lastUpdated: 2026-06-28T12:56:01.267Z
 tags:
   - DiscourseAnalysis
 coverImage: "[Untitled](../Images/Untitled%20(95).md)"
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/The Doing and Not Just Saying Tool
 ---
 
 # The Doing and Not Just Saying Tool
@@ -76,3 +80,4 @@ By focusing on the "doing," the analyst reveals that these are not simply two wa
 ## Conclusion
 
 James Paul Gee’s "Doing and Not Just Saying" tool fundamentally alters the way we consume and analyze texts. It cures us of the illusion that language is a neutral conduit for facts. For educators, researchers, and anyone navigating complex social institutions, this tool provides a lens to see the active construction of power, identity, and relationships in real-time. By continuously asking what a text is actively accomplishing in the social world, we move beyond passive reading and become critical observers of the social actions that shape our reality.
+

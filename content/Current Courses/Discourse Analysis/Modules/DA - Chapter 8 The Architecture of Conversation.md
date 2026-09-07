@@ -19,6 +19,10 @@ studentDeliverableS: []
 semester: Fall 2026
 relations: []
 note: []
+gh-publish: true
+gh-path: content/Current Courses/Discourse Analysis/Modules
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Discourse Analysis/Modules/DA - Chapter 8 The Architecture of Conversation
 ---
 
 # DA - Chapter 8: The Architecture of Conversation
@@ -118,3 +122,4 @@ This disciplined sequence prevents the transcript from becoming a psychological 
 ## 🗓️ Thursday (9:00 AM - 10:00 AM)
 
 ## 🗓️ Friday (9:00 AM - 10:00 AM)
+

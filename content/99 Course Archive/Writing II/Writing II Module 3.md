@@ -19,6 +19,10 @@ studentDeliverableS: []
 semester:
 relations: []
 note: []
+gh-publish: true
+gh-path: content/99 Course Archive/Writing II
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/99 Course Archive/Writing II/Writing II Module 3
 ---
 
 # Writing II Module 3
@@ -418,3 +422,4 @@ note: []
 ## Take Action
 
 1. Continue working in your shared Word document in Descriptive Essays.
+

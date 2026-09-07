@@ -11,6 +11,10 @@ relatedTerms: []
 pages:
   - "[[Writing error code list]]"
 notes: []
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/(WP) Understanding English punctuation
 ---
 
 # (WP) Understanding English punctuation
@@ -118,3 +122,4 @@ Punctuation in English serves various functions, from indicating the structure a
 4.  Example: “He/She will attend the meeting.”
 
 Each punctuation mark can have other, more specific uses, depending on the context and style of writing. Also, the rules and conventions can vary slightly between different forms of English (e.g., American vs. British English) and different style guides.
+

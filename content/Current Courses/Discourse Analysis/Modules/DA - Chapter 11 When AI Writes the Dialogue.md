@@ -19,6 +19,10 @@ studentDeliverableS: []
 semester: Fall 2026
 relations: []
 note: []
+gh-publish: true
+gh-path: content/Current Courses/Discourse Analysis/Modules
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Discourse Analysis/Modules/DA - Chapter 11 When AI Writes the Dialogue
 ---
 
 # DA - Chapter 11: When AI Writes the Dialogue
@@ -120,3 +124,4 @@ The teacher remains accountable for cultural representation. If the model produc
 ## 🗓️ Thursday (9:00 AM - 10:00 AM)
 
 ## 🗓️ Friday (9:00 AM - 10:00 AM)
+

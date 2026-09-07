@@ -20,6 +20,10 @@ semester: Fall 2026
 relations: []
 note:
   - "[[AW-Week 1]]"
+gh-publish: true
+gh-path: content/Current Courses/Academic Writing/Modules
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Academic Writing/Modules/AW-Module 1 Academic Integrity and Cognitive Ownership
 ---
 
 # AW-Module 1: Academic Integrity and Cognitive Ownership
@@ -364,3 +368,4 @@ The second part of the week should move from practice to production. Students us
     > A2-level first-year university EFL learners have difficulty identifying specific information in 2–3 minute authentic conversations spoken at a natural rate.
 
     The second version is researchable because it identifies **who**, **what skill**, **what type of language input**, and **the context or conditions** under which the problem occurs.
+

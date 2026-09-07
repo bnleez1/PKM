@@ -10,6 +10,10 @@ date: 2026-09-21T00:00:00.000Z -> 2026-10-04T00:00:00.000Z
 subject:
   - "[[Academic Writing]]"
 coverImage:
+gh-publish: true
+gh-path: content/Current Courses/Academic Writing/Units
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Academic Writing/Units/Academic Writing Unit III
 ---
 
 # Academic Writing Unit III

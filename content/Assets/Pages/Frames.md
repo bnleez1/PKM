@@ -9,6 +9,10 @@ formalDefinition: The cognitive structures that define how a situation or topic 
 relatedTerms: []
 pages: []
 notes: []
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Frames
 ---
 
 # Frames
@@ -18,3 +22,4 @@ Showing how framing a test as a 'learning opportunity' changes student engagemen
 
 **Common Misconception:**
 Physical borders of an image.
+

@@ -10,6 +10,10 @@ lastUpdated: 2026-06-28T12:56:41.048Z
 tags:
   - Writing
 coverImage: "[Untitled](../Images/Untitled%20(258).md)"
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Topic sentence-heading-thesis alignment
 ---
 
 # Topic sentence-heading-thesis alignment
@@ -62,3 +66,4 @@ Given the increasing problem of urban air pollution, cities can significantly im
 3. Investment in public transportation infrastructure can provide a cleaner and more efficient alternative to car travel.
 
 4. Public awareness campaigns about the benefits of public transportation can help shift commuter habits towards more sustainable options.
+

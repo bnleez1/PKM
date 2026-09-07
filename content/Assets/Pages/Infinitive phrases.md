@@ -10,6 +10,10 @@ lastUpdated: 2026-06-28T12:56:30.984Z
 tags:
   - GrammarSyntax
 coverImage: "[Untitled](../Images/Untitled%20(13).md)"
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Infinitive phrases
 ---
 
 # Infinitive phrases
@@ -99,3 +103,4 @@ Here are examples of infinitive phrases in different contexts:
 - He should study more to improve his grades.
 
 Infinitive phrases are flexible components of language, allowing for greater expressiveness and variety in sentence structure. They can appear at the beginning, middle, or end of sentences and contribute to the depth and complexity of your writing or speech.
+

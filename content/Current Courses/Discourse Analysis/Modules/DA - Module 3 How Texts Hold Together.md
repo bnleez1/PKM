@@ -20,6 +20,10 @@ semester: Fall 2026
 relations: []
 note:
   - "[[DA Chapter 3 Note]]"
+gh-publish: true
+gh-path: content/Current Courses/Discourse Analysis/Modules
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Discourse Analysis/Modules/DA - Module 3 How Texts Hold Together
 ---
 # DA - Module 3: How Texts Hold Together
 
@@ -331,3 +335,4 @@ Complete [[Discourse Analysis Unit I Quiz]].
     - Several students arrived late **because** their bus was delayed.
 
 - [Download Cohesion Text.docx](https://eduuaa.sharepoint.com/:w:/s/DiscourseAnalysis2026/IQA9NeUc0lRbT7-hSmc0VdGDAVmeppOtOQR3W3E8Yp-GUPs?e=MUab6F)
+

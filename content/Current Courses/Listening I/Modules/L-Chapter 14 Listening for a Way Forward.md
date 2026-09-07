@@ -20,6 +20,10 @@ studentDeliverableS: []
 semester: Fall 2026
 relations: []
 note: []
+gh-publish: true
+gh-path: content/Current Courses/Listening I/Modules
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Listening I/Modules/L-Chapter 14 Listening for a Way Forward
 ---
 
 # L-Chapter 14: Listening for a Way Forward
@@ -97,3 +101,4 @@ This week, listening becomes part of problem-solving. The listener’s responsib
 ## 🗓️ Thursday
 
 ## 🗓️ Friday
+

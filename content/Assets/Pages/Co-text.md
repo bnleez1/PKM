@@ -9,6 +9,10 @@ formalDefinition: The linguistic environment of a word or phrase; the words surr
 relatedTerms: []
 pages: []
 notes: []
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Co-text
 ---
 
 # Co-text
@@ -18,3 +22,4 @@ Using surrounding sentences to guess the meaning of an unknown vocabulary word i
 
 **Common Misconception:**
 Same as context.
+

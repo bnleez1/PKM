@@ -20,6 +20,10 @@ studentDeliverableS: []
 semester: Fall 2026
 relations: []
 note: []
+gh-publish: true
+gh-path: content/Current Courses/Listening I/Modules
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Listening I/Modules/L- Chapter 15 Listening to the Community You Live In
 ---
 
 # L- Chapter 15: Listening to the Community You Live In
@@ -105,3 +109,4 @@ This week combines community understanding with self-directed development. Stron
 ## 🗓️ Thursday
 
 ## 🗓️ Friday
+

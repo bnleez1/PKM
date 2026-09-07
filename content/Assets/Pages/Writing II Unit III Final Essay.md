@@ -9,6 +9,10 @@ lastUpdated: 2026-06-01T14:34:19.917Z
 tags:
   - AcademicWriting
 coverImage: "[Untitled](../Images/Untitled%20(212).md)"
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Writing II Unit III Final Essay
 ---
 
 # Writing II Unit III Final Essay
@@ -74,3 +78,4 @@ Wendy - 10
 Yaz - 10
 
 Zaret - 10
+

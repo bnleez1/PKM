@@ -10,6 +10,10 @@ tags:
   - GenAiDisclaimer
   - Curriculum
 coverImage: "[Untitled](../Images/Untitled%20(162).md)"
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/GenAI Syllabus Statements
 ---
 
 # GenAI Syllabus Statements

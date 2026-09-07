@@ -19,6 +19,10 @@ studentDeliverableS: []
 semester: Fall 2026
 relations: []
 note: []
+gh-publish: true
+gh-path: content/Current Courses/Discourse Analysis/Modules
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Discourse Analysis/Modules/DA - Chapter 12 Processing Speech and Writing
 ---
 
 # DA - Chapter 12: Processing Speech and Writing
@@ -120,3 +124,4 @@ When moving to instruction, label the move as an inference. Research describing 
 ## 🗓️ Thursday (9:00 AM - 10:00 AM)
 
 ## 🗓️ Friday (9:00 AM - 10:00 AM)
+

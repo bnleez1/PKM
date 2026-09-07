@@ -9,6 +9,10 @@ lastUpdated: 2026-08-18T18:51:24.258Z
 tags:
   - GrammarSyntax
 coverImage: "[Untitled](../Images/Untitled%20(21).md)"
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Sentence Stems For Formulating Questions
 ---
 
 # Sentence Stems For Formulating Questions
@@ -52,3 +56,4 @@ coverImage: "[Untitled](../Images/Untitled%20(21).md)"
 - What approach or strategy could you use to... ?
 
 - How else might you say... ?
+

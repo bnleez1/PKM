@@ -19,6 +19,10 @@ studentDeliverableS: []
 semester: Fall 2026
 relations: []
 note: []
+gh-publish: true
+gh-path: content/Current Courses/Writing I/Modules
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Writing I/Modules/W-Chapter 15 Strengthening Argumentative Organization
 ---
 
 # W-Chapter 15: Strengthening Argumentative Organization
@@ -108,3 +112,4 @@ For each important comment, record the source, the issue, your action, and your 
 ## 🗓️ Thursday
 
 ## 🗓️ Friday
+

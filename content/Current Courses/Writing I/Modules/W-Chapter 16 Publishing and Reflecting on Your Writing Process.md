@@ -19,6 +19,10 @@ studentDeliverableS: []
 semester: Fall 2026
 relations: []
 note: []
+gh-publish: true
+gh-path: content/Current Courses/Writing I/Modules
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Writing I/Modules/W-Chapter 16 Publishing and Reflecting on Your Writing Process
 ---
 
 # W-Chapter 16: Publishing and Reflecting on Your Writing Process
@@ -108,3 +112,4 @@ Review work from Week 1 and compare it with the final paragraph. Identify change
 ## 🗓️ Thursday
 
 ## 🗓️ Friday
+

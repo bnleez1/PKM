@@ -9,6 +9,10 @@ lastUpdated: 2026-06-14T17:49:45.828Z
 tags:
   - AcademicWriting
 coverImage:
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Conclusion paragraph
 ---
 
 # Conclusion paragraph
@@ -26,3 +30,4 @@ The purpose of a conclusion paragraph is to remind the reader of the main point 
 **Significance****:** Usually in three-to-five sentences, describe the significance, relevance, or big idea that relates to the thesis. Make connections to other relevant contexts that apply to the thesis. Perhaps make predictions about future aspects related to the thesis statement. In most cases, this will be the only time you'll use the future tense in your paper.
 
 **Closing statement****:** The closing statement is the most general idea of the paragraph. It's the most broad statement that leaves the reader thinking about the thesis statement and overall text. Some writers choose a famous quote to conclude the paper, but experiment with creating your own final saying, thought, etc. Try to come up with your own final quote that best applies to your paper.
+

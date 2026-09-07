@@ -20,6 +20,10 @@ semester: Fall 2026
 relations: []
 note:
   - "[[Writing I Module 4 Note]]"
+gh-path: content/Current Courses/Writing I/Modules
+gh-publish: true
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Writing I/Modules/W-Module 4 From Draft to Final Paragraph
 ---
 # W-Module 4: From Draft to Final Paragraph - Testing Sept 5
 

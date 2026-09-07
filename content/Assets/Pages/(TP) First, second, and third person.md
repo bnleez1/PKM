@@ -11,6 +11,10 @@ relatedTerms: []
 pages:
   - "[[Writing error code list]]"
 notes: []
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/(TP) First, second, and third person
 ---
 
 # (TP) First, second, and third person
@@ -62,3 +66,4 @@ Choosing between first, second, and third person in writing depends on the purpo
 - **Personal Style:** Your own voice and style can also influence the choice of perspective.
 
 Each perspective has its strengths and is suitable for different types of writing. The choice between them can significantly affect how your message is perceived and received by the reader.
+

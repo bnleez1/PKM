@@ -19,6 +19,10 @@ studentDeliverableS: []
 semester:
 relations: []
 note: []
+gh-publish: true
+gh-path: content/99 Course Archive/Thesis Seminar
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/99 Course Archive/Thesis Seminar/Thesis Seminar Module 4  Assembling Your Literature Review — Logic, Completenes
 ---
 
 # Thesis Seminar Module 4:  Assembling Your Literature Review — Logic, Completeness, and Analysis

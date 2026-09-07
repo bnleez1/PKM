@@ -8,6 +8,10 @@ createdAt: 2023-11-27T02:43:30.811Z
 lastUpdated: 2026-06-01T14:34:19.790Z
 tags: []
 coverImage: "[Untitled](../Images/Untitled%20(20).md)"
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Teaching Workshop II Final written exam
 ---
 
 # Teaching Workshop II: Final written exam
@@ -77,3 +81,4 @@ Demonstrates a good understanding of writing strategies and applies them to prod
 Shows some understanding of writing strategies and attempts to apply them. Students may struggle to produce clear, organized, and supported written work. They may need significant support with vocabulary or grammar, and they may have difficulty revising and editing their work.
 
 Has limited understanding of writing strategies and struggles to apply them effectively. Students may have difficulty producing clear, organized, and supported written work. They may require extensive support with vocabulary or grammar, and they may not be able to revise and edit their work effectively.
+

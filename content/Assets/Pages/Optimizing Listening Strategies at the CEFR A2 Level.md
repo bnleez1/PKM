@@ -10,6 +10,10 @@ lastUpdated: 2026-06-28T12:57:51.524Z
 tags:
   - Listening
 coverImage: "[Untitled](../Images/Untitled%20(108).md)"
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Optimizing Listening Strategies at the CEFR A2 Level
 ---
 
 # Optimizing Listening Strategies at the CEFR A2 Level
@@ -121,3 +125,4 @@ Implementation is most effective when structured through a three-phase framework
 - **Scrivener (2005):** Focus on the practical application of top-down theories in real-world settings.
 
 - **Díaz-Rico (2004):** Categorization of listening activities into Repetition, Understanding, and Communication.
+

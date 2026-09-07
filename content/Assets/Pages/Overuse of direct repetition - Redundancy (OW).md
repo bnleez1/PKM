@@ -10,6 +10,10 @@ tags:
   - WritingErrorCode
   - WritingDiscourse
 coverImage: "[Untitled](../Images/Untitled%20(13).md)"
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Overuse of direct repetition - Redundancy (OW)
 ---
 
 # Overuse of direct repetition - Redundancy (OW)
@@ -80,3 +84,4 @@ Let’s apply the Paramedic Method to the previous example:
 8. **Rephrase**: "He went to the store to buy food."
 
 By employing the Paramedic Method, ELLs can create sentences that are not only clearer but also more engaging.
+

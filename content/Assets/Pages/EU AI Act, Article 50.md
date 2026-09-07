@@ -9,6 +9,10 @@ lastUpdated: 2026-07-25T14:11:12.581Z
 tags:
   - GenAI
 coverImage: "[Untitled](../Images/Untitled%20(104).md)"
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/EU AI Act, Article 50
 ---
 
 # EU AI Act, Article 50
@@ -127,3 +131,4 @@ AI may improve:
     - Encourages an AI ecosystem consistent with EU values
 
     - Enables the free movement of AI-based goods and services across the internal market
+

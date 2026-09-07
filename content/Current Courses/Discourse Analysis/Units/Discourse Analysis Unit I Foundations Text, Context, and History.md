@@ -9,6 +9,10 @@ date: 2026-08-10T00:00:00.000Z -> 2026-08-23T00:00:00.000Z
 subject:
   - "[[02 Projects/Discourse Analysis]]"
 coverImage:
+gh-publish: true
+gh-path: content/Current Courses/Discourse Analysis/Units
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Discourse Analysis/Units/Discourse Analysis Unit I Foundations Text, Context, and History
 ---
 
 # Discourse Analysis Unit I: Foundations: Text, Context, and History
@@ -104,3 +108,4 @@ Students will independently use their learning to:
 ## 🎯 Stage 3 - Learning Sequence
 
 [Discourse Analysis Modules](../Modules/Discourse%20Analysis%20Modules.csv)
+

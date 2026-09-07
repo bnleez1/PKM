@@ -18,6 +18,10 @@ studentDeliverableS: []
 semester: Fall 2026
 relations: []
 note: []
+gh-publish: true
+gh-path: content/Current Courses/Academic Writing/Modules
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Academic Writing/Modules/Academic Writing Module 17
 ---
 
 # Academic Writing Module 17
@@ -44,3 +48,4 @@ note: []
 ## 🗓️ Thursday (12:00 PM - 1:00 PM)
 
 ## 🗓️ Friday (10:00 AM - 12:00 PM)
+

@@ -10,6 +10,10 @@ lastUpdated: 2026-06-28T12:57:30.908Z
 tags:
   - Assessment
 coverImage: "[Untitled](../Images/Untitled%20(56).md)"
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/FCE Practice test 2
 ---
 
 # FCE Practice test 2
@@ -165,3 +169,4 @@ For questions 25–30, complete the second sentence so that it has a similar mea
 29. in case it
 
 30. although he was
+

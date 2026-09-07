@@ -9,6 +9,10 @@ formalDefinition: The omission of words from a sentence that can be inferred fro
 relatedTerms: []
 pages: []
 notes: []
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Ellipsis
 ---
 
 # Ellipsis
@@ -18,3 +22,4 @@ Teaching learners how to sound more natural by dropping redundant words (e.g., '
 
 **Common Misconception:**
 Ellipsis is a grammatical error or 'lazy' speech.
+

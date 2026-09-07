@@ -9,6 +9,10 @@ createdAt: 2025-02-05T13:07:56.344Z
 lastUpdated: 2026-06-29T18:18:55.024Z
 tags: []
 coverImage:
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/AI Tips and Tools
 ---
 
 # AI Tips and Tools
@@ -171,3 +175,4 @@ Adobe Firefly
 [Text to Speech & AI Voice Generator](https://elevenlabs.io/)
 
 [Tutor AI - Your personal AI tutor to learn anything](https://tutorai.me/)
+

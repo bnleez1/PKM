@@ -9,6 +9,10 @@ date: 2026-08-10T00:00:00.000Z -> 2026-09-06T00:00:00.000Z
 subject:
   - "[[Writing I]]"
 coverImage:
+gh-publish: true
+gh-path: content/Current Courses/Writing I/Units
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Writing I/Units/Writing I Unit I Paragraph Foundations
 ---
 
 # Writing I Unit I: Paragraph Foundations
@@ -246,3 +250,4 @@ GenAI may support comprehension, vocabulary exploration, brainstorming, or plann
 - Brief reflection on any authorized GenAI use, especially the student's reasons for **accepting, adapting, or rejecting ideas** generated during brainstorming or planning.
 
 - Participation in individual, pair, and group activities using course-supported resources such as model texts, graphic organizers, connector guides, dictionaries, notebooks, Microsoft Teams, Capacities, and CAADI materials.
+

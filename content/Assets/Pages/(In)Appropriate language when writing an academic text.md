@@ -10,6 +10,10 @@ tags:
   - Writing
   - WritingDiscourse
 coverImage: "[Untitled](../Images/Untitled%20(70).md)"
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/(In)Appropriate language when writing an academic text
 ---
 
 # (In)Appropriate language when writing an academic text
@@ -283,3 +287,4 @@ Here are some resources for further learning:
 - National Center for Women & Information Technology: [https://ncwit.org/](https://ncwit.org/)
 
 - GLAAD Media Reference Guide: [https://glaad.org/reference/trans-terms/](https://glaad.org/reference/trans-terms/)
+

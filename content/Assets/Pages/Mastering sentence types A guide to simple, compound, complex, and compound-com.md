@@ -10,6 +10,10 @@ tags:
   - WritingErrorCode
   - Writing
 coverImage: "[Untitled](../Images/Untitled%20(13).md)"
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Mastering sentence types A guide to simple, compound, complex, and compound-com
 ---
 
 # Mastering sentence types: A guide to simple, compound, complex, and compound-complex sentences
@@ -103,3 +107,4 @@ English grammar offers a rich tapestry of sentence structures, each with its own
 Mastering the four sentence structures empowers you to express your thoughts with clarity, precision, and style. By understanding the form, meaning, and use of simple, compound, complex, and compound-complex sentences, you can elevate your writing and communication skills to new heights. So, embrace the versatility of English grammar, experiment with different sentence structures, and unlock the full potential of your language abilities.
 
 Remember, effective communication is an art, and a well-crafted sentence is its masterpiece.
+

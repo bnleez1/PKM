@@ -20,6 +20,10 @@ studentDeliverableS: []
 semester: Fall 2026
 relations: []
 note: []
+gh-publish: true
+gh-path: content/Current Courses/Listening I/Modules
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Listening I/Modules/L-Chapter 8 Building a Complete Listening Record
 ---
 
 # L-Chapter 8: Building a Complete Listening Record
@@ -104,3 +108,4 @@ CAADI Worksheet 8, Project 2, and the midterm together mark the end of Unit II. 
 ## 🗓️ Thursday
 
 ## 🗓️ Friday
+

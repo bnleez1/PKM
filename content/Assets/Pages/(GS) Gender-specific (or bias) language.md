@@ -11,6 +11,10 @@ relatedTerms: []
 pages:
   - "[[Writing error code list]]"
 notes: []
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/(GS) Gender-specific (or bias) language
 ---
 
 # (GS) Gender-specific (or bias) language
@@ -105,3 +109,4 @@ Here are some examples of how to use gender-inclusive language:
 - Instead of saying "he or she," say "they."
 
 By using gender-inclusive language, you can help to create a more inclusive and respectful environment for everyone.
+

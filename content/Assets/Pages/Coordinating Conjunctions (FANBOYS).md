@@ -10,6 +10,10 @@ lastUpdated: 2026-08-26T13:02:16.792Z
 tags:
   - GrammarSyntax
 coverImage: "[Untitled](../Images/Untitled%20(285).md)"
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Coordinating Conjunctions (FANBOYS)
 ---
 
 # Coordinating Conjunctions (FANBOYS)
@@ -151,3 +155,4 @@ Coordinating conjunctions can also be combined in more complex sentences. Hereâ€
 ## Conclusion
 
 Coordinating conjunctions are essential tools in English, instrumental in creating a smooth and coherent narrative. By connecting words, phrases, and independent clauses, they enhance clarity and allow for more sophisticated sentence structures. Understanding how to correctly form and use these conjunctions, while avoiding common pitfalls, can drastically improve one's writing and speaking skills. So, as you continue to write and communicate, remember the power of FANBOYSâ€”For, And, Nor, But, Or, Yet, So. They are more than just words; they are the threads that weave your thoughts into a logical tapestry.
+

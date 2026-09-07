@@ -9,6 +9,10 @@ lastUpdated: 2026-06-05T12:57:24.349Z
 tags:
   - Writing
 coverImage: "[Untitled](../Images/Untitled%20(80).md)"
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Thesis Statement
 ---
 
 # Thesis Statement
@@ -293,3 +297,4 @@ A poor thesis statement can manifest in several ways: it might be too vague, ove
     (This is merely announcing what will be talked about, rather than stating a clear, analytical point of view.)
 
 Each of these examples fails to encapsulate the qualities of a strong thesis statement: specificity, clarity, arguably, and conciseness. A good thesis statement should clearly communicate the point that the writer wishes to make and provide a sense of how the argument will be constructed.
+

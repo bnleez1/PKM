@@ -9,6 +9,10 @@ createdAt: 2026-06-04T16:19:13.192Z
 lastUpdated: 2026-07-23T13:36:23.183Z
 tags: []
 coverImage: "[[Banner_Me]]"
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Benjamin L Stewart - About me
 ---
 
 # Benjamin L. Stewart - About me
@@ -49,3 +53,4 @@ My [[GenAI Policy]].
 ## 📚️ Subject Archive
 
 [[Academic Writing UAA Instructors]] | [[Class Observation]] | [[Grammar in Context II]] | [[Listening & Speaking I]] | [[Teaching Workshop II]] | [[Thesis Seminar]] | [[Writing II]] | [[Writing Workshop]]
+

@@ -9,6 +9,10 @@ lastUpdated: 2026-08-31T15:42:30.816Z
 tags:
   - Website
 coverImage:
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Installing Silex
 ---
 
 # Installing Silex
@@ -155,3 +159,4 @@ coverImage:
         **Keep Silex open on only one PC at a time.** Treat this as transferring your work between computers, rather than simultaneous editing.
 
     Your edits and templates synchronize **without clicking Publish**. Click **Publish** only when you want to update the public website. Keep occasional separate backups, since synchronization also carries deletions and mistakes to the other PC.
+

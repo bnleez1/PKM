@@ -9,6 +9,10 @@ createdAt: 2025-01-27T12:38:26.203Z
 lastUpdated: 2026-06-28T12:57:01.749Z
 tags: []
 coverImage: "[Untitled](../Images/Untitled%20(47).md)"
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/AI Prompt Sequencing for Narrowing Down a Researchable Topic
 ---
 
 # AI Prompt Sequencing for Narrowing Down a Researchable Topic
@@ -595,3 +599,4 @@ Here are additional peer-reviewed journal articles that support the commonly rec
 ### Articles Suitable for Replication in Large Classes with Novice Teachers
 
 The studies above, particularly those focusing on teacher support and peer feedback (like the ones discussing positive teacher-student interactions and collaborative learning strategies), could be replicated or adapted for large classes of elementary-aged children learning English. They emphasize practical strategies such as creating a supportive environment and encouraging peer collaboration, which are feasible even in large classrooms with novice teachers.
+

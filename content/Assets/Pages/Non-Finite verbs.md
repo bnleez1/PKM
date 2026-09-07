@@ -10,6 +10,10 @@ lastUpdated: 2026-06-28T12:56:21.031Z
 tags:
   - GrammarSyntax
 coverImage: "[Untitled](../Images/Untitled%20(21).md)"
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Non-Finite verbs
 ---
 
 # Non-Finite verbs
@@ -133,3 +137,4 @@ Non-finite verbs serve various functions in sentences, including:
 ### Conclusion
 
 Non-finite verbs are versatile and essential components of English grammar. They allow for more complex and varied sentence structures by functioning as nouns, adjectives, and adverbs. Understanding the different categories of non-finite verbs—infinitives, gerunds, and participles—helps in constructing clear and effective sentences. By recognizing and using non-finite verbs correctly, you can enhance your writing and communication skills.
+

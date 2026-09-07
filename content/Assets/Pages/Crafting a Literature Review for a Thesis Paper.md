@@ -10,6 +10,10 @@ lastUpdated: 2026-06-28T12:56:51.241Z
 tags:
   - Reading
 coverImage: "[Untitled](../Images/Untitled%20(82).md)"
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Crafting a Literature Review for a Thesis Paper
 ---
 
 # Crafting a Literature Review for a Thesis Paper
@@ -225,3 +229,5 @@ A well-conducted literature review is foundational in the research process. It n
 - Anthropomorphisms/personification
 
     [https://youtu.be/WD1J1m0OwwE](https://youtu.be/WD1J1m0OwwE)
+
+

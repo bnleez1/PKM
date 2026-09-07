@@ -11,6 +11,10 @@ status: "[[InBox (idea)]]"
 essentialQuestion: "**How has the meaning of “discourse analysis” changed as scholars have changed what they believe counts as meaningful language?**"
 note:
 coverImage: "[Untitled](../Images/Untitled%20(219).md)"
+gh-publish: true
+gh-path: content/Current Courses/Discourse Analysis
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Discourse Analysis/Defining Discourse Analysis How the Focus Has Shifted Over Time
 ---
 
 # Defining Discourse Analysis: How the Focus Has Shifted Over Time
@@ -421,3 +425,4 @@ Fairclough, N. (1989). *Language and power*. Longman.
 Harris, Z. S. (1952). Discourse analysis. *Language, 28*(1), 1–30.
 
 Sacks, H., Schegloff, E. A., & Jefferson, G. (1974). A simplest systematics for the organization of turn-taking for conversation. *Language, 50*(4), 696–735.
+

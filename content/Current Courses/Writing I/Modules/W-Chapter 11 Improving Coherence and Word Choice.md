@@ -19,6 +19,10 @@ studentDeliverableS: []
 semester: Fall 2026
 relations: []
 note: []
+gh-publish: true
+gh-path: content/Current Courses/Writing I/Modules
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Writing I/Modules/W-Chapter 11 Improving Coherence and Word Choice
 ---
 
 # W-Chapter 11: Improving Coherence and Word Choice
@@ -108,3 +112,4 @@ Make changes in stages. First, revise focus and order. Second, improve cohesion 
 ## 🗓️ Thursday
 
 ## 🗓️ Friday
+

@@ -17,6 +17,10 @@ aiUse: []
 coverImage: "[Untitled](../Images/Untitled%20(1).md)"
 durationHours: 10
 grouping:
+gh-publish: true
+gh-path: content/Current Courses/Academic Writing
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Academic Writing/Research Matrix - Week 2
 ---
 
 # Research Matrix - Week 2
@@ -72,3 +76,4 @@ Complete one row of the Academic Writing Matrix for your proposed Unit I researc
 **Submit your completed Week 2 Research Topic Matrix entry containing all eight required fields.** Your matrix entry should be concise enough to scan quickly but specific enough that another reader can understand what you plan to investigate, why it matters, who it concerns, and which preliminary sources support the problem.
 
 **Completion check:** one complete row, three APA-formatted scholarly article references, and no missing fields.
+

@@ -9,6 +9,10 @@ formalDefinition: A socially recognized type of communicative event with its own
 relatedTerms: []
 pages: []
 notes: []
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Genre
 ---
 
 # Genre
@@ -18,3 +22,4 @@ Using genre analysis to teach learners the specific structural moves expected in
 
 **Common Misconception:**
 Genre only applies to literature or movies.
+

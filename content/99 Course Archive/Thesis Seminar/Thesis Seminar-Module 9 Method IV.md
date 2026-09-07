@@ -19,6 +19,10 @@ studentDeliverableS: []
 semester:
 relations: []
 note: []
+gh-publish: true
+gh-path: content/99 Course Archive/Thesis Seminar
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/99 Course Archive/Thesis Seminar/Thesis Seminar-Module 9 Method IV
 ---
 
 # Thesis Seminar-Module 9: Method IV
@@ -122,3 +126,4 @@ note: []
 - For qualitative research, include how you coded and categorized your data, including any software used.
 
 - Describe how you analyzed descriptive data (i.e., quantitative data) to create tables and/or figures showing percentages, frequencies, etc.
+

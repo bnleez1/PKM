@@ -16,6 +16,10 @@ studentDeliverableS: []
 semester:
 relations: []
 note: []
+gh-publish: true
+gh-path: content/99 Course Archive/Thesis Seminar
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/99 Course Archive/Thesis Seminar/Thesis Seminar Recap Week 2
 ---
 
 # Thesis Seminar Recap Week 2
@@ -61,3 +65,4 @@ note: []
     - [[Thesis Statement]]: What's the difference between a thesis statement for a five-paragraph essay and one for a 2,500 literature review? 
 
     - [[Thesis statement and skeleton outline]]
+

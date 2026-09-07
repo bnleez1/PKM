@@ -1,6 +1,10 @@
 ---
 title: Academic Writing
 description: Course materials, weekly modules, assignments, and resources for Academic Writing.
+gh-publish: true
+gh-path: content/Current Courses/Academic Writing
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Academic Writing/index
 ---
 <iframe title="Welcome message and introduction to platforms for the new semester!" src="https://www.youtube.com/embed/erGu5SHRuqM?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
 # Academic Writing

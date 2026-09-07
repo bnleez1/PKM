@@ -9,6 +9,10 @@ formalDefinition: Any stretch of language, spoken or written, that forms a unifi
 relatedTerms: []
 pages: []
 notes: []
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Text
 ---
 
 # Text
@@ -18,3 +22,4 @@ Analyzing a brief text message exchange or a billboard as a complete, analyzable
 
 **Common Misconception:**
 A text must be a written document or book.
+

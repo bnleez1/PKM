@@ -12,6 +12,10 @@ relatedTerms:
 pages:
   - "[[Writing error code list]]"
 notes: []
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/(CN) Text cohesion vs text coherence Unraveling the threads of meaning
 ---
 
 # (CN) Text cohesion vs. text coherence: Unraveling the threads of meaning
@@ -81,3 +85,4 @@ To achieve both coherence and cohesion in your writing, consider the following t
 ### Conclusion
 
 In summary, coherent and cohesive writing are both essential for effective communication. Coherent writing ensures that your ideas are well-organized and logically ordered, making it easy for the reader to understand your message. Cohesive writing ensures that your text flows smoothly and that the relationships between ideas are clear. By focusing on both coherence and cohesion, you can create writing that is clear, persuasive, and engaging.
+

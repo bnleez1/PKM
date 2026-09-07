@@ -10,6 +10,10 @@ lastUpdated: 2026-06-28T12:57:41.131Z
 tags:
   - InProgress
 coverImage: "[Untitled](../Images/Untitled%20(31).md)"
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Transitioning From a First Draft to a Final Draft
 ---
 
 # Transitioning From a First Draft to a Final Draft

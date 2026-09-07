@@ -9,6 +9,10 @@ formalDefinition: Vocalizations or gestures (e.g., 'uh-huh', nodding) used by li
 relatedTerms: []
 pages: []
 notes: []
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Backchanneling
 ---
 
 # Backchanneling
@@ -18,3 +22,4 @@ Training learners to use active listening sounds to keep a conversation flowing 
 
 **Common Misconception:**
 It interrupts the speaker.
+

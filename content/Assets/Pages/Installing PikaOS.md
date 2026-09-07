@@ -10,6 +10,10 @@ lastUpdated: 2026-06-28T12:56:02.626Z
 tags:
   - Linux
 coverImage:
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Installing PikaOS
 ---
 
 # Installing PikaOS
@@ -155,3 +159,4 @@ coverImage:
     - **If using Hyprland:** Open `~/.config/hypr/exec.conf` and do the exact same replacement.
 
     *(Bonus tip: The application open in the background of your screenshot is the native* ***Pikman Update Manager****, which handles both APT packages and Flatpaks for PikaOS!)*
+

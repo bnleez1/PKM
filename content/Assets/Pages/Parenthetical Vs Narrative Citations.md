@@ -10,6 +10,10 @@ lastUpdated: 2026-06-28T12:56:50.849Z
 tags:
   - Writing
 coverImage:
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Parenthetical Vs Narrative Citations
 ---
 
 # Parenthetical Vs. Narrative Citations
@@ -38,3 +42,4 @@ A narrative citation and a parenthetical citation are two different ways of citi
     - In this example, the author's name (Smith) and the publication year (2019) are enclosed in parentheses at the end of the sentence. The reader can easily locate the corresponding entry in the reference list or bibliography for more detailed information about the source.
 
 - In summary, narrative citations integrate the source information into the text itself, while parenthetical citations place the information in parentheses at the end of the sentence. Both methods are used to give credit to the original authors and allow readers to locate the sources for further information or verification. The choice between narrative and parenthetical citations depends on the writer's preference, the specific citation style guide, and the context in which the citations are being used.
+

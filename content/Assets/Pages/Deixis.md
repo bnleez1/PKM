@@ -9,6 +9,10 @@ formalDefinition: Words whose meaning depends on the physical or temporal contex
 relatedTerms: []
 pages: []
 notes: []
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Deixis
 ---
 
 # Deixis
@@ -18,3 +22,4 @@ Practicing giving directions or discussing timelines where the physical location
 
 **Common Misconception:**
 Deictic words have fixed dictionary meanings.
+

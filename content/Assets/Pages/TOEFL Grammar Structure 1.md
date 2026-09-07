@@ -9,6 +9,10 @@ createdAt: 2025-03-11T12:13:55.503Z
 lastUpdated: 2026-06-28T22:59:47.952Z
 tags: []
 coverImage: "[Untitled](../Images/Untitled%20(146).md)"
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/TOEFL Grammar Structure 1
 ---
 
 # TOEFL Grammar Structure 1
@@ -446,3 +450,4 @@ B. on how to improve
 C. our writing skills
 D. for next semester
 ```
+

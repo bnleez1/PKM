@@ -19,6 +19,10 @@ studentDeliverableS: []
 semester:
 relations: []
 note: []
+gh-publish: true
+gh-path: content/99 Course Archive/Writing II
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/99 Course Archive/Writing II/Writing II Module 7
 ---
 
 # Writing II Module 7
@@ -1098,3 +1102,4 @@ A key takeaway for writing an expository essay is to use signposting to guide th
 4. Begin Writing II: Body Paragraph 1 Task.
 
 5. Request feedback as needed (in class and outside of class).
+

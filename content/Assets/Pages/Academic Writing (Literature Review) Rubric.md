@@ -12,6 +12,10 @@ tags:
   - Assessment
   - Rubrics
 coverImage: "[Untitled](../Images/Untitled%20(252).md)"
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Academic Writing (Literature Review) Rubric
 ---
 # Academic Writing (Literature Review) Rubric
 
@@ -67,3 +71,4 @@ This evaluates the strict adherence to the mechanical rules of scholarly attribu
 - **Formatting and Mechanics:** This includes the correct use of APA 7th edition guidelines for in-text citations (narrative and parenthetical), formatting the references page, and handling direct quotes versus paraphrasing.
 
 - **Academic Integrity:** This is where the originality score comes into play. It ensures ethical source use. It penalizes patchwriting (heavily borrowing sentence structures from a source and just swapping out a few synonyms) and ensures that the student is genuinely generating their own synthesis of the material.
+

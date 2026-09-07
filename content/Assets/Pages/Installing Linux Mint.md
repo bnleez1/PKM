@@ -10,6 +10,10 @@ lastUpdated: 2026-08-07T14:01:47.656Z
 tags:
   - Linux
 coverImage: "[Untitled](../Images/Untitled%20(61).md)"
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Installing Linux Mint
 ---
 
 # Installing Linux Mint
@@ -3730,3 +3734,4 @@ coverImage: "[Untitled](../Images/Untitled%20(61).md)"
     Your external drive and Google Drive are now successfully paired and will sync automatically in the background.
 
     Are you running Ubuntu, or are you using a different Linux distribution that might require slightly different steps for the startup configuration?
+

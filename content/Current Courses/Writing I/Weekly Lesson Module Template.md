@@ -16,6 +16,10 @@ studentDeliverableS: []
 semester: Spring 2025
 relations: []
 note: []
+gh-publish: true
+gh-path: content/Current Courses/Writing I
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Writing I/Weekly Lesson Module Template
 ---
 
 # Weekly Lesson Module Template
@@ -36,3 +40,4 @@ note: []
 ## 🗓️ Thursday
 
 ## 🗓️ Friday
+

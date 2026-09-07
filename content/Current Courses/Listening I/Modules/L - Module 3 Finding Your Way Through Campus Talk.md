@@ -21,6 +21,10 @@ semester: Fall 2026
 relations: []
 note:
   - "[[Listening I Chapter 3 Note]]"
+gh-publish: true
+gh-path: content/Current Courses/Listening I/Modules
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Listening I/Modules/L - Module 3 Finding Your Way Through Campus Talk
 ---
 
 # L - Module 3: Finding Your Way Through Campus Talk
@@ -478,3 +482,4 @@ Today's audio will require you to draw in your notebook as notes for recreating 
 1. Complete [Greenfield University Campus Listening Quiz – Fill out form.](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=kuLi4dYhSUi3EE1H2VeK0ItjcCXTT1VEvQ9aSPhTcDNUNjM5Rk0zM0pWMlU3NlJaWDAzRFhCTlI4VyQlQCNjPTEu)
 
 2. Submit [[Listening CAADI Worksheet 2]] to Teams.
+

@@ -11,6 +11,10 @@ relatedTerms: []
 pages:
   - "[[Writing error code list]]"
 notes: []
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/(SP) Common spelling mistakes in English
 ---
 
 # (SP) Common spelling mistakes in English
@@ -82,3 +86,4 @@ notes: []
 - **Break down words into syllables:** This can make it easier to spell long or difficult words.
 
 - **Practice spelling words that you often misspell:** This will help you improve your spelling skills.
+

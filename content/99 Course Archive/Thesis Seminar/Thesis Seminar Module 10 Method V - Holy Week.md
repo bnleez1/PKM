@@ -19,6 +19,10 @@ studentDeliverableS: []
 semester:
 relations: []
 note: []
+gh-publish: true
+gh-path: content/99 Course Archive/Thesis Seminar
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/99 Course Archive/Thesis Seminar/Thesis Seminar Module 10 Method V - Holy Week
 ---
 
 # Thesis Seminar Module 10: Method V - Holy Week
@@ -166,3 +170,4 @@ Triangulate different data sources to fully answer your research questions. Cons
 - For examples of how to develop a method section, refer to the different empirical studies included in your literature review.
 
 - Refer to the example discussed during whole-group session from February 28, 2025.
+

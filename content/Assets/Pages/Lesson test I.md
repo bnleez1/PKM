@@ -8,6 +8,10 @@ createdAt: 2023-11-20T12:30:58.780Z
 lastUpdated: 2025-01-02T12:11:52.636Z
 tags: []
 coverImage:
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Lesson test I
 ---
 
 # Lesson test I
@@ -105,3 +109,4 @@ Best Practices (10 minutes):
 Conclusion (5 minutes):
 
 - Review the key points of the lesson and ask students to share what
+

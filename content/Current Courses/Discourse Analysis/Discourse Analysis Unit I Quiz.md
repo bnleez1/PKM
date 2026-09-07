@@ -17,6 +17,10 @@ aiUse:
 coverImage: "[Untitled](../Images/Untitled%20(1).md)"
 durationHours:
 grouping: Individual
+gh-publish: true
+gh-path: content/Current Courses/Discourse Analysis
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Discourse Analysis/Discourse Analysis Unit I Quiz
 ---
 
 # Discourse Analysis Unit I Quiz
@@ -42,3 +46,4 @@ Complete the following task in class:
 1. Identify assigned text as one of the 12 features discussed in Week 2: [Text Assignments.xlsx.](https://eduuaa.sharepoint.com/:x:/s/DiscourseAnalysis2026/IQCfTRr037cGSL7z3-rvVLRvAXmUfTnYRD6sQ5xu0WHJRPY?e=BsBja9)
 
 2. Analyze, include evidence, and any logical assumptions.
+

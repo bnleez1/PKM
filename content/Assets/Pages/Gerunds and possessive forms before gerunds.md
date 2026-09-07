@@ -10,6 +10,10 @@ lastUpdated: 2026-06-28T22:56:23.362Z
 tags:
   - GrammarSyntax
 coverImage: "[Untitled](../Images/Untitled%20(233).md)"
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Gerunds and possessive forms before gerunds
 ---
 
 # Gerunds and possessive forms before gerunds
@@ -157,3 +161,4 @@ To master this structure, learners should practice sentences with **prepositions
 - **We talked about them moving to Canada.**
 
 By understanding these patterns, English learners can avoid this common TOEFL grammar mistake and improve their accuracy.
+

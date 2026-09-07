@@ -8,6 +8,10 @@ createdAt: 2026-07-13T16:55:11.205Z
 lastUpdated: 2026-07-13T16:59:39.102Z
 tags: []
 coverImage:
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/How to Paraphrase Direct Quotes A Comprehensive Guide
 ---
 
 # How to Paraphrase Direct Quotes: A Comprehensive Guide
@@ -991,3 +995,4 @@ Or, more briefly:
 > **Keep the meaning; rebuild the message.**
 
 The purpose of paraphrasing is not to disguise borrowed language. It is to demonstrate that the writer understands another person’s idea well enough to represent it accurately, independently, and appropriately within a new text.
+

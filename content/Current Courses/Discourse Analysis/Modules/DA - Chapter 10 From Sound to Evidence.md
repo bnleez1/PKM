@@ -19,6 +19,10 @@ studentDeliverableS: []
 semester: Fall 2026
 relations: []
 note: []
+gh-publish: true
+gh-path: content/Current Courses/Discourse Analysis/Modules
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Discourse Analysis/Modules/DA - Chapter 10 From Sound to Evidence
 ---
 
 # DA - Chapter 10: From Sound to Evidence
@@ -120,3 +124,4 @@ Use deviant cases productively. If most questions receive immediate answers but 
 ## 🗓️ Thursday (9:00 AM - 10:00 AM)
 
 ## 🗓️ Friday (9:00 AM - 10:00 AM)
+

@@ -19,6 +19,10 @@ studentDeliverableS: []
 semester:
 relations: []
 note: []
+gh-publish: true
+gh-path: content/99 Course Archive/Writing II
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/99 Course Archive/Writing II/Writing II Module 16 Revise and Edit
 ---
 
 # Writing II Module 16: Revise and Edit
@@ -354,3 +358,4 @@ Complete linking sentence handout.
     6. At least one example of a comma used in a compound sentence.
 
     7. Only one example of a comma used as an appositive. ‣
+

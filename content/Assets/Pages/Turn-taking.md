@@ -9,6 +9,10 @@ formalDefinition: The system by which participants in a conversation determine w
 relatedTerms: []
 pages: []
 notes: []
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Turn-taking
 ---
 
 # Turn-taking
@@ -18,3 +22,4 @@ Helping learners adapt to English turn-taking speeds, which may be faster or slo
 
 **Common Misconception:**
 There are universal rules for turn-taking.
+

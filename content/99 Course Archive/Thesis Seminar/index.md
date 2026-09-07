@@ -1,6 +1,8 @@
 ---
 title: Thesis Seminar
 description: Course materials, research resources, and guidance for Thesis Seminar.
+gh-publish: true
+gh-path: content/99 Course Archive/Thesis Seminar
 ---
 
 # Thesis Seminar

@@ -19,6 +19,8 @@ studentDeliverableS: []
 semester:
 relations: []
 note: []
+gh-publish: true
+gh-path: content/99 Course Archive/Thesis Seminar
 ---
 
 # Thesis Seminar Module 14: Results & Discussion II

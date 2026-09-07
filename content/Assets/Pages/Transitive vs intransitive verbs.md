@@ -9,6 +9,10 @@ lastUpdated: 2025-03-27T18:58:15.043Z
 tags:
   - Writing
 coverImage: "[Untitled](../Images/Untitled%20(107).md)"
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Transitive vs intransitive verbs
 ---
 
 # Transitive vs. intransitive verbs
@@ -382,3 +386,4 @@ It's important to note that even these verbs *can* sometimes be used transitivel
 - **Transitive verbs can take direct objects,** while intransitive verbs cannot.
 
 - **This list is not exhaustive.** There are many other transitive and intransitive verbs in English.
+

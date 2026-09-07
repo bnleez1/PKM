@@ -10,6 +10,10 @@ lastUpdated: 2026-06-28T12:56:02.269Z
 tags:
   - DiscourseAnalysis
 coverImage: "[Untitled](../Images/Untitled%20(32).md)"
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/The Figured Worlds Tool
 ---
 
 # The Figured Worlds Tool
@@ -74,3 +78,4 @@ Through this analysis, we realize that conducting research or designing a syllab
 ## Conclusion
 
 James Paul Gee’s Figured Worlds Tool is an essential instrument for intellectual self-defense and rigorous research. It stops us from arguing over the surface details of a text and forces us to examine the buried theoretical foundation upon which the text is built. By systematically asking what an author assumes to be "normal," "typical," or "inevitable," researchers, educators, and critical readers can expose the hidden narratives that shape our institutions. Ultimately, mastering this tool allows us to see that the reality presented in any document is merely one figured world among many—and that it is entirely possible to imagine, and build, a different one.
+

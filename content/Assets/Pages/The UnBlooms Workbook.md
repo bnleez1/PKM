@@ -10,6 +10,10 @@ lastUpdated: 2026-06-28T12:56:11.446Z
 tags:
   - GenAI
 coverImage: "[Untitled](../Images/Untitled%20(320).md)"
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/The UnBlooms Workbook
 ---
 
 # The UnBlooms Workbook

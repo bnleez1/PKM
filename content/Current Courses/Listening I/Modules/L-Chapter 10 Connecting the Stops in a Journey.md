@@ -20,6 +20,10 @@ studentDeliverableS: []
 semester: Fall 2026
 relations: []
 note: []
+gh-publish: true
+gh-path: content/Current Courses/Listening I/Modules
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Listening I/Modules/L-Chapter 10 Connecting the Stops in a Journey
 ---
 
 # L-Chapter 10: Connecting the Stops in a Journey
@@ -105,3 +109,4 @@ CAADI Worksheet 10 completes the required CAADI sequence. Apply gist listening, 
 ## 🗓️ Thursday
 
 ## 🗓️ Friday
+

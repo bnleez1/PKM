@@ -10,6 +10,10 @@ lastUpdated: 2026-06-28T12:57:51.406Z
 tags:
   - Research
 coverImage:
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Analyzing Qualitative Data
 ---
 
 # Analyzing Qualitative Data
@@ -1269,3 +1273,4 @@ This three-level coding structure moves from specific reported actions and thoug
 **Conclusion: The Researcher Drives the Research**
 
 LLMs can be powerful assistants for novice researchers, helping to manage text, generate initial ideas, perform basic calculations, and explain concepts. However, they are tools, not oracles. Your critical judgment, methodological understanding, ethical responsibility, and deep engagement with your data are irreplaceable. Always validate, always question, and always place the LLM's output within the broader context of your research goals and ethical obligations.
+

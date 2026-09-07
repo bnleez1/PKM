@@ -19,6 +19,10 @@ studentDeliverableS: []
 semester:
 relations: []
 note: []
+gh-publish: true
+gh-path: content/99 Course Archive/Writing II
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/99 Course Archive/Writing II/Writing II Module 18 Redoing Essays
 ---
 
 # Writing II Module 18: Redoing Essays
@@ -91,3 +95,4 @@ note: []
     - Alejandro
 
         Will redo [Zahir Alejandro Cortes Alvarado EE.docx](https://eduuaa.sharepoint.com/:w:/s/WritingII/IQB4eBATKkoCT5jrZ5CcLcJqAW65ndD4iybD_iIFnT6GkGk?e=Cg1EAe) 
+

@@ -19,6 +19,10 @@ studentDeliverableS: []
 semester:
 relations: []
 note: []
+gh-publish: true
+gh-path: content/99 Course Archive/Writing II
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/99 Course Archive/Writing II/Writing II Module 6
 ---
 
 # Writing II Module 6
@@ -1119,3 +1123,4 @@ Today is the last day to make final changes to your expository essay in Descript
     2. Option 2: Write a series compound sentences with “so” that uncover possible results based on the topic you wish to write about.
 
 3. Submit your answers to steps 1 and 2 to the progress report #4 in Teams.
+

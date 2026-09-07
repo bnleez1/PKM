@@ -12,6 +12,10 @@ relatedTerms: []
 pages:
   - "[[Writing error code list]]"
 notes: []
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/UAA language departmental plagiarism policy 2024 (under revision)
 ---
 
 # UAA language departmental plagiarism policy 2024 (under revision)
@@ -120,3 +124,4 @@ If any cases of plagiarism are found in any class assignments, the result will b
 - University of North Texas. (2022). Plagiarism. [https://guides.library.unt.edu/plagiarism/types](https://guides.library.unt.edu/plagiarism/types)
 
 - UAA. 2012. Ley Orgánica de la Universidad Autónoma de Aguascalientes. México.
+

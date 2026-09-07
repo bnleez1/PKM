@@ -10,6 +10,10 @@ lastUpdated: 2026-06-28T12:56:21.377Z
 tags:
   - GrammarSyntax
 coverImage: "[Untitled](../Images/Untitled%20(21).md)"
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Adverbs
 ---
 
 # Adverbs
@@ -163,3 +167,4 @@ There are three main types of adverbs:
 - Adverbs can be used to create emphasis. For example, the adverb "really" can be used to emphasize the adjective "beautiful" to mean "really beautiful."
 
 - Adverbs can be used to create a sense of rhythm and flow in a sentence. For example, the adverb "then" can be used to connect two clauses of a sentence.
+

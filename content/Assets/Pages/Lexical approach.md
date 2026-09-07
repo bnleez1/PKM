@@ -10,6 +10,10 @@ lastUpdated: 2026-06-28T12:56:31.126Z
 tags:
   - Vocabulary
 coverImage: "[Untitled](../Images/Untitled%20(21).md)"
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Lexical approach
 ---
 
 # Lexical approach
@@ -43,3 +47,4 @@ The lexical approach is an influential method in language teaching and understan
 6. **Addressing Idiomatic Usage**: Languages are full of idiomatic expressions that aren't easily understood by just knowing the meanings of individual words. The lexical approach, by emphasizing chunks and common combinations, can help learners navigate these idiomatic waters.
 
 In conclusion, the lexical approach originated from both empirical research on actual language use and psycholinguistic insights into how language is processed. Its relevance to SLA lies in its potential to make language learning more authentic, efficient, and reflective of real-world language use.
+

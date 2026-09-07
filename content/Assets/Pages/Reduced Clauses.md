@@ -10,6 +10,10 @@ lastUpdated: 2026-06-28T12:57:40.939Z
 tags:
   - GrammarSyntax
 coverImage: "[Untitled](../Images/Untitled%20(132).md)"
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Reduced Clauses
 ---
 
 # Reduced Clauses
@@ -63,3 +67,4 @@ An adjective clause modifies a noun or pronoun and usually starts with a relativ
 - Grammarians might use "reduced adjective clause" to emphasize the relationship to the full clause and the transformation process. They might use "participial phrase" to describe the structure itself, regardless of whether it's thought of as a reduction.
 
 For practical purposes, especially when teaching, understanding that these participial phrases function *like* adjective clauses and can often be derived from them by removing the relative pronoun and `be` verb is a very useful concept. They are two ways of looking at largely the same grammatical structure and function.
+

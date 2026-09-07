@@ -10,6 +10,10 @@ relatedTerms: []
 pages: []
 notes:
   - "[[230620260805]]"
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Semantic Prosody
 ---
 
 # Semantic Prosody
@@ -55,3 +59,4 @@ Instead of just crossing out *cause* with a red pen and writing *bring about*—
 The students quickly notice: *cancer, accidents, trouble, delay*.
 
 The teacher then explains, *"Your grammar is perfect, but in English, the word 'cause' usually invites bad news to the party. If we want to invite good news, we need a different host, like 'generate' or 'bring about'."* The students immediately grasp the concept because they discovered the data themselves, turning a simple correction into a transparent linguistic investigation.
+

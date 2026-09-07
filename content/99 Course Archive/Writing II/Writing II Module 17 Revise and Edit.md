@@ -19,6 +19,10 @@ studentDeliverableS: []
 semester:
 relations: []
 note: []
+gh-publish: true
+gh-path: content/99 Course Archive/Writing II
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/99 Course Archive/Writing II/Writing II Module 17 Revise and Edit
 ---
 
 # Writing II Module 17: Revise and Edit
@@ -158,3 +162,5 @@ Submit your final argumentative essay as a Word document to the Argumentative Es
 Final grades will be posted on Saturday. Anyone may attend class on Monday to redo any one of their three essays.
 
 ## 
+
+

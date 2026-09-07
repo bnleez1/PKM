@@ -9,6 +9,10 @@ formalDefinition: The ability to use language correctly and appropriately in dif
 relatedTerms: []
 pages: []
 notes: []
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Communicative Competence
 ---
 
 # Communicative Competence
@@ -18,3 +22,4 @@ Assessing a learner’s ability to successfully resolve a conflict, regardless o
 
 **Common Misconception:**
 It just means having a big vocabulary.
+

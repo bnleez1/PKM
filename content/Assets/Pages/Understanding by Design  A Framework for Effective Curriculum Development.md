@@ -1,13 +1,18 @@
 ---
-type: 'Page'
-title: 'Understanding by Design:  A Framework for Effective Curriculum Development'
-aliases: null
-description: null
+type: Page
+title: "Understanding by Design:  A Framework for Effective Curriculum Development"
+aliases:
+description:
 icon: ⚖️
-createdAt: '2026-08-10T17:45:21.995Z'
-lastUpdated: '2026-08-10T17:54:20.910Z'
-tags: [TeachingMoves]
-coverImage: '[Untitled](../Images/Untitled%20(170).md)'
+createdAt: 2026-08-10T17:45:21.995Z
+lastUpdated: 2026-08-10T17:54:20.910Z
+tags:
+  - TeachingMoves
+coverImage: "[Untitled](../Images/Untitled%20(170).md)"
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Understanding by Design  A Framework for Effective Curriculum Development
 ---
 
 # Understanding by Design:  A Framework for Effective Curriculum Development

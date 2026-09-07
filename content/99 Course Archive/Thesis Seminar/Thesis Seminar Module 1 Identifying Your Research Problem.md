@@ -19,6 +19,10 @@ studentDeliverableS: []
 semester:
 relations: []
 note: []
+gh-publish: true
+gh-path: content/99 Course Archive/Thesis Seminar
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/99 Course Archive/Thesis Seminar/Thesis Seminar Module 1 Identifying Your Research Problem
 ---
 
 # Thesis Seminar Module 1: Identifying Your Research Problem
@@ -627,3 +631,4 @@ Throughout these lessons, emphasis was placed on **academic integrity**, **syste
 - Lesson 1.5
 
     - Complete TS Reflection 1 and Thesis Seminar Week 1 Task.
+

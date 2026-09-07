@@ -1,14 +1,16 @@
 ---
-type: Page
-collections: Public Pages
+type: 'Page'
+collections: 'Public Pages'
 title: Installing CatchyOS
-aliases:
-description:
+aliases: null
+description: null
 icon: 🖱️
-createdAt: 2026-06-17T17:00:40.685Z
-lastUpdated: 2026-08-07T21:00:10.430Z
+createdAt: '2026-06-17T17:00:40.685Z'
+lastUpdated: '2026-08-07T21:00:10.430Z'
 tags: []
-coverImage: "[Untitled](../Images/Untitled%20(156).md)"
+coverImage: '[Untitled](../Images/Untitled%20(156).md)'
+gh-publish: true
+gh-path: content/Assets/Pages
 ---
 
 # Installing CatchyOS
@@ -1242,3 +1244,4 @@ coverImage: "[Untitled](../Images/Untitled%20(156).md)"
         ```
 
     - If LibreOffice hangs on first run: the `--nofirststartwizard` flag above usually fixes it.
+

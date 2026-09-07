@@ -9,6 +9,10 @@ lastUpdated: 2026-06-01T14:34:19.813Z
 tags:
   - WritingWorkshop
 coverImage: "[[UAA Logo]]"
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/eportfolio feedback 13062023
 ---
 
 # eportfolio feedback 13062023
@@ -192,3 +196,8 @@ UPTC credit;
 2: Include separate pages within your eportfolio for each type of artifact (assignment).
 
 ## Rafael
+
+
+
+
+

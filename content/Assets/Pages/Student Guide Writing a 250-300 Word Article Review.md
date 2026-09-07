@@ -10,6 +10,10 @@ tags:
   - Writing
   - Research
 coverImage: "[Untitled](../Images/Untitled%20(15).md)"
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Student Guide Writing a 250-300 Word Article Review
 ---
 
 # Student Guide: Writing a 250-300 Word Article Review
@@ -173,3 +177,4 @@ Before submitting your review, make sure that a reader could understand:
 - why the article is relevant to your own research.
 
 The purpose of the review is not simply to prove that you read the article. It is to show that you can **identify, understand, evaluate, and use research that contributes to your developing study**.
+

@@ -9,6 +9,10 @@ createdAt: 2025-03-26T12:58:24.863Z
 lastUpdated: 2026-06-28T12:57:40.883Z
 tags: []
 coverImage: "[Untitled](../Images/Untitled%20(132).md)"
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Firefox install
 ---
 
 # Firefox install
@@ -29,3 +33,4 @@ echo "deb [signed-by=/usr/share/keyrings/firefoxpwa-keyring.gpg] https://package
 sudo apt update
 sudo apt install firefoxpwa
 ```
+

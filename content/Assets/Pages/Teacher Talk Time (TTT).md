@@ -9,6 +9,10 @@ formalDefinition: The amount of time the teacher spends speaking during a lesson
 relatedTerms: []
 pages: []
 notes: []
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Teacher Talk Time (TTT)
 ---
 
 # Teacher Talk Time (TTT)
@@ -18,3 +22,4 @@ Monitoring yourself to ensure your explanations are concise and not dominating t
 
 **Common Misconception:**
 All TTT is bad.
+

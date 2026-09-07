@@ -21,6 +21,8 @@ relations: []
 note:
   - "[[DA Module 4 Note]]"
 banner: https://wallpaperaccess.com/full/256070.jpg
+gh-publish: true
+gh-path: content/Current Courses/Discourse Analysis/Modules
 ---
 
 # DA - Module 4: Theme, Rheme, and the Flow of Information

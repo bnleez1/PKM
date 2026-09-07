@@ -11,6 +11,10 @@ tags:
   - Linux
   - Ubuntu
 coverImage:
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Connectivity issues installing UbuntuDDE
 ---
 
 # Connectivity issues installing UbuntuDDE
@@ -120,3 +124,6 @@ Disable Secure Boot if necessary.
 If none of the above works, try booting another Linux distro (Ubuntu, Fedora, etc.) from a Live USB and see if the Ethernet works. This can help determine if it’s a hardware or software issue.
 
 If none of these solutions work, let me know what network card you have (lspci -nnk | grep -iA3 net output) so we can troubleshoot further!
+
+
+

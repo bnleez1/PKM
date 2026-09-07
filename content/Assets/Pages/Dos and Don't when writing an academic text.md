@@ -9,6 +9,10 @@ lastUpdated: 2026-06-02T12:14:38.091Z
 tags:
   - AcademicWriting
 coverImage: "[Untitled](../Images/Untitled%20(53).md)"
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Dos and Don't when writing an academic text
 ---
 
 # Dos and Don't when writing an academic text
@@ -120,3 +124,8 @@ coverImage: "[Untitled](../Images/Untitled%20(53).md)"
 - [How to Use ‘‘et al.’’ in APA Style (7th Edition)](https://besteditproof.com/en/academy/how-to-use-et-al-in-apa-style-7th-edition)
 
 - [Parenthetical versus narrative in-text citations](https://apastyle.apa.org/style-grammar-guidelines/citations/basic-principles/parenthetical-versus-narrative)
+
+
+
+
+

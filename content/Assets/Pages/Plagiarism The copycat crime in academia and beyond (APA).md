@@ -12,6 +12,10 @@ relatedTerms: []
 pages:
   - "[[Writing error code list]]"
 notes: []
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Plagiarism The copycat crime in academia and beyond (APA)
 ---
 
 # Plagiarism: The copycat crime in academia and beyond (APA)
@@ -119,3 +123,4 @@ Again, plagiarism is the act of using someone else's work or ideas without givin
 7. **Source-Based Plagiarism**: Involves misrepresenting the content or context of your sources. This could be citing a source that doesn't exist, or inaccurately summarizing a source's content.
 
 By understanding and avoiding these types of plagiarism, you can maintain academic integrity and the trust of your peers and superiors.
+

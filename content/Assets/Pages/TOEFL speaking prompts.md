@@ -9,6 +9,10 @@ lastUpdated: 2026-06-14T18:33:36.704Z
 tags:
   - Speaking
 coverImage:
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/TOEFL speaking prompts
 ---
 
 # TOEFL speaking prompts
@@ -65,3 +69,4 @@ coverImage:
 30.  Explain the professor's viewpoint on a problem presented in the listening passage and how it relates to the conversation.
 
 - Practice responding to these prompts to improve your speaking skills and become familiar with the expectations of the TOEFL speaking section.
+

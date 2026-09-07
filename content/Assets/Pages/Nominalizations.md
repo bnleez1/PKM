@@ -10,6 +10,10 @@ tags:
   - Writing
   - Vocabulary
 coverImage: "[Untitled](../Images/Untitled%20(66).md)"
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Nominalizations
 ---
 
 # Nominalizations
@@ -57,3 +61,4 @@ Nominalizations occur when verbs (actions) or adjectives (descriptions) are turn
 **Conclusion**
 
 While nominalizations have their place in academic writing, their overuse can lead to unclear, wordy, and less engaging prose. By identifying and revising nominalizations, writers can improve the clarity, conciseness, and readability of their texts. Remember to use active voice, be specific, and read your writing aloud to catch and correct nominalizations. With practice, avoiding nominalizations will become a natural part of your writing process, leading to more effective and impactful academic texts.
+

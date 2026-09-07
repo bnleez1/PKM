@@ -9,6 +9,10 @@ formalDefinition: An utterance that inherently threatens the positive or negativ
 relatedTerms: []
 pages: []
 notes: []
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Face-Threatening Act (FTA)
 ---
 
 # Face-Threatening Act (FTA)
@@ -18,3 +22,4 @@ Practicing how to politely disagree with a colleague without causing offense.
 
 **Common Misconception:**
 Only insults are FTAs.
+

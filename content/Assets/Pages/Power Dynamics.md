@@ -9,6 +9,10 @@ formalDefinition: The ways in which control and influence are negotiated through
 relatedTerms: []
 pages: []
 notes: []
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Power Dynamics
 ---
 
 # Power Dynamics
@@ -18,3 +22,4 @@ Empowering learners to recognize and respond to language that patronizes or marg
 
 **Common Misconception:**
 Power is only held by the teacher.
+

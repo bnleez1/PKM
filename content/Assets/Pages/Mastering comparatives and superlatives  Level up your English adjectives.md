@@ -1,13 +1,18 @@
 ---
-type: 'Page'
-title: 'Mastering comparatives and superlatives:  Level up your English adjectives'
-aliases: null
-description: null
+type: Page
+title: "Mastering comparatives and superlatives:  Level up your English adjectives"
+aliases:
+description:
 icon: 🖋️
-createdAt: '2025-01-02T18:38:44.543Z'
-lastUpdated: '2026-06-03T12:26:55.956Z'
-tags: [GrammarSyntax]
-coverImage: '[Untitled](../Images/Untitled%20(13).md)'
+createdAt: 2025-01-02T18:38:44.543Z
+lastUpdated: 2026-06-03T12:26:55.956Z
+tags:
+  - GrammarSyntax
+coverImage: "[Untitled](../Images/Untitled%20(13).md)"
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Mastering comparatives and superlatives  Level up your English adjectives
 ---
 
 # Mastering comparatives and superlatives:  Level up your English adjectives

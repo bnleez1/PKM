@@ -9,6 +9,10 @@ lastUpdated: 2026-06-24T16:43:28.775Z
 tags:
   - UaaServicioSocial
 coverImage: "[2017-01-08 08.35.08](../Images/2017-01-08%20083508.md)"
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Servicio Social - UAA (depto de idiomas)
 ---
 
 # Servicio Social - UAA (depto. de idiomas)

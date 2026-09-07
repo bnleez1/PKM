@@ -9,6 +9,10 @@ lastUpdated: 2026-06-16T13:17:19.953Z
 tags:
   - Listening
 coverImage: "[Untitled](../Images/Untitled%20(338).md)"
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Activities For Listening Comprehension
 ---
 
 # Activities For Listening Comprehension 
@@ -80,3 +84,4 @@ coverImage: "[Untitled](../Images/Untitled%20(338).md)"
         - Logic puzzles
 
         - Brain teasers
+

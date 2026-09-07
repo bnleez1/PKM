@@ -9,6 +9,10 @@ lastUpdated: 2025-01-02T12:46:14.486Z
 tags:
   - Linux
 coverImage:
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Screen taring in linux
 ---
 
 # Screen taring in linux
@@ -22,3 +26,5 @@ coverImage:
 ```shell
 sudo apt remove xserver-xorg-video-intel
 ```
+
+

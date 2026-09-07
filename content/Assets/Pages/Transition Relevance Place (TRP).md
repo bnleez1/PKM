@@ -9,6 +9,10 @@ formalDefinition: The point in a conversation where a change of speaker naturall
 relatedTerms: []
 pages: []
 notes: []
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Transition Relevance Place (TRP)
 ---
 
 # Transition Relevance Place (TRP)
@@ -18,3 +22,4 @@ Teaching learners to recognize intonation drops and pauses as signals that it is
 
 **Common Misconception:**
 TRPs are explicitly announced.
+

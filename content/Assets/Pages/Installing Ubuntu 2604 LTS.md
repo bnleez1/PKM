@@ -10,6 +10,10 @@ lastUpdated: 2026-08-20T12:21:17.048Z
 tags:
   - Linux
 coverImage:
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Installing Ubuntu 2604 LTS
 ---
 
 # Installing Ubuntu 26.04 LTS
@@ -2658,3 +2662,4 @@ coverImage:
     ```text
     gsettings set org.gnome.shell.extensions.dash-to-dock click-action 'minimize'
     ```
+

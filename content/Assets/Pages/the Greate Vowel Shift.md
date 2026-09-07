@@ -9,6 +9,12 @@ lastUpdated: 2025-01-02T12:11:52.549Z
 tags:
   - HistoryOfEnglish
 coverImage: "[Untitled](../Images/Untitled%20(53).md)"
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/the Greate Vowel Shift
 ---
 
 # the Greate Vowel Shift
+
+

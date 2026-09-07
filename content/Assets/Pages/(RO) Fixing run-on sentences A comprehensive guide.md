@@ -12,6 +12,10 @@ relatedTerms:
 pages:
   - "[[Writing error code list]]"
 notes: []
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/(RO) Fixing run-on sentences A comprehensive guide
 ---
 
 # (RO) Fixing run-on sentences: A comprehensive guide
@@ -176,3 +180,5 @@ Write two original run-on sentences and then correct them.
     4. We visited the museum yesterday. It was really interesting.
 
     **Part C (example correction):** Last weekend, we went hiking. The weather was perfect and sunny. We packed sandwiches, fruits, and water, and we left early in the morning. The hike was challenging, so we were tired but happy. At the top of the mountain, the view was incredible, and we took lots of photos. Hiking is a great activity because it keeps us healthy and connected to nature.
+
+

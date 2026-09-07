@@ -9,6 +9,10 @@ formalDefinition: Words or phrases (e.g., 'well', 'so', 'anyway') that organize 
 relatedTerms: []
 pages: []
 notes: []
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Discourse Markers
 ---
 
 # Discourse Markers
@@ -18,3 +22,4 @@ Teaching students to use 'by the way' to change a topic, or 'anyway' to return t
 
 **Common Misconception:**
 They are meaningless filler words.
+

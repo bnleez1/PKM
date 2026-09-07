@@ -10,6 +10,10 @@ lastUpdated: 2026-06-28T12:56:41.112Z
 tags:
   - WritingDiscourse
 coverImage:
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Anaphoric, cataphoric, and exophoric referencing
 ---
 
 # Anaphoric, cataphoric, and exophoric referencing
@@ -101,3 +105,4 @@ In this paragraph:
 - **Anaphoric references**: Words like “These studies,” “These techniques,” “This collaboration,” “This hope,” and “Their work” refer back to previously mentioned concepts.
 
 - **Cataphoric references**: Phrases like “Although it may seem daunting,” “Despite the challenges,” and “By investing in research and development” refer to ideas that are explained later in the sentence or paragraph.
+

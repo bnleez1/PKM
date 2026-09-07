@@ -10,6 +10,10 @@ lastUpdated: 2026-06-28T12:56:11.954Z
 tags:
   - GrammarSyntax
 coverImage: "[Untitled](../Images/Untitled%20(21).md)"
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Finite verbs
 ---
 
 # Finite verbs
@@ -163,3 +167,4 @@ Finite verbs are essential for constructing meaningful sentences. They provide i
 ### Conclusion
 
 Finite verbs are a vital component of English grammar, helping to convey actions, states, and times. Understanding their categories and functions enhances our ability to communicate effectively. By mastering finite verbs, we can construct clear and precise sentences, making our communication more effective and engaging.
+

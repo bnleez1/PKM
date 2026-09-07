@@ -10,6 +10,10 @@ lastUpdated: 2026-06-28T12:56:31.006Z
 tags:
   - GrammarSyntax
 coverImage: "[Untitled](../Images/Untitled%20(13).md)"
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Absolute phrases
 ---
 
 # Absolute phrases
@@ -79,3 +83,4 @@ Here are examples of absolute phrases in different contexts:
 - The rain pouring down, the picnic was moved indoors.
 
 Absolute phrases contribute to the richness of descriptions in sentences by adding layers of detail, context, and atmosphere. They help to paint a more vivid picture of the situations and actions being discussed, enhancing the reader's engagement with the text.
+

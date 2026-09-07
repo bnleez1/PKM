@@ -14,6 +14,10 @@ tags:
   - GrammarSyntax
   - GenAI
 coverImage: "[Untitled](../Images/Untitled%20(237).md)"
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Strategies for Enhancing Academic Originality and Precision
 ---
 
 # Strategies for Enhancing Academic Originality and Precision

@@ -9,6 +9,10 @@ formalDefinition: A cohesive device where a word refers forward to an entity men
 relatedTerms: []
 pages: []
 notes: []
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Cataphora
 ---
 
 # Cataphora
@@ -18,3 +22,4 @@ Explaining narrative hooks (e.g., 'When he arrived, John was shocked') to advanc
 
 **Common Misconception:**
 It is rarely used in real English.
+

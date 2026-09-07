@@ -9,6 +9,10 @@ lastUpdated: 2026-08-21T12:58:33.287Z
 tags:
   - Rubrics
 coverImage: "[Untitled](../Images/Untitled%20(135).md)"
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Unit I Initial Research Proposal – Analytic Rubric
 ---
 
 # Unit I Initial Research Proposal – Analytic Rubric
@@ -63,3 +67,4 @@ Use of spelling dictionaries, standard word processors, and non-generative refer
 ## Important Note
 
 This rubric does **not** assess article selection, source integration, or APA references because **scholarly articles are not required for this initial Unit I proposal**. Those expectations can be introduced in later stages of the course.
+

@@ -9,6 +9,10 @@ formalDefinition: Paired utterances produced by two different speakers (e.g., gr
 relatedTerms: []
 pages: []
 notes: []
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Adjacency Pairs
 ---
 
 # Adjacency Pairs
@@ -18,3 +22,4 @@ Teaching basic functional dialogues so learners have automatic responses to stan
 
 **Common Misconception:**
 Any two sentences spoken in a row.
+

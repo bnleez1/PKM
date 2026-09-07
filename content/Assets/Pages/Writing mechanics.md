@@ -8,6 +8,10 @@ createdAt: 2026-07-22T22:01:57.885Z
 lastUpdated: 2026-07-22T22:02:16.884Z
 tags: []
 coverImage:
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Writing mechanics
 ---
 
 # Writing mechanics
@@ -97,3 +101,4 @@ For each paragraph, students complete a brief self-check before submitting:
 This transforms the literature review into a deliberate practice sequence rather than simply a large writing assignment.
 
 One refinement I would suggest is slightly changing the order so that the first six paragraphs focus on sentence-level mechanics (grammar, punctuation, APA citation), the next four on paragraph cohesion (transitions, unity, coherence), and the final three on scholarly style (conciseness, bias-free language, voice). This progression better matches how novice academic writers develop competence and aligns well with the process-oriented methodology described in your syllabus.
+

@@ -9,6 +9,10 @@ lastUpdated: 2026-06-12T20:41:23.324Z
 tags:
   - GrammarSyntax
 coverImage: "[Untitled](../Images/Untitled%20(13).md)"
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Understanding Reported Speech A Guide for English Language Learners
 ---
 
 # Understanding Reported Speech: A Guide for English Language Learners
@@ -232,3 +236,4 @@ Reported speech is a fundamental aspect of English that allows you to convey wha
 12. **Future Perfect Continuous**
 *   **Direct Speech**: “I will have been working here for ten years next month,” he said.
 *   **Reported Speech**: He said that he would have been working there for ten years next month.
+

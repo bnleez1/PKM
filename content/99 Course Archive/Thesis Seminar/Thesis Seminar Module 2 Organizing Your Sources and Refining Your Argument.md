@@ -19,6 +19,8 @@ studentDeliverableS: []
 semester:
 relations: []
 note: []
+gh-publish: true
+gh-path: content/99 Course Archive/Thesis Seminar
 ---
 
 # Thesis Seminar Module 2: Organizing Your Sources and Refining Your Argument

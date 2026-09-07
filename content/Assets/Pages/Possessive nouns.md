@@ -10,6 +10,10 @@ lastUpdated: 2026-06-28T12:56:21.274Z
 tags:
   - GrammarSyntax
 coverImage: "[Untitled](../Images/Untitled%20(21).md)"
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Possessive nouns
 ---
 
 # Possessive nouns
@@ -97,3 +101,4 @@ Possessive nouns are nouns that show ownership or a relationship between two thi
 - The Kardashians' reality show is wildly popular.
 
 - The Williamses' vacation home is in the mountains.
+

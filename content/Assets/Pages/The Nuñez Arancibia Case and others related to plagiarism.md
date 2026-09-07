@@ -12,6 +12,10 @@ tags:
   - Writing
   - Plagiarism
 coverImage: "[Untitled](../Images/Untitled%20(13).md)"
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/The Nuñez Arancibia Case and others related to plagiarism
 ---
 
 # The Nuñez Arancibia Case and others related to plagiarism
@@ -73,3 +77,4 @@ While the other cases also involved significant consequences for the individuals
 
 
 💡 **Conclusion**: These cases serve as reminders of the importance of academic integrity and the serious consequences of plagiarism. They also highlight the increasing scrutiny and technological advances in detecting plagiarism, making it more difficult to go unnoticed.
+

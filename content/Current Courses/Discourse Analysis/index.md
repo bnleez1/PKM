@@ -1,6 +1,8 @@
 ---
 title: Discourse Analysis
 description: Course materials, weekly modules, assignments, and resources for Discourse Analysis
+gh-publish: true
+gh-path: content/Current Courses/Discourse Analysis
 ---
 # Discourse Analysis
 

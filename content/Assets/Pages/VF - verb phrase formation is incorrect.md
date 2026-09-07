@@ -9,6 +9,10 @@ relatedTerms: []
 pages:
   - "[[Writing error code list]]"
 notes: []
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/VF - verb phrase formation is incorrect
 ---
 
 # VF - verb phrase formation is incorrect
@@ -75,3 +79,4 @@ When you review your rough draft, look at the complex verbs and check them again
 | **Passive Voice** | 'Be' verb + past participle   | It was build.     | It **was built**.     |
 
 Getting a "VF" error means you are taking risks with your writing. You are moving away from simple subject-verb sentences and attempting complex, academic timeframes. Keep the formulas nearby as you edit, and those structures will soon become second nature.
+

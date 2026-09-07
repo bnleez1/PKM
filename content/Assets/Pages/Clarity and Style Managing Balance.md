@@ -9,6 +9,10 @@ lastUpdated: 2026-07-09T16:40:48.821Z
 tags:
   - Writing
 coverImage: "[Untitled](../Images/Untitled%20(121).md)"
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Clarity and Style Managing Balance
 ---
 
 # Clarity and Style: Managing Balance
@@ -240,3 +244,4 @@ Linguistic stance: how certain the writer is (hedging ↔ boosting).
 Evidence strength: how much support the claim actually has.
 
 The strongest academic prose aligns all three. A central finding is placed in a structurally prominent position, expressed with an appropriate level of confidence, and supported by evidence that warrants that confidence. When these dimensions are aligned, the writing is clear, persuasive, and intellectually honest.
+

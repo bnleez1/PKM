@@ -10,6 +10,10 @@ lastUpdated: 2026-06-28T12:57:51.498Z
 tags:
   - Listening
 coverImage: "[Untitled](../Images/Untitled%20(303).md)"
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Learning processes that promote listening comprehension
 ---
 
 # Learning processes that promote listening comprehension
@@ -243,3 +247,4 @@ Repeat a word, sentence, segment, or the complete text over and over again, moni
 1. Prepare students to react by performing an action beyond identifying “targets”.
 
 2. Students select the order of listening from a set of audios/videos which in conjunction complete a whole message.
+

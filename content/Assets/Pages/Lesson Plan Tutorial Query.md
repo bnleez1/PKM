@@ -9,6 +9,10 @@ lastUpdated: 2026-07-23T15:59:03.817Z
 tags:
   - Capacities
 coverImage: "[Untitled](../Images/Untitled%20(106).md)"
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Lesson Plan Tutorial Query
 ---
 
 # Lesson Plan Tutorial Query
@@ -199,3 +203,4 @@ coverImage: "[Untitled](../Images/Untitled%20(106).md)"
     Capacities specifically supports linking to a saved query by name and changing its link view to **Embed**. (Capacities Documentation)
 
     [1]: https://docs.capacities.io/reference/queries?utm_source=chatgpt.com "Queries - Capacities Documentation"
+

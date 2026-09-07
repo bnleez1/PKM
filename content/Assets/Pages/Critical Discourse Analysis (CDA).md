@@ -9,6 +9,10 @@ formalDefinition: The study of how language reflects, reproduces, and challenges
 relatedTerms: []
 pages: []
 notes: []
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Critical Discourse Analysis (CDA)
 ---
 
 # Critical Discourse Analysis (CDA)
@@ -18,3 +22,4 @@ Analyzing news headlines with learners to see how passive voice can hide who is 
 
 **Common Misconception:**
 It is only for political speeches.
+

@@ -9,6 +9,10 @@ lastUpdated: 2026-07-07T18:20:57.373Z
 tags:
   - Linux
 coverImage: "[Untitled](../Images/Untitled%20(304).md)"
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Installing NextCloud
 ---
 
 # Installing NextCloud
@@ -1628,3 +1632,4 @@ coverImage: "[Untitled](../Images/Untitled%20(304).md)"
     - **For Podcasting/Video:** You can edit these heavy files right on the external drive. The desktop client handles the upload asynchronously, meaning your editing software will never freeze or lock up waiting for a network transfer to complete.
 
     Since this background client relies on the external drive being present to function correctly, do you want to configure Linux Mint to automatically mount that specific drive at the exact same location every time the PC boots up via `fstab`, ensuring the Nextcloud client never gets confused?
+

@@ -20,6 +20,10 @@ studentDeliverableS: []
 semester: Fall 2026
 relations: []
 note: []
+gh-publish: true
+gh-path: content/Current Courses/Listening I/Modules
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Listening I/Modules/L-Chapter 13 Listening as a Member of a Team
 ---
 
 # L-Chapter 13: Listening as a Member of a Team
@@ -107,3 +111,4 @@ This week’s chapter prepares you to hear not only what team members say but wh
 ## 🗓️ Thursday
 
 ## 🗓️ Friday
+

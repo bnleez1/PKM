@@ -9,6 +9,10 @@ lastUpdated: 2026-06-14T18:33:46.384Z
 tags:
   - CreativeWriting
 coverImage:
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Figurative language devices
 ---
 
 # Figurative language devices
@@ -72,3 +76,4 @@ Figurative language refers to a wide range of [literary devices](https://literar
 [42 Idiom Origins - mental_floss on YouTube (Ep. 29)](https://youtu.be/WW5FDhsHkUg)[42 Idiom Origins - mental_floss on YouTube (Ep. 29) - Notes](../Weblinks/42%20Idiom%20Origins%20-%20mental_floss%20on%20YouTube%20(Ep%2029)%20(1).md)
 
 [[Examples of figurative language]]
+

@@ -9,6 +9,10 @@ formalDefinition: Halliday’s model viewing language as a network of interconne
 relatedTerms: []
 pages: []
 notes: []
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Systemic Functional Linguistics (SFL)
 ---
 
 # Systemic Functional Linguistics (SFL)
@@ -18,3 +22,4 @@ Teaching grammar based on its function (e.g., using passive voice to sound more 
 
 **Common Misconception:**
 It is just another set of prescriptive grammar rules.
+

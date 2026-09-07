@@ -10,6 +10,10 @@ lastUpdated: 2026-06-28T12:56:11.932Z
 tags:
   - GrammarSyntax
 coverImage: "[Untitled](../Images/Untitled%20(21).md)"
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Nominal (noun) clauses
 ---
 
 # Nominal (noun) clauses
@@ -73,3 +77,4 @@ Here are some tips for using nominal clauses effectively:
 - Be sure to use the correct introductory word for the type of nominal clause you are creating.
 
 - Make sure that the nominal clause is grammatically correct and that it makes sense in the context of the sentence.
+

@@ -19,6 +19,10 @@ studentDeliverableS: []
 semester:
 relations: []
 note: []
+gh-publish: true
+gh-path: content/99 Course Archive/Thesis Seminar
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/99 Course Archive/Thesis Seminar/Thesis Seminar Module 7 Method II
 ---
 
 # Thesis Seminar Module 7: Method II
@@ -90,3 +94,4 @@ note: []
 - Which of the following designs best fits your study: Phenomenology_Diving into a lived experience, Case study_ Delving deep into specifics, or Narrative research?
 
 - Using AI to generate ideas for creating a questionnaire
+

@@ -17,6 +17,10 @@ aiUse: []
 coverImage:
 durationHours:
 grouping: Individual
+gh-publish: true
+gh-path: content/Current Courses/Academic Writing
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Academic Writing/Unit I Initial Research Proposal
 ---
 
 # Unit I Initial Research Proposal
@@ -189,3 +193,4 @@ The assignment will be evaluated using the linked **Unit I Initial Research Prop
 - **50 points:** grammatical accuracy and sentence control; academic vocabulary and register; clarity, precision, and concision; coherence and cohesion; mechanics and readability.
 
 **Important:** Article selection, source integration, and APA references are **not assessed in this initial proposal** because articles are not required at this stage.
+

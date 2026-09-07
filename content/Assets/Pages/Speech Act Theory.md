@@ -9,6 +9,10 @@ formalDefinition: The idea that speaking is acting; language is used to perform 
 relatedTerms: []
 pages: []
 notes: []
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Speech Act Theory
 ---
 
 # Speech Act Theory
@@ -18,3 +22,4 @@ Categorizing functional language lessons (e.g., 'How to make an apology' rather 
 
 **Common Misconception:**
 Words only transmit information.
+

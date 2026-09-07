@@ -19,6 +19,10 @@ studentDeliverableS: []
 semester: Fall 2026
 relations: []
 note: []
+gh-publish: true
+gh-path: content/Current Courses/Writing I/Modules
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Writing I/Modules/W-Chapter 12 Editing While Preserving Your Voice
 ---
 
 # W-Chapter 12: Editing While Preserving Your Voice
@@ -107,3 +111,4 @@ In the unit reflection, identify one skill you can transfer to argumentative wri
 ## 🗓️ Thursday
 
 ## 🗓️ Friday
+

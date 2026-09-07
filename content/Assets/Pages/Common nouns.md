@@ -9,6 +9,10 @@ lastUpdated: 2026-06-17T19:16:23.753Z
 tags:
   - GrammarSyntax
 coverImage: "[Untitled](../Images/Untitled%20(21).md)"
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Common nouns
 ---
 
 # Common nouns
@@ -92,3 +96,4 @@ These nouns represent concepts, emotions, or intangible things:
 **Common Nouns: The Glue of Everyday Speech**
 
 As you can see, common nouns are incredibly versatile and essential for conveying meaning in our daily lives. They help us describe the world around us, express our thoughts and feelings, and connect with others. So the next time you use a word like "friend," "park," or "happiness," take a moment to appreciate the humble common noun and the vital role it plays in our language.
+

@@ -11,6 +11,10 @@ relatedTerms: []
 pages:
   - "[[Writing error code list]]"
 notes: []
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/(BH) Boosting and the nuances of hedging
 ---
 
 # (BH) Boosting and the nuances of hedging
@@ -111,3 +115,4 @@ Hedging is a linguistic technique used in writing and speech to express caution 
 ## Conclusion
 
 Hedging is an important tool for writers who wish to convey their ideas accurately while acknowledging the complexity of their subject or the limitations of their knowledge. By using hedging appropriately, writers can make their writing more nuanced, credible, and respectful of different perspectives. It’s important, however, not to overuse hedging, as it can make statements overly vague or imply a lack of confidence in your own work. Balance is key.
+

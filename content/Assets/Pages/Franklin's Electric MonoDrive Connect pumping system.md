@@ -10,6 +10,10 @@ lastUpdated: 2026-06-28T12:57:40.913Z
 tags:
   - Personal
 coverImage:
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Franklin's Electric MonoDrive Connect pumping system
 ---
 
 # Franklin's Electric MonoDrive Connect pumping system
@@ -115,3 +119,4 @@ Key Components and Functionality:
 
 - Professional installation: It is highly recommended that a qualified professional install and service these systems.
 I hope this overview is helpful.
+

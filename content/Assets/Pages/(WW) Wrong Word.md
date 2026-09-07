@@ -9,6 +9,10 @@ relatedTerms: []
 pages:
   - "[[Writing error code list]]"
 notes: []
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/(WW) Wrong Word
 ---
 
 # (WW) Wrong Word
@@ -78,3 +82,4 @@ When you get your paper back and see **WW**, don't just guess another word. Foll
 4. **Ask for the nuance.** If you are stuck between two words, ask your teacher: *"What is the difference in feeling between X and Y?"*
 
 Making a "Wrong Word" mistake means you are pushing yourself to use new vocabulary. It is a sign of growth, not failure. By understanding *why* the word didn't work, you add a more precise, powerful tool to your language toolkit.
+

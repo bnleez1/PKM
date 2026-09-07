@@ -16,6 +16,10 @@ aiUse: []
 coverImage: "[Untitled](../Images/Untitled%20(1).md)"
 durationHours:
 grouping:
+gh-publish: true
+gh-path: content/Current Courses/Writing I/Assignments
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Writing I/Assignments/Writing I Week 1 Assignment
 ---
 
 # Writing I Week 1 Assignment
@@ -51,3 +55,4 @@ grouping:
 1. Attached Word document to Writing I Week 1 Assignment.
 
 2. Submit text of your paragraph for this week.
+

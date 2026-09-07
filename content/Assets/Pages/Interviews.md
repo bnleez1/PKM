@@ -10,6 +10,10 @@ lastUpdated: 2026-06-28T12:57:31.018Z
 tags:
   - Research
 coverImage: "[Untitled](../Images/Untitled%20(278).md)"
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Interviews
 ---
 
 # Interviews
@@ -415,3 +419,4 @@ Choosing the right interview type depends on the research question, the resource
 - "I really appreciate your time and willingness to be so open."
 
 These examples provide a clearer picture of how each interview type translates into a practical guide. The key difference is the level of pre-determined structure and the interviewer's role in guiding the conversation.
+

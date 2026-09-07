@@ -10,6 +10,10 @@ tags:
   - GenAI
   - TeachingPracticum
 coverImage:
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/GenAI Integrated Guide
 ---
 
 # GenAI Integrated Guide
@@ -189,3 +193,4 @@ coverImage:
     - **For Discourse Analysis:** You could add an assignment where students actively critique the linguistic choices, biases, and structures of AI-generated text as part of the curriculum itself.
 
 - How to employ document
+

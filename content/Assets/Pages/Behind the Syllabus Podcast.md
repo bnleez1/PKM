@@ -10,6 +10,10 @@ lastUpdated: 2026-07-18T02:43:09.244Z
 tags:
   - PodcastEpisodes
 coverImage: "[Untitled](../Images/Untitled%20(101).md)"
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Behind the Syllabus Podcast
 ---
 
 # Behind the Syllabus Podcast

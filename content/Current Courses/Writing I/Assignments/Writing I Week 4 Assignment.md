@@ -16,6 +16,10 @@ aiUse: []
 coverImage: "[Untitled](../Images/Untitled%20(1).md)"
 durationHours:
 grouping: Pairs
+gh-publish: true
+gh-path: content/Current Courses/Writing I/Assignments
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Writing I/Assignments/Writing I Week 4 Assignment
 ---
 
 # Writing I Week 4 Assignment
@@ -61,3 +65,4 @@ grouping: Pairs
 ## Deliverable to Teams Assignment
 
 1. Attached Word document to Teams assignment.
+

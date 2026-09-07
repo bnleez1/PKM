@@ -19,6 +19,10 @@ studentDeliverableS: []
 semester:
 relations: []
 note: []
+gh-publish: true
+gh-path: content/99 Course Archive/Writing II
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/99 Course Archive/Writing II/Writing II Module 9
 ---
 
 # Writing II Module 9
@@ -318,3 +322,4 @@ Your goal is to complete your first draft (expository five-paragraph essay) by M
 1. Continue working on Writing II: Introduction Paragraph Task and Conclusion Paragraph.
 
 2. Request feedback as needed.
+

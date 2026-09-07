@@ -10,6 +10,10 @@ lastUpdated: 2026-06-28T12:56:30.939Z
 tags:
   - GrammarSyntax
 coverImage: "[Untitled](../Images/Untitled%20(13).md)"
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Nominal (noun) phrases
 ---
 
 # Nominal (noun) phrases
@@ -40,3 +44,4 @@ coverImage: "[Untitled](../Images/Untitled%20(13).md)"
     - Seen as the girl in the red dress, Sarah felt like a cliché. - object of the preposition
 
     - To see the girl in the red dress brought back memories. - object of the infinitive phrase within the subject, “To see the girl in the red dress…”
+

@@ -9,6 +9,10 @@ lastUpdated: 2026-06-02T12:14:38.494Z
 tags:
   - Reading
 coverImage: "[Untitled](../Images/Untitled%20(117).md)"
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Unit I Crafting a Research Article for Academic Journals
 ---
 
 # Unit I: Crafting a Research Article for Academic Journals
@@ -133,3 +137,4 @@ By following these guidelines, you can increase the likelihood of your article b
 - [[Types of transitions]], [[Types of clauses]], [Mastering sentence types: A guide to simple, compound, complex, and compound-complex sentences](Mastering%20sentence%20types%20A%20guide%20to%20simple,%20compound,%20complex,%20and%20compound-com.md), [[Types of body paragraphs]]:
 
     - **Summary:** These resources provide guidance on using transitions, understanding different types of clauses and sentences, and structuring body paragraphs effectively.
+

@@ -10,6 +10,10 @@ lastUpdated: 2026-06-28T12:55:52.593Z
 tags:
   - DiscourseAnalysis
 coverImage: "[Untitled](../Images/Untitled%20(168).md)"
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/The Making Strange Tool
 ---
 
 # The Making Strange Tool
@@ -79,3 +83,4 @@ Now, let's apply the tool. We will pretend to be a researcher from a society wit
 By using the Making Strange Tool, a mundane ten-second interaction that we experience every day is revealed to be a dense, highly structured web of power dynamics, false solidarity, and spatial control.
 
 This is the core value of James Paul Gee’s approach to discourse analysis. Language is never neutral. Every time we speak, we are relying on a massive, invisible scaffolding of cultural assumptions to make our words make sense. The Making Strange Tool allows us to step off that scaffolding, turn around, and finally see how it is built. For teachers, researchers, and students of applied linguistics, it is a vital step toward critical awareness, reminding us that "normal" is just a set of rules we've forgotten we learned.
+

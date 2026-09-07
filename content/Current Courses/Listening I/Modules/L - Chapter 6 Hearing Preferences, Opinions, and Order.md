@@ -20,6 +20,10 @@ studentDeliverableS: []
 semester: Fall 2026
 relations: []
 note: []
+gh-publish: true
+gh-path: content/Current Courses/Listening I/Modules
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Listening I/Modules/L - Chapter 6 Hearing Preferences, Opinions, and Order
 ---
 
 # L - Chapter 6: Hearing Preferences, Opinions, and Order
@@ -103,3 +107,4 @@ CAADI Worksheet 6 should show a clear progression: identify the overall attitude
 ## 🗓️ Thursday
 
 ## 🗓️ Friday
+

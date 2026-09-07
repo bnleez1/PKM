@@ -19,6 +19,10 @@ studentDeliverableS: []
 semester:
 relations: []
 note: []
+gh-publish: true
+gh-path: content/99 Course Archive/Thesis Seminar
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/99 Course Archive/Thesis Seminar/Thesis Seminar Module 3 Building Your Argument with MEAL Structure and Source I
 ---
 
 # Thesis Seminar Module 3: Building Your Argument with MEAL Structure and Source Integration
@@ -164,3 +168,6 @@ note: []
 ## Video Archive
 
 [Thesis Seminar: Weekly recap 3](https://www.youtube.com/watch?v=VUFGoRwQO18)[Thesis Seminar: Weekly recap 3 - Notes](../Weblinks/Thesis%20Seminar%20Weekly%20recap%203%20(1).md)
+
+
+

@@ -9,6 +9,10 @@ lastUpdated: 2026-01-24T16:42:02.183Z
 tags:
   - WritingWithAi
 coverImage: "[Untitled](../Images/Untitled%20(134).md)"
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Embracing one’s originality and process in academic writing A guide for English
 ---
 
 # Embracing one’s originality and process in academic writing: A guide for English language learners
@@ -65,3 +69,4 @@ coverImage: "[Untitled](../Images/Untitled%20(134).md)"
 ## Are there times when AI can be used?
 
 Sure! Always work close with your instructor in finding ways to use AI in your subjects. For those times when AI is to be used, visit [AI Tips & Tools](https://www.notion.so/AI-Tips-Tools-bd0f28cd3d7a4664859f8cb520fd1272?pvs=21) to find various forms of technology in your pursues.
+

@@ -1,15 +1,18 @@
 ---
-type: Page
-collections: Public Pages
-title: How to format your academic paper in APA style (7th edition) using Microsoft Word
-aliases:
-description:
+type: 'Page'
+collections: 'Public Pages'
+title: >-
+  How to format your academic paper in APA style (7th edition) using Microsoft
+  Word
+aliases: null
+description: null
 icon: ✍️
-createdAt: 2025-01-10T13:32:26.970Z
-lastUpdated: 2026-06-28T12:56:41.166Z
-tags:
-  - Writing
-coverImage: "[Untitled](../Images/Untitled%20(29).md)"
+createdAt: '2025-01-10T13:32:26.970Z'
+lastUpdated: '2026-06-28T12:56:41.166Z'
+tags: [Writing]
+coverImage: '[Untitled](../Images/Untitled%20(29).md)'
+gh-publish: true
+gh-path: content/Assets/Pages
 ---
 
 # How to format your academic paper in APA style (7th edition) using Microsoft Word

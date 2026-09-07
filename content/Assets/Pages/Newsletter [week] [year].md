@@ -8,6 +8,10 @@ createdAt: 2025-01-04T13:35:35.064Z
 lastUpdated: 2025-01-04T13:37:08.830Z
 tags: []
 coverImage:
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Newsletter [week] [year]
 ---
 
 # Newsletter template
@@ -71,3 +75,4 @@ Here are four innovative newsletter design ideas tailored for instructors, train
 - **Visuals**: Use vibrant colors and dynamic layouts that inspire action, with motivational quotes and progress trackers to keep readers engaged.
 
 These designs can foster community, encourage engagement, and provide valuable resources while maintaining a professional and appealing look.
+

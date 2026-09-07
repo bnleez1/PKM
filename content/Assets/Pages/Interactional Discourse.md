@@ -9,6 +9,10 @@ formalDefinition: Language used primarily to maintain social relationships.
 relatedTerms: []
 pages: []
 notes: []
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Interactional Discourse
 ---
 
 # Interactional Discourse
@@ -18,3 +22,4 @@ Practicing small talk, chatting about the weekend, and building rapport with col
 
 **Common Misconception:**
 It has no structure or rules.
+

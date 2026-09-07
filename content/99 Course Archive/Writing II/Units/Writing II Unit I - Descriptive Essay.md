@@ -7,6 +7,10 @@ date: 2026-01-26T00:00:00.000Z -> 2026-02-27T00:00:00.000Z
 subject:
   - "[[Writing II]]"
 coverImage:
+gh-publish: true
+gh-path: content/99 Course Archive/Writing II/Units
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/99 Course Archive/Writing II/Units/Writing II Unit I - Descriptive Essay
 ---
 
 # Writing II Unit I - Descriptive Essay
@@ -168,3 +172,4 @@ Students will independently use their learning to:
 - **Revision checklists** and **self‑assessments** (global → local).
 
 - **Exit tickets** tied to essential questions (e.g., "What did you revise to sharpen the central impression today?").
+

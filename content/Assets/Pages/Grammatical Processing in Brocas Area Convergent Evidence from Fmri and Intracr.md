@@ -8,6 +8,10 @@ createdAt: 2023-06-04T14:01:51.073Z
 lastUpdated: 2025-01-02T12:46:14.507Z
 tags: []
 coverImage: "[Untitled](../Images/Untitled%20(211).md)"
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Grammatical Processing in Brocas Area Convergent Evidence from Fmri and Intracr
 ---
 
 # Grammatical Processing in Brocas Area: Convergent Evidence from Fmri and Intracranial Elect...
@@ -19,3 +23,4 @@ coverImage: "[Untitled](../Images/Untitled%20(211).md)"
 
 
 www.academia.edu
+

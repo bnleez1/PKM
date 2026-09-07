@@ -9,6 +9,10 @@ lastUpdated: 2026-06-17T19:16:54.174Z
 tags:
   - GrammarSyntax
 coverImage: "[Untitled](../Images/Untitled%20(21).md)"
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Nouns
 ---
 
 # Nouns
@@ -170,3 +174,4 @@ coverImage: "[Untitled](../Images/Untitled%20(21).md)"
         - **Separate Possession:** If two or more nouns possess different things, add the apostrophe and "s" to each noun.
 
             - **Example:** John's and Mary's cars (John has a car, and Mary has a car)
+

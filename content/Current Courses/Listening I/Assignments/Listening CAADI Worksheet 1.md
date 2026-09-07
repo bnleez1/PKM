@@ -18,6 +18,10 @@ aiUse: []
 coverImage: "[Untitled](../Images/Untitled%20(4).md)"
 durationHours:
 grouping:
+gh-publish: true
+gh-path: content/Current Courses/Listening I/Assignments
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Listening I/Assignments/Listening CAADI Worksheet 1
 ---
 
 # Listening CAADI Worksheet 1
@@ -61,3 +65,4 @@ Use this open assignment to complete independent English practice in the **CAADI
 ## Use of AI and Other Support
 
 Use dictionaries, reference materials, CAADI resources, and digital tools only when they support the learning goal of the worksheet. **Do not use GenAI to complete the worksheet for you.** If a worksheet explicitly permits GenAI, follow the instructions provided and document your use when required.
+

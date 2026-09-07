@@ -10,6 +10,10 @@ lastUpdated: 2026-06-28T12:57:21.294Z
 tags:
   - GrammarSyntax
 coverImage: "[Untitled](../Images/Untitled%20(129).md)"
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Gerunds after prepositions
 ---
 
 # Gerunds after prepositions
@@ -133,3 +137,4 @@ To master this structure, students should practice similar expressions that also
 - **be committed to + gerund** → She is committed to improving her English.
 
 By remembering that "looking forward to" always requires a gerund, English learners can avoid this common mistake and improve their TOEFL grammar skills.
+

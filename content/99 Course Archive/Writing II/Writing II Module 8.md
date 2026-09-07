@@ -19,6 +19,10 @@ studentDeliverableS: []
 semester:
 relations: []
 note: []
+gh-publish: true
+gh-path: content/99 Course Archive/Writing II
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/99 Course Archive/Writing II/Writing II Module 8
 ---
 
 # Writing II Module 8
@@ -364,3 +368,4 @@ Your goal is to complete your first draft (expository five-paragraph essay) by M
 2. Begin Writing II: Body Paragraph 3 Task
 
 3. Request feedback as needed (in class and outside of class).
+

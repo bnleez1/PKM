@@ -19,6 +19,10 @@ studentDeliverableS: []
 semester:
 relations: []
 note: []
+gh-publish: true
+gh-path: content/99 Course Archive/Writing II
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/99 Course Archive/Writing II/Writing II Module 12
 ---
 
 # Writing II Module 12
@@ -769,3 +773,4 @@ Today’s class is designed for those who either missed class on April 13, 2026 
 5. Once you have completed your five-sentence paragraph, write below your paragraph the three parts of an introduction paragraph.
 
 6. Hand in your work in class today - there is nothing to submit to Microsoft Teams.
+

@@ -7,6 +7,10 @@ formalDefinition:
 relatedTerms: []
 pages: []
 notes: []
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/New Word
 ---
 
 # New Word
@@ -60,3 +64,4 @@ The actual "Blocks" body of the Capacities object is where you can bring the ter
 While in the **Object settings**, look for the **Page Layout** option. Set it to **Encyclopedia**. This layout takes all the properties you just created (Course, Spanish Equivalent, Theme) and neatly stacks them in a right-hand sidebar. This keeps the main body of the page clean and visually uncluttered for your trainees, ensuring the focus remains on the core explanation and examples.
 
 What is the next step for building out the glossary?
+

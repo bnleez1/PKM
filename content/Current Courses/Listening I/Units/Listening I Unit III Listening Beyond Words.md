@@ -9,6 +9,10 @@ date: 2026-10-05T00:00:00.000Z -> 2026-11-01T00:00:00.000Z
 subject:
   - "[[Listening I]]"
 coverImage:
+gh-publish: true
+gh-path: content/Current Courses/Listening I/Units
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Listening I/Units/Listening I Unit III Listening Beyond Words
 ---
 
 # Listening I Unit III: Listening Beyond Words
@@ -64,3 +68,4 @@ Students will independently use their learning to:
 ### B. Other Evidence
 
 ## 🎯 Stage 3 - Learning Sequence
+

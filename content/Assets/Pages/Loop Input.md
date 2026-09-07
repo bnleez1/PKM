@@ -10,6 +10,10 @@ lastUpdated: 2026-06-28T12:56:02.734Z
 tags:
   - Method
 coverImage: "[Untitled](../Images/Untitled%20(197).md)"
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Loop Input
 ---
 
 # Loop Input
@@ -69,3 +73,4 @@ For the modern teacher trainer—especially one dedicated to making learning tra
 Woodward, T. (1991). *Models and metaphors in language teacher training: Loop input and other strategies.* Cambridge: Cambridge University Press.
 
 Woodward, T. (2003). Loop input. *ELT Journal, 57*(3), 301–304.
+

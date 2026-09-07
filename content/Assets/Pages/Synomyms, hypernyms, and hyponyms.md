@@ -10,6 +10,10 @@ lastUpdated: 2026-06-28T12:56:41.141Z
 tags:
   - WritingDiscourse
 coverImage:
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Synomyms, hypernyms, and hyponyms
 ---
 
 # Synomyms, hypernyms, and hyponyms
@@ -89,3 +93,4 @@ Using hyponyms can make your writing more vivid and detailed.
 - Revised: The beagle chased the tabby cat. The canine was incredibly swift. The feline was terrified. Eventually, the beagle caught the tabby.
 
 In the revised paragraph, synonyms (canine, feline), hypernyms (canine for dog), and hyponyms (beagle, tabby cat) are used to create a more engaging and cohesive text.
+

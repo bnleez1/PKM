@@ -11,6 +11,10 @@ relatedTerms: []
 pages:
   - "[[Writing error code list]]"
 notes: []
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/(CLAR) Clarity and style
 ---
 
 # (CLAR) Clarity and style
@@ -306,3 +310,4 @@ When writing an academic text, it’s important to consider using language that 
         These nouns can be too broad and lack the specificity needed for clear and precise academic writing. Instead, it's better to use more specific terms that accurately convey your meaning.
 
     - **Vague expressions**: Steer clear of vague expressions and ambiguous terms that may lead to confusion.
+

@@ -19,6 +19,10 @@ studentDeliverableS: []
 semester: Fall 2026
 relations: []
 note: []
+gh-publish: true
+gh-path: content/Current Courses/Writing I/Modules
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Writing I/Modules/W-Chapter 7 Building Lexical Cohesion
 ---
 
 # W-Chapter 7: Building Lexical Cohesion
@@ -107,3 +111,4 @@ Keep the original draft and make a simple record with four parts: the issue, the
 ## 🗓️ Thursday
 
 ## 🗓️ Friday
+

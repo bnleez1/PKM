@@ -20,6 +20,10 @@ studentDeliverableS: []
 semester: Fall 2026
 relations: []
 note: []
+gh-publish: true
+gh-path: content/Current Courses/Listening I/Modules
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Listening I/Modules/L-Chapter 9 Listening Beyond the Stated Words
 ---
 
 # L-Chapter 9: Listening Beyond the Stated Words
@@ -107,3 +111,4 @@ CAADI Worksheet 9 should show that inference grows from accurate global and sele
 ## 🗓️ Thursday
 
 ## 🗓️ Friday
+

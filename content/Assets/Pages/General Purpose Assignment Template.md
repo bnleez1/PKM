@@ -9,6 +9,10 @@ lastUpdated: 2026-08-14T12:50:49.095Z
 tags:
   - Template
 coverImage:
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/General Purpose Assignment Template
 ---
 
 # General Purpose Assignment Template
@@ -130,3 +134,4 @@ Your work will be evaluated according to the following criteria:
 ## Instructor Notes
 
 Duplicate this template before editing it for a specific assignment. Then set the appropriate **Course(s), Unit(s), Module, Due date, Status, Learning Outcomes, Rubric, AI Use, Duration, and Grouping** properties in Capacities. Delete any sections that are not relevant to the specific task.
+

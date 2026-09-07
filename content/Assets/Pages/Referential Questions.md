@@ -9,6 +9,10 @@ formalDefinition: Genuine questions to which the teacher does not know the answe
 relatedTerms: []
 pages: []
 notes: []
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Referential Questions
 ---
 
 # Referential Questions
@@ -18,3 +22,4 @@ Asking a learner, 'What did you do this weekend?' to spark authentic communicati
 
 **Common Misconception:**
 They are too difficult for beginners.
+

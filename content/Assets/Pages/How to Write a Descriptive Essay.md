@@ -9,6 +9,10 @@ createdAt: 2026-06-08T19:23:43.706Z
 lastUpdated: 2026-06-28T12:57:41.862Z
 tags: []
 coverImage: "[Untitled](../Images/Untitled%20(296).md)"
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/How to Write a Descriptive Essay
 ---
 
 # How to Write a Descriptive Essay
@@ -52,3 +56,4 @@ While adjectives are important, verbs do the heavy lifting in strong descriptive
 ### 5. Use Figurative Language Purposefully
 
 Similes, metaphors, and personification are powerful tools for creating imagery, but they lose their impact if overused. A few well-crafted metaphors that align with the dominant impression are much more effective than crowding every sentence with figurative comparisons.
+

@@ -19,6 +19,10 @@ semester: Fall 2026
 relations: []
 note:
   - "[[AW-Module 3 Note]]"
+gh-publish: true
+gh-path: content/Current Courses/Academic Writing/Modules
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Academic Writing/Modules/AW-Module 3 Reporting Research with Accuracy and Caution
 ---
 
 # AW-Module 3: Reporting Research with Accuracy and Caution
@@ -162,3 +166,4 @@ You will need to bring to class a printed article to complete today's task. We w
 1. Complete first article review.
 
 2. Bring a second article to review with you to class next Wednesday.
+

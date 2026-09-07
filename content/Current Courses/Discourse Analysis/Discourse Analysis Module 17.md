@@ -19,6 +19,10 @@ studentDeliverableS: []
 semester: Fall 2026
 relations: []
 note: []
+gh-publish: true
+gh-path: content/Current Courses/Discourse Analysis
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Discourse Analysis/Discourse Analysis Module 17
 ---
 
 # Discourse Analysis Module 17
@@ -30,3 +34,4 @@ note: []
 ## 🗓️ Thursday (9:00 AM - 10:00 AM)
 
 ## 🗓️ Friday (9:00 AM - 10:00 AM)
+

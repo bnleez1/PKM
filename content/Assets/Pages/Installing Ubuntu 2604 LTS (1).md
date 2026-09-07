@@ -9,6 +9,10 @@ createdAt: 2026-06-03T18:01:18.613Z
 lastUpdated: 2026-06-28T12:57:41.604Z
 tags: []
 coverImage:
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Installing Ubuntu 2604 LTS (1)
 ---
 
 # Installing Ubuntu 26.04 LTS
@@ -642,3 +646,4 @@ coverImage:
     6. Click **Add Printer**.
 
     Once the queue is created via CUPS, the `hplip` background service will detect when print jobs hit that specific queue and inject the necessary binary firmware payload to the printer over the USB cable automatically.
+

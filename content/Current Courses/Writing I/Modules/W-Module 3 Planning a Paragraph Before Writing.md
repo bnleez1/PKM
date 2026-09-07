@@ -19,6 +19,10 @@ studentDeliverableS: []
 semester: Fall 2026
 relations: []
 note: []
+gh-publish: true
+gh-path: content/Current Courses/Writing I/Modules
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Writing I/Modules/W-Module 3 Planning a Paragraph Before Writing
 ---
 # W-Module 3: Planning a Paragraph Before Writing
 
@@ -274,3 +278,4 @@ Worked on text, adding punctuation, capitalization, and identifying types of sen
     7. The wording of the paragraph is mine.
 
 ## 🗓️ Friday
+

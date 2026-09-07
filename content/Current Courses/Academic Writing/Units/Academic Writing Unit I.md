@@ -10,6 +10,10 @@ date: 2026-08-10T00:00:00.000Z -> 2026-08-23T00:00:00.000Z
 subject:
   - "[[Academic Writing]]"
 coverImage:
+gh-publish: true
+gh-path: content/Current Courses/Academic Writing/Units
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Academic Writing/Units/Academic Writing Unit I
 ---
 
 # Academic Writing Unit I
@@ -111,3 +115,4 @@ Students will independently use their learning to:
 ## 🎯 Stage 3 - Learning Sequence
 
 [Academic Writing Modules](../Modules/Academic%20Writing%20Modules.csv)
+

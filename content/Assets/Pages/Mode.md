@@ -9,6 +9,10 @@ formalDefinition: In SFL, the channel of communication (e.g., written, spoken, m
 relatedTerms: []
 pages: []
 notes: []
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Mode
 ---
 
 # Mode
@@ -18,3 +22,4 @@ Exploring how a live text chat is grammatically closer to spoken language than w
 
 **Common Misconception:**
 Mode just means written or spoken.
+

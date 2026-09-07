@@ -9,6 +9,10 @@ createdAt: 2026-06-08T12:32:12.952Z
 lastUpdated: 2026-06-28T12:57:41.754Z
 tags: []
 coverImage: "[Untitled](../Images/Untitled%20(307).md)"
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Benjamin L Stewart, Phd
 ---
 
 # Benjamin L. Stewart, Phd
@@ -63,3 +67,5 @@ The assumptions that I have about education certainly don't apply to everyone, b
 # Bio
 
 Benjamin L. Stewart is a full professor at the [https://www.uaa.mx/portal/](https://www.uaa.mx/portal/), who teaches a variety of subjects in a bachelor’s degree program in English language teaching. He holds a PhD in curriculum and instructional leadership and a master’s degree in education, curriculum, and instruction: technology. His research interests include open and ongoing professional development for teachers through the cultivation of a personal learning network.
+
+

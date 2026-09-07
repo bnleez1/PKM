@@ -10,6 +10,10 @@ lastUpdated: 2026-06-28T12:57:30.751Z
 tags:
   - GrammarSyntax
 coverImage: "[Untitled](../Images/Untitled%20(142).md)"
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Noun clauses and indirect questions
 ---
 
 # Noun clauses and indirect questions
@@ -133,3 +137,4 @@ To master this structure, learners should practice converting **direct yes/no qu
 - **Did they finish the project?** → *We are not sure whether they finished the project.*
 
 By understanding **noun clause connectors** and how they function in indirect questions, TOEFL test takers can improve their grammar accuracy and avoid common errors.
+

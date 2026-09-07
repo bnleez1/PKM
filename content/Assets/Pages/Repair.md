@@ -9,6 +9,10 @@ formalDefinition: The process by which speakers correct a mistake or clarify mea
 relatedTerms: []
 pages: []
 notes: []
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Repair
 ---
 
 # Repair
@@ -18,3 +22,4 @@ Encouraging learners to self-correct and ask clarifying questions naturally inst
 
 **Common Misconception:**
 Repair is a sign of poor language proficiency.
+

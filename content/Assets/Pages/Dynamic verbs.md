@@ -10,6 +10,10 @@ lastUpdated: 2026-06-28T12:56:11.679Z
 tags:
   - GrammarSyntax
 coverImage: "[Untitled](../Images/Untitled%20(21).md)"
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Dynamic verbs
 ---
 
 # Dynamic verbs
@@ -159,3 +163,4 @@ References
 [2] [Dynamic Verbs: Verbs Can be Both Stative and Dynamic Verbs](https://7esl.com/stative-and-dynamic-verbs/)
 
 [3] [Stative vs dynamic verbs (or non-action vs action verbs)](https://test-english.com/grammar-points/a2/stative-vs-dynamic-verbs-or-non-action-vs-action-verbs/)
+

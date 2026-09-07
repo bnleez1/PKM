@@ -11,6 +11,10 @@ tags:
   - Writing
   - Research
 coverImage: "[Untitled](../Images/Untitled%20(351).md)"
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Maximizing Impact How to Match Your Article to the Ideal Academic Journal
 ---
 
 # Maximizing Impact: How to Match Your Article to the Ideal Academic Journal
@@ -120,3 +124,4 @@ Matching your article to the right academic publication involves careful conside
 - BMJ. (2018). How to write and publish a paper. Retrieved from [BMJ Best Practice](https://bestpractice.bmj.com/info/wp-content/uploads/2018/12/How-to-write-and-publish-a-paper-2018.pdf)
 
 - Elsevier. (2023). How to choose a journal to submit an article. Retrieved from [Elsevier](https://scientific-publishing.webshop.elsevier.com/research-process/how-to-choose-a-journal-to-submit-an-article/)
+

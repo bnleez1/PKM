@@ -20,6 +20,10 @@ semester: Fall 2026
 relations: []
 note:
   - "[[Listening I Week 1 Note]]"
+gh-publish: true
+gh-path: content/Current Courses/Listening I/Modules
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Listening I/Modules/L - Module 1 Listening Begins Before the Audio
 ---
 
 # L - Module 1: Listening Begins Before the Audio
@@ -136,3 +140,4 @@ Song activity...
 ## 🗓️ Friday
 
 Today, we will take attendance in our classroom, and then go to CAADI to complete [[Listening CAADI Worksheet 1]]
+

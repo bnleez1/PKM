@@ -10,6 +10,10 @@ lastUpdated: 2026-06-28T12:56:11.623Z
 tags:
   - GrammarSyntax
 coverImage: "[Untitled](../Images/Untitled%20(21).md)"
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Verbs
 ---
 
 # Verbs
@@ -389,3 +393,4 @@ While the three above are the primary moods, some sources also recognize these a
 **Important Note:**
 
 The subjunctive mood is becoming less common in modern English, and some of its uses are being replaced by the indicative mood. However, it is still used in certain formal contexts and grammatical constructions.
+

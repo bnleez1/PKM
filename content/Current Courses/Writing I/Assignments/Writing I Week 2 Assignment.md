@@ -16,6 +16,10 @@ aiUse: []
 coverImage: "[Untitled](../Images/Untitled%20(1).md)"
 durationHours:
 grouping:
+gh-publish: true
+gh-path: content/Current Courses/Writing I/Assignments
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Writing I/Assignments/Writing I Week 2 Assignment
 ---
 
 # Writing I Week 2 Assignment
@@ -39,3 +43,4 @@ grouping:
 ## Deliverable to Teams Assignment
 
 1. Attached Word document to Writing I Week 2 Assignment.
+

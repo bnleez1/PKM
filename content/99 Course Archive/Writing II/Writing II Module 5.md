@@ -19,6 +19,10 @@ studentDeliverableS: []
 semester:
 relations: []
 note: []
+gh-publish: true
+gh-path: content/99 Course Archive/Writing II
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/99 Course Archive/Writing II/Writing II Module 5
 ---
 
 # Writing II Module 5
@@ -203,3 +207,4 @@ I can meet with anyone from 2:00 PM - 3:00 PM one day this week if you confirm a
 1. Working with your writing partner, leave thoughtful and respectful feedback.
 
 2. Make changes to your text as necessary, based on what your writing partner suggests and what we discuss in class.
+

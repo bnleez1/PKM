@@ -11,6 +11,10 @@ relatedTerms: []
 pages:
   - "[[Writing error code list]]"
 notes: []
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/(MO) Modal verbs
 ---
 
 # (MO) Modal verbs
@@ -175,3 +179,4 @@ Periphrastic modals or modal-like expressions (i.e., phrasal modals) are phrases
 - They can offer alternatives in contexts where a modal verb's tense or form limitation is an issue.
 
 Understanding phrasal modals enriches communication, allowing for more precise expression of modality, especially in more complex or formal contexts.
+

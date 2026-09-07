@@ -9,6 +9,10 @@ relatedTerms: []
 pages:
   - "[[Writing error code list]]"
 notes: []
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/(WF) - Word form (part of speech) is incorrect
 ---
 
 # (WF) - Word form (part of speech) is incorrect
@@ -94,3 +98,4 @@ If you struggle with word forms, try reading your sentence backwards, or focus o
 - If you see "is" or "are," an adjective or noun is required.
 
 Getting a "WF" error means your vocabulary is accurate and your ideas are on point. You just need to make sure your words are wearing the right outfits for the occasion.
+

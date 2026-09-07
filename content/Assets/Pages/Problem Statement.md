@@ -9,6 +9,10 @@ lastUpdated: 2026-08-14T13:21:59.127Z
 tags:
   - AcademicWriting
 coverImage:
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Problem Statement
 ---
 
 # Problem Statement
@@ -155,3 +159,4 @@ Review how to [narrow down a topic](https://www.notion.so/Narrowing-Down-a-Topic
     - **Problem Statement:** I wish to learn more about the evolving role of the teacher in the 21st-century English language classroom because I want to know how to adapt my teaching methods and strategies in order to empower students to become active and independent learners in an increasingly digital and interconnected world.
 
     I hope these problem statements are helpful for your research!
+

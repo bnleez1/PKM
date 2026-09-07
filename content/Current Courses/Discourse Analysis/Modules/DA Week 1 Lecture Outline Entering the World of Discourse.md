@@ -11,6 +11,10 @@ status: "[[InBox (idea)]]"
 essentialQuestion: What changes when language is studied as discourse rather than as isolated sentences, and how has the field broadened its focus over time?
 note:
 coverImage:
+gh-publish: true
+gh-path: content/Current Courses/Discourse Analysis/Modules
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Discourse Analysis/Modules/DA Week 1 Lecture Outline Entering the World of Discourse
 ---
 
 # DA Week 1 Lecture Outline: Entering the World of Discourse
@@ -601,3 +605,4 @@ Choose an everyday communicative example and consider:
 **What could discourse analysis reveal that sentence-level grammatical analysis alone would probably miss?**
 
 ## Historical Development (time table)
+

@@ -10,6 +10,10 @@ tags:
   - TeachingMoves
   - Curriculum
 coverImage:
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Learning Experiences Template
 ---
 
 # Learning Experiences Template
@@ -616,3 +620,4 @@ Before using the learning experience:
 - [ ] Students critically evaluate AI output rather than automatically accepting it.
 
 - [ ] Reflection provides evidence of learning, decision-making, or metacognition.
+

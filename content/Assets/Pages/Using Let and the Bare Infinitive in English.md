@@ -10,6 +10,10 @@ lastUpdated: 2026-06-28T12:57:31.115Z
 tags:
   - GrammarSyntax
 coverImage: "[Untitled](../Images/Untitled%20(132).md)"
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Using Let and the Bare Infinitive in English
 ---
 
 # Using "Let" and the Bare Infinitive in English
@@ -83,3 +87,4 @@ The most important point to understand is that the verb following "let" *must* b
 - **Want, Need, Would like, Expect, Ask, Tell, Force, Allow, Encourage, Permit, Require:** These verbs all take the *to-infinitive* after the object. "I want you *to listen*." "I need you *to help*." "I expect her *to arrive* soon". Students will often mistake these for the *let* rule.
 
 **In summary:** "Let" is a member of a small group of verbs that require the bare infinitive (infinitive without "to") of the following verb. Understanding this rule, and recognizing the other verbs that follow the same pattern (mainly verbs of perception and the causatives "make" and "have"), is crucial for correct English grammar. Avoiding the common mistake of adding "to" after "let" and distinguishing "let" from verbs like "allow" are key steps for English language learners.
+

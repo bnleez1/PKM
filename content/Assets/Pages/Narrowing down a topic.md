@@ -9,6 +9,10 @@ lastUpdated: 2026-06-12T13:53:33.470Z
 tags:
   - Research
 coverImage: "[Untitled](../Images/Untitled%20(174).md)"
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Narrowing down a topic
 ---
 
 # Narrowing down a topic
@@ -263,3 +267,4 @@ Here are additional tips when searching for a problem to research:
 Booth, W., Colomb, G., & Williams, J. (2008). *[The craft of research* (Links to an external site.)](http://www.amazon.com/Research-Chicago-Writing-Editing-Publishing-ebook/dp/B00272MATI/ref=sr_sp-atf_title_1_1?s=digital-text&ie=UTF8&qid=1390484966&sr=1-1&keywords=the+craft+of+research). Chicago, IL: The University of Chicago Press.
 
 Machi, L. & McEvoy, B. (2009). *The literature review: Six steps to success*. Thousand Oaks, CA: Corwin Press.
+

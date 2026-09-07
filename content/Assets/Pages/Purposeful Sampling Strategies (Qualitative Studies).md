@@ -10,6 +10,10 @@ lastUpdated: 2026-06-28T22:56:23.309Z
 tags:
   - Research
 coverImage: "[Untitled](../Images/Untitled%20(305).md)"
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Purposeful Sampling Strategies (Qualitative Studies)
 ---
 
 # Purposeful Sampling Strategies (Qualitative Studies)
@@ -125,3 +129,4 @@ In essence, purposeful sampling enhances the richness and depth of qualitative r
     - **Example**: A study incorporates intensity sampling (students with varying learning disabilities) and maximum variation sampling (students from different grades and socioeconomic backgrounds).
 
     - **Purpose**: To leverage the strengths of multiple sampling strategies to gain a comprehensive understanding of inclusive education practices.
+

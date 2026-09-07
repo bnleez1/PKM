@@ -9,6 +9,10 @@ lastUpdated: 2026-08-18T13:46:55.589Z
 tags:
   - WritingWorkshop
 coverImage:
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Writing Workshop_Wk17
 ---
 
 # Writing Workshop_Wk17
@@ -246,3 +250,4 @@ coverImage:
         - [Danna](https://eduuaa-my.sharepoint.com/:w:/g/personal/lee_stewart_edu_uaa_mx/EeKL8yO-VHNAgEcMH0cyEK0BLXT6SH0w9QPyk1_3m9uUhA?e=bHWREa)
 
         - [Sigrid](https://eduuaa-my.sharepoint.com/:w:/g/personal/lee_stewart_edu_uaa_mx/EcaX5E35mGVOgP6-VrC-DxYB6oZ4pjKrS0Ok3xz6IZC4mA?e=gQUVcU)
+

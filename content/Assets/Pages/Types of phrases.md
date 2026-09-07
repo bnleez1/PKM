@@ -10,6 +10,10 @@ lastUpdated: 2026-06-28T12:56:30.912Z
 tags:
   - GrammarSyntax
 coverImage: "[Untitled](../Images/Untitled%20(13).md)"
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Types of phrases
 ---
 
 # Types of phrases
@@ -60,3 +64,4 @@ In English grammar, phrases are groups of words that function as a single unit b
 - Example: "My best friend, a talented musician, won the award."
 
 It's worth noting that phrases can sometimes combine. For instance, a noun phrase might include a prepositional phrase as a modifier. Each type of phrase serves a unique function in a sentence, helping to provide clarity and detail.
+

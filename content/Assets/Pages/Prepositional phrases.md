@@ -10,6 +10,10 @@ tags:
   - GrammarSyntax
   - WritingErrorCode
 coverImage: "[Untitled](../Images/Untitled%20(274).md)"
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Prepositional phrases
 ---
 
 # Prepositional phrases
@@ -84,3 +88,4 @@ Here are examples of prepositional phrases in different contexts:
 - She found a wallet under the seat. ("under the seat" specifies where she found the wallet)
 
 Prepositional phrases are versatile and can be used in various ways to provide additional context and detail within sentences. They play a crucial role in conveying information about relationships, locations, times, and more in a sentence.
+

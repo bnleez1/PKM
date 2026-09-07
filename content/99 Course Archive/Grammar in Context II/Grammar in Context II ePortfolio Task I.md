@@ -17,6 +17,10 @@ studentDeliverableS: []
 semester:
 relations: []
 note: []
+gh-publish: true
+gh-path: content/99 Course Archive/Grammar in Context II
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/99 Course Archive/Grammar in Context II/Grammar in Context II ePortfolio Task I
 ---
 
 # Grammar in Context II ePortfolio Task I
@@ -317,3 +321,4 @@ note: []
         - Below 9 points: F (Unsatisfactory)
 
 - Each team member submits assignment to Teams.
+

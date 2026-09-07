@@ -9,6 +9,10 @@ formalDefinition: Understanding text by decoding the smallest units (letters, wo
 relatedTerms: []
 pages: []
 notes: []
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Bottom-up Processing
 ---
 
 # Bottom-up Processing
@@ -18,3 +22,4 @@ Practicing phonics and vocabulary decoding for lower-level learners.
 
 **Common Misconception:**
 It is the only way to read.
+

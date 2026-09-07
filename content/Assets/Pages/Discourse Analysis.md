@@ -9,6 +9,10 @@ formalDefinition: The study of language in use, extending beyond the sentence le
 relatedTerms: []
 pages: []
 notes: []
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Discourse Analysis
 ---
 
 # Discourse Analysis
@@ -18,3 +22,4 @@ Used to evaluate authentic materials to ensure they reflect natural language use
 
 **Common Misconception:**
 It only analyzes spoken conversation.
+

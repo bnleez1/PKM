@@ -17,6 +17,10 @@ aiUse:
 coverImage: "[Untitled](../Images/Untitled%20(1).md)"
 durationHours:
 grouping: Individual
+gh-publish: true
+gh-path: content/Current Courses/Discourse Analysis
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Discourse Analysis/Discourse Analysis Week 2 Assignment Text Features
 ---
 
 # Discourse Analysis Week 2 Assignment: Text Features
@@ -74,3 +78,4 @@ Complete the following task:
 2. Your analysis completed on your own.
 
 3. Your completed GenAI Appendix.
+

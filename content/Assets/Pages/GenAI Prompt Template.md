@@ -9,6 +9,10 @@ lastUpdated: 2025-01-12T14:45:15.901Z
 tags:
   - GenAiDisclaimer
 coverImage:
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/GenAI Prompt Template
 ---
 
 # GenAI Prompt
@@ -32,3 +36,6 @@ For the point and aspects of (**point 1**) explained above, in terms of (**topic
 # Reference
 
 Price, N. (2023). *The only 3 CHATGPT prompt templates you need to produce content fast that doesn't suck for nonfiction writers*. reedsy.com 
+
+
+

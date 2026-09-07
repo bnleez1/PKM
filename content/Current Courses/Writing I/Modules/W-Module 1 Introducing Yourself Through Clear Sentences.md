@@ -20,6 +20,10 @@ semester: Fall 2026
 relations: []
 note:
   - "[[Writing I Week 1 note]]"
+gh-publish: true
+gh-path: content/Current Courses/Writing I/Modules
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Writing I/Modules/W-Module 1 Introducing Yourself Through Clear Sentences
 ---
 # W-Module 1: Introducing Yourself Through Clear Sentences
 
@@ -139,3 +143,4 @@ Prepare a short personal profile. First, list possible details about your backgr
 ## 🗓️ Friday
 
 Complete [[Writing I Week 1 Assignment]].
+

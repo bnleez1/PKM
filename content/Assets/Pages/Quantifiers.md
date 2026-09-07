@@ -9,6 +9,10 @@ lastUpdated: 2026-06-14T14:25:22.218Z
 tags:
   - GrammarSyntax
 coverImage: "[Untitled](../Images/Untitled%20(13).md)"
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Quantifiers
 ---
 
 # Quantifiers
@@ -200,3 +204,4 @@ Quantifiers are words or phrases that tell us how much or how many of something 
 10. Slight
 
 11. Even
+

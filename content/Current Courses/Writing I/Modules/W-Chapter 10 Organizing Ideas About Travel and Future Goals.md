@@ -19,6 +19,10 @@ studentDeliverableS: []
 semester: Fall 2026
 relations: []
 note: []
+gh-publish: true
+gh-path: content/Current Courses/Writing I/Modules
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Writing I/Modules/W-Chapter 10 Organizing Ideas About Travel and Future Goals
 ---
 
 # W-Chapter 10: Organizing Ideas About Travel and Future Goals
@@ -107,3 +111,4 @@ Choose either a travel destination or a future goal. Create a map or table that 
 ## 🗓️ Thursday
 
 ## 🗓️ Friday
+

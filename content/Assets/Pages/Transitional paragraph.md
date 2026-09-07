@@ -10,6 +10,10 @@ lastUpdated: 2026-06-28T12:56:50.940Z
 tags:
   - Writing
 coverImage: "[Untitled](../Images/Untitled%20(9).md)"
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Transitional paragraph
 ---
 
 # Transitional paragraph
@@ -29,3 +33,4 @@ coverImage: "[Untitled](../Images/Untitled%20(9).md)"
 - Where do I state the transitional paragraph?
 
     The transitional paragraph is the last paragraph of your literature review, occurring just before the Method section.
+

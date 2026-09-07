@@ -19,6 +19,10 @@ studentDeliverableS: []
 semester:
 relations: []
 note: []
+gh-publish: true
+gh-path: content/99 Course Archive/Writing II
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/99 Course Archive/Writing II/Writing II Module 13
 ---
 
 # Writing II Module 13
@@ -230,3 +234,4 @@ Remember you are working on your first draft, so make sure to use your own words
     4. Complete your introduction paragraph by May 22, 2026.
 
     5. Complete your first body paragraph by May 27, 2026.
+

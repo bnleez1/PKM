@@ -10,6 +10,10 @@ lastUpdated: 2026-06-28T12:56:40.947Z
 tags:
   - Writing
 coverImage: "[Untitled](../Images/Untitled%20(29).md)"
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Organizational Patterns - Text Structure
 ---
 
 # Organizational Patterns - Text Structure

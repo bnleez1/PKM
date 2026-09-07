@@ -9,6 +9,10 @@ formalDefinition: Strategies used to manage face and mitigate FTAs during intera
 relatedTerms: []
 pages: []
 notes: []
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Politeness Theory
 ---
 
 # Politeness Theory
@@ -18,3 +22,4 @@ Showing learners that 'Give me a pen' with a 'please' is still less polite than 
 
 **Common Misconception:**
 Politeness just means saying 'please' and 'thank you'.
+

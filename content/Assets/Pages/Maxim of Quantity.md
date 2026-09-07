@@ -9,6 +9,10 @@ formalDefinition: The conversational rule to give exactly as much information as
 relatedTerms: []
 pages: []
 notes: []
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Maxim of Quantity
 ---
 
 # Maxim of Quantity
@@ -18,3 +22,4 @@ Coaching students to stop over-explaining simple answers in speaking exams like 
 
 **Common Misconception:**
 Longer answers are always better.
+

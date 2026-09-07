@@ -18,6 +18,10 @@ studentDeliverableS: []
 semester: Spring 2025
 relations: []
 note: []
+gh-publish: true
+gh-path: content/99 Course Archive/Grammar in Context II
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/99 Course Archive/Grammar in Context II/Grammar in Context II TOEFL Quiz 2
 ---
 
 # Grammar in Context II TOEFL Quiz 2
@@ -50,3 +54,4 @@ Grades are on a curve: Percentage grade to points out of 10 (percentage on a cur
 Points assigned to Teams out of three points possible
 
 Percentage on a curve * 3
+

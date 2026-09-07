@@ -9,6 +9,10 @@ lastUpdated: 2026-06-20T19:36:11.726Z
 tags:
   - Activity
 coverImage:
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/UDL-Informed Activity
 ---
 
 # UDL-Informed Activities
@@ -65,3 +69,5 @@ Learners will:
 ## Add Activity Title
 
 Add complete overview and instructions for this activity and leave extra suggestions towards the end.
+
+

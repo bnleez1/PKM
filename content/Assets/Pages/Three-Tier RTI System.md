@@ -10,6 +10,10 @@ lastUpdated: 2026-06-28T12:57:51.173Z
 tags:
   - Assessment
 coverImage: "[Untitled](../Images/Untitled%20(343).md)"
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Three-Tier RTI System
 ---
 
 # Three-Tier RTI System
@@ -64,3 +68,4 @@ In your Object Type settings, create a new template (e.g., "RTI Student Profile"
 ---
 
 > **Workflow Tip:** Once you tag trainees with their `Current Tier` property, you can create a dynamic **Query** in Capacities that automatically surfaces a dashboard of all your Tier 2 and Tier 3 students, ensuring nobody slips through the cracks during a busy semester.
+

@@ -1,6 +1,10 @@
 ---
 title: Writing I
 description: Course materials, weekly modules, assignments, and resources for Academic Writing.
+gh-publish: true
+gh-path: content/Current Courses/Writing I
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Writing I/index
 ---
 # Writing I
 

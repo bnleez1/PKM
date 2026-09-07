@@ -19,6 +19,10 @@ studentDeliverableS: []
 semester:
 relations: []
 note: []
+gh-publish: true
+gh-path: content/99 Course Archive/Writing II
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/99 Course Archive/Writing II/Writing II Module 15
 ---
 
 # Writing II Module 15
@@ -232,3 +236,4 @@ No class - ELT Conference
     6. At least one example of a comma used in a compound sentence.
 
     7. Only one example of a comma used as an appositive. Appositive phrases
+

@@ -10,6 +10,10 @@ lastUpdated: 2026-06-28T12:56:21.246Z
 tags:
   - GrammarSyntax
 coverImage: "[Untitled](../Images/Untitled%20(21).md)"
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Countable nouns vs Non-countable nouns
 ---
 
 # Countable nouns vs. Non-countable nouns
@@ -137,3 +141,4 @@ coverImage: "[Untitled](../Images/Untitled%20(21).md)"
     - **Rain:** (Non-countable) It's raining.
 
     - **Raindrops:** (Countable) I see raindrops on the window.
+

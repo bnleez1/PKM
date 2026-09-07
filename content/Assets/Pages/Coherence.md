@@ -9,6 +9,10 @@ formalDefinition: The underlying logical connectedness of a text, making it mean
 relatedTerms: []
 pages: []
 notes: []
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Coherence
 ---
 
 # Coherence
@@ -18,3 +22,4 @@ Helping a student reorganize a paragraph so the progression of ideas makes logic
 
 **Common Misconception:**
 Coherence is just using linking words.
+

@@ -19,6 +19,10 @@ studentDeliverableS: []
 semester: Fall 2026
 relations: []
 note: []
+gh-publish: true
+gh-path: content/Current Courses/Discourse Analysis/Modules
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Discourse Analysis/Modules/DA - Chapter 5 Time, Viewpoint, and Narrative Movement
 ---
 
 # DA - Chapter 5: Time, Viewpoint, and Narrative Movement
@@ -115,3 +119,4 @@ Revise one confusing shift in two different ways: first by changing the verb for
 ## 🗓️ Thursday (9:00 AM - 10:00 AM)
 
 ## 🗓️ Friday (9:00 AM - 10:00 AM)
+

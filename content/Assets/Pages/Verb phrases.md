@@ -10,6 +10,10 @@ lastUpdated: 2026-06-28T12:56:30.961Z
 tags:
   - GrammarSyntax
 coverImage: "[Untitled](../Images/Untitled%20(13).md)"
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Verb phrases
 ---
 
 # Verb phrases
@@ -183,3 +187,4 @@ Verb phrases are used to convey different meanings and nuances in sentences. The
 ### Conclusion
 
 Understanding and using verb phrases correctly is crucial for mastering English. By recognizing the different types of verb phrases and practicing their formation and usage, you can enhance your language skills and communicate more effectively. Keep practicing, and soon you’ll find that using verb phrases becomes second nature!
+

@@ -10,6 +10,10 @@ lastUpdated: 2026-06-28T22:56:23.267Z
 tags:
   - Writing
 coverImage: "[Untitled](../Images/Untitled%20(365).md)"
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Reasoning patterns
 ---
 
 # Reasoning patterns
@@ -121,3 +125,4 @@ In summary, Machi and McEvoy’s (2009) reasoning patterns offer different strat
     - Incorporating cultural content increases motivation.
 
     - Providing personalized learning paths addresses individual needs. Together, these strategies support the conclusion that multimedia resources, cultural content, and personalized learning paths collectively enhance the effectiveness of second language acquisition.
+

@@ -21,6 +21,10 @@ semester: Fall 2026
 relations: []
 note:
   - "[[Listening I Week 2 Note]]"
+gh-publish: true
+gh-path: content/Current Courses/Listening I/Modules
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Listening I/Modules/L - Module 2 Following the Rhythm of Everyday Life
 ---
 
 # L - Module 2: Following the Rhythm of Everyday Life
@@ -239,3 +243,4 @@ Listening Matrix
 Listen and draw...
 
 ## 🗓️ [[Date/2026-08-21]]
+

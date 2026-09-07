@@ -9,6 +9,8 @@ formalDefinition: The intended action or communicative force behind an utterance
 relatedTerms: []
 pages: []
 notes: []
+gh-publish: true
+gh-path: content/Assets/Pages
 ---
 
 # Illocutionary Act
@@ -18,3 +20,4 @@ Helping learners understand that 'It's cold in here' is actually a request to cl
 
 **Common Misconception:**
 Always matches the literal words.
+

@@ -8,6 +8,10 @@ createdAt: 2026-08-04T12:40:35.231Z
 lastUpdated: 2026-08-28T12:16:44.436Z
 tags: []
 coverImage:
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Three-Tier RTI Template
 ---
 
 # Three-Tier RTI Template
@@ -93,3 +97,4 @@ Name the task, measure, work sample, observation, or other evidence:
 ---
 
 > **Workflow:** Duplicate this page for each student or trainee. Use the **Current Tier** and **Next Review** properties to surface records needing attention.
+

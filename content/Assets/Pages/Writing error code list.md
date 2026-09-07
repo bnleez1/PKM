@@ -9,6 +9,10 @@ lastUpdated: 2026-06-23T15:22:20.678Z
 tags:
   - Writing
 coverImage: "[Untitled](../Images/Untitled%20(64).md)"
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Writing error code list
 ---
 
 # Writing error code list

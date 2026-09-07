@@ -9,6 +9,10 @@ lastUpdated: 2026-06-16T13:17:20.015Z
 tags:
   - Reading
 coverImage: "[Untitled](../Images/Untitled%20(380).md)"
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Reading comprehension methods, strategies, and teaching tactics (1)
 ---
 
 # Reading comprehension methods, strategies, and teaching tactics
@@ -72,3 +76,4 @@ coverImage: "[Untitled](../Images/Untitled%20(380).md)"
 - Advanced language learners↔Comprehension checks, guessing from context, clue searching, making inferences, cloze techniques, reverse cloze, scrambled stories, extracting specific information, skimming, scanning, paraphrasing, gisting/resume, passage completion, identifying sociolinguistics factors, filling out forms, anticipating/predicting, understanding discourse structures, understanding link works and referents.
 
 - Related link: [[Activities For Listening Comprehension]]
+

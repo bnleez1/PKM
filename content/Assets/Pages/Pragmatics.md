@@ -9,6 +9,10 @@ formalDefinition: The study of how context influences meaning, and how speakers 
 relatedTerms: []
 pages: []
 notes: []
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Pragmatics
 ---
 
 # Pragmatics
@@ -18,3 +22,4 @@ Teaching learners the difference between 'Can you pass the salt?' (request) and 
 
 **Common Misconception:**
 It's just about being polite.
+

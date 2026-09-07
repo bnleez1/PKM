@@ -8,6 +8,10 @@ createdAt: 2026-08-28T12:40:12.820Z
 lastUpdated: 2026-08-28T12:40:44.388Z
 tags: []
 coverImage:
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Grammatical Cohesion vs Lexical Cohesion
 ---
 
 # Grammatical Cohesion vs. Lexical Cohesion
@@ -31,3 +35,4 @@ For example:
 Here, **students → they** and **professor → she** are examples of **grammatical cohesion through reference**, while **students → learners** and **classroom → books → professor → lesson → assignment** create **lexical cohesion through semantic relationships**. As both readings emphasize, real texts normally use grammatical and lexical cohesion **together**, rather than relying exclusively on one type.
 
 **Reference:** Celce-Murcia, M., & Olshtain, E. (2000). *Discourse and context in language teaching: A guide for language teachers*. Cambridge University Press.
+

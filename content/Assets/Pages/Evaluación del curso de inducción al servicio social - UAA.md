@@ -9,6 +9,10 @@ lastUpdated: 2026-06-15T16:18:15.752Z
 tags:
   - UaaServicioSocial
 coverImage: "[[UAA Logo]]"
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Evaluación del curso de inducción al servicio social - UAA
 ---
 
 # Evaluación del curso de inducción al servicio social - UAA
@@ -106,3 +110,4 @@ Seleccione una:
 Verdadero
 
 Falso
+

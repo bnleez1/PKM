@@ -9,6 +9,10 @@ formalDefinition: Grice's theory that participants in a conversation generally w
 relatedTerms: []
 pages: []
 notes: []
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Cooperative Principle
 ---
 
 # Cooperative Principle
@@ -18,3 +22,4 @@ Explaining why native speakers naturally assume a learner's broken sentence has 
 
 **Common Misconception:**
 Speakers are always honest and helpful.
+

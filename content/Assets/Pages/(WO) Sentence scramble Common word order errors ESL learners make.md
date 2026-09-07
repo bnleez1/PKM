@@ -11,6 +11,10 @@ relatedTerms: []
 pages:
   - "[[Writing error code list]]"
 notes: []
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/(WO) Sentence scramble Common word order errors ESL learners make
 ---
 
 # (WO) Sentence scramble: Common word order errors ESL learners make
@@ -30,3 +34,4 @@ If you want to learn more about word order and how to avoid these mistakes, you 
 - [Question Formation in English](https://benjaminlstewart.com/forming-questions-in-english-a-breakdown-with-examples/)
 
 - [Subordinate Clauses](https://benjaminlstewart.com/subordinating-adverbial-clause-adding-depth-to-ones-ideas/)
+

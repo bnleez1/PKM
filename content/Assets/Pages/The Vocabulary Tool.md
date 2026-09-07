@@ -10,6 +10,10 @@ lastUpdated: 2026-06-28T12:56:01.211Z
 tags:
   - DiscourseAnalysis
 coverImage: "[Untitled](../Images/Untitled%20(265).md)"
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/The Vocabulary Tool
 ---
 
 # The Vocabulary Tool
@@ -70,3 +74,4 @@ Here, the vocabulary shifts dramatically to Latinate, specialist terms (*encount
 ## Conclusion
 
 James Paul Gee’s Vocabulary Tool reminds us that words are heavily loaded artifacts. They carry the history of their origins and the weight of the institutions that favor them. By systematically analyzing the types of words used in a text—whether they belong to the concrete, everyday lifeworld or the abstract, specialized domains of experts—we gain crucial insights into the identities authors are claiming and the relationships they are trying to forge. For anyone seeking to read the world more critically, the Vocabulary Tool is an essential instrument for seeing past what is being said to understand exactly *who* is speaking, and under what authority.
+

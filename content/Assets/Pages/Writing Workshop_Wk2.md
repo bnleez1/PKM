@@ -9,6 +9,12 @@ lastUpdated: 2026-06-14T18:33:23.273Z
 tags:
   - WritingWorkshop
 coverImage:
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Writing Workshop_Wk2
 ---
 
 # Writing Workshop_Wk2
+
+

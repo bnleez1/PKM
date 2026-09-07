@@ -9,6 +9,10 @@ formalDefinition: Replacing a word or phrase with a 'dummy' word (like 'one' or 
 relatedTerms: []
 pages: []
 notes: []
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Substitution
 ---
 
 # Substitution
@@ -18,3 +22,4 @@ Practicing ordering food naturally: 'I'll have the red apple, and he'll have the
 
 **Common Misconception:**
 It's the same as ellipsis.
+

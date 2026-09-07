@@ -10,6 +10,10 @@ lastUpdated: 2026-06-28T12:56:40.883Z
 tags:
   - Writing
 coverImage: "[Untitled](../Images/Untitled%20(25).md)"
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/A Claim and premises
 ---
 
 # A Claim and premises
@@ -79,3 +83,4 @@ In essence, a premise is a statement or proposition that serves as the foundatio
 - Use evidence, examples, and data to back up your premises.
 
 - Acknowledge and address potential counterarguments to demonstrate critical thinking.
+

@@ -9,6 +9,10 @@ formalDefinition: "'d'iscourse is language in use; 'D'iscourse is the integratio
 relatedTerms: []
 pages: []
 notes: []
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Ddiscourse (Gee)
 ---
 
 # D/discourse (Gee)
@@ -18,3 +22,4 @@ Helping learners acquire the 'Discourse' of an academic community, not just the 
 
 **Common Misconception:**
 It's just a spelling difference.
+

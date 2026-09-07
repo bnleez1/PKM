@@ -9,6 +9,10 @@ createdAt: 2025-01-04T13:18:41.182Z
 lastUpdated: 2026-06-28T12:56:40.744Z
 tags: []
 coverImage:
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Gen AI Prompting for generating a newsletter
 ---
 
 # Gen AI Prompting for generating a newsletter
@@ -35,3 +39,6 @@ For the point and aspects of (**point 1**) explained above, in terms of (**topic
 # Reference
 
 Price, N. (2023). *The only 3 CHATGPT prompt templates you need to produce content fast that doesn't suck for nonfiction writers*. reedsy.com 
+
+
+

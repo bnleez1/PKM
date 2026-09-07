@@ -19,6 +19,10 @@ studentDeliverableS: []
 semester: Fall 2026
 relations: []
 note: []
+gh-publish: true
+gh-path: content/Current Courses/Writing I/Modules
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Writing I/Modules/W-Chapter 13 Making an Argument About Teamwork
 ---
 
 # W-Chapter 13: Making an Argument About Teamwork
@@ -107,3 +111,4 @@ Use an organizer with four parts: opinion, reason one with example, reason two w
 ## 🗓️ Thursday
 
 ## 🗓️ Friday
+

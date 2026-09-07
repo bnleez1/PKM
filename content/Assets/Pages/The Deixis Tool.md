@@ -10,6 +10,10 @@ lastUpdated: 2026-06-28T12:55:52.566Z
 tags:
   - DiscourseAnalysis
 coverImage: "[Untitled](../Images/Untitled%20(81).md)"
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/The Deixis Tool
 ---
 
 # The Deixis Tool
@@ -79,3 +83,4 @@ A novice might look at this and see a standard classroom management technique. B
 By systematically applying the Deixis Tool, what initially appeared to be a simple behavioral correction is revealed to be a complex negotiation of power, inclusion, and institutional identity.
 
 James Paul Gee’s Deixis Tool reminds us that words never just point at things; they point at power. For discourse analysts, language teachers, and students of applied linguistics, mastering this tool means developing the ability to see the invisible lines of connection and division that speakers draw in the air every time they open their mouths.
+

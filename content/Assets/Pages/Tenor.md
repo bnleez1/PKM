@@ -9,6 +9,10 @@ formalDefinition: In SFL, the relationship between the participants, including p
 relatedTerms: []
 pages: []
 notes: []
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Tenor
 ---
 
 # Tenor
@@ -18,3 +22,4 @@ Adjusting role-play scenarios so learners practice speaking to a peer differentl
 
 **Common Misconception:**
 It refers strictly to emotion.
+

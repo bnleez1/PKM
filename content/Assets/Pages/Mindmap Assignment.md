@@ -8,6 +8,10 @@ createdAt: 2026-07-24T17:03:57.971Z
 lastUpdated: 2026-07-24T19:23:11.125Z
 tags: []
 coverImage: "[Untitled](../Images/Untitled%20(103).md)"
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Mindmap Assignment
 ---
 
 # Mindmap Assignment
@@ -182,3 +186,4 @@ coverImage: "[Untitled](../Images/Untitled%20(103).md)"
     3. How implicit elements influence more macro and meso level planning while explicit elements reflect more meso and micro level planning.
 
     4. How UAA continuing education courses attempt to link curriculum models (macro level planning) to pedagogical models (meso level planning) and instructional designs (micro level planning).
+

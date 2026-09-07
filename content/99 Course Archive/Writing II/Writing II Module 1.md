@@ -19,6 +19,10 @@ studentDeliverableS: []
 semester:
 relations: []
 note: []
+gh-publish: true
+gh-path: content/99 Course Archive/Writing II
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/99 Course Archive/Writing II/Writing II Module 1
 ---
 
 # Writing II Module 1
@@ -682,3 +686,4 @@ In the context of this Writing II chapter on descriptive writing, the concept em
 5. Add your group images… each representing a different sense.
 
 6. Create a unique thesis statement based on your jigsaw group theme from January 28, 2026.
+

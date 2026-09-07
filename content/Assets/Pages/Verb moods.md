@@ -10,6 +10,10 @@ lastUpdated: 2026-06-28T12:56:21.057Z
 tags:
   - GrammarSyntax
 coverImage: "[Untitled](../Images/Untitled%20(21).md)"
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Verb moods
 ---
 
 # Verb moods
@@ -121,3 +125,4 @@ Expresses wishes, hypothetical situations, suggestions, demands, or conditions t
     - **Should** you need assistance, please call.
 
     - **Could** you please pass the bread?
+

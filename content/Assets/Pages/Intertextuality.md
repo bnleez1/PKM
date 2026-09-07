@@ -9,6 +9,10 @@ formalDefinition: The way texts refer to, borrow from, or respond to other texts
 relatedTerms: []
 pages: []
 notes: []
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Intertextuality
 ---
 
 # Intertextuality
@@ -18,3 +22,4 @@ Teaching learners how to integrate sources and citations naturally in academic w
 
 **Common Misconception:**
 It only means direct quotation.
+

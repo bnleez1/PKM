@@ -9,6 +9,10 @@ formalDefinition: Questions the teacher asks where the answer is already known, 
 relatedTerms: []
 pages: []
 notes: []
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Display Questions
 ---
 
 # Display Questions
@@ -18,3 +22,4 @@ Limiting display questions (e.g., 'What color is this?') to basic checks, moving
 
 **Common Misconception:**
 They are real communicative questions.
+

@@ -9,6 +9,10 @@ lastUpdated: 2026-06-12T20:41:43.965Z
 tags:
   - GrammarSyntax
 coverImage: "[Untitled](../Images/Untitled%20(13).md)"
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Order of attribute adjectives & cumulative vs coordinate adjectives
 ---
 
 # Order of attribute adjectives & cumulative vs. coordinate adjectives
@@ -106,3 +110,4 @@ To determine if adjectives are coordinate, you can use two simple tests:
 ### Conclusion
 
 Understanding the rules for listing attributive adjectives and the use of commas can enhance your writing clarity and precision. Remember to identify whether adjectives are coordinate or cumulative and apply the appropriate comma rules. With practice, using attributive adjectives correctly will become second nature.
+

@@ -19,6 +19,10 @@ studentDeliverableS: []
 semester: Fall 2026
 relations: []
 note: []
+gh-publish: true
+gh-path: content/Current Courses/Writing I/Modules
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Writing I/Modules/W-Module 2 Writing About Routines and Campus Life
 ---
 # W-Module 2: Writing About Routines and Campus Life
 
@@ -132,3 +136,4 @@ Complete [handout](https://eduuaa.sharepoint.com/:w:/s/WritingI2026/IQABxWH-tn8j
 - Complete [[Writing I Week 2 Assignment]].
 
 - 
+

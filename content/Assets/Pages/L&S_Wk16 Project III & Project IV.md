@@ -8,6 +8,10 @@ createdAt: 2023-11-20T00:12:50.998Z
 lastUpdated: 2026-08-20T18:49:23.186Z
 tags: []
 coverImage:
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/L&S_Wk16 Project III & Project IV
 ---
 
 # L&S_Wk16: Project III & Project IV
@@ -82,3 +86,4 @@ Note: No devices, dictionaries, notes, etc. may be used during the conversation,
 - 24%+ = 2
 
 - 22%+ = 1
+

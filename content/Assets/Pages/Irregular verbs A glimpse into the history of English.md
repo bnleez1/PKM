@@ -10,6 +10,10 @@ lastUpdated: 2026-08-20T18:45:43.652Z
 tags:
   - GrammarSyntax
 coverImage: "[Untitled](../Images/Untitled%20(21).md)"
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Irregular verbs A glimpse into the history of English
 ---
 
 # Irregular verbs: A glimpse into the history of English

@@ -19,6 +19,10 @@ studentDeliverableS: []
 semester:
 relations: []
 note: []
+gh-publish: true
+gh-path: content/99 Course Archive/Writing II
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/99 Course Archive/Writing II/Writing II Module 4
 ---
 
 # Writing II Module 4
@@ -521,3 +525,4 @@ Next week, can meet with anyone from 2:00 PM - 3:00 PM one day next week if you 
 ## Take Action
 
 1. Complete Descriptive Essay Progress Report 2.
+

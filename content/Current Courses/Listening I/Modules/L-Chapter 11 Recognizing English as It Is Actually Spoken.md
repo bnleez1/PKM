@@ -20,6 +20,10 @@ studentDeliverableS: []
 semester: Fall 2026
 relations: []
 note: []
+gh-publish: true
+gh-path: content/Current Courses/Listening I/Modules
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Listening I/Modules/L-Chapter 11 Recognizing English as It Is Actually Spoken
 ---
 
 # L-Chapter 11: Recognizing English as It Is Actually Spoken
@@ -103,3 +107,4 @@ This week’s goal is not to hear every reduced sound perfectly. It is to recogn
 ## 🗓️ Thursday
 
 ## 🗓️ Friday
+

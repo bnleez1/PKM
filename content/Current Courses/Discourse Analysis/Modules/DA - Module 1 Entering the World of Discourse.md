@@ -20,6 +20,10 @@ semester: Fall 2026
 relations: []
 note:
   - "[[DA Week 1 note]]"
+gh-publish: true
+gh-path: content/Current Courses/Discourse Analysis/Modules
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Discourse Analysis/Modules/DA - Module 1 Entering the World of Discourse
 ---
 
 # DA - Module 1: Entering the World of Discourse
@@ -153,3 +157,4 @@ Readings for this week: Chapter 1 from [Celce-Murcia (2000)_Discourse and Contex
     3. [[Week 1 task]]
 
 ## 🗓️ Friday (9:00 AM - 10:00 AM)
+

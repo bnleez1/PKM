@@ -11,6 +11,10 @@ relatedTerms: []
 pages:
   - "[[Writing error code list]]"
 notes: []
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/(AGREE) Subject-verb agreement
 ---
 
 # (AGREE) Subject-verb agreement
@@ -300,3 +304,4 @@ While not directly an exception to the *verb* agreement rule, pronoun agreement 
     "Neither the coach nor the players is/are happy," you could write: "The coach is not happy, and neither are the players." or "The coach and the players are both unhappy."
 
 By understanding these exceptions and complexities, you can navigate the sometimes-tricky world of subject-verb agreement with correlative conjunctions with greater confidence and accuracy.
+

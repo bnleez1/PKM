@@ -10,6 +10,10 @@ lastUpdated: 2026-08-26T16:47:48.107Z
 tags:
   - Linux
 coverImage: "[Untitled](../Images/Untitled%20(10).md)"
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Installing Zorin 181
 ---
 
 # Installing Zorin 18.1
@@ -1378,3 +1382,4 @@ coverImage: "[Untitled](../Images/Untitled%20(10).md)"
     💡
 
     Troubleshooting (Zorin 18.1):
+

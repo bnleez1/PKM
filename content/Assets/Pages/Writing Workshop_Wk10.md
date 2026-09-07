@@ -9,6 +9,10 @@ lastUpdated: 2026-06-16T17:51:27.553Z
 tags:
   - WritingWorkshop
 coverImage:
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Writing Workshop_Wk10
 ---
 
 # Writing Workshop_Wk10
@@ -24,3 +28,4 @@ coverImage:
 # Thursday
 
 # Friday
+

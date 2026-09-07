@@ -12,6 +12,10 @@ relatedTerms:
 pages:
   - "[[Writing error code list]]"
 notes: []
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/(PRO) Pronouns
 ---
 
 # (PRO) Pronouns
@@ -706,3 +710,4 @@ Intensive pronouns are used to avoid ambiguity in a sentence when it's not clear
 - He saw *himself* in the mirror. (Intensive - he, and not someone else, saw his own image)
 
 In summary, intensive pronouns are used to emphasize or intensify a preceding noun or pronoun in a sentence. They are identical in form to reflexive pronouns but serve a different purpose. Intensive pronouns add emphasis, clarity, or contrast to a sentence, making the meaning more explicit. They are always placed immediately after the noun or pronoun they are emphasizing.
+

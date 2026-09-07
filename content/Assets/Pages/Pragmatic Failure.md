@@ -9,6 +9,10 @@ formalDefinition: A communication breakdown caused by a mismatch in cultural or 
 relatedTerms: []
 pages: []
 notes: []
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Pragmatic Failure
 ---
 
 # Pragmatic Failure
@@ -18,3 +22,4 @@ Discussing why translating a polite L1 request word-for-word into English might 
 
 **Common Misconception:**
 It's a grammar mistake.
+

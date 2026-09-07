@@ -10,6 +10,10 @@ lastUpdated: 2026-06-28T12:56:11.795Z
 tags:
   - GrammarSyntax
 coverImage: "[Untitled](../Images/Untitled%20(21).md)"
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Auxiliary (helping) verbs
 ---
 
 # Auxiliary (helping) verbs
@@ -149,3 +153,4 @@ Let's see how helping verbs can transform the meaning of a sentence:
 - **She might sing.** (Expressing possibility)
 
 I hope this deeper explanation clarifies the versatile role of helping verbs in English! Let me know if you have any more questions.
+

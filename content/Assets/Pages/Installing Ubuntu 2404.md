@@ -11,6 +11,10 @@ tags:
   - Linux
   - Ubuntu
 coverImage:
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Installing Ubuntu 2404
 ---
 
 # Installing Ubuntu 24.04
@@ -556,3 +560,6 @@ dpkg -l | grep libreoffice
     [1] [Disable paste on middle click : r/kde - Reddit](https://www.reddit.com/r/kde/comments/s4lvuc/disable_paste_on_middle_click/)
 
     [2] [How do I disable this selection popup for Copy? : r/kde - Reddit](https://www.reddit.com/r/kde/comments/qa58oa/how_do_i_disable_this_selection_popup_for_copy/)
+
+
+

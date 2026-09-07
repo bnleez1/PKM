@@ -9,6 +9,10 @@ formalDefinition: The public self-image that every person wants to claim for the
 relatedTerms: []
 pages: []
 notes: []
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Face
 ---
 
 # Face
@@ -18,3 +22,4 @@ Designing peer-feedback sessions that protect learners' confidence and public im
 
 **Common Misconception:**
 Face only exists in certain Asian cultures.
+

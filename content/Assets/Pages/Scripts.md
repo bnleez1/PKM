@@ -9,6 +9,10 @@ formalDefinition: Predictable sequences of events in specific situations (e.g., 
 relatedTerms: []
 pages: []
 notes: []
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Scripts
 ---
 
 # Scripts
@@ -18,3 +22,4 @@ Using established scripts to lower anxiety for beginners navigating familiar pub
 
 **Common Misconception:**
 A written dialogue to memorize.
+

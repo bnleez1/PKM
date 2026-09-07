@@ -10,6 +10,10 @@ lastUpdated: 2026-07-22T14:54:46.641Z
 tags:
   - Linux
 coverImage: "[Untitled](../Images/Untitled%20(250).md)"
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Installing SyncThing
 ---
 
 # Installing SyncThing 
@@ -2039,3 +2043,4 @@ coverImage: "[Untitled](../Images/Untitled%20(250).md)"
     - **Folder marker missing:** Remount the real external drive; never populate the empty mount-point directory underneath it.
 
     - **Office data unexpectedly appears at Home:** Send & Receive merges files already present on both sides. Begin with an empty Office destination if Home should supply the initial dataset.
+

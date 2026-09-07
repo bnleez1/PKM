@@ -20,6 +20,10 @@ studentDeliverableS: []
 semester: Fall 2026
 relations: []
 note: []
+gh-publish: true
+gh-path: content/Current Courses/Listening I/Modules
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Listening I/Modules/L-Chapter 12 Choosing Strategies Without Waiting for Directions
 ---
 
 # L-Chapter 12: Choosing Strategies Without Waiting for Directions
@@ -107,3 +111,4 @@ By the end of Unit III, you should approach a new A2 audio with a plan: identify
 ## 🗓️ Thursday
 
 ## 🗓️ Friday
+

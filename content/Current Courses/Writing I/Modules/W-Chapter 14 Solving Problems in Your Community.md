@@ -19,6 +19,10 @@ studentDeliverableS: []
 semester: Fall 2026
 relations: []
 note: []
+gh-publish: true
+gh-path: content/Current Courses/Writing I/Modules
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Writing I/Modules/W-Chapter 14 Solving Problems in Your Community
 ---
 
 # W-Chapter 14: Solving Problems in Your Community
@@ -108,3 +112,4 @@ Create an organizer with the problem, affected group, cause or effect, proposed 
 ## 🗓️ Thursday
 
 ## 🗓️ Friday
+

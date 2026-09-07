@@ -9,6 +9,10 @@ lastUpdated: 2026-08-28T12:17:04.585Z
 tags:
   - Reading
 coverImage: "[Untitled](../Images/Untitled%20(14).md)"
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Reading Strategies for Improving Reading Comprehension
 ---
 
 # Reading Strategies for Improving Reading Comprehension
@@ -66,3 +70,4 @@ Here’s a list of **reading strategies** you can practice with your English lan
 7. **Reflection Journals** – Learners write a short reflection on what they understood, found challenging, or found interesting.
 
 8. **Graphic Organizers** – Concept maps, Venn diagrams, or T-charts to organize information from the text.
+

@@ -9,6 +9,10 @@ formalDefinition: The conversational rule to be relevant to the topic at hand.
 relatedTerms: []
 pages: []
 notes: []
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Maxim of Relation
 ---
 
 # Maxim of Relation
@@ -18,3 +22,4 @@ Analyzing reading comprehension texts to find how seemingly unrelated paragraphs
 
 **Common Misconception:**
 Irrelevant statements mean the speaker wasn't listening.
+

@@ -9,6 +9,10 @@ lastUpdated: 2026-06-02T12:14:38.120Z
 tags:
   - Reading
 coverImage: "[Untitled](../Images/Untitled%20(117).md)"
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Unit II Crafting a Comprehensive Method Section
 ---
 
 # Unit II: Crafting a Comprehensive Method Section
@@ -153,3 +157,4 @@ By adhering to these criteria, you can ensure that your method section meets hig
     - Mastering Sentence Types: A Guide to Simple, Compound, Complex, and Compound-Complex Sentences
 
 - **Summary:** These resources provide guidance on using transitions, understanding different types of clauses and sentences, and structuring body paragraphs effectively.
+

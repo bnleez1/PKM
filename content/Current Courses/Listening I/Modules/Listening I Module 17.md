@@ -20,6 +20,10 @@ studentDeliverableS: []
 semester: Fall 2026
 relations: []
 note: []
+gh-publish: true
+gh-path: content/Current Courses/Listening I/Modules
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Listening I/Modules/Listening I Module 17
 ---
 
 # Listening I Module 17
@@ -59,3 +63,4 @@ note: []
 ## 🗓️ Thursday
 
 ## 🗓️ Friday
+

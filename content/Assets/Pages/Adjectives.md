@@ -10,6 +10,10 @@ lastUpdated: 2026-06-28T12:56:21.342Z
 tags:
   - GrammarSyntax
 coverImage: "[Untitled](../Images/Untitled%20(21).md)"
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Adjectives
 ---
 
 # Adjectives
@@ -195,3 +199,4 @@ Some adjectives have irregular superlative forms that don't follow the standard 
 - She lives the **farthest** from school.
 
 - He is the **eldest** son in the family.
+

@@ -11,6 +11,10 @@ relatedTerms: []
 pages:
   - "[[Writing error code list]]"
 notes: []
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/(CS) Comma Splice
 ---
 
 # (CS) Comma Splice
@@ -76,3 +80,4 @@ A comma splice occurs when two independent clauses (clauses that can stand alone
     - Using a Subordinating Conjunction: “Although the project is due soon, we haven’t started working on it.”
 
 Correcting a comma splice enhances the clarity and grammatical correctness of your writing. Each method of correction offers a slightly different nuance, allowing you to choose the one that best fits the context and desired flow of your text (See [[(WD) Written discourse]].).
+

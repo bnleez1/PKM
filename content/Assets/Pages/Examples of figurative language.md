@@ -9,6 +9,10 @@ lastUpdated: 2026-06-14T18:33:36.465Z
 tags:
   - CreativeWriting
 coverImage:
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Examples of figurative language
 ---
 
 # Examples of figurative language
@@ -58,3 +62,4 @@ coverImage:
 - 22. Understatement: It's just a small scratch; it's nothing serious.
 
 - These examples showcase different types of figurative language used in literature and everyday language.
+

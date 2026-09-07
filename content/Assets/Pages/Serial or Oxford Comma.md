@@ -9,6 +9,10 @@ lastUpdated: 2026-06-14T14:11:39.341Z
 tags:
   - Punctuation
 coverImage: "[Untitled](../Images/Untitled%20(53).md)"
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Serial or Oxford Comma
 ---
 
 # Serial or Oxford Comma
@@ -64,3 +68,6 @@ Now, let's explore how to avoid using the serial comma when desired:
     - By using semicolons, you can separate items in a list without relying on the serial comma.
 
 The serial comma is required when writing academic texts according to the Publication Manual of the American Psychological Association (APA), (2020, p. 155).
+
+
+

@@ -9,6 +9,10 @@ lastUpdated: 2026-08-14T12:36:29.467Z
 tags:
   - Template
 coverImage:
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/CAADI Assignment Template
 ---
 
 # CAADI Assignment Template
@@ -92,3 +96,4 @@ This assignment is considered complete when you:
 Use dictionaries, reference materials, CAADI resources, and digital tools only when they support the learning goal of the worksheet. **Do not use GenAI to complete the worksheet for you.** If a worksheet explicitly permits GenAI, follow the instructions provided and document your use when required.
 
 > **Instructor note:** Duplicate this Assignment for each CAADI open assignment. Add the due date and, when appropriate, connect it to the relevant Unit or Module. Adjust the evidence requirements if a particular worksheet requires audio, screenshots, or another format.
+

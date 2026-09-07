@@ -8,6 +8,10 @@ createdAt: 2026-08-04T12:32:09.614Z
 lastUpdated: 2026-08-04T12:40:42.894Z
 tags: []
 coverImage:
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Three-Tier RTI Template (Expanded Version)
 ---
 
 # Three-Tier RTI Template (Expanded Version)
@@ -237,3 +241,4 @@ Record specific measurable goals, one-to-one coaching, high-frequency practice, 
 ---
 
 > **Updated:** A simpler practical version is now available here: https://app.capacities.io/f1711151-3e8c-449c-8203-f47df61f6ea2/ffe000b9-b55f-4209-8fb4-19582c6f16d6 (https://app.capacities.io/f1711151-3e8c-449c-8203-f47df61f6ea2/ffe000b9-b55f-4209-8fb4-19582c6f16d6)
+

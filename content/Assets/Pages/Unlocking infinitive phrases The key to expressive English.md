@@ -10,6 +10,10 @@ lastUpdated: 2026-06-28T12:56:20.936Z
 tags:
   - GrammarSyntax
 coverImage: "[Untitled](../Images/Untitled%20(21).md)"
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Unlocking infinitive phrases The key to expressive English
 ---
 
 # Unlocking infinitive phrases: The key to expressive English
@@ -102,3 +106,4 @@ Try using infinitive phrases in your own sentences. Think about what you want to
 Infinitive phrases are your secret weapon for making your English clearer, richer, and more interesting. Once you start using them, you'll wonder how you ever communicated without them!
 
 Let me know if you'd like more examples or practice exercises. Keep exploring, keep practicing, and keep having fun with English!
+

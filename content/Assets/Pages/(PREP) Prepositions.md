@@ -11,6 +11,10 @@ relatedTerms: []
 pages:
   - "[[Writing error code list]]"
 notes: []
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/(PREP) Prepositions
 ---
 
 # (PREP) Prepositions
@@ -669,3 +673,4 @@ To overcome these challenges, Spanish-speaking learners can use several strategi
 99. **In the absence of** - En ausencia de
 
 100. **On the edge of** - Al borde de
+

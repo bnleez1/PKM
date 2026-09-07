@@ -9,6 +9,10 @@ lastUpdated: 2026-08-28T12:33:34.933Z
 tags:
   - DiscourseAnalysis
 coverImage: "[Untitled](../Images/Untitled%20(7).md)"
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Reference vs Substitution Two Grammatical Cohesion Resources
 ---
 
 # Reference vs. Substitution: Two Grammatical Cohesion Resources
@@ -144,3 +148,4 @@ The broader lesson is that cohesion is not simply a list of forms. Reference and
 Celce-Murcia, M., & Olshtain, E. (2000). *Discourse and context in language teaching: A guide for language teachers*. Cambridge University Press.
 
 Paltridge, B. (2022). *Discourse analysis: An introduction* (3rd ed.). Bloomsbury Academic.
+
