@@ -127,17 +127,3 @@ Complete [[Writing I Reflection Assignment 1]].
 
 </details>
 
-
-
-
-<hr class="__chatgpt_plugin">
-
-### role::assistant<span style="font-size: small;"> (openai@gpt-4.1-mini)</span>
-
-
-
-<hr class="__chatgpt_plugin">
-
-### role::user
-
-Error: Stream finished with error
