@@ -6,7 +6,7 @@ tags:
   - Module
 date: 2026-09-28T00:00:00.000Z -> 2026-10-04T00:00:00.000Z
 status: InBox
-subject: "[[Academic Writing]]"
+subject: "[[60 Public/Website/Current Courses/Academic Writing/index]]"
 chapterWeek: 8
 coverImage: "[[Ciudad-Universitaria-62-2048x1365]]"
 unit: "[[Academic Writing Unit III]]"

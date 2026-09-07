@@ -40,7 +40,7 @@ My [[GenAI Policy]].
 
 ## 📚️ Current Subjects
 
-[[Academic Writing]]| [[60 Public/Website/Assets/Pages/Discourse Analysis]] | [[Listening I]] | [[Writing I]]
+[[60 Public/Website/Current Courses/Academic Writing/index]]| [[60 Public/Website/Assets/Pages/Discourse Analysis]] | [[Listening I]] | [[Writing I]]
 
 ## 📚️ Servicio Social (Idiomas)
 

@@ -3,7 +3,7 @@ type: Lecture
 title: Academic Integrity and Cognitive Ownership
 tags:
   - Lecture
-course: "[[Academic Writing]]"
+course: "[[60 Public/Website/Current Courses/Academic Writing/index]]"
 weeklyModule:
   - "[AW-Module 1: Academic Integrity and Cognitive Ownership](../Modules/AW-Module%201%20Academic%20Integrity%20and%20Cognitive%20Ownership.md)"
 duration: 20 minutes
@@ -20,7 +20,7 @@ gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Academic
 
 # Academic Integrity and Cognitive Ownership
 
-**Course:** [[Academic Writing]]
+**Course:** [[60 Public/Website/Current Courses/Academic Writing/index]]
 
 **Weekly Module:** [AW-Module 1: Academic Integrity and Cognitive Ownership](../Modules/AW-Module%201%20Academic%20Integrity%20and%20Cognitive%20Ownership.md)
 

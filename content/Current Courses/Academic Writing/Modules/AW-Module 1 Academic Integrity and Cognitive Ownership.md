@@ -7,7 +7,7 @@ tags:
   - Research
 date: 2026-08-10T00:00:00.000Z -> 2026-08-16T00:00:00.000Z
 status: Ready
-subject: "[[Academic Writing]]"
+subject: "[[60 Public/Website/Current Courses/Academic Writing/index]]"
 chapterWeek: 1
 coverImage: "[[Ciudad-Universitaria-62-2048x1365]]"
 unit: "[[Academic Writing Unit I]]"

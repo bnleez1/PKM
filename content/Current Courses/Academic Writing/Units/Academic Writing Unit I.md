@@ -8,7 +8,7 @@ tags:
   - EnglishSkillDevelopment
 date: 2026-08-10T00:00:00.000Z -> 2026-08-23T00:00:00.000Z
 subject:
-  - "[[Academic Writing]]"
+  - "[[60 Public/Website/Current Courses/Academic Writing/index]]"
 coverImage:
 gh-publish: true
 gh-path: content/Current Courses/Academic Writing/Units

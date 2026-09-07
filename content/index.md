@@ -26,7 +26,7 @@ Use the links below to access your course.
 
 ## Current Courses
 
-- [[Academic Writing]]
+- [[60 Public/Website/Current Courses/Academic Writing/index|Academic Writing]]
 - [[60 Public/Website/Current Courses/Discourse Analysis/index|Discourse Analysis]]
 - [[60 Public/Website/Current Courses/Listening I/index|Listening I]]
 - [[60 Public/Website/Current Courses/Writing I/index|Writing I]]

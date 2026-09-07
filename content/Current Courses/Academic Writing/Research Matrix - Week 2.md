@@ -5,7 +5,7 @@ icon: ⚡️
 tags:
   - Research
 courseS:
-  - "[[Academic Writing]]"
+  - "[[60 Public/Website/Current Courses/Academic Writing/index]]"
 unitS: "[[Academic Writing Unit I]]"
 module: "[AW-Module 2: From Broad Interest to Researchable Proposal](../Modules/AW-Module%202%20From%20Broad%20Interest%20to%20Researchable%20Proposal.md)"
 dueDate: 2026-08-21T00:00:00.000Z
