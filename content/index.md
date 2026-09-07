@@ -6,7 +6,13 @@ banner: https://wallup.net/wp-content/uploads/2019/10/336000-landscape-nature-su
 gh-publish: true
 gh-path: content
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/index
+gh-published-url: https://bnleez1.github.io/PKM/content/New Page Template
+tags:
+subject: []
+formalDefinition:
+relatedTerms: []
+pages:
+notes: []
 ---
 ### ***Welcome to Language Teaching Commons, making teaching and learning more transparent!***
 
