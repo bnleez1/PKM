@@ -1,3 +1,31 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+
+/* =========================================================
+   Collapsible H2 sections
+   Activate with:
+   cssclasses:
+     - collapsible-headings
+   ========================================================= */
+
+.collapsible-headings article h2 {
+  cursor: pointer;
+  position: relative;
+  padding-left: 1.4rem;
+}
+
+.collapsible-headings article h2::before {
+  content: "▾";
+  position: absolute;
+  left: 0;
+  transition: transform 0.15s ease;
+}
+
+.collapsible-headings article h2.collapsed::before {
+  transform: rotate(-90deg);
+}
+
+.collapsible-heading-hidden {
+  display: none !important;
+}
