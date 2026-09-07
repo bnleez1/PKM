@@ -120,7 +120,7 @@ You may use these sentence starters if they help you organize your ideas.
 2. Choose **two areas of progress** that you want to discuss.
 3. Identify **one area that is still difficult** for you.
 4. Choose **one specific goal** for the next four weeks.
-5. Write one organized reflection of approximately **150–200 words**.
+5. Write one organized reflection of approximately **180–200 words**.
 6. Include at least **one specific example** from your own writing or learning experience.
 7. Use complete sentences and basic connectors to organize your ideas.
 8. Review capitalization, punctuation, and sentence boundaries.
@@ -141,9 +141,9 @@ If GenAI use is specifically authorized by your instructor, you may use it only 
 
 ## Deliverable
 
-Submit to Teams assignment:
+**Submit to Teams assignment as a Word document**:
 
-**One 150–200 word reflection titled:**
+**One 180–200 word reflection titled:**
 
 ### *My First Four Weeks as a Writer*
 
