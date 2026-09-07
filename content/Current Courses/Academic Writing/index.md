@@ -38,18 +38,16 @@ notes: "[[Writing mechanics]]"
 assignments:
   - "[[Research Matrix - Week 2]]"
   - "[[Article Review 1]]"
+banner: https://static.vecteezy.com/system/resources/previews/012/347/781/large_2x/man-hand-with-pen-writing-on-notebook-with-computer-laptop-at-desk-free-photo.jpg
 ---
 # Academic Writing
 
 [Welcome message and introduction to platforms for the new semester!](https://www.youtube.com/watch?v=erGu5SHRuqM)[[Welcome message and introduction to platforms for the new semester!|Welcome message and introduction to platforms for the new semester! - Notes]]
 
 💡 **Welcome to Academic Writing!**
-
-Class location: M3, A1
-
-Class schedule: 11:00 AM - 1:00 PM, Wednesdays; 12:00 PM - 1:00 PM, Thursdays; 10:00 AM - 12:00 PM, Fridays
-
-Instructor: [Benjamin L. Stewart, Phd](60%20Public/Website/Assets/Pages/Benjamin%20L%20Stewart,%20Phd.md)
+- Class location: M3, A1
+- Class schedule: 11:00 AM - 1:00 PM, Wednesdays; 12:00 PM - 1:00 PM, Thursdays; 10:00 AM - 12:00 PM, Fridays
+- Instructor: [Benjamin L. Stewart, Phd](60%20Public/Website/Assets/Pages/Benjamin%20L%20Stewart,%20Phd.md)
 
 # Course Description
 
@@ -59,7 +57,13 @@ This practical course guides the student in developing a theoretical framework t
 
 By the end of the course, the student will have applied various strategies and skills to write a theoretical framework in English at a B2+ CEFR level with quality and autonomy. Additionally, they will demonstrate an openness to constructive criticism and to diverse social, cultural, and ideological contexts.
 
-[Academic Writing Modules](../Modules/Academic%20Writing%20Modules.csv)
+# Weekly Modules
+
+[[AW-Module 1 Academic Integrity and Cognitive Ownership]]
+[[AW-Module 2 From Broad Interest to Researchable Proposal]]
+[[AW-Module 3 Reporting Research with Accuracy and Caution]]
+[[AW-Module 4 Building Academic Flow]]
+[[AW-Module 5 Integrating Sources and Building Arguments]]
 
 # Methodology
 
@@ -67,13 +71,14 @@ Learners will engage with the academic writing process through flexible, choice-
 
 # Assessment
 
-| Unit 1 | Research proposal and related assignments                              | 10%  |
-| :----- | :--------------------------------------------------------------------- | :--- |
-| Unit 2 | Article reviews                                                        | 10%  |
-| Unit 3 | Annotated bibliography (Minimum of 10 references)                      | 30%  |
-| Unit 4 | Literature review (using same references as in annotated bibliography) | 50%  |
+|        |                                                                        |     |
+| :----- | :--------------------------------------------------------------------- | :-- |
+| Unit 1 | Research proposal and related assignments                              | 10% |
+| Unit 2 | Article reviews                                                        | 10% |
+| Unit 3 | Annotated bibliography (Minimum of 10 references)                      | 30% |
+| Unit 4 | Literature review (using same references as in annotated bibliography) | 50% |
 
-Notes:
+**Notes**:
 
 1. The use of English will have a 50% value of the grade on each item evaluated.
 

@@ -10,7 +10,7 @@ subject: "[[60 Public/Website/Current Courses/Academic Writing/index]]"
 chapterWeek: 7
 coverImage: "[[Ciudad-Universitaria-62-2048x1365]]"
 unit: "[[Academic Writing Unit III]]"
-prior: "[Chapter 6: Revising for Precision, Coherence, and Critical Voice](Chapter%206%20Revising%20for%20Precision,%20Coherence,%20and%20Critical%20Voice.md)"
+prior: "[Chapter 6: Revising for Precision, Coherence, and Critical Voice](AW-Module%206%20Revising%20for%20Precision,%20Coherence,%20and%20Critical%20Voice.md)"
 next: "[Chapter 8: Mapping and Curating the Literature](Chapter%208%20Mapping%20and%20Curating%20the%20Literature.md)"
 reading:
 bookTitle: Reading Sources Critically

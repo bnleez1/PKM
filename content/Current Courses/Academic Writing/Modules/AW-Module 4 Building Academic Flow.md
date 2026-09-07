@@ -11,7 +11,7 @@ chapterWeek: 4
 coverImage: "[[Ciudad-Universitaria-62-2048x1365]]"
 unit: "[[Academic Writing Unit II]]"
 prior: "[AW-Module 3: Reporting Research with Accuracy and Caution](AW-Module%203%20Reporting%20Research%20with%20Accuracy%20and%20Caution.md)"
-next: "[Chapter 5: Integrating Sources and Building Arguments](Chapter%205%20Integrating%20Sources%20and%20Building%20Arguments.md)"
+next: "[Chapter 5: Integrating Sources and Building Arguments](AW-Module%205%20Integrating%20Sources%20and%20Building%20Arguments.md)"
 reading:
 bookTitle: Building Academic Flow
 studentDeliverableS: []

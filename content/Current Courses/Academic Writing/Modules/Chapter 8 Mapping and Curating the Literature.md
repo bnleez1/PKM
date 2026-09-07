@@ -31,13 +31,11 @@ gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Academic
 
 > Finding sources is not the same as understanding a field. This week students move from evaluating individual references to mapping relationships among them. Searches become more strategic through combinations of concepts, keywords, contexts, populations, and methods. Sources are then coded for themes, findings, limitations, and possible connections. GenAI may support discovery or suggest relationships, but every source and claim must be independently verified. The final annotated bibliography contains at least ten fully human-authored annotations, accompanied by the source-evaluation matrix, literature map, source-management records, and AI-discovery log. The purpose of this work is to create a dependable research base for the literature review. By the end of the week, students should be able to explain not only what each source says but also how the sources form a conversation.
 
-
 ## Essential Questions
 
 1. How can a collection of sources be transformed into a meaningful map of a research conversation?
 
 2. What verification practices are necessary when sources or connections are suggested by AI?
-
 ## Guiding Questions
 
 1. How can search terms be expanded, narrowed, and combined?
@@ -47,7 +45,6 @@ gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Academic
 3. How should source-management tools support accurate citation and note-taking?
 
 4. What evidence confirms that every annotation is independently written and fact-checked?
-
 ## Learning outcomes
 
 - Use academic databases and strategic keyword combinations to locate relevant literature.
@@ -59,7 +56,6 @@ gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Academic
 - Independently verify AI-suggested sources and connections.
 
 - Write, edit, and submit at least ten fully human-authored annotations with supporting documentation.
-
 ## Key concepts and vocabulary
 
 | **Term**              | **Working definition**                                                                                 |
@@ -82,19 +78,16 @@ gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Academic
 Effective literature searching begins by separating the topic into concept groups. A student researching peer feedback in university EFL writing might identify feedback type, writing context, learner population, and outcome. Each group can include synonyms and related terms. Search strings are then created by combining alternatives within a group and linking groups together. This process is more reliable than repeatedly entering the exact wording of a research question.
 
 Searches should be iterative. Early results reveal vocabulary used in the field, influential authors, journals, theories, and methods. Students can use titles, abstracts, keywords, and reference lists to refine later searches. A narrow search may need broader terms; a broad search may need a context, population, date range, or study type. The goal is not to collect the largest possible number of results but to locate a manageable set that directly supports the project.
-
 ## Using literature maps to see relationships
 
 A literature map can take the form of a concept map, table, diagram, or tagged source collection. Its purpose is to show relationships that are difficult to see in a chronological list of readings. Sources may be grouped by theme, method, theoretical perspective, population, finding, or limitation. Connections can be marked as agreement, disagreement, extension, contrast, or unanswered question.
 
 Mapping should remain flexible. A source may belong to more than one theme, and themes may change as the student reads. The map becomes especially valuable when it identifies clusters and absences. A cluster may indicate a strong body of evidence; an absence may reveal a gap or simply show that the search terms were incomplete. Students should avoid declaring a research gap before conducting adequate searches. A gap is a reasoned conclusion about the literature, not the first topic for which few results appear.
-
 ## Managing sources and notes accurately
 
 Source management protects accuracy. Each record should contain the complete citation, stable location or identifier, source file, reading notes, keywords, and verification status. Notes should distinguish direct quotations from paraphrases and personal reactions. Page numbers should be recorded during reading, not reconstructed later. This prevents accidental plagiarism and makes later citation more efficient.
 
 Students should also separate bibliographic metadata from analytical notes. Citation software can generate references, but imported records may contain capitalization, author, date, or publication errors. Every APA reference must be checked against the original source. File names and tags should be consistent enough that a source can be found quickly. The system does not need to be complex; it needs to be reliable.
-
 ## Verifying AI-supported discovery
 
 The syllabus permits AI for literature mapping and source discovery at this level, but AI output is not evidence. A suggested title, author, quotation, finding, or relationship must be confirmed through an academic database, publisher page, journal site, or the source itself. If the source cannot be located, it should not appear in the bibliography. If the source exists, the student must still read it. An abstract or AI summary cannot support an annotation that claims to evaluate the full study.
@@ -112,7 +105,6 @@ The final week of Unit III includes searching, mapping, source management, refer
 Literature mapping begins when students stop treating search results as a flat list. After identifying key concepts and synonyms, they can group sources by theme, theoretical perspective, population, context, method, or finding. A visual map may show clusters, bridges, disagreements, and areas with limited evidence. The source-management record should preserve the information needed to relocate each work, including complete citation details, database or site, search terms, date accessed when relevant, and notes about inclusion. This documentation prevents the common problem of remembering an idea while losing its source and helps students distinguish their own notes from copied language.
 
 AI-supported discovery requires an additional verification layer. A generated citation, summary, or suggested relationship is only a lead until the student locates the original source and checks its authorship, publication details, content, and relevance. The AI-discovery log should show what was suggested, how it was verified, and whether it was included or rejected. Final annotations must be fully human-authored from direct reading of the sources. Before submission, students should examine the bibliography as a collection: Do the ten sources provide enough depth and diversity to support several themes? Are there obvious contextual or methodological gaps? Can every annotation explain how the source may function in the literature review? The week ends with a curated evidence base, not merely a completed count.
-
 ## Suggested weekly learning sequence
 
 A productive learning sequence for this chapter begins with a diagnostic response to the essential question, “How can a collection of sources be transformed into a meaningful map of a research conversation?” Students should first record an individual answer and then compare it with examples, course criteria, and peer interpretations. A short concept-sorting activity using Search string, Keyword, Database, and Literature map can make important distinctions visible before students work on a full draft. The instructor can then model one decision aloud, showing not only the completed example but also the questions, alternatives, and evidence that led to it. Students apply the same process to a small portion of their own project and receive formative feedback before extending the work independently.

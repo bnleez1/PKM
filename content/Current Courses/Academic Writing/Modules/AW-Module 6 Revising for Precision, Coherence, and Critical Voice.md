@@ -1,17 +1,17 @@
 ---
 type: Module
 collections: Academic Writing Modules
-title: "Chapter 5: Integrating Sources and Building Arguments"
+title: "Chapter 6: Revising for Precision, Coherence, and Critical Voice"
 tags:
   - Module
-date: 2026-09-07T00:00:00.000Z -> 2026-09-13T00:00:00.000Z
+date: 2026-09-14T00:00:00.000Z -> 2026-09-20T00:00:00.000Z
 status: InBox
 subject: "[[60 Public/Website/Current Courses/Academic Writing/index]]"
-chapterWeek: 5
+chapterWeek: 6
 coverImage: "[[Ciudad-Universitaria-62-2048x1365]]"
 unit: "[[Academic Writing Unit II]]"
-prior: "[AW-Module 4: Building Academic Flow](AW-Module%204%20Building%20Academic%20Flow.md)"
-next: "[Chapter 6: Revising for Precision, Coherence, and Critical Voice](Chapter%206%20Revising%20for%20Precision,%20Coherence,%20and%20Critical%20Voice.md)"
+prior: "[Chapter 5: Integrating Sources and Building Arguments](AW-Module%205%20Integrating%20Sources%20and%20Building%20Arguments.md)"
+next: "[Chapter 7: Reading Sources Critically](Chapter%207%20Reading%20Sources%20Critically.md)"
 reading:
 bookTitle: Integrating Sources and Building Arguments
 studentDeliverableS: []
@@ -21,59 +21,59 @@ note: []
 gh-publish: true
 gh-path: content/Current Courses/Academic Writing/Modules
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Academic Writing/Modules/Chapter 5 Integrating Sources and Building Arguments
+gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Academic Writing/Modules/Chapter 6 Revising for Precision, Coherence, and Critical Voice
 ---
 
-# Chapter 5: Integrating Sources and Building Arguments
+# Chapter 6: Revising for Precision, Coherence, and Critical Voice
 
 
-⚡️ Moving from summary and citation to evidence-based critical evaluation
+⚡️ Transforming a complete article-review draft through human-led revision
 
-> Source use is effective when borrowed material becomes part of the writer’s reasoning rather than a substitute for it. This week brings together summary, paraphrase, quotation, citation, attribution, and argumentation in the article-review draft. Students will practice representing an author’s ideas accurately while maintaining clear boundaries between the source’s position and the reviewer’s evaluation. They will also use the M.E.A.L. structure to develop critical paragraphs in which claims are supported by evidence and followed by analysis. The central challenge is balance: too little source information makes evaluation unfair, while too much summary leaves no space for the reviewer’s argument. By learning to select, frame, cite, and interpret evidence, students begin to transform an article review from a report about a text into a reasoned academic judgment.
+> Revision is not the final cleaning stage of writing; it is the point at which a draft becomes more accurate, focused, and intellectually coherent. This week students complete and submit the article reviews by examining the relationship among sentences, paragraphs, evidence, and evaluation. Precision requires replacing vague or general language with specific meaning. Concision requires removing repetition and unnecessary wording without erasing nuance or authentic voice. Coherence and cohesion require both logical organization and clear linguistic connections. Students will peer-review the draft, revise it independently, and then use GenAI only in the approved role of editor or critical friend. Every accepted or rejected suggestion must be justified in a revision trail. The final goal is not a perfectly polished text produced by a tool, but a defensible review in which the student’s reasoning and language choices remain visible.
 
 
 ## Essential Questions
 
-**1.** How can a writer integrate sources while preserving clear authorship and critical ownership?
+**1.** How can revision strengthen meaning without removing the writer’s authentic voice?
 
-**2.** What turns source evidence into a persuasive academic argument?
+**2.** What evidence shows that a revision decision was thoughtful rather than automatic?
 
 ## Guiding Questions
 
-**1.** When should a writer summarize, paraphrase, or quote directly?
+**1.** How can writers identify vague, repetitive, redundant, or unnecessary language?
 
-**2.** How do attribution and citation prevent ambiguity and patchwriting?
+**2.** What is the difference between coherence and cohesion?
 
-**3.** How does the M.E.A.L. structure connect a paragraph’s main idea, evidence, analysis, and link?
+**3.** How can evidence sentences become more specific and analytically useful?
 
-**4.** How can strengths, limitations, and counterpoints be evaluated fairly?
+**4.** How should peer and AI feedback be evaluated and documented?
 
 ## Learning outcomes
 
-- Distinguish the purposes of summary, paraphrase, and direct quotation.
+- Revise sentences for precision and concision while preserving necessary qualification.
 
-- Integrate source material with accurate attribution, in-text citation, and reference correspondence.
+- Distinguish and improve coherence, cohesion, and paragraph unity.
 
-- Identify and reduce patchwriting risk.
+- Compare general and specific evidence sentences and strengthen source-based analysis.
 
-- Construct critical-evaluation paragraphs using the M.E.A.L. structure.
+- Apply peer feedback through an explicit revision plan.
 
-- Develop claims, evidence, analysis, strengths, limitations, and counterpoints in the article review.
+- Use approved GenAI feedback critically and document accepted and rejected suggestions in a revision trail.
 
 ## Key concepts and vocabulary
 
-| **Term**             | **Working definition**                                                                              |
-| :------------------- | :-------------------------------------------------------------------------------------------------- |
-| **Summary**          | A concise representation of a source’s main ideas in the writer’s own language and structure.       |
-| **Paraphrase**       | A restatement of a specific source passage in genuinely new wording and sentence structure.         |
-| **Direct quotation** | The exact words of a source presented with quotation marks or block formatting and citation.        |
-| **Patchwriting**     | Writing that changes some words from a source while retaining too much of its wording or structure. |
-| **In-text citation** | A brief source reference within the body of a text.                                                 |
-| **Signal phrase**    | Language that introduces a source and clarifies attribution.                                        |
-| **Claim**            | A debatable statement that the writer asks the reader to accept.                                    |
-| **Evidence**         | Information used to support or test a claim.                                                        |
-| **Analysis**         | The writer’s explanation of how and why evidence matters.                                           |
-| **Counterpoint**     | A relevant alternative interpretation, limitation, or opposing position.                            |
+| **Term**            | **Working definition**                                                                         |
+| :------------------ | :--------------------------------------------------------------------------------------------- |
+| **Precision**       | The use of exact language that communicates the intended meaning with minimal ambiguity.       |
+| **Concision**       | The expression of complete meaning without unnecessary words or repetition.                    |
+| **Redundancy**      | Unnecessary repetition of the same meaning.                                                    |
+| **Vague wording**   | Language whose reference, degree, or meaning is unclear.                                       |
+| **Coherence**       | The logical and conceptual unity that allows a reader to follow the development of ideas.      |
+| **Cohesion**        | The linguistic connections that link sentences and paragraphs.                                 |
+| **Paragraph unity** | The condition in which every sentence supports one controlling idea.                           |
+| **Revision trail**  | A documented comparison of draft versions with explanations for accepted and rejected changes. |
+| **Critical friend** | A person or tool that offers constructive challenges while leaving decisions with the writer.  |
+| **Voice**           | The recognizable pattern of language, stance, and reasoning associated with the writer.        |
 
 ## Main chapter content
 
