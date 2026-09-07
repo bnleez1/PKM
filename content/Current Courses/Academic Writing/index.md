@@ -42,7 +42,7 @@ banner: https://static.vecteezy.com/system/resources/previews/012/347/781/large_
 ---
 # Academic Writing
 
-[Welcome message and introduction to platforms for the new semester!](https://www.youtube.com/watch?v=erGu5SHRuqM)[[Welcome message and introduction to platforms for the new semester!|Welcome message and introduction to platforms for the new semester! - Notes]]
+<iframe title="Welcome message and introduction to platforms for the new semester!" src="https://www.youtube.com/embed/erGu5SHRuqM?feature=oembed" height="113" width="200" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;" allowfullscreen="" allow="fullscreen"></iframe>
 
 💡 **Welcome to Academic Writing!**
 - Class location: M3, A1

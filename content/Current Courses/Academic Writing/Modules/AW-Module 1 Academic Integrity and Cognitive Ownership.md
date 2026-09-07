@@ -25,23 +25,17 @@ gh-path: content/Current Courses/Academic Writing/Modules
 gh-published: true
 gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Academic Writing/Modules/AW-Module 1 Academic Integrity and Cognitive Ownership
 ---
-
 # AW-Module 1: Academic Integrity and Cognitive Ownership
-
-[AW Week 1](../Audios/Media/AW%20Week%201.mp3)
-[[AW Week 1|AW Week 1 - Notes]]
 
 ⚡️ Building an ethical foundation for research, authorship, and responsible AI use
 
 > Academic writing begins before a student writes the first sentence of a proposal. It begins with decisions about ownership, responsibility, and the honest representation of ideas. This week establishes the ethical foundation for the entire course by examining plagiarism, cheating, unauthorized collaboration, and the growing role of generative AI in research and writing. Rather than treating integrity as a list of prohibitions, the chapter frames it as a set of habits that protect learning and make academic work trustworthy. Students will analyze difficult cases, classify acceptable and unacceptable forms of support, and begin documenting their own decisions. The goal is not merely to avoid misconduct; it is to develop cognitive ownership—the ability to explain where ideas came from, how they were evaluated, and why the final choices belong to the writer.
-
 
 ### Essential understanding(s)
 
 1. What does it mean to be the genuine author of an academic text in an era of generative AI?
 
 2. How can transparent documentation protect both academic integrity and student learning?
-
 ### Guiding Questions
 
 1. How do plagiarism, cheating, and unauthorized collaboration differ?
@@ -51,7 +45,6 @@ gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Academic
 3. What evidence can demonstrate cognitive ownership of a research topic?
 
 4. How should an AI-use log record prompts, decisions, and rejected suggestions?
-
 ## Learning outcomes
 
 - Distinguish among academic dishonesty, cheating, plagiarism, and unauthorized collaboration.
@@ -63,7 +56,6 @@ gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Academic
 - Create an initial research-proposal integrity checklist, authorship declaration, and AI-use log.
 
 - Apply integrity principles to a case involving plagiarism and contested authorship.
-
 ## Key concepts and vocabulary
 
 | **Term**                       | **Working definition**                                                                                                    |

@@ -26,18 +26,15 @@ gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Academic
 
 # AW-Module 2: From Broad Interest to Researchable Proposal
 
-
 ⚡️ Aligning purpose, audience, problem, questions, scope, and APA presentation
 
 > A successful research proposal turns curiosity into a plan that another person can understand, evaluate, and follow. This week moves from the ethical foundation of academic writing to the practical work of defining a focused inquiry. Students examine the purposes and audiences of academic texts, identify the major sections of a research proposal, and learn to narrow a broad subject into a manageable topic. The central challenge is alignment: the problem statement, purpose, research question, scope, title, preliminary sources, and timeline should all point in the same direction. Students will also establish an APA-formatted document and use reverse outlining to see how a model proposal is organized. By the end of the week, the proposal should not merely announce an interesting topic; it should explain what will be examined, why it matters, and how the planned work can be completed responsibly.
-
 
 ## Essential Questions
 
 1. How does a broad interest become a focused, researchable, and manageable academic project?
 
 2. What makes the parts of a research proposal logically aligned?
-
 ## Guiding Questions
 
 1. How do purpose, audience, and academic register shape a proposal?
@@ -47,7 +44,6 @@ gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Academic
 3. How can scope and feasibility prevent a project from becoming too broad?
 
 4. What APA and planning elements should be established before drafting continues?
-
 ## Learning outcomes
 
 - Explain how purpose, audience, register, and text type influence academic writing choices.
