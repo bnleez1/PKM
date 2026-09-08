@@ -12,7 +12,7 @@ gh-published: true
 gh-published-url: https://bnleez1.github.io/PKM/content/New Page Template
 banner: https://scx2.b-cdn.net/gfx/news/hires/2019/2-nature.jpg
 ---
-# How does deix relate to referencing?
+# How Does Deixis Relate to Referencing?
 
 Referencing (anaphora, cataphora, and exophora) and deixis are closely related, but they are not identical.
 
