@@ -35,13 +35,13 @@ A useful way to show the relationship is:
 |**Exophoric reference**|Outside the text, in the situation|_Put **that** over **there**._|
 |**Deixis**|Speaker-centered context: person, place, time, discourse, etc.|_I, you, here, now, this, that_|
 
-The most important distinction for students is:
+The most important distinction is:
 
 **Exophoric reference is often deictic, but deixis is a broader category.**
 
 For example, **here** is spatial deixis, **now** is temporal deixis, and **I/you** are person deixis. All depend on the context of speaking. When one of these forms points to something outside the text, it is functioning exophorically.
 
-So a simple teaching formula would be:
+So to summarize...
 
 **Anaphoric = look back in the text**  
 **Cataphoric = look forward in the text**  
@@ -66,29 +66,21 @@ So an exophoric expression can be **non-deictic** when its referent comes from s
 Compare these with clearly **deictic exophoric** examples:
 
 - "**That** book is mine." → _that_ requires the physical/situational context.
-    
 - "Put it **there**." → _there_ depends on the speaker's spatial perspective.
-    
 - "I'll do it **tomorrow**." → _tomorrow_ depends on the time of speaking.
-    
 - "**She** is my professor." [speaker points to someone] → _she_ is interpreted through the immediate situation.
-    
 
-A useful way to present the relationship to your Discourse Analysis learners is:
+Review:
 
 > **Exophoric reference = look outside the text for the referent.**  
 > **Deixis = look to the speaker's contextual coordinates to interpret the expression.**
 
-Therefore:
-
-**"The dean has approved the proposal."**
+Therefore: **"The dean has approved the proposal."**
 
 If everyone at UAA knows which dean is meant, **the dean** can function exophorically through shared institutional knowledge without _the dean_ itself being a deictic expression.
 
-By contrast:
-
-**"She approved this yesterday."**
+By contrast: **"She approved this yesterday."**
 
 _she_, _this_, and _yesterday_ can all function exophorically, but their interpretation is tied much more directly to the immediate communicative context and is therefore **deictic**.
 
-One caveat: terminology varies among discourse analysts. Some use **deixis very broadly**, to the point that much situational/exophoric reference can be described as deictic. Under the narrower linguistic definition, however, **shared-knowledge definite descriptions** such as _the dean, the government,_ and _the final exam_ are especially useful examples of **exophoric reference without inherently deictic forms**.
+**One caveat**: terminology varies among discourse analysts. Some use **deixis very broadly**, to the point that much situational/exophoric reference can be described as deictic. Under the narrower linguistic definition, however, **shared-knowledge definite descriptions** such as _the dean, the government,_ and _the final exam_ are especially useful examples of **exophoric reference without inherently deictic forms**.
