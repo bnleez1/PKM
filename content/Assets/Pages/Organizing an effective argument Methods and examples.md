@@ -1,16 +1,8 @@
 ---
-type: Page
-collections: Public Pages
 title: "Organizing an effective argument: Methods and examples"
-aliases:
-description:
-icon: 🧭
-createdAt: 2025-01-07T14:15:44.614Z
-lastUpdated: 2026-06-28T12:56:40.833Z
 tags:
   - Writing
   - Research
-coverImage: "[Untitled](../Images/Untitled%20(29).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

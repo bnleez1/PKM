@@ -1,15 +1,7 @@
 ---
-type: Page
-collections: Public Pages
 title: The Deixis Tool
-aliases:
-description:
-icon: ✴️
-createdAt: 2026-06-22T18:22:04.547Z
-lastUpdated: 2026-06-28T12:55:52.566Z
 tags:
   - DiscourseAnalysis
-coverImage: "[Untitled](../Images/Untitled%20(81).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

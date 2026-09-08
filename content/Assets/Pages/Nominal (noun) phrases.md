@@ -1,15 +1,7 @@
 ---
-type: Page
-collections: Public Pages
 title: Nominal (noun) phrases
-aliases:
-description:
-icon: 🖋️
-createdAt: 2025-01-03T01:26:35.396Z
-lastUpdated: 2026-06-28T12:56:30.939Z
 tags:
   - GrammarSyntax
-coverImage: "[Untitled](../Images/Untitled%20(13).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

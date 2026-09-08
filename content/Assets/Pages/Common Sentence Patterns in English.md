@@ -1,14 +1,7 @@
 ---
-type: Page
 title: Common Sentence Patterns in English
-aliases:
-description:
-icon: ✴️
-createdAt: 2026-08-18T18:51:16.439Z
-lastUpdated: 2026-08-18T18:52:03.823Z
 tags:
   - GrammarSyntax
-coverImage: "[Untitled](../Images/Untitled%20(17).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

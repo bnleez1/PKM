@@ -1,13 +1,6 @@
 ---
-type: Glossary
-collections: Discourse Analysis
 title: Referential Questions
 tags: []
-subject:
-  - "[[60 Public/Website/Assets/Pages/Discourse Analysis]]"
-formalDefinition: Genuine questions to which the teacher does not know the answer.
-relatedTerms: []
-pages: []
 notes: []
 gh-publish: true
 gh-path: content/Assets/Pages

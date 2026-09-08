@@ -1,15 +1,8 @@
 ---
-type: Page
 title: GenAI Policy
-aliases:
-description:
-icon: ⚖️
-createdAt: 2026-06-30T12:12:04.947Z
-lastUpdated: 2026-08-07T19:05:28.172Z
 tags:
   - GenAI
   - Curriculum
-coverImage: "[[ChatGPT Image Jul 15, 2026, 12_36_05 PM]]"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

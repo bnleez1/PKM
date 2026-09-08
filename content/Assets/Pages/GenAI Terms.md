@@ -1,15 +1,8 @@
 ---
-type: Page
 title: GenAI Terms
-aliases:
-description:
-icon: ✴️
-createdAt: 2026-07-15T18:40:34.101Z
-lastUpdated: 2026-07-15T18:41:00.797Z
 tags:
   - GenAI
   - GenAiDisclaimer
-coverImage: "[Untitled](../Images/Untitled%20(159).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

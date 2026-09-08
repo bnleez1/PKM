@@ -1,15 +1,7 @@
 ---
-type: Page
-collections: Public Pages
 title: Verb phrases
-aliases:
-description:
-icon: 🖋️
-createdAt: 2025-01-03T01:27:43.075Z
-lastUpdated: 2026-06-28T12:56:30.961Z
 tags:
   - GrammarSyntax
-coverImage: "[Untitled](../Images/Untitled%20(13).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

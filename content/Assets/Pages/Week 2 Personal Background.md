@@ -1,17 +1,9 @@
 ---
-type: Page
-collections: PROPE Topics, Public Pages
 title: "Week 2: Personal Background"
-aliases:
-description:
-icon: 📙
-createdAt: 2026-06-20T16:40:42.789Z
-lastUpdated: 2026-06-28T12:58:00.892Z
 tags:
   - Writing
   - Listening
   - EnglishSkillDevelopment
-coverImage: "[Untitled](../Images/Untitled%20(34).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

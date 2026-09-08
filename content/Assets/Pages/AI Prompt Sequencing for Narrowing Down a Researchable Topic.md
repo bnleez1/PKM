@@ -1,14 +1,6 @@
 ---
-type: Page
-collections: Public Pages
 title: AI Prompt Sequencing for Narrowing Down a Researchable Topic
-aliases:
-description:
-icon: 📑
-createdAt: 2025-01-27T12:38:26.203Z
-lastUpdated: 2026-06-28T12:57:01.749Z
 tags: []
-coverImage: "[Untitled](../Images/Untitled%20(47).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

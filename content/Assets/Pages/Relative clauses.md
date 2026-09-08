@@ -1,14 +1,7 @@
 ---
-type: Page
 title: Relative clauses
-aliases:
-description:
-icon: 🖋️
-createdAt: 2025-01-02T18:40:25.853Z
-lastUpdated: 2026-06-12T20:41:43.910Z
 tags:
   - GrammarSyntax
-coverImage: "[Untitled](../Images/Untitled%20(13).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

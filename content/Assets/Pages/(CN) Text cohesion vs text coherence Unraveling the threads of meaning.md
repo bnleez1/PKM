@@ -1,16 +1,8 @@
 ---
-type: Glossary
-collections: Written Error Code
 title: "(CN) Text cohesion vs. text coherence: Unraveling the threads of meaning"
 tags:
   - WritingErrorCode
   - Writing
-subject: []
-formalDefinition:
-relatedTerms:
-  - "[[(WD) Written discourse]]"
-pages:
-  - "[[Writing error code list]]"
 notes: []
 gh-publish: true
 gh-path: content/Assets/Pages

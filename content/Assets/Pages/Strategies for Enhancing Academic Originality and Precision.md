@@ -1,19 +1,11 @@
 ---
-type: Page
-collections: Public Pages
 title: Strategies for Enhancing Academic Originality and Precision
-aliases:
-description:
-icon: ✍️
-createdAt: 2026-06-12T21:10:54.522Z
-lastUpdated: 2026-06-28T12:57:51.225Z
 tags:
   - Writing
   - AcademicWriting
   - Plagiarism
   - GrammarSyntax
   - GenAI
-coverImage: "[Untitled](../Images/Untitled%20(237).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

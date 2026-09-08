@@ -1,14 +1,7 @@
 ---
-type: Page
 title: Unit I Initial Research Proposal – Analytic Rubric
-aliases:
-description: Analytic 100-point rubric for the Unit I Initial Research Proposal; no generative AI use and no preliminary article requirement.
-icon: 🎯
-createdAt: 2026-08-21T12:41:29.367Z
-lastUpdated: 2026-08-21T12:58:33.287Z
 tags:
   - Rubrics
-coverImage: "[Untitled](../Images/Untitled%20(135).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

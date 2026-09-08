@@ -1,13 +1,6 @@
 ---
-type: Glossary
-collections: Discourse Analysis
 title: Multimodal Discourse
 tags: []
-subject:
-  - "[[60 Public/Website/Assets/Pages/Discourse Analysis]]"
-formalDefinition: Communication using multiple modes (e.g., text, images, sound, layout) simultaneously.
-relatedTerms: []
-pages: []
 notes: []
 gh-publish: true
 gh-path: content/Assets/Pages

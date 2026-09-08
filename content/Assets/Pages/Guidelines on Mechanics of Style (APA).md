@@ -1,14 +1,6 @@
 ---
-type: Page
-collections: Public Pages
 title: Guidelines on Mechanics of Style (APA)
-aliases:
-description:
-icon: ✍️
-createdAt: 2026-06-14T13:16:11.645Z
-lastUpdated: 2026-06-28T12:57:51.306Z
 tags: []
-coverImage: "[Untitled](../Images/Untitled%20(178).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

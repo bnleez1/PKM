@@ -1,15 +1,7 @@
 ---
-type: Page
-collections: Public Pages
 title: Parenthetical Vs. Narrative Citations
-aliases:
-description:
-icon: ✍️
-createdAt: 2025-01-10T13:47:12.753Z
-lastUpdated: 2026-06-28T12:56:50.849Z
 tags:
   - Writing
-coverImage:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

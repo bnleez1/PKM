@@ -1,16 +1,9 @@
 ---
-type: Glossary
-collections: Written Error Code
 title: (WD) Written discourse
 tags:
   - WritingErrorCode
   - WritingDiscourse
   - Writing
-subject: []
-formalDefinition: "Writing a unified, coherent, and cohesive text in English, especially in the context of written discourse, involves several key strategies. "
-relatedTerms: []
-pages:
-  - "[[Writing error code list]]"
 notes: []
 gh-publish: true
 gh-path: content/Assets/Pages

@@ -1,15 +1,8 @@
 ---
-type: Page
 title: (In)Appropriate language when writing an academic text
-aliases:
-description:
-icon:
-createdAt: 2025-01-01T17:23:39.057Z
-lastUpdated: 2026-07-13T17:09:44.615Z
 tags:
   - Writing
   - WritingDiscourse
-coverImage: "[Untitled](../Images/Untitled%20(70).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

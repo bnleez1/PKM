@@ -1,14 +1,7 @@
 ---
-type: Page
 title: Reference as a Form of Grammatical Cohesion
-aliases:
-description:
-icon: ✴️
-createdAt: 2026-08-26T04:05:42.106Z
-lastUpdated: 2026-08-28T12:17:34.611Z
 tags:
   - DiscourseAnalysis
-coverImage: "[Untitled](../Images/Untitled%20(8).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

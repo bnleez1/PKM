@@ -1,14 +1,7 @@
 ---
-type: Page
 title: TOEFL Reading Tutorial 2
-aliases:
-description:
-icon: ph-book-open-user
-createdAt: 2025-01-02T13:35:51.385Z
-lastUpdated: 2026-08-26T12:16:37.114Z
 tags:
   - Reading
-coverImage: "[Untitled](../Images/Untitled%20(65).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

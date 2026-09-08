@@ -1,15 +1,7 @@
 ---
-type: Page
-collections: Public Pages
 title: GenAI to compare revised paragraph
-aliases:
-description:
-icon: 🧭
-createdAt: 2025-01-13T13:17:18.493Z
-lastUpdated: 2026-06-28T12:56:51.005Z
 tags:
   - Writing
-coverImage: "[Untitled](../Images/Untitled%20(43).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

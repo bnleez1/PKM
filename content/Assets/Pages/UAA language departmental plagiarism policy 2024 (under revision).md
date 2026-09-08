@@ -1,16 +1,9 @@
 ---
-type: Glossary
-collections: Written Error Code
 title: UAA language departmental plagiarism policy 2024 (under revision)
 tags:
   - WritingErrorCode
   - Writing
   - Plagiarism
-subject: []
-formalDefinition:
-relatedTerms: []
-pages:
-  - "[[Writing error code list]]"
 notes: []
 gh-publish: true
 gh-path: content/Assets/Pages

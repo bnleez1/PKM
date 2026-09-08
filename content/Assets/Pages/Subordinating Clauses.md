@@ -1,14 +1,7 @@
 ---
-type: Page
 title: Subordinating Clauses
-aliases:
-description: An overview of what subordinate clauses are and their usage in English grammar, with a link to a helpful resource for further understanding.
-icon: 🖋️
-createdAt: 2023-06-06T21:30:33.310Z
-lastUpdated: 2026-08-26T13:01:26.562Z
 tags:
   - Writing
-coverImage:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

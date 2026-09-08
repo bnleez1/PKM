@@ -1,14 +1,7 @@
 ---
-type: Page
 title: Types of transitions
-aliases:
-description:
-icon: 🖋️
-createdAt: 2024-12-31T21:29:17.557Z
-lastUpdated: 2026-06-17T13:01:00.360Z
 tags:
   - Writing
-coverImage: "[Untitled](../Images/Untitled%20(126).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

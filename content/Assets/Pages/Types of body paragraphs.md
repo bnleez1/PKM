@@ -1,14 +1,7 @@
 ---
-type: Page
 title: Types of body paragraphs
-aliases:
-description: Explore the various types of body paragraphs, including expository, narrative, persuasive, and descriptive, to enhance your writing skills by effectively structuring ideas and supporting your thesis with clear, organized evidence and examples.
-icon: 🧭
-createdAt: 2025-01-02T11:53:07.612Z
-lastUpdated: 2026-06-08T19:13:02.959Z
 tags:
   - Writing
-coverImage:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

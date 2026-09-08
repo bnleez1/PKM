@@ -1,14 +1,7 @@
 ---
-type: Page
 title: Demonstratives
-aliases:
-description:
-icon: 🔰
-createdAt: 2025-01-02T18:56:26.965Z
-lastUpdated: 2026-06-17T19:16:54.070Z
 tags:
   - GrammarSyntax
-coverImage: "[Untitled](../Images/Untitled%20(21).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

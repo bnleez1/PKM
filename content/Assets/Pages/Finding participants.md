@@ -1,15 +1,7 @@
 ---
-type: Page
-collections: Public Pages
 title: Finding participants
-aliases:
-description:
-icon: ph-books
-createdAt: 2025-01-12T20:12:47.134Z
-lastUpdated: 2026-06-30T17:51:36.853Z
 tags:
   - Research
-coverImage: "[Untitled](../Images/Untitled%20(227).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

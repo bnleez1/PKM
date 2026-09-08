@@ -1,16 +1,8 @@
 ---
-type: Page
-collections: Public Pages
 title: Action Plan Designs for Three-Tier Intensive RTI Support
-aliases:
-description:
-icon: 💯
-createdAt: 2026-06-12T14:50:59.428Z
-lastUpdated: 2026-06-28T12:57:51.199Z
 tags:
   - Assessment
   - RTI
-coverImage:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

@@ -1,13 +1,6 @@
 ---
-type: Glossary
-collections: Discourse Analysis
 title: Frames
 tags: []
-subject:
-  - "[[60 Public/Website/Assets/Pages/Discourse Analysis]]"
-formalDefinition: The cognitive structures that define how a situation or topic is understood.
-relatedTerms: []
-pages: []
 notes: []
 gh-publish: true
 gh-path: content/Assets/Pages

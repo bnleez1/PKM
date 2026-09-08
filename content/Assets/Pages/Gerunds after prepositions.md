@@ -1,15 +1,7 @@
 ---
-type: Page
-collections: Public Pages
 title: Gerunds after prepositions
-aliases:
-description:
-icon:
-createdAt: 2025-03-12T13:53:02.962Z
-lastUpdated: 2026-06-28T12:57:21.294Z
 tags:
   - GrammarSyntax
-coverImage: "[Untitled](../Images/Untitled%20(129).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

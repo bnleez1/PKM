@@ -1,15 +1,8 @@
 ---
-type: Glossary
-collections: Written Error Code
 title: (MW) Missing word(s)
 tags:
   - AcademicWriting
   - WritingErrorCode
-subject: []
-formalDefinition:
-relatedTerms: []
-pages:
-  - "[[Writing error code list]]"
 notes: []
 gh-publish: true
 gh-path: content/Assets/Pages

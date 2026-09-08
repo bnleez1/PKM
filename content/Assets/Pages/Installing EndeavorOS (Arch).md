@@ -1,14 +1,6 @@
 ---
-type: Page
-collections: Public Pages
 title: Installing EndeavorOS (Arch)
-aliases:
-description:
-icon: 🖥️
-createdAt: 2026-06-08T13:46:49.872Z
-lastUpdated: 2026-06-28T12:57:41.809Z
 tags: []
-coverImage: "[Untitled](../Images/Untitled%20(228).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

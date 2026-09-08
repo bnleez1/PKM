@@ -1,15 +1,7 @@
 ---
-type: Page
-collections: Public Pages
 title: The Making Strange Tool
-aliases:
-description:
-icon: ✴️
-createdAt: 2026-06-22T18:22:24.040Z
-lastUpdated: 2026-06-28T12:55:52.593Z
 tags:
   - DiscourseAnalysis
-coverImage: "[Untitled](../Images/Untitled%20(168).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

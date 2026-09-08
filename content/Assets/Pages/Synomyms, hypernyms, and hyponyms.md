@@ -1,15 +1,7 @@
 ---
-type: Page
-collections: Public Pages
 title: Synomyms, hypernyms, and hyponyms
-aliases:
-description:
-icon: ✍️
-createdAt: 2025-01-09T19:43:22.376Z
-lastUpdated: 2026-06-28T12:56:41.141Z
 tags:
   - WritingDiscourse
-coverImage:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

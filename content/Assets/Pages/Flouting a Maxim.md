@@ -1,13 +1,6 @@
 ---
-type: Glossary
-collections: Discourse Analysis
 title: Flouting a Maxim
 tags: []
-subject:
-  - "[[60 Public/Website/Assets/Pages/Discourse Analysis]]"
-formalDefinition: Intentionally breaking a conversational rule so the listener infers a hidden meaning (implicature).
-relatedTerms: []
-pages: []
 notes: []
 gh-publish: true
 gh-path: content/Assets/Pages

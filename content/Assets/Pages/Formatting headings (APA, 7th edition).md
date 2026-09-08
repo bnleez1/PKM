@@ -1,15 +1,7 @@
 ---
-type: Page
-collections: Public Pages
 title: Formatting headings (APA, 7th edition)
-aliases:
-description:
-icon: 📜
-createdAt: 2026-06-14T13:15:52.411Z
-lastUpdated: 2026-06-28T12:57:51.283Z
 tags:
   - APA
-coverImage: "[Untitled](../Images/Untitled%20(377).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

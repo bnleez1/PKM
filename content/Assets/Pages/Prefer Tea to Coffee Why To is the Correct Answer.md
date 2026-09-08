@@ -1,15 +1,7 @@
 ---
-type: Page
-collections: Public Pages
 title: 'Prefer Tea to Coffee: Why "To" is the Correct Answer'
-aliases:
-description:
-icon:
-createdAt: 2025-03-21T14:52:19.982Z
-lastUpdated: 2026-06-28T12:57:40.824Z
 tags:
   - GrammarSyntax
-coverImage: "[Untitled](../Images/Untitled%20(47).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

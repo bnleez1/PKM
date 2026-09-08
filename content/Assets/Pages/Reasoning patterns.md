@@ -1,15 +1,7 @@
 ---
-type: Page
-collections: Public Pages
 title: Reasoning patterns
-aliases:
-description:
-icon: 💡
-createdAt: 2025-01-09T19:35:54.848Z
-lastUpdated: 2026-06-28T22:56:23.267Z
 tags:
   - Writing
-coverImage: "[Untitled](../Images/Untitled%20(365).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

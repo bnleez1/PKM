@@ -1,13 +1,6 @@
 ---
-type: Glossary
-collections: Discourse Analysis
 title: Anaphora
 tags: []
-subject:
-  - "[[60 Public/Website/Assets/Pages/Discourse Analysis]]"
-formalDefinition: A cohesive device where a word (often a pronoun) refers back to a previously mentioned entity.
-relatedTerms: []
-pages: []
 notes: []
 gh-publish: true
 gh-path: content/Assets/Pages

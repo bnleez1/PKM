@@ -1,15 +1,7 @@
 ---
-type: Page
-collections: Public Pages
 title: Crafting a Results and Discussion Section for a Thesis Paper
-aliases:
-description:
-icon: 🔰
-createdAt: 2025-01-17T14:34:59.949Z
-lastUpdated: 2026-06-28T12:56:51.278Z
 tags:
   - Reading
-coverImage: "[Untitled](../Images/Untitled%20(82).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

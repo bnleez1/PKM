@@ -1,14 +1,7 @@
 ---
-type: Page
 title: "Understanding Reported Speech: A Guide for English Language Learners"
-aliases:
-description:
-icon: 🖋️
-createdAt: 2025-01-02T18:51:27.799Z
-lastUpdated: 2026-06-12T20:41:23.324Z
 tags:
   - GrammarSyntax
-coverImage: "[Untitled](../Images/Untitled%20(13).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

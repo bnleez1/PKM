@@ -1,15 +1,7 @@
 ---
-type: Page
-collections: Public Pages
 title: The Topic and Theme Tool
-aliases:
-description:
-icon: ✴️
-createdAt: 2026-06-22T18:22:49.310Z
-lastUpdated: 2026-06-28T12:56:01.102Z
 tags:
   - DiscourseAnalysis
-coverImage: "[Untitled](../Images/Untitled%20(251).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

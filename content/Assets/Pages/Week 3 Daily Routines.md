@@ -1,17 +1,9 @@
 ---
-type: Page
-collections: PROPE Topics, Public Pages
 title: "Week 3: Daily Routines"
-aliases:
-description:
-icon: 📙
-createdAt: 2026-06-20T16:42:17.876Z
-lastUpdated: 2026-06-28T12:58:00.910Z
 tags:
   - Writing
   - Listening
   - EnglishSkillDevelopment
-coverImage: "[Untitled](../Images/Untitled%20(34).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

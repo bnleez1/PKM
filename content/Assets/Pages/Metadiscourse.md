@@ -1,13 +1,6 @@
 ---
-type: Glossary
-collections: Discourse Analysis
 title: Metadiscourse
 tags: []
-subject:
-  - "[[60 Public/Website/Assets/Pages/Discourse Analysis]]"
-formalDefinition: Language used by a speaker or writer to guide the receiver's understanding of the text (e.g., 'First, I will explain...').
-relatedTerms: []
-pages: []
 notes:
   - "[[230620260800]]"
 gh-publish: true

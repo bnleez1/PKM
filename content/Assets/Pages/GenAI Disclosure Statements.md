@@ -1,14 +1,7 @@
 ---
-type: Page
 title: GenAI Disclosure Statements
-aliases:
-description:
-icon: ⚡️
-createdAt: 2026-07-25T14:10:24.016Z
-lastUpdated: 2026-08-04T13:54:58.196Z
 tags:
   - GenAiDisclaimer
-coverImage: "[Untitled](../Images/Untitled%20(99).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

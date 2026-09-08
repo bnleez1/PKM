@@ -1,15 +1,7 @@
 ---
-type: Page
-collections: Public Pages
 title: Analyzing Qualitative Data
-aliases:
-description:
-icon:
-createdAt: 2026-06-14T13:27:00.194Z
-lastUpdated: 2026-06-28T12:57:51.406Z
 tags:
   - Research
-coverImage:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

@@ -1,15 +1,7 @@
 ---
-type: Page
-collections: Public Pages
 title: "Unlocking infinitive phrases: The key to expressive English"
-aliases:
-description:
-icon: 🔰
-createdAt: 2025-01-02T19:28:05.297Z
-lastUpdated: 2026-06-28T12:56:20.936Z
 tags:
   - GrammarSyntax
-coverImage: "[Untitled](../Images/Untitled%20(21).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

@@ -1,14 +1,7 @@
 ---
-type: Page
 title: "Understanding Conjunctions: A Guide for English Language "
-aliases:
-description:
-icon: 🖋️
-createdAt: 2025-01-02T18:50:16.716Z
-lastUpdated: 2026-08-28T12:34:54.400Z
 tags:
   - GrammarSyntax
-coverImage: "[Untitled](../Images/Untitled%20(13).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

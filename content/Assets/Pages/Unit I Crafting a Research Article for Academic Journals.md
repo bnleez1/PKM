@@ -1,14 +1,7 @@
 ---
-type: Page
 title: "Unit I: Crafting a Research Article for Academic Journals"
-aliases:
-description: "This chapter provides a comprehensive guide to crafting a research article for academic journals, incorporating essential writing techniques and resources to enhance your academic writing skills. "
-icon: 🧭
-createdAt: 2024-12-27T13:57:53.230Z
-lastUpdated: 2026-06-02T12:14:38.494Z
 tags:
   - Reading
-coverImage: "[Untitled](../Images/Untitled%20(117).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

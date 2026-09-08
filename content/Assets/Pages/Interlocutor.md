@@ -1,13 +1,6 @@
 ---
-type: Glossary
-collections: Discourse Analysis
 title: Interlocutor
 tags: []
-subject:
-  - "[[60 Public/Website/Assets/Pages/Discourse Analysis]]"
-formalDefinition: A person who takes part in a dialogue or conversation.
-relatedTerms: []
-pages: []
 notes:
   - "[[230620260803]]"
 gh-publish: true

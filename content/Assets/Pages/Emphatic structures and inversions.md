@@ -1,14 +1,7 @@
 ---
-type: Page
 title: Emphatic structures and inversions
-aliases:
-description: Emphatic structures and inversion are powerful tools in academic writing that can enhance clarity, emphasis, and engagement. Let’s delve into each concept and see how they can be effectively used.
-icon:
-createdAt: 2025-01-01T17:32:15.475Z
-lastUpdated: 2026-01-11T08:54:09.803Z
 tags:
   - Writing
-coverImage: "[Untitled](../Images/Untitled%20(326).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

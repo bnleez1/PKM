@@ -1,14 +1,7 @@
 ---
-type: Page
 title: Lesson Plan Tutorial Query
-aliases:
-description:
-icon: ✴️
-createdAt: 2026-07-23T15:57:18.719Z
-lastUpdated: 2026-07-23T15:59:03.817Z
 tags:
   - Capacities
-coverImage: "[Untitled](../Images/Untitled%20(106).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

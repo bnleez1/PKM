@@ -1,14 +1,7 @@
 ---
-type: Page
 title: "Reference vs. Substitution: Two Grammatical Cohesion Resources"
-aliases:
-description:
-icon: ⚡️
-createdAt: 2026-08-28T12:17:31.515Z
-lastUpdated: 2026-08-28T12:33:34.933Z
 tags:
   - DiscourseAnalysis
-coverImage: "[Untitled](../Images/Untitled%20(7).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

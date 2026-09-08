@@ -1,15 +1,8 @@
 ---
-type: Glossary
-collections: Written Error Code
 title: (GS) Gender-specific (or bias) language
 tags:
   - WritingErrorCode
   - Writing
-subject: []
-formalDefinition: Language to promote fair, accurate, and respectful language for all individuals.
-relatedTerms: []
-pages:
-  - "[[Writing error code list]]"
 notes: []
 gh-publish: true
 gh-path: content/Assets/Pages

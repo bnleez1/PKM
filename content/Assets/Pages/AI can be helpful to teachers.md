@@ -1,13 +1,6 @@
 ---
-type: Page
 title: AI can be helpful to teachers
-aliases:
-description: An analysis of the potential impact of AI on teaching, challenging the assertion that it will be the most significant transformation in education, based on Larry Ferlazzo's reflections.
-icon: 🧭
-createdAt: 2023-06-05T18:21:54.978Z
-lastUpdated: 2026-06-07T22:05:46.111Z
 tags: []
-coverImage: "[Untitled](../Images/Untitled%20(53).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

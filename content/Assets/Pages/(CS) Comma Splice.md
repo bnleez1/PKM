@@ -1,15 +1,8 @@
 ---
-type: Glossary
-collections: Written Error Code
 title: (CS) Comma Splice
 tags:
   - Punctuation
   - WritingErrorCode
-subject: []
-formalDefinition:
-relatedTerms: []
-pages:
-  - "[[Writing error code list]]"
 notes: []
 gh-publish: true
 gh-path: content/Assets/Pages

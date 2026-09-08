@@ -1,14 +1,7 @@
 ---
-type: Page
 title: Dos and Don't when writing an academic text
-aliases:
-description: A concise guide outlining dos and don'ts when writing an academic text, including tips for final formatting in Microsoft Word and proper usage of the Serial or Oxford Comma.
-icon: 🖋️
-createdAt: 2023-06-05T13:42:27.744Z
-lastUpdated: 2026-06-02T12:14:38.091Z
 tags:
   - AcademicWriting
-coverImage: "[Untitled](../Images/Untitled%20(53).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

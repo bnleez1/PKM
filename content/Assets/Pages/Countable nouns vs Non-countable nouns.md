@@ -1,15 +1,7 @@
 ---
-type: Page
-collections: Public Pages
 title: Countable nouns vs. Non-countable nouns
-aliases:
-description:
-icon: 🔰
-createdAt: 2025-01-02T19:45:01.732Z
-lastUpdated: 2026-06-28T12:56:21.246Z
 tags:
   - GrammarSyntax
-coverImage: "[Untitled](../Images/Untitled%20(21).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

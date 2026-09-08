@@ -1,14 +1,6 @@
 ---
-type: Page
-collections: Public Pages
 title: Gen AI Prompting for generating a newsletter
-aliases:
-description: This note provides a structured approach to leveraging generative AI for creating educational newsletters, including templates, expert insights, and actionable strategies to enhance engagement and effectiveness for instructors, trainers, and coaches.
-icon: 🔰
-createdAt: 2025-01-04T13:18:41.182Z
-lastUpdated: 2026-06-28T12:56:40.744Z
 tags: []
-coverImage:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

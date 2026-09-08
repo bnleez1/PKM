@@ -1,14 +1,7 @@
 ---
-type: Page
 title: EU AI Act, Article 50
-aliases:
-description:
-icon: ✴️
-createdAt: 2026-07-25T13:59:09.377Z
-lastUpdated: 2026-07-25T14:11:12.581Z
 tags:
   - GenAI
-coverImage: "[Untitled](../Images/Untitled%20(104).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

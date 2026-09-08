@@ -1,15 +1,7 @@
 ---
-type: Page
-collections: Public Pages
 title: Adverbs
-aliases:
-description: Adverbs are versatile grammatical elements that modify verbs, adjectives, or other adverbs, categorized into types such as simple adverbs, phrases, and clauses, each serving various functions of manner, time, place, degree, frequency, reason, purpose, condition, and concession to enhance clarity and detail in communication.
-icon: 🔰
-createdAt: 2025-01-02T19:51:43.572Z
-lastUpdated: 2026-06-28T12:56:21.377Z
 tags:
   - GrammarSyntax
-coverImage: "[Untitled](../Images/Untitled%20(21).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

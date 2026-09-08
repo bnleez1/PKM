@@ -1,16 +1,8 @@
 ---
-type: Page
-collections: Public Pages
 title: Formatting Word Document according to APA
-aliases:
-description:
-icon:
-createdAt: 2026-06-14T13:13:52.363Z
-lastUpdated: 2026-06-28T12:57:51.257Z
 tags:
   - HowTo
   - FormattingWord
-coverImage:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

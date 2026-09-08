@@ -1,15 +1,8 @@
 ---
-type: Page
 title: A Studio for your Mind
-aliases:
-description: A Studio for your Mind offers a next-generation note-taking app designed for personal knowledge management, providing a calm and focused environment for intellectual pursuits in the age of information overload and constant distraction.
-icon: 📚️
-createdAt: 2023-05-30T22:02:47.390Z
-lastUpdated: 2026-06-07T22:07:56.382Z
 tags:
   - Capacities
   - KnowledgeManagement
-coverImage: "[[Studio of your Mind]]"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

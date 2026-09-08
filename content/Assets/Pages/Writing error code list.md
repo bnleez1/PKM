@@ -1,14 +1,7 @@
 ---
-type: Page
 title: Writing error code list
-aliases:
-description:
-icon:
-createdAt: 2024-12-31T21:04:29.613Z
-lastUpdated: 2026-06-23T15:22:20.678Z
 tags:
   - Writing
-coverImage: "[Untitled](../Images/Untitled%20(64).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

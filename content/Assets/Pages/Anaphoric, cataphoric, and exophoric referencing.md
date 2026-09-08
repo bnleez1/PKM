@@ -1,15 +1,7 @@
 ---
-type: Page
-collections: Public Pages
 title: Anaphoric, cataphoric, and exophoric referencing
-aliases:
-description:
-icon: 🖋️
-createdAt: 2025-01-09T19:40:46.472Z
-lastUpdated: 2026-06-28T12:56:41.112Z
 tags:
   - WritingDiscourse
-coverImage:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

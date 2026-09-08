@@ -1,14 +1,7 @@
 ---
-type: Page
 title: Installing Siduction Linux Distro
-aliases:
-description:
-icon: ✴️
-createdAt: 2026-07-18T02:39:23.949Z
-lastUpdated: 2026-08-03T15:50:45.294Z
 tags:
   - Linux
-coverImage: "[Untitled](../Images/Untitled%20(424).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

@@ -1,13 +1,6 @@
 ---
-type: Page
 title: Mindmap Assignment
-aliases:
-description:
-icon: ✴️
-createdAt: 2026-07-24T17:03:57.971Z
-lastUpdated: 2026-07-24T19:23:11.125Z
 tags: []
-coverImage: "[Untitled](../Images/Untitled%20(103).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

@@ -1,15 +1,7 @@
 ---
-type: Page
-collections: Public Pages
 title: Dynamic verbs
-aliases:
-description: Dynamic verbs are action-oriented words that bring energy and movement to sentences, conveying physical actions, mental processes, and changes, thereby enhancing the vividness and engagement of writing.
-icon: 🔰
-createdAt: 2025-01-02T19:04:04.362Z
-lastUpdated: 2026-06-28T12:56:11.679Z
 tags:
   - GrammarSyntax
-coverImage: "[Untitled](../Images/Untitled%20(21).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

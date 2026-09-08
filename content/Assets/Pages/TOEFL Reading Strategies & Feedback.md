@@ -1,14 +1,7 @@
 ---
-type: Page
 title: TOEFL Reading Strategies & Feedback
-aliases:
-description:
-icon: 🔰
-createdAt: 2025-01-02T13:27:27.676Z
-lastUpdated: 2026-06-07T23:10:06.200Z
 tags:
   - Reading
-coverImage: "[Untitled](../Images/Untitled%20(21).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

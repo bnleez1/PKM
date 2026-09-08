@@ -1,14 +1,7 @@
 ---
-type: Page
 title: Reading comprehension methods, strategies, and teaching tactics
-aliases:
-description:
-icon: 📖
-createdAt: 2026-08-26T12:48:58.004Z
-lastUpdated: 2026-08-28T12:17:04.541Z
 tags:
   - Reading
-coverImage: "[Untitled](../Images/Untitled%20(12).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

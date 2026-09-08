@@ -1,14 +1,7 @@
 ---
-type: Page
 title: Thesis statement and skeleton outline
-aliases:
-description:
-icon:
-createdAt: 2023-06-07T18:46:45.517Z
-lastUpdated: 2026-06-23T14:17:45.246Z
 tags:
   - Writing
-coverImage:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

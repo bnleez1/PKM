@@ -1,15 +1,7 @@
 ---
-type: Page
-collections: Public Pages
 title: From Data to Defensible Themes
-aliases:
-description:
-icon:
-createdAt: 2026-06-14T13:26:42.585Z
-lastUpdated: 2026-06-28T12:57:51.343Z
 tags:
   - Research
-coverImage:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

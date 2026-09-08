@@ -1,15 +1,7 @@
 ---
-type: Page
-collections: research
 title: Open Journals for Researching Topics in Applied Linguistics
-aliases:
-description: An extensive, curated directory of freely accessible online journals for research in applied linguistics, second language acquisition, TESOL/ELT, language teaching, assessment, multilingualism, discourse, literacy, and language-learning technology.
-icon: 📚️
-createdAt: 2023-11-20T13:32:13.485Z
-lastUpdated: 2026-08-20T18:27:46.525Z
 tags:
   - Research
-coverImage: "[Untitled](../Images/Untitled%20(53).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

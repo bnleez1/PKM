@@ -1,16 +1,8 @@
 ---
-type: Page
-collections: Public Pages
 title: Installing Ubuntu 24.04
-aliases:
-description:
-icon:
-createdAt: 2025-01-09T12:18:23.905Z
-lastUpdated: 2026-06-28T12:56:40.977Z
 tags:
   - Linux
   - Ubuntu
-coverImage:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

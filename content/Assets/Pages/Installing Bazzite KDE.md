@@ -1,13 +1,6 @@
 ---
-type: Page
 title: Installing Bazzite KDE
-aliases:
-description:
-icon: 🏛️
-createdAt: 2026-08-29T23:56:31.098Z
-lastUpdated: 2026-08-30T00:21:16.471Z
 tags: []
-coverImage: "[Untitled](../Images/Untitled%20(6).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

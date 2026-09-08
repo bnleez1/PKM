@@ -1,14 +1,7 @@
 ---
-type: Page
 title: Common nouns
-aliases:
-description:
-icon: 🔰
-createdAt: 2025-01-02T18:59:04.208Z
-lastUpdated: 2026-06-17T19:16:23.753Z
 tags:
   - GrammarSyntax
-coverImage: "[Untitled](../Images/Untitled%20(21).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

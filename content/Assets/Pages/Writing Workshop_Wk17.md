@@ -1,14 +1,7 @@
 ---
-type: Page
 title: Writing Workshop_Wk17
-aliases:
-description: A reminder about the upcoming final poetry reading and review of figurative language devices for the Writing Workshop_Wk17.
-icon: 🧭
-createdAt: 2023-06-04T13:53:08.808Z
-lastUpdated: 2026-08-18T13:46:55.589Z
 tags:
   - WritingWorkshop
-coverImage:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

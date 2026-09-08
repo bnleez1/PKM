@@ -1,15 +1,7 @@
 ---
-type: Page
-collections: Public Pages
 title: Coordinating Conjunctions (FANBOYS)
-aliases:
-description:
-icon: ⚡️
-createdAt: 2025-01-17T13:52:38.744Z
-lastUpdated: 2026-08-26T13:02:16.792Z
 tags:
   - GrammarSyntax
-coverImage: "[Untitled](../Images/Untitled%20(285).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

@@ -1,15 +1,8 @@
 ---
-type: Page
 title: Rethinking Writing Instruction in the Age of AI
-aliases:
-description:
-icon:
-createdAt: 2026-06-29T18:18:25.269Z
-lastUpdated: 2026-07-01T16:03:53.253Z
 tags:
   - Book
   - WritingWithAi
-coverImage:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

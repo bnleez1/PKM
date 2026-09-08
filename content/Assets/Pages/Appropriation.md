@@ -1,13 +1,6 @@
 ---
-type: Glossary
-collections: Discourse Analysis
 title: Appropriation
 tags: []
-subject:
-  - "[[60 Public/Website/Assets/Pages/Discourse Analysis]]"
-formalDefinition: The process by which a learner internalizes language introduced by an expert/teacher and makes it their own.
-relatedTerms: []
-pages: []
 notes:
   - "[[230620260802]]"
 gh-publish: true

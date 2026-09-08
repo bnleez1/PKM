@@ -1,14 +1,7 @@
 ---
-type: Page
 title: Situational questions when doing research
-aliases:
-description: This note provides a framework of situational questions designed to guide researchers in the field of English language education, helping them identify key factors related to participants, data analysis, and linguistic focus for their studies.
-icon: 📚️
-createdAt: 2023-11-20T19:03:55.688Z
-lastUpdated: 2026-08-14T13:21:19.455Z
 tags:
   - Research
-coverImage: "[Untitled](../Images/Untitled%20(21).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

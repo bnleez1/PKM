@@ -1,16 +1,8 @@
 ---
-type: Page
-collections: Public Pages
 title: Connectivity issues installing UbuntuDDE
-aliases:
-description:
-icon:
-createdAt: 2025-03-15T21:58:05.319Z
-lastUpdated: 2026-06-28T12:57:30.828Z
 tags:
   - Linux
   - Ubuntu
-coverImage:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

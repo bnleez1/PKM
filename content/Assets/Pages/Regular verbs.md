@@ -1,15 +1,7 @@
 ---
-type: Page
-collections: Public Pages
 title: Regular verbs
-aliases:
-description:
-icon: 🔰
-createdAt: 2025-01-02T19:16:57.077Z
-lastUpdated: 2026-08-20T18:45:43.745Z
 tags:
   - GrammarSyntax
-coverImage: "[Untitled](../Images/Untitled%20(21).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

@@ -1,13 +1,6 @@
 ---
-type: Page
 title: "Teaching Workshop II: Final written exam"
-aliases:
-description: An examination for a teaching workshop focusing on listening and speaking strategies, with a rubric for the answers provided.
-icon: 🏫
-createdAt: 2023-11-27T02:43:30.811Z
-lastUpdated: 2026-06-01T14:34:19.790Z
 tags: []
-coverImage: "[Untitled](../Images/Untitled%20(20).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

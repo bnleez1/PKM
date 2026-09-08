@@ -1,15 +1,7 @@
 ---
-type: Page
-collections: Public Pages
 title: Understanding Signposting in Academic Writing
-aliases:
-description:
-icon: ⏱️
-createdAt: 2025-01-07T18:38:39.408Z
-lastUpdated: 2026-06-28T12:56:40.914Z
 tags:
   - Writing
-coverImage: "[Untitled](../Images/Untitled%20(384).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

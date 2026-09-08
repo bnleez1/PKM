@@ -1,13 +1,6 @@
 ---
-type: Page
 title: "How to Paraphrase Direct Quotes: A Comprehensive Guide"
-aliases:
-description:
-icon:
-createdAt: 2026-07-13T16:55:11.205Z
-lastUpdated: 2026-07-13T16:59:39.102Z
 tags: []
-coverImage:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

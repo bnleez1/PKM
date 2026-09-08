@@ -1,17 +1,9 @@
 ---
-type: Page
-collections: PROPE Topics, Public Pages
 title: "Week 9: Sports & Physical Act"
-aliases:
-description:
-icon: 📙
-createdAt: 2026-06-20T16:47:48.424Z
-lastUpdated: 2026-06-28T12:55:52.416Z
 tags:
   - Writing
   - Listening
   - EnglishSkillDevelopment
-coverImage: "[Untitled](../Images/Untitled%20(34).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

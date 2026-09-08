@@ -1,15 +1,7 @@
 ---
-type: Page
-collections: Public Pages
 title: Reduced Clauses
-aliases:
-description:
-icon:
-createdAt: 2025-03-31T17:56:38.068Z
-lastUpdated: 2026-06-28T12:57:40.939Z
 tags:
   - GrammarSyntax
-coverImage: "[Untitled](../Images/Untitled%20(132).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

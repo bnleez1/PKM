@@ -1,15 +1,7 @@
 ---
-type: Page
-collections: Public Pages
 title: Topic sentence-heading-thesis alignment
-aliases:
-description:
-icon: 🧭
-createdAt: 2025-01-09T19:25:33.548Z
-lastUpdated: 2026-06-28T12:56:41.048Z
 tags:
   - Writing
-coverImage: "[Untitled](../Images/Untitled%20(258).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

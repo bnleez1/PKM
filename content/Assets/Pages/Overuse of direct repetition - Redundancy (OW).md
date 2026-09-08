@@ -1,15 +1,8 @@
 ---
-type: Page
 title: Overuse of direct repetition - Redundancy (OW)
-aliases:
-description: Missing words can significantly impact the clarity and correctness of formal texts written by English language learners.
-icon: 🖋️
-createdAt: 2025-01-01T13:01:51.933Z
-lastUpdated: 2026-06-11T13:35:10.407Z
 tags:
   - WritingErrorCode
   - WritingDiscourse
-coverImage: "[Untitled](../Images/Untitled%20(13).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

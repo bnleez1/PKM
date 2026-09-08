@@ -1,15 +1,7 @@
 ---
-type: Page
-collections: Public Pages
 title: Inverted sentence structure
-aliases:
-description:
-icon:
-createdAt: 2025-03-12T13:49:43.095Z
-lastUpdated: 2026-06-28T22:56:23.335Z
 tags:
   - GrammarSyntax
-coverImage: "[Untitled](../Images/Untitled%20(47).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

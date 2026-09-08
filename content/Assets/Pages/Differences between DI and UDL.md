@@ -1,14 +1,6 @@
 ---
-type: Page
-collections: Public Pages
 title: Differences between DI and UDL
-aliases:
-description:
-icon:
-createdAt: 2025-02-12T18:15:54.812Z
-lastUpdated: 2026-08-10T17:45:40.670Z
 tags: []
-coverImage:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

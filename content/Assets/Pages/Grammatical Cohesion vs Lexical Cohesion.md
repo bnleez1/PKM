@@ -1,13 +1,6 @@
 ---
-type: Page
 title: Grammatical Cohesion vs. Lexical Cohesion
-aliases:
-description:
-icon:
-createdAt: 2026-08-28T12:40:12.820Z
-lastUpdated: 2026-08-28T12:40:44.388Z
 tags: []
-coverImage:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

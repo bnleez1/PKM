@@ -1,13 +1,6 @@
 ---
-type: Page
 title: Installing Website in pCloud
-aliases:
-description:
-icon:
-createdAt: 2026-07-08T13:10:42.044Z
-lastUpdated: 2026-07-08T13:11:06.589Z
 tags: []
-coverImage:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

@@ -1,15 +1,7 @@
 ---
-type: Page
-collections: Public Pages
 title: "Interjections: The spice of language"
-aliases:
-description: Interjections are expressive words and phrases that enhance communication by conveying emotions and reactions, functioning as linguistic seasoning that bridges spoken and written language.
-icon: 🔰
-createdAt: 2025-01-02T19:52:51.318Z
-lastUpdated: 2026-06-28T12:56:30.855Z
 tags:
   - GrammarSyntax
-coverImage: "[Untitled](../Images/Untitled%20(21).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

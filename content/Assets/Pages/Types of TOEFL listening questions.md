@@ -1,14 +1,7 @@
 ---
-type: Page
 title: Types of TOEFL listening questions
-aliases:
-description:
-icon: 👂️
-createdAt: 2025-01-02T14:09:29.439Z
-lastUpdated: 2026-06-14T17:46:25.606Z
 tags:
   - Listening
-coverImage: "[Untitled](../Images/Untitled%20(122).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

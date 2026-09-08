@@ -1,17 +1,9 @@
 ---
-type: Page
-collections: Public Pages
 title: Academic Writing (Literature Review) Rubric
-aliases:
-description:
-icon: 🎯
-createdAt: 2026-06-18T15:15:05.282Z
-lastUpdated: 2026-06-28T12:58:00.842Z
 tags:
   - Writing
   - Assessment
   - Rubrics
-coverImage: "[Untitled](../Images/Untitled%20(252).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

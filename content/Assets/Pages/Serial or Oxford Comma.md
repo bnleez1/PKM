@@ -1,14 +1,7 @@
 ---
-type: Page
 title: Serial or Oxford Comma
-aliases:
-description: A brief guide on the use of the serial comma (Oxford comma) in punctuation, including its purpose and variations based on style guides and regional preferences.
-icon: 🖋️
-createdAt: 2023-06-06T12:54:04.411Z
-lastUpdated: 2026-06-14T14:11:39.341Z
 tags:
   - Punctuation
-coverImage: "[Untitled](../Images/Untitled%20(53).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

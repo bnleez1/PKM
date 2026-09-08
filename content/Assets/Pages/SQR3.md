@@ -1,13 +1,6 @@
 ---
-type: Page
 title: SQR3
-aliases:
-description:
-icon: 🧭
-createdAt: 2025-01-02T13:59:33.518Z
-lastUpdated: 2025-01-02T14:03:40.263Z
 tags: []
-coverImage: "[Untitled](../Images/Untitled%20(393).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

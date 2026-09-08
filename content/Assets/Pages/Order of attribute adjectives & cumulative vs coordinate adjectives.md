@@ -1,14 +1,7 @@
 ---
-type: Page
 title: Order of attribute adjectives & cumulative vs. coordinate adjectives
-aliases:
-description:
-icon: 🖋️
-createdAt: 2025-01-02T18:44:54.409Z
-lastUpdated: 2026-06-12T20:41:43.965Z
 tags:
   - GrammarSyntax
-coverImage: "[Untitled](../Images/Untitled%20(13).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

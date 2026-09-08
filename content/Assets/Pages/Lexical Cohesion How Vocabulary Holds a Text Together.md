@@ -1,13 +1,6 @@
 ---
-type: Page
 title: "Lexical Cohesion: How Vocabulary Holds a Text Together"
-aliases:
-description:
-icon: ✴️
-createdAt: 2026-06-23T13:06:30.566Z
-lastUpdated: 2026-08-28T12:40:24.709Z
 tags: []
-coverImage: "[Untitled](../Images/Untitled%20(11).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

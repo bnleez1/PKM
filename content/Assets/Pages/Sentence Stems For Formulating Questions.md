@@ -1,14 +1,7 @@
 ---
-type: Page
 title: Sentence Stems For Formulating Questions
-aliases:
-description:
-icon: 🔰
-createdAt: 2025-01-02T14:15:12.804Z
-lastUpdated: 2026-08-18T18:51:24.258Z
 tags:
   - GrammarSyntax
-coverImage: "[Untitled](../Images/Untitled%20(21).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

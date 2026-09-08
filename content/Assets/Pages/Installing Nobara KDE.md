@@ -1,14 +1,7 @@
 ---
-type: Page
 title: Installing Nobara KDE
-aliases:
-description:
-icon: 🖥️
-createdAt: 2026-07-09T14:39:58.489Z
-lastUpdated: 2026-08-30T16:48:21.345Z
 tags:
   - Linux
-coverImage: "[Untitled](../Images/Untitled%20(255).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

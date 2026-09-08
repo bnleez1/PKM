@@ -1,14 +1,7 @@
 ---
-type: Page
 title: Introduction Paragraph
-aliases:
-description: An introductory paragraph serves the purpose of providing a concise rationale for academic writing, offering context and background information to the reader.
-icon: 🧭
-createdAt: 2023-06-01T18:55:22.371Z
-lastUpdated: 2026-06-14T18:33:23.294Z
 tags:
   - AcademicWriting
-coverImage:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

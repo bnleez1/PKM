@@ -1,13 +1,6 @@
 ---
-type: Page
 title: Lesson test I
-aliases:
-description: This lesson plan provides a 50-minute guide for teaching adult English Language Learners about social media, covering vocabulary, different types of social media platforms, and responsible use.
-icon: 🏫
-createdAt: 2023-11-20T12:30:58.780Z
-lastUpdated: 2025-01-02T12:11:52.636Z
 tags: []
-coverImage:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

@@ -1,14 +1,7 @@
 ---
-type: Page
 title: Narrowing down a topic
-aliases:
-description: This note provides guidance on narrowing down a research topic, emphasizing the importance of moving from a broad problem to a specific subject and perspective.
-icon: 📚️
-createdAt: 2023-11-20T15:57:20.506Z
-lastUpdated: 2026-06-12T13:53:33.470Z
 tags:
   - Research
-coverImage: "[Untitled](../Images/Untitled%20(174).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

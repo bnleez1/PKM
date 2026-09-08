@@ -1,14 +1,6 @@
 ---
-type: Page
-collections: Public Pages
 title: Benjamin L. Stewart, Phd
-aliases:
-description:
-icon: 🏫
-createdAt: 2026-06-08T12:32:12.952Z
-lastUpdated: 2026-06-28T12:57:41.754Z
 tags: []
-coverImage: "[Untitled](../Images/Untitled%20(307).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

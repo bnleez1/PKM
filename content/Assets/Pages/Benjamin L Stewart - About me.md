@@ -1,14 +1,6 @@
 ---
-type: Page
-collections: Public Pages
 title: Benjamin L. Stewart - About me
-aliases:
-description: "Welcome to my hub! My name is Benjamin L. Stewart and I am an English language teacher trainer who enjoys making much of my teaching and learning experience transparent to others. "
-icon: 🧭
-createdAt: 2026-06-04T16:19:13.192Z
-lastUpdated: 2026-07-23T13:36:23.183Z
 tags: []
-coverImage: "[[Banner_Me]]"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

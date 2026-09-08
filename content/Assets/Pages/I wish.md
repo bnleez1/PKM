@@ -1,15 +1,7 @@
 ---
-type: Page
-collections: Public Pages
 title: '"I wish"...'
-aliases:
-description:
-icon:
-createdAt: 2025-03-21T14:37:07.812Z
-lastUpdated: 2026-06-28T12:57:31.048Z
 tags:
   - GrammarSyntax
-coverImage: "[Untitled](../Images/Untitled%20(305).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

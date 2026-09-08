@@ -1,14 +1,7 @@
 ---
-type: Page
 title: A Deep Dive into Commas
-aliases:
-description:
-icon: ⚡️
-createdAt: 2026-08-18T17:35:57.612Z
-lastUpdated: 2026-08-18T18:54:03.816Z
 tags:
   - Punctuation
-coverImage: "[Untitled](../Images/Untitled%20(232).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

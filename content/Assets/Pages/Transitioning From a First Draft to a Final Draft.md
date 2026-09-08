@@ -1,15 +1,7 @@
 ---
-type: Page
-collections: Public Pages
 title: Transitioning From a First Draft to a Final Draft
-aliases:
-description:
-icon: 🧭
-createdAt: 2026-06-03T12:13:55.189Z
-lastUpdated: 2026-06-28T12:57:41.131Z
 tags:
   - InProgress
-coverImage: "[Untitled](../Images/Untitled%20(31).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

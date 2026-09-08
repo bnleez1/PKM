@@ -1,15 +1,7 @@
 ---
-type: Page
-collections: Public Pages
 title: How to Best Approach Beginning an Academic Article
-aliases:
-description:
-icon: 🔰
-createdAt: 2025-01-17T13:34:57.558Z
-lastUpdated: 2026-06-28T12:56:51.144Z
 tags:
   - Writing
-coverImage: "[Untitled](../Images/Untitled%20(124).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

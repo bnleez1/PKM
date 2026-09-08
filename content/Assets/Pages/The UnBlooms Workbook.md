@@ -1,15 +1,7 @@
 ---
-type: Page
-collections: Public Pages
 title: The UnBlooms Workbook
-aliases:
-description:
-icon: ✴️
-createdAt: 2026-06-27T20:23:39.751Z
-lastUpdated: 2026-06-28T12:56:11.446Z
 tags:
   - GenAI
-coverImage: "[Untitled](../Images/Untitled%20(320).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

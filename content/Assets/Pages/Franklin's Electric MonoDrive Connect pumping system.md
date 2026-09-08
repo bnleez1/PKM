@@ -1,15 +1,7 @@
 ---
-type: Page
-collections: Public Pages
 title: Franklin's Electric MonoDrive Connect pumping system
-aliases:
-description:
-icon:
-createdAt: 2025-03-29T20:07:20.703Z
-lastUpdated: 2026-06-28T12:57:40.913Z
 tags:
   - Personal
-coverImage:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

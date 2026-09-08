@@ -1,15 +1,7 @@
 ---
-type: Page
-collections: Public Pages
 title: Conducting Effective Interventions
-aliases:
-description:
-icon:
-createdAt: 2025-02-05T13:51:10.715Z
-lastUpdated: 2026-06-28T22:56:23.291Z
 tags:
   - Research
-coverImage:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

@@ -1,15 +1,8 @@
 ---
-type: Glossary
-collections: Written Error Code
 title: (CLAR) Clarity and style
 tags:
   - Writing
   - WritingDiscourse
-subject: []
-formalDefinition:
-relatedTerms: []
-pages:
-  - "[[Writing error code list]]"
 notes: []
 gh-publish: true
 gh-path: content/Assets/Pages

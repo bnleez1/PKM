@@ -1,14 +1,7 @@
 ---
-type: Page
 title: Nouns
-aliases:
-description:
-icon: 🔰
-createdAt: 2025-01-02T18:58:14.531Z
-lastUpdated: 2026-06-17T19:16:54.174Z
 tags:
   - GrammarSyntax
-coverImage: "[Untitled](../Images/Untitled%20(21).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

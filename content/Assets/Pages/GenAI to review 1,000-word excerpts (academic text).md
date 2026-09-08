@@ -1,15 +1,7 @@
 ---
-type: Page
-collections: Public Pages
 title: GenAI to review 1,000-word excerpts (academic text)
-aliases:
-description:
-icon: 🧭
-createdAt: 2025-01-15T12:49:59.935Z
-lastUpdated: 2026-06-28T12:56:51.077Z
 tags:
   - Writing
-coverImage: "[Untitled](../Images/Untitled%20(43).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

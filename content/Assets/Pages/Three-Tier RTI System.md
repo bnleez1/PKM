@@ -1,15 +1,7 @@
 ---
-type: Page
-collections: Public Pages
 title: Three-Tier RTI System
-aliases:
-description:
-icon: 💯
-createdAt: 2026-06-12T13:35:17.319Z
-lastUpdated: 2026-06-28T12:57:51.173Z
 tags:
   - Assessment
-coverImage: "[Untitled](../Images/Untitled%20(343).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

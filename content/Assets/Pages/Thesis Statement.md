@@ -1,14 +1,7 @@
 ---
-type: Page
 title: Thesis Statement
-aliases:
-description:
-icon: 🖋️
-createdAt: 2024-12-31T21:13:21.743Z
-lastUpdated: 2026-06-05T12:57:24.349Z
 tags:
   - Writing
-coverImage: "[Untitled](../Images/Untitled%20(80).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

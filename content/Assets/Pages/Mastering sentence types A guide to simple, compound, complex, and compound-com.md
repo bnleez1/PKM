@@ -1,15 +1,8 @@
 ---
-type: Page
 title: "Mastering sentence types: A guide to simple, compound, complex, and compound-complex sentences"
-aliases:
-description: A comprehensive guide detailing the four main types of sentences—simple, compound, complex, and compound-complex—highlighting their structures, meanings, uses, and providing illustrative examples to enhance writing skills.
-icon: 🖋️
-createdAt: 2025-01-01T17:12:40.783Z
-lastUpdated: 2026-06-05T12:32:59.370Z
 tags:
   - WritingErrorCode
   - Writing
-coverImage: "[Untitled](../Images/Untitled%20(13).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

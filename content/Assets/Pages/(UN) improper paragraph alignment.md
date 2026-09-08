@@ -1,13 +1,6 @@
 ---
-type: Glossary
-collections: Written Error Code
 title: (UN) improper paragraph alignment
 tags: []
-subject: []
-formalDefinition:
-relatedTerms: []
-pages:
-  - "[[Writing error code list]]"
 notes: []
 gh-publish: true
 gh-path: content/Assets/Pages

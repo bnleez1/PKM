@@ -1,14 +1,7 @@
 ---
-type: Page
 title: Figurative language devices
-aliases:
-description: Explore the world of figurative language devices with examples of metaphors, similes, personification, and hyperbole, along with comparisons of similes vs. metaphors and personification vs. anthropomorphism.
-icon:
-createdAt: 2023-06-06T19:47:25.974Z
-lastUpdated: 2026-06-14T18:33:46.384Z
 tags:
   - CreativeWriting
-coverImage:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

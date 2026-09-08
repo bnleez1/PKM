@@ -1,13 +1,6 @@
 ---
-type: Glossary
-collections: Written Error Code
 title: (WF) - Word form (part of speech) is incorrect
 tags: []
-subject: []
-formalDefinition: A **Word Form (WF)** error occurs when a writer selects the correct vocabulary concept but applies the incorrect grammatical part of speech for the sentence's structure.
-relatedTerms: []
-pages:
-  - "[[Writing error code list]]"
 notes: []
 gh-publish: true
 gh-path: content/Assets/Pages

@@ -1,14 +1,7 @@
 ---
-type: Page
 title: Installing NextCloud
-aliases:
-description:
-icon: ✴️
-createdAt: 2026-07-04T14:26:18.442Z
-lastUpdated: 2026-07-07T18:20:57.373Z
 tags:
   - Linux
-coverImage: "[Untitled](../Images/Untitled%20(304).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

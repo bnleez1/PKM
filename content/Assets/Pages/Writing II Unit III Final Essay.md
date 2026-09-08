@@ -1,14 +1,7 @@
 ---
-type: Page
 title: Writing II Unit III Final Essay
-aliases:
-description: This note contains a list of students' names and their respective scores, likely related to a writing assignment or assessment for Writing II Unit III.
-icon: ph:student
-createdAt: 2023-06-10T14:41:41.368Z
-lastUpdated: 2026-06-01T14:34:19.917Z
 tags:
   - AcademicWriting
-coverImage: "[Untitled](../Images/Untitled%20(212).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

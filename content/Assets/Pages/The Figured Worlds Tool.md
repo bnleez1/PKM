@@ -1,15 +1,7 @@
 ---
-type: Page
-collections: Public Pages
 title: The Figured Worlds Tool
-aliases:
-description:
-icon: ✴️
-createdAt: 2026-06-22T18:25:42.571Z
-lastUpdated: 2026-06-28T12:56:02.269Z
 tags:
   - DiscourseAnalysis
-coverImage: "[Untitled](../Images/Untitled%20(32).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

@@ -1,15 +1,7 @@
 ---
-type: Page
-collections: FCE Practice Tests, Public Pages
 title: FCE Practice test 3
-aliases:
-description:
-icon:
-createdAt: 2025-03-18T19:00:42.621Z
-lastUpdated: 2026-06-28T12:57:30.952Z
 tags:
   - Assessment
-coverImage: "[Untitled](../Images/Untitled%20(56).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

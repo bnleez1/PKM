@@ -1,15 +1,7 @@
 ---
-type: Page
-collections: Public Pages
 title: EdTech Search Strategies
-aliases:
-description:
-icon:
-createdAt: 2025-01-03T14:09:23.744Z
-lastUpdated: 2026-06-28T12:56:31.214Z
 tags:
   - Research
-coverImage:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

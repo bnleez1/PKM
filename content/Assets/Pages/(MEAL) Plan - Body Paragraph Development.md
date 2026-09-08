@@ -1,15 +1,8 @@
 ---
-type: Page
 title: (MEAL) Plan - Body Paragraph Development
-aliases:
-description:
-icon:
-createdAt: 2023-06-06T21:07:07.502Z
-lastUpdated: 2026-08-27T16:13:40.603Z
 tags:
   - AcademicWriting
   - WritingErrorCode
-coverImage:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

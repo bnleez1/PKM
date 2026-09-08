@@ -2,10 +2,6 @@
 title:
 tags:
   - Obsidian
-subject: []
-formalDefinition:
-relatedTerms: []
-pages:
 notes: []
 gh-publish: true
 gh-path:

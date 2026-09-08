@@ -1,14 +1,7 @@
 ---
-type: Page
 title: Types of clauses
-aliases:
-description:
-icon: 🧭
-createdAt: 2025-01-02T11:49:48.325Z
-lastUpdated: 2026-06-23T15:14:29.720Z
 tags:
   - GrammarSyntax
-coverImage:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

@@ -1,15 +1,8 @@
 ---
-type: Glossary
-collections: Written Error Code
 title: (ART) Article (determiner)
 tags:
   - WritingErrorCode
   - Writing
-subject: []
-formalDefinition: "Articles are a type of determiner in English that provide information about the noun they precede. "
-relatedTerms: []
-pages:
-  - "[[Writing error code list]]"
 notes: []
 gh-publish: true
 gh-path: content/Assets/Pages

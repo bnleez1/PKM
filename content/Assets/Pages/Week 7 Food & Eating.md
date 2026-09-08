@@ -1,17 +1,9 @@
 ---
-type: Page
-collections: PROPE Topics, Public Pages
 title: "Week 7: Food & Eating"
-aliases:
-description:
-icon: 📙
-createdAt: 2026-06-20T16:46:13.311Z
-lastUpdated: 2026-06-28T12:55:52.377Z
 tags:
   - Writing
   - Listening
   - EnglishSkillDevelopment
-coverImage: "[Untitled](../Images/Untitled%20(34).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

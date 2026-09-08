@@ -1,15 +1,7 @@
 ---
-type: Page
-collections: Public Pages
 title: Sentence connectors by category
-aliases:
-description:
-icon: 🔗
-createdAt: 2025-01-13T14:20:47.393Z
-lastUpdated: 2026-06-28T12:56:51.042Z
 tags:
   - Writing
-coverImage: "[Untitled](../Images/Untitled%20(9).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

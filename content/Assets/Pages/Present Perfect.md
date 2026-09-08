@@ -1,14 +1,7 @@
 ---
-type: Page
 title: Present Perfect
-aliases:
-description:
-icon: 🔰
-createdAt: 2025-01-02T15:12:24.837Z
-lastUpdated: 2026-06-23T14:18:21.098Z
 tags:
   - GrammarSyntax
-coverImage: "[Untitled](../Images/Untitled%20(380).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

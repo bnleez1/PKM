@@ -1,13 +1,6 @@
 ---
-type: Page
 title: Newsletter template
-aliases:
-description:
-icon:
-createdAt: 2025-01-04T13:35:35.064Z
-lastUpdated: 2025-01-04T13:37:08.830Z
 tags: []
-coverImage:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

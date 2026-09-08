@@ -1,14 +1,7 @@
 ---
-type: Page
 title: General Purpose Assignment Template
-aliases:
-description:
-icon:
-createdAt: 2026-08-14T12:50:27.181Z
-lastUpdated: 2026-08-14T12:50:49.095Z
 tags:
   - Template
-coverImage:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

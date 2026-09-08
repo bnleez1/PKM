@@ -1,16 +1,8 @@
 ---
-type: Page
-collections: Public Pages
 title: "Maximizing Impact: How to Match Your Article to the Ideal Academic Journal"
-aliases:
-description:
-icon: 🔰
-createdAt: 2025-01-03T13:43:55.387Z
-lastUpdated: 2026-06-28T12:56:31.184Z
 tags:
   - Writing
   - Research
-coverImage: "[Untitled](../Images/Untitled%20(351).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

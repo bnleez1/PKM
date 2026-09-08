@@ -1,16 +1,9 @@
 ---
-type: Glossary
-collections: Written Error Code
 title: "Plagiarism: The copycat crime in academia and beyond (APA)"
 tags:
   - WritingErrorCode
   - Writing
   - Plagiarism
-subject: []
-formalDefinition:
-relatedTerms: []
-pages:
-  - "[[Writing error code list]]"
 notes: []
 gh-publish: true
 gh-path: content/Assets/Pages

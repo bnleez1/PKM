@@ -1,14 +1,7 @@
 ---
-type: Page
 title: TOEFL Reading Tutorial 3 (Copy)
-aliases:
-description:
-icon: ph-book-open-user
-createdAt: 2025-01-02T14:15:12.818Z
-lastUpdated: 2026-07-01T18:22:35.489Z
 tags:
   - Reading
-coverImage: "[Untitled](../Images/Untitled%20(65).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

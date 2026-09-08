@@ -1,14 +1,7 @@
 ---
-type: Page
 title: Parallelism
-aliases:
-description:
-icon: 🖋️
-createdAt: 2025-01-02T18:43:45.925Z
-lastUpdated: 2026-06-12T20:41:43.937Z
 tags:
   - GrammarSyntax
-coverImage: "[Untitled](../Images/Untitled%20(13).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

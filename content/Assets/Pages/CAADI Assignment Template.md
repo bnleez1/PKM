@@ -1,14 +1,7 @@
 ---
-type: Page
 title: CAADI Assignment Template
-aliases:
-description:
-icon:
-createdAt: 2026-08-14T12:36:06.856Z
-lastUpdated: 2026-08-14T12:36:29.467Z
 tags:
   - Template
-coverImage:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

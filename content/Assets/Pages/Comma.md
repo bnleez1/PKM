@@ -1,14 +1,7 @@
 ---
-type: Page
 title: Comma
-aliases:
-description:
-icon: 🧭
-createdAt: 2023-06-06T12:50:00.597Z
-lastUpdated: 2026-06-05T12:32:59.346Z
 tags:
   - Punctuation
-coverImage: "[Untitled](../Images/Untitled%20(212).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

@@ -1,15 +1,8 @@
 ---
-type: Page
 title: (FRAG) Sentence fragment
-aliases:
-description:
-icon: 🖋️
-createdAt: 2025-01-01T12:43:41.300Z
-lastUpdated: 2026-06-23T14:43:59.044Z
 tags:
   - Punctuation
   - WritingErrorCode
-coverImage: "[Untitled](../Images/Untitled%20(13).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

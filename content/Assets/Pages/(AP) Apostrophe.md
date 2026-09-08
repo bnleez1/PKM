@@ -1,16 +1,8 @@
 ---
-type: Glossary
-collections: Written Error Code
 title: (AP) Apostrophe
 tags:
   - WritingErrorCode
   - Writing
-subject: []
-formalDefinition: The apostrophe serves several important functions, including indicating possession, forming contractions, and sometimes creating plurals.
-relatedTerms:
-  - "[[(WP) Understanding English punctuation]]"
-pages:
-  - "[[Writing error code list]]"
 notes: []
 gh-publish: true
 gh-path: content/Assets/Pages

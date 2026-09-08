@@ -1,14 +1,6 @@
 ---
-type: Page
-collections: Public Pages
 title: How to synthesize information
-aliases:
-description:
-icon: 🔰
-createdAt: 2025-01-17T14:16:52.624Z
-lastUpdated: 2026-06-28T12:56:51.213Z
 tags: []
-coverImage: "[Untitled](../Images/Untitled%20(141).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

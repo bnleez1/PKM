@@ -1,14 +1,7 @@
 ---
-type: Page
 title: Reading Strategies for Improving Reading Comprehension
-aliases:
-description:
-icon: 📖
-createdAt: 2026-08-26T12:16:16.651Z
-lastUpdated: 2026-08-28T12:17:04.585Z
 tags:
   - Reading
-coverImage: "[Untitled](../Images/Untitled%20(14).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

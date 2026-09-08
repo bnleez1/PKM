@@ -1,14 +1,7 @@
 ---
-type: Page
 title: "ELT Cast 127: TOEFL Vocabulary and Reading Preparation using AI (Copy)"
-aliases:
-description: Explore the various types of body paragraphs, including expository, narrative, persuasive, and descriptive, to enhance your writing skills by effectively structuring ideas and supporting your thesis with clear, organized evidence and examples.
-icon: 🧭
-createdAt: 2025-01-02T14:04:59.985Z
-lastUpdated: 2026-07-01T18:22:35.599Z
 tags:
   - Writing
-coverImage:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

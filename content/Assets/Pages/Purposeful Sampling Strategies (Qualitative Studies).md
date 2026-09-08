@@ -1,15 +1,7 @@
 ---
-type: Page
-collections: Public Pages
 title: Purposeful Sampling Strategies (Qualitative Studies)
-aliases:
-description:
-icon: 📑
-createdAt: 2025-02-20T14:34:46.281Z
-lastUpdated: 2026-06-28T22:56:23.309Z
 tags:
   - Research
-coverImage: "[Untitled](../Images/Untitled%20(305).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

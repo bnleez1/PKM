@@ -1,14 +1,7 @@
 ---
-type: Page
 title: "Embracing one’s originality and process in academic writing: A guide for English language learners"
-aliases:
-description:
-icon: 🧭
-createdAt: 2024-12-31T20:59:40.346Z
-lastUpdated: 2026-01-24T16:42:02.183Z
 tags:
   - WritingWithAi
-coverImage: "[Untitled](../Images/Untitled%20(134).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

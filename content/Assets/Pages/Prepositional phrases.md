@@ -1,15 +1,8 @@
 ---
-type: Page
 title: Prepositional phrases
-aliases:
-description:
-icon: ✴️
-createdAt: 2025-01-01T16:59:24.069Z
-lastUpdated: 2026-08-18T18:53:23.533Z
 tags:
   - GrammarSyntax
   - WritingErrorCode
-coverImage: "[Untitled](../Images/Untitled%20(274).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

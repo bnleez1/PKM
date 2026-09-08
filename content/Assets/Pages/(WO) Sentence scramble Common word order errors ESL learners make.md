@@ -1,15 +1,8 @@
 ---
-type: Glossary
-collections: Written Error Code
 title: "(WO) Sentence scramble: Common word order errors ESL learners make"
 tags:
   - WritingErrorCode
   - Writing
-subject: []
-formalDefinition:
-relatedTerms: []
-pages:
-  - "[[Writing error code list]]"
 notes: []
 gh-publish: true
 gh-path: content/Assets/Pages

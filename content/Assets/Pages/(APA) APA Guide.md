@@ -1,18 +1,9 @@
 ---
-type: Glossary
-collections: Written Error Code
 title: (APA) APA Guide
 tags:
   - WritingErrorCode
   - Writing
   - APA
-subject: []
-formalDefinition:
-relatedTerms:
-  - "[Plagiarism: The copycat crime in academia and beyond (APA)](Plagiarism%20The%20copycat%20crime%20in%20academia%20and%20beyond%20(APA).md)"
-  - "[[UAA language departmental plagiarism policy 2024 (under revision)]]"
-pages:
-  - "[[Writing error code list]]"
 notes: []
 gh-publish: true
 gh-path: content/Assets/Pages

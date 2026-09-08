@@ -1,13 +1,6 @@
 ---
-type: Page
 title: Writing mechanics
-aliases:
-description:
-icon:
-createdAt: 2026-07-22T22:01:57.885Z
-lastUpdated: 2026-07-22T22:02:16.884Z
 tags: []
-coverImage:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

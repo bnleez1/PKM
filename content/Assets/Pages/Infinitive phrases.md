@@ -1,15 +1,7 @@
 ---
-type: Page
-collections: Public Pages
 title: Infinitive phrases
-aliases:
-description:
-icon: 🖋️
-createdAt: 2025-01-03T01:30:39.457Z
-lastUpdated: 2026-06-28T12:56:30.984Z
 tags:
   - GrammarSyntax
-coverImage: "[Untitled](../Images/Untitled%20(13).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

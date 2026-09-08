@@ -1,15 +1,7 @@
 ---
-type: Page
-collections: Public Pages
 title: "Mastering English Particles: From Phrasal Verbs to Negation (Copy)"
-aliases:
-description:
-icon: 🔰
-createdAt: 2025-01-03T01:36:18.786Z
-lastUpdated: 2026-06-28T12:56:31.104Z
 tags:
   - GrammarSyntax
-coverImage: "[Untitled](../Images/Untitled%20(21).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

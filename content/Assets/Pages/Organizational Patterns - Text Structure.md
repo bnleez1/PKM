@@ -1,15 +1,7 @@
 ---
-type: Page
-collections: Public Pages
 title: Organizational Patterns - Text Structure
-aliases:
-description:
-icon: ✍️
-createdAt: 2025-01-08T14:19:47.871Z
-lastUpdated: 2026-06-28T12:56:40.947Z
 tags:
   - Writing
-coverImage: "[Untitled](../Images/Untitled%20(29).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

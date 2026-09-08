@@ -1,15 +1,8 @@
 ---
-type: Page
 title: Learning Experiences Template
-aliases:
-description:
-icon:
-createdAt: 2026-08-13T12:32:48.345Z
-lastUpdated: 2026-08-13T17:13:41.689Z
 tags:
   - TeachingMoves
   - Curriculum
-coverImage:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

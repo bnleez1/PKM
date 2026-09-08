@@ -1,15 +1,7 @@
 ---
-type: Page
-collections: Public Pages
 title: Why avoid “very”?
-aliases:
-description:
-icon: 💡
-createdAt: 2025-01-16T12:55:09.941Z
-lastUpdated: 2026-06-28T12:56:51.110Z
 tags:
   - Writing
-coverImage: "[Untitled](../Images/Untitled%20(29).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

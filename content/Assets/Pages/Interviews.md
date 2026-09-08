@@ -1,15 +1,7 @@
 ---
-type: Page
-collections: Public Pages
 title: Interviews
-aliases:
-description:
-icon:
-createdAt: 2025-03-20T15:57:11.137Z
-lastUpdated: 2026-06-28T12:57:31.018Z
 tags:
   - Research
-coverImage: "[Untitled](../Images/Untitled%20(278).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

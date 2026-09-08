@@ -1,14 +1,7 @@
 ---
-type: Page
 title: Transitive vs. intransitive verbs
-aliases:
-description:
-icon: 🖋️
-createdAt: 2024-12-31T21:30:09.236Z
-lastUpdated: 2025-03-27T18:58:15.043Z
 tags:
   - Writing
-coverImage: "[Untitled](../Images/Untitled%20(107).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

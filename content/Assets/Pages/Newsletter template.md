@@ -1,14 +1,6 @@
 ---
-type: Page
-collections: Public Pages
 title: Newsletter template
-aliases:
-description:
-icon:
-createdAt: 2025-01-04T13:34:48.969Z
-lastUpdated: 2026-06-28T12:56:40.770Z
 tags: []
-coverImage:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

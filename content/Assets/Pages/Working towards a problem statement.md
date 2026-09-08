@@ -1,14 +1,7 @@
 ---
-type: Page
 title: Working towards a problem statement
-aliases:
-description: This page provides guidance on narrowing down a researchable topic for academic writing, with a focus on reflecting personal experiences as a teacher.
-icon: 🧭
-createdAt: 2023-06-02T12:54:04.922Z
-lastUpdated: 2026-06-14T18:33:46.430Z
 tags:
   - AcademicWriting
-coverImage:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

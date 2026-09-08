@@ -1,15 +1,7 @@
 ---
-type: Page
-collections: Public Pages
 title: Auxiliary (helping) verbs
-aliases:
-description:
-icon: 🔰
-createdAt: 2025-01-02T19:11:19.729Z
-lastUpdated: 2026-06-28T12:56:11.795Z
 tags:
   - GrammarSyntax
-coverImage: "[Untitled](../Images/Untitled%20(21).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

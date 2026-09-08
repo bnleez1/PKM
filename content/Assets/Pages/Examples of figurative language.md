@@ -1,14 +1,7 @@
 ---
-type: Page
 title: Examples of figurative language
-aliases:
-description: An informative collection of examples of figurative language, including simile, metaphor, personification, onomatopoeia, oxymoron, hyperbole, allusion, idiom, and imagery, providing a comprehensive understanding of these literary devices.
-icon: 🖋️
-createdAt: 2023-06-06T19:51:11.666Z
-lastUpdated: 2026-06-14T18:33:36.465Z
 tags:
   - CreativeWriting
-coverImage:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

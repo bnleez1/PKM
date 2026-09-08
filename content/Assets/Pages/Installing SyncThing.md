@@ -1,15 +1,7 @@
 ---
-type: Page
-collections: Public Pages
 title: "Installing SyncThing "
-aliases:
-description:
-icon: ✴️
-createdAt: 2025-03-19T12:14:20.046Z
-lastUpdated: 2026-07-22T14:54:46.641Z
 tags:
   - Linux
-coverImage: "[Untitled](../Images/Untitled%20(250).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

@@ -1,15 +1,8 @@
 ---
-type: Glossary
-collections: Written Error Code
 title: (AGREE) Subject-verb agreement
 tags:
   - WritingErrorCode
   - Writing
-subject: []
-formalDefinition: "Subject-verb agreement in English is a grammatical rule that states the verb in a sentence must agree in number with the subject. "
-relatedTerms: []
-pages:
-  - "[[Writing error code list]]"
 notes: []
 gh-publish: true
 gh-path: content/Assets/Pages

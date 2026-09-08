@@ -1,15 +1,7 @@
 ---
-type: Page
-collections: Public Pages
 title: Mastering TOEFL Vocabulary
-aliases:
-description:
-icon: 🔰
-createdAt: 2025-01-03T01:36:18.768Z
-lastUpdated: 2026-06-28T12:56:31.051Z
 tags:
   - Vocabulary
-coverImage: "[Untitled](../Images/Untitled%20(21).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

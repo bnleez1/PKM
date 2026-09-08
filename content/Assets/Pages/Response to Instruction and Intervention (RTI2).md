@@ -1,16 +1,8 @@
 ---
-type: Page
-collections: Public Pages
 title: Response to Instruction and Intervention (RTI2)
-aliases:
-description:
-icon:
-createdAt: 2025-02-07T14:31:58.999Z
-lastUpdated: 2026-06-28T12:57:10.754Z
 tags:
   - Assessment
   - RTI
-coverImage:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

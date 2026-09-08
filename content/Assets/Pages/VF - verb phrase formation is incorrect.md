@@ -1,13 +1,6 @@
 ---
-type: Glossary
-collections: Written Error Code
 title: VF - verb phrase formation is incorrect
 tags: []
-subject: []
-formalDefinition: A **Verb Phrase Formation (VF)** error occurs when a writer selects the correct action and tense for a sentence, but mechanically constructs the combination of helping verbs and main verbs incorrectly.
-relatedTerms: []
-pages:
-  - "[[Writing error code list]]"
 notes: []
 gh-publish: true
 gh-path: content/Assets/Pages

@@ -1,14 +1,7 @@
 ---
-type: Page
 title: "Active vs. passive voice: A Writer's guide to clarity and impact"
-aliases:
-description:
-icon: 🔰
-createdAt: 2025-01-02T15:17:50.487Z
-lastUpdated: 2026-06-14T17:48:56.008Z
 tags:
   - GrammarSyntax
-coverImage: "[Untitled](../Images/Untitled%20(21).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

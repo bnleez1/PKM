@@ -1,15 +1,8 @@
 ---
-type: Glossary
-collections: Written Error Code
 title: (TP) First, second, and third person
 tags:
   - WritingErrorCode
   - Writing
-subject: []
-formalDefinition:
-relatedTerms: []
-pages:
-  - "[[Writing error code list]]"
 notes: []
 gh-publish: true
 gh-path: content/Assets/Pages

@@ -1,15 +1,8 @@
 ---
-type: Page
 title: GenAI Integrated Guide
-aliases:
-description:
-icon:
-createdAt: 2026-07-05T15:59:11.670Z
-lastUpdated: 2026-07-06T21:28:14.431Z
 tags:
   - GenAI
   - TeachingPracticum
-coverImage:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

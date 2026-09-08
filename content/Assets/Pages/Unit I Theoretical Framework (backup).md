@@ -1,14 +1,6 @@
 ---
-type: Page
-collections: Public Pages
 title: "Unit I: Theoretical Framework (backup)"
-aliases:
-description:
-icon: 📚️
-createdAt: 2025-01-12T16:03:11.603Z
-lastUpdated: 2026-06-28T12:56:50.879Z
 tags: []
-coverImage: "[Untitled](../Images/Untitled%20(49).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

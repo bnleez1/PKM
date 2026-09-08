@@ -1,15 +1,8 @@
 ---
-type: Page
 title: GenAI Syllabus Statements
-aliases:
-description:
-icon: ⚡️
-createdAt: 2026-07-14T22:22:20.045Z
-lastUpdated: 2026-07-26T15:40:56.528Z
 tags:
   - GenAiDisclaimer
   - Curriculum
-coverImage: "[Untitled](../Images/Untitled%20(162).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

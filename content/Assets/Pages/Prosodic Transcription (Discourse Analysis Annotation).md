@@ -1,15 +1,7 @@
 ---
-type: Page
-collections: Public Pages
 title: Prosodic Transcription (Discourse Analysis Annotation)
-aliases:
-description:
-icon: 🔍️
-createdAt: 2026-06-23T12:28:52.923Z
-lastUpdated: 2026-06-28T12:56:02.365Z
 tags:
   - DiscourseAnalysis
-coverImage: "[Untitled](../Images/Untitled%20(143).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

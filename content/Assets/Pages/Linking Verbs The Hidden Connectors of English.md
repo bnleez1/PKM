@@ -1,15 +1,7 @@
 ---
-type: Page
-collections: Public Pages
 title: "Linking Verbs: The Hidden Connectors of English"
-aliases:
-description:
-icon: 🔰
-createdAt: 2025-01-02T19:07:08.660Z
-lastUpdated: 2026-06-28T12:56:11.742Z
 tags:
   - GrammarSyntax
-coverImage: "[Untitled](../Images/Untitled%20(21).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

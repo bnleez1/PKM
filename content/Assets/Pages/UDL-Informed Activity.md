@@ -1,14 +1,7 @@
 ---
-type: Page
 title: UDL-Informed Activities
-aliases:
-description:
-icon:
-createdAt: 2026-06-20T19:27:01.269Z
-lastUpdated: 2026-06-20T19:36:11.726Z
 tags:
   - Activity
-coverImage:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

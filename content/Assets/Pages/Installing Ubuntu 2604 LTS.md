@@ -1,15 +1,7 @@
 ---
-type: Page
-collections: Public Pages
 title: Installing Ubuntu 26.04 LTS
-aliases:
-description:
-icon:
-createdAt: 2026-06-04T22:53:23.936Z
-lastUpdated: 2026-08-20T12:21:17.048Z
 tags:
   - Linux
-coverImage:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

@@ -1,15 +1,7 @@
 ---
-type: Page
-collections: Public Pages
 title: Learning processes that promote listening comprehension
-aliases:
-description:
-icon: 👂️
-createdAt: 2026-06-16T13:07:37.380Z
-lastUpdated: 2026-06-28T12:57:51.498Z
 tags:
   - Listening
-coverImage: "[Untitled](../Images/Untitled%20(303).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

@@ -1,15 +1,7 @@
 ---
-type: Page
-collections: Public Pages
 title: Acceptable fonts (APA, 7th edition)
-aliases:
-description:
-icon: ✍️
-createdAt: 2025-01-10T13:34:42.550Z
-lastUpdated: 2026-06-28T12:56:41.200Z
 tags:
   - APA
-coverImage: "[Untitled](../Images/Untitled%20(84).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

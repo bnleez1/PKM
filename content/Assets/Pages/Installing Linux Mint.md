@@ -1,15 +1,7 @@
 ---
-type: Page
-collections: Public Pages
 title: Installing Linux Mint
-aliases:
-description:
-icon:
-createdAt: 2025-03-17T12:49:10.455Z
-lastUpdated: 2026-08-07T14:01:47.656Z
 tags:
   - Linux
-coverImage: "[Untitled](../Images/Untitled%20(61).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

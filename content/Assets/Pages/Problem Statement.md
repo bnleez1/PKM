@@ -1,14 +1,7 @@
 ---
-type: Page
 title: Problem Statement
-aliases:
-description: This note explores the significance of formulating a well-defined problem statement in academic writing, emphasizing how it guides research efforts and enhances the relevance and impact of scholarly work.
-icon:
-createdAt: 2023-06-06T21:27:09.929Z
-lastUpdated: 2026-08-14T13:21:59.127Z
 tags:
   - AcademicWriting
-coverImage:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

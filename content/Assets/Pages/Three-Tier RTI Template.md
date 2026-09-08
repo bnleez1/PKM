@@ -1,13 +1,6 @@
 ---
-type: Page
 title: Three-Tier RTI Template
-aliases:
-description:
-icon:
-createdAt: 2026-08-04T12:40:35.231Z
-lastUpdated: 2026-08-28T12:16:44.436Z
 tags: []
-coverImage:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

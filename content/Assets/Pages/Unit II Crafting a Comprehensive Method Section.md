@@ -1,14 +1,7 @@
 ---
-type: Page
 title: "Unit II: Crafting a Comprehensive Method Section"
-aliases:
-description: This chapter provides a comprehensive guide to crafting a method section for academic writing, incorporating essential writing techniques and resources to enhance your academic writing skills.
-icon: 🧭
-createdAt: 2024-12-27T13:59:53.093Z
-lastUpdated: 2026-06-02T12:14:38.120Z
 tags:
   - Reading
-coverImage: "[Untitled](../Images/Untitled%20(117).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

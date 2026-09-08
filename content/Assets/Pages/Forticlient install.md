@@ -1,15 +1,7 @@
 ---
-type: Page
-collections: Public Pages
 title: Forticlient install
-aliases:
-description:
-icon:
-createdAt: 2025-02-02T14:26:37.094Z
-lastUpdated: 2026-06-28T12:57:02.039Z
 tags:
   - Ubuntu
-coverImage: "[Untitled](../Images/Untitled%20(385).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

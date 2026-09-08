@@ -1,14 +1,7 @@
 ---
-type: Page
 title: "Clarity and Style: Managing Balance"
-aliases:
-description:
-icon: ⚖️
-createdAt: 2026-07-09T16:36:44.581Z
-lastUpdated: 2026-07-09T16:40:48.821Z
 tags:
   - Writing
-coverImage: "[Untitled](../Images/Untitled%20(121).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

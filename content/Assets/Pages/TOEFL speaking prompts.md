@@ -1,14 +1,7 @@
 ---
-type: Page
 title: TOEFL speaking prompts
-aliases:
-description:
-icon: 🗣️
-createdAt: 2025-01-02T14:04:59.968Z
-lastUpdated: 2026-06-14T18:33:36.704Z
 tags:
   - Speaking
-coverImage:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

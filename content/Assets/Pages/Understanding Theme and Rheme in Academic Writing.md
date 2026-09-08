@@ -1,15 +1,7 @@
 ---
-type: Page
-collections: Public Pages
 title: Understanding Theme and Rheme in Academic Writing
-aliases:
-description:
-icon: 💡
-createdAt: 2025-01-21T14:48:03.443Z
-lastUpdated: 2026-06-28T12:56:51.329Z
 tags:
   - WritingDiscourse
-coverImage:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

@@ -1,15 +1,7 @@
 ---
-type: Page
-collections: Public Pages
 title: Possessive nouns
-aliases:
-description:
-icon: 🔰
-createdAt: 2025-01-02T19:46:45.526Z
-lastUpdated: 2026-06-28T12:56:21.274Z
 tags:
   - GrammarSyntax
-coverImage: "[Untitled](../Images/Untitled%20(21).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

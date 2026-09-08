@@ -1,14 +1,7 @@
 ---
-type: Page
 title: GenAI Prompt
-aliases:
-description:
-icon:
-createdAt: 2025-01-12T14:44:01.607Z
-lastUpdated: 2025-01-12T14:45:15.901Z
 tags:
   - GenAiDisclaimer
-coverImage:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

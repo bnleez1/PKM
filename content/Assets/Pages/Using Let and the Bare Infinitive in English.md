@@ -1,15 +1,7 @@
 ---
-type: Page
-collections: Public Pages
 title: Using "Let" and the Bare Infinitive in English
-aliases:
-description:
-icon:
-createdAt: 2025-03-21T14:46:09.664Z
-lastUpdated: 2026-06-28T12:57:31.115Z
 tags:
   - GrammarSyntax
-coverImage: "[Untitled](../Images/Untitled%20(132).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

@@ -1,15 +1,8 @@
 ---
-type: Page
 title: Nominalizations
-aliases:
-description:
-icon: ✍️
-createdAt: 2026-07-16T21:06:28.427Z
-lastUpdated: 2026-07-20T17:32:24.031Z
 tags:
   - Writing
   - Vocabulary
-coverImage: "[Untitled](../Images/Untitled%20(66).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

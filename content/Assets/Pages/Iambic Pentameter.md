@@ -1,15 +1,8 @@
 ---
-type: Page
 title: Iambic Pentameter
-aliases:
-description: Iambic Pentameter is a common meter in English poetry, consisting of ten syllables per line with a specific pattern of stressed and unstressed syllables, and has been utilized by renowned poets such as Shakespeare and Milton.
-icon: 🧭
-createdAt: 2023-05-31T16:32:39.150Z
-lastUpdated: 2026-06-17T19:16:54.099Z
 tags:
   - Poetry
   - CreativeWriting
-coverImage:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

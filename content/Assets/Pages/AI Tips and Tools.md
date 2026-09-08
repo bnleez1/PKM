@@ -1,14 +1,6 @@
 ---
-type: Page
-collections: Public Pages
 title: AI Tips and Tools
-aliases:
-description:
-icon:
-createdAt: 2025-02-05T13:07:56.344Z
-lastUpdated: 2026-06-29T18:18:55.024Z
 tags: []
-coverImage:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

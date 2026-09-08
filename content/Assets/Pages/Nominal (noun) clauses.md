@@ -1,15 +1,7 @@
 ---
-type: Page
-collections: Public Pages
 title: Nominal (noun) clauses
-aliases:
-description:
-icon: 🔰
-createdAt: 2025-01-02T19:19:46.063Z
-lastUpdated: 2026-06-28T12:56:11.932Z
 tags:
   - GrammarSyntax
-coverImage: "[Untitled](../Images/Untitled%20(21).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

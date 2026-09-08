@@ -1,15 +1,7 @@
 ---
-type: Page
-collections: Public Pages
 title: Absolute phrases
-aliases:
-description:
-icon: 🖋️
-createdAt: 2025-01-03T01:32:33.055Z
-lastUpdated: 2026-06-28T12:56:31.006Z
 tags:
   - GrammarSyntax
-coverImage: "[Untitled](../Images/Untitled%20(13).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

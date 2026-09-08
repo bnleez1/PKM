@@ -1,15 +1,7 @@
 ---
-type: Page
-collections: Public Pages
 title: Transitional paragraph
-aliases:
-description:
-icon: ph-books
-createdAt: 2025-01-12T20:11:34.838Z
-lastUpdated: 2026-06-28T12:56:50.940Z
 tags:
   - Writing
-coverImage: "[Untitled](../Images/Untitled%20(9).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

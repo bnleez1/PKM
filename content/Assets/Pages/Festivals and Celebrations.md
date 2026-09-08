@@ -1,15 +1,7 @@
 ---
-type: Page
-collections: Public Pages
 title: Festivals and Celebrations
-aliases:
-description:
-icon: 🔰
-createdAt: 2025-01-25T15:18:37.668Z
-lastUpdated: 2026-06-28T12:57:01.419Z
 tags:
   - Reading
-coverImage: "[Untitled](../Images/Untitled%20(9).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

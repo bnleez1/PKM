@@ -1,14 +1,6 @@
 ---
-type: Page
-collections: Public Pages
 title: TOEFL Grammar Structure 1
-aliases:
-description:
-icon:
-createdAt: 2025-03-11T12:13:55.503Z
-lastUpdated: 2026-06-28T22:59:47.952Z
 tags: []
-coverImage: "[Untitled](../Images/Untitled%20(146).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

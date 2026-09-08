@@ -1,16 +1,8 @@
 ---
-type: Glossary
-collections: Written Error Code
 title: (PRO) Pronouns
 tags:
   - WritingErrorCode
   - GrammarSyntax
-subject: []
-formalDefinition: "A pronoun is a word that replaces a noun or noun phrase to avoid repetition and streamline language. "
-relatedTerms:
-  - "[[(WD) Written discourse]]"
-pages:
-  - "[[Writing error code list]]"
 notes: []
 gh-publish: true
 gh-path: content/Assets/Pages

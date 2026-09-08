@@ -1,14 +1,7 @@
 ---
-type: Page
 title: Installing Silex
-aliases:
-description:
-icon:
-createdAt: 2026-08-31T12:25:52.767Z
-lastUpdated: 2026-08-31T15:42:30.816Z
 tags:
   - Website
-coverImage:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

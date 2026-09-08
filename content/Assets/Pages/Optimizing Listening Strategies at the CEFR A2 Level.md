@@ -1,15 +1,7 @@
 ---
-type: Page
-collections: Public Pages
 title: Optimizing Listening Strategies at the CEFR A2 Level
-aliases:
-description:
-icon: 👂️
-createdAt: 2026-06-16T13:11:45.487Z
-lastUpdated: 2026-06-28T12:57:51.524Z
 tags:
   - Listening
-coverImage: "[Untitled](../Images/Untitled%20(108).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

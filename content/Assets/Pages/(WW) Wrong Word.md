@@ -1,13 +1,6 @@
 ---
-type: Glossary
-collections: Written Error Code
 title: (WW) Wrong Word
 tags: []
-subject: []
-formalDefinition: The specific words you chose sound awkward, unconventional, or atypical to a native English speaker to a degree that the meaning of the text becomes unintelligible.
-relatedTerms: []
-pages:
-  - "[[Writing error code list]]"
 notes: []
 gh-publish: true
 gh-path: content/Assets/Pages

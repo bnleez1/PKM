@@ -1,17 +1,9 @@
 ---
-type: Page
-collections: Public Pages
 title: The Nuñez Arancibia Case and others related to plagiarism
-aliases:
-description:
-icon: ☑️
-createdAt: 2025-01-06T12:54:39.741Z
-lastUpdated: 2026-06-28T12:56:40.795Z
 tags:
   - WritingErrorCode
   - Writing
   - Plagiarism
-coverImage: "[Untitled](../Images/Untitled%20(13).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

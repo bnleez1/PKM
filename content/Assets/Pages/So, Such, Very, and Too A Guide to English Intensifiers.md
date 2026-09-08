@@ -1,15 +1,7 @@
 ---
-type: Page
-collections: Public Pages
 title: "So, Such, Very, and Too: A Guide to English Intensifiers"
-aliases:
-description:
-icon:
-createdAt: 2025-03-21T14:40:39.803Z
-lastUpdated: 2026-06-28T12:57:31.085Z
 tags:
   - GrammarSyntax
-coverImage: "[Untitled](../Images/Untitled%20(245).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

@@ -1,14 +1,7 @@
 ---
-type: Page
 title: Installing NixOS
-aliases:
-description:
-icon: ✴️
-createdAt: 2026-07-17T16:09:19.672Z
-lastUpdated: 2026-07-17T17:19:16.827Z
 tags:
   - Linux
-coverImage: "[Untitled](../Images/Untitled%20(284).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

@@ -1,15 +1,7 @@
 ---
-type: Page
-collections: Public Pages
 title: Differences between a topic sentence and thesis statement
-aliases:
-description:
-icon: ✍️
-createdAt: 2025-01-09T13:57:14.627Z
-lastUpdated: 2026-06-28T12:56:41.012Z
 tags:
   - Writing
-coverImage: "[Untitled](../Images/Untitled%20(25).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

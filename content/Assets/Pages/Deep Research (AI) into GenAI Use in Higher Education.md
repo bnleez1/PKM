@@ -1,16 +1,9 @@
 ---
-type: Page
 title: Deep Research (AI) into GenAI Use in Higher Education
-aliases:
-description:
-icon: ✴️
-createdAt: 2026-07-14T13:48:35.870Z
-lastUpdated: 2026-07-16T14:16:06.362Z
 tags:
   - GenAI
   - GenAiDisclaimer
   - Curriculum
-coverImage: "[Untitled](../Images/Untitled%20(137).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

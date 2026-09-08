@@ -1,14 +1,7 @@
 ---
-type: Page
 title: Installing Cosmic Desktop
-aliases:
-description:
-icon: ✴️
-createdAt: 2026-07-08T17:05:09.319Z
-lastUpdated: 2026-07-08T17:09:01.707Z
 tags:
   - Linux
-coverImage: "[Untitled](../Images/Untitled%20(52).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

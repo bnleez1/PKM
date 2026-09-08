@@ -1,14 +1,7 @@
 ---
-type: Page
 title: Introductory Phrases
-aliases:
-description:
-icon: 🧭
-createdAt: 2023-06-04T14:33:52.273Z
-lastUpdated: 2026-06-17T13:00:30.765Z
 tags:
   - Writing
-coverImage: "[Untitled](../Images/Untitled%20(53).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

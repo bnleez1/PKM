@@ -1,14 +1,7 @@
 ---
-type: Page
 title: Conclusion paragraph
-aliases:
-description: A conclusion paragraph serves to reinforce the main thesis and draw connections to broader concepts, providing a sense of closure to the overall argument or discussion.
-icon: 🧭
-createdAt: 2023-06-04T14:28:41.507Z
-lastUpdated: 2026-06-14T17:49:45.828Z
 tags:
   - AcademicWriting
-coverImage:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

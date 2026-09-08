@@ -1,11 +1,6 @@
 ---
-type: Glossary
 title: New Word
 tags: []
-subject: []
-formalDefinition:
-relatedTerms: []
-pages: []
 notes: []
 gh-publish: true
 gh-path: content/Assets/Pages

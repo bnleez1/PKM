@@ -1,14 +1,7 @@
 ---
-type: Page
 title: TOEFL Writing Prompts (Copy)
-aliases:
-description:
-icon: 🔰
-createdAt: 2025-01-02T15:17:50.515Z
-lastUpdated: 2026-05-31T23:48:53.304Z
 tags:
   - Writing
-coverImage: "[Untitled](../Images/Untitled%20(21).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

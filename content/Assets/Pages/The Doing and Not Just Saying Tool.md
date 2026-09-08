@@ -1,15 +1,7 @@
 ---
-type: Page
-collections: Public Pages
 title: The Doing and Not Just Saying Tool
-aliases:
-description:
-icon: ✴️
-createdAt: 2026-06-22T18:24:09.251Z
-lastUpdated: 2026-06-28T12:56:01.267Z
 tags:
   - DiscourseAnalysis
-coverImage: "[Untitled](../Images/Untitled%20(95).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

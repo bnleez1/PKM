@@ -1,13 +1,6 @@
 ---
-type: Page
 title: Installing Mullvad VPN
-aliases:
-description:
-icon:
-createdAt: 2026-07-24T00:12:24.830Z
-lastUpdated: 2026-07-24T00:17:56.144Z
 tags: []
-coverImage:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

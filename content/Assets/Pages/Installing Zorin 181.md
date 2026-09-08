@@ -1,15 +1,7 @@
 ---
-type: Page
-collections: Public Pages
 title: Installing Zorin 18.1
-aliases:
-description:
-icon: ☄️
-createdAt: 2026-06-04T12:23:36.261Z
-lastUpdated: 2026-08-26T16:47:48.107Z
 tags:
   - Linux
-coverImage: "[Untitled](../Images/Untitled%20(10).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

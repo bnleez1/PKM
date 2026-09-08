@@ -1,15 +1,7 @@
 ---
-type: Page
-collections: Public Pages
 title: Loop Input
-aliases:
-description:
-icon: ⚡️
-createdAt: 2026-06-26T19:41:25.606Z
-lastUpdated: 2026-06-28T12:56:02.734Z
 tags:
   - Method
-coverImage: "[Untitled](../Images/Untitled%20(197).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

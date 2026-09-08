@@ -1,16 +1,9 @@
 ---
-type: Page
 title: GenAI Assessment Scale for BA in ELT Programs
-aliases:
-description:
-icon: ✴️
-createdAt: 2026-06-30T12:16:56.347Z
-lastUpdated: 2026-08-07T19:05:08.540Z
 tags:
   - GenAI
   - GenAiDisclaimer
   - Assessment
-coverImage: "[Untitled](../Images/Untitled%20(55).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

@@ -1,15 +1,8 @@
 ---
-type: Glossary
-collections: Written Error Code
 title: (CA) Capitalization
 tags:
   - WritingErrorCode
   - Writing
-subject: []
-formalDefinition: Capitalizing when not needed and vice versa.
-relatedTerms: []
-pages:
-  - "[[Writing error code list]]"
 notes: []
 gh-publish: true
 gh-path: content/Assets/Pages

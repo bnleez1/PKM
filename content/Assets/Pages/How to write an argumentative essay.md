@@ -1,14 +1,6 @@
 ---
-type: Page
-collections: Public Pages
 title: How to write an argumentative essay
-aliases:
-description:
-icon: 📚️
-createdAt: 2026-06-08T19:25:57.647Z
-lastUpdated: 2026-06-28T12:57:51.150Z
 tags: []
-coverImage: "[Untitled](../Images/Untitled%20(125).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

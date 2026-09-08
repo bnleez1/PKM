@@ -1,15 +1,8 @@
 ---
-type: Glossary
-collections: Written Error Code
 title: (BH) Boosting and the nuances of hedging
 tags:
   - WritingErrorCode
   - Writing
-subject: []
-formalDefinition: "Boosting is a rhetorical device that is used to express confidence in a claim or statement; hedging is a linguistic technique used in writing and speech to express caution or uncertainty, to soften statements, and to demonstrate politeness or diplomacy. "
-relatedTerms: []
-pages:
-  - "[[Writing error code list]]"
 notes: []
 gh-publish: true
 gh-path: content/Assets/Pages

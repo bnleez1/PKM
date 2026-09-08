@@ -1,14 +1,6 @@
 ---
-type: Page
-collections: Public Pages
 title: How to write an expository essay
-aliases:
-description:
-icon: 📚️
-createdAt: 2026-06-08T19:25:44.140Z
-lastUpdated: 2026-06-28T12:57:51.124Z
 tags: []
-coverImage: "[Untitled](../Images/Untitled%20(194).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

@@ -1,14 +1,6 @@
 ---
-type: Page
-collections: Public Pages
 title: Observation sheet
-aliases:
-description:
-icon: 🏫
-createdAt: 2025-03-15T03:17:32.789Z
-lastUpdated: 2026-06-28T12:57:30.803Z
 tags: []
-coverImage: "[Untitled](../Images/Untitled%20(260).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

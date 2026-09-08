@@ -1,15 +1,8 @@
 ---
-type: Glossary
-collections: Written Error Code
 title: (MO) Modal verbs
 tags:
   - AcademicWriting
   - WritingErrorCode
-subject: []
-formalDefinition: Modal verbs are auxiliary verbs that express necessity, possibility, permission, ability, probability, or obligation.
-relatedTerms: []
-pages:
-  - "[[Writing error code list]]"
 notes: []
 gh-publish: true
 gh-path: content/Assets/Pages

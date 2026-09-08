@@ -1,14 +1,7 @@
 ---
-type: Page
 title: Evaluación del curso de inducción al servicio social - UAA
-aliases:
-description: A brief overview of the definition of Service Social according to the Reglamento General de Docencia of the Universidad Autónoma de Aguascalientes, including its purpose and requirements.
-icon: 🖋️
-createdAt: 2023-06-12T19:23:08.645Z
-lastUpdated: 2026-06-15T16:18:15.752Z
 tags:
   - UaaServicioSocial
-coverImage: "[[UAA Logo]]"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

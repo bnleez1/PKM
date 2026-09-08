@@ -1,15 +1,7 @@
 ---
-type: Page
-collections: Public Pages
 title: Noun clauses and indirect questions
-aliases:
-description:
-icon:
-createdAt: 2025-03-12T14:03:22.919Z
-lastUpdated: 2026-06-28T12:57:30.751Z
 tags:
   - GrammarSyntax
-coverImage: "[Untitled](../Images/Untitled%20(142).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

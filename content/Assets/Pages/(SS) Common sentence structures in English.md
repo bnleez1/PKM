@@ -1,16 +1,8 @@
 ---
-type: Glossary
-collections: Written Error Code
 title: (SS) Common sentence structures in English
 tags:
   - WritingErrorCode
   - GrammarSyntax
-subject: []
-formalDefinition: "Sentence patterns in English refer to the ways in which words are structured within a sentence to convey meaning. "
-relatedTerms: []
-pages:
-  - "[[Writing error code list]]"
-  - "[Mastering sentence types: A guide to simple, compound, complex, and compound-complex sentences](../Pages/Mastering%20sentence%20types%20A%20guide%20to%20simple,%20compound,%20complex,%20and%20compound-com.md)"
 notes: []
 gh-publish: true
 gh-path: content/Assets/Pages

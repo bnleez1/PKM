@@ -1,15 +1,7 @@
 ---
-type: Page
-collections: Public Pages
 title: Installing PikaOS
-aliases:
-description:
-icon:
-createdAt: 2026-06-25T14:34:37.351Z
-lastUpdated: 2026-06-28T12:56:02.626Z
 tags:
   - Linux
-coverImage:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

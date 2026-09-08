@@ -1,16 +1,8 @@
 ---
-type: Glossary
-collections: Written Error Code
 title: "(RO) Fixing run-on sentences: A comprehensive guide"
 tags:
   - WritingErrorCode
   - GrammarSyntax
-subject: []
-formalDefinition: "A run-on sentence occurs when two or more independent clauses (clauses that can stand alone as separate sentences) are improperly joined without appropriate punctuation or conjunctions. "
-relatedTerms:
-  - "[[(CLAR) Clarity and style]]"
-pages:
-  - "[[Writing error code list]]"
 notes: []
 gh-publish: true
 gh-path: content/Assets/Pages

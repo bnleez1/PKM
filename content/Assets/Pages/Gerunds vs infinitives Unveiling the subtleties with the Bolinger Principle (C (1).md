@@ -1,14 +1,7 @@
 ---
-type: Page
 title: "Gerunds vs. infinitives: Unveiling the subtleties with the Bolinger Principle (Copy)"
-aliases:
-description:
-icon: 🖋️
-createdAt: 2025-01-02T18:59:04.226Z
-lastUpdated: 2026-06-12T20:41:23.402Z
 tags:
   - GrammarSyntax
-coverImage: "[Untitled](../Images/Untitled%20(13).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
