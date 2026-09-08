@@ -14,6 +14,7 @@ aiUse: []
 coverImage: "[Untitled](../Images/Untitled%20(1).md)"
 durationHours:
 grouping:
+banner: https://cdn.mos.cms.futurecdn.net/UTUrxHTEeyXAKjWFBZYjU4.jpg
 ---
 # Assignment Overview
 
