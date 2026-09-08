@@ -1,10 +1,6 @@
 ---
 title: How does deixis relate to referencing
 tags:
-subject: []
-formalDefinition:
-relatedTerms: []
-pages:
 notes: []
 gh-publish: true
 gh-path:

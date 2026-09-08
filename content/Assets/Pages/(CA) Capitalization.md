@@ -16,7 +16,6 @@ gh-path: content/Assets/Pages
 gh-published: true
 gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/(CA) Capitalization
 ---
-
 # (CA) Capitalization
 
 [Capitalization Rules | Classroom Language Arts Video](https://www.youtube.com/watch?v=fxFGB5vErvw)[Capitalization Rules | Classroom Language Arts Video - Notes](../Weblinks/Capitalization%20Rules%20%20Classroom%20Language%20Arts%20Video.md)
