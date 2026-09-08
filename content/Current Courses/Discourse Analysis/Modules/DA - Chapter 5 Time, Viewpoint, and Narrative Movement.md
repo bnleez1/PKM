@@ -115,7 +115,7 @@ Revise one confusing shift in two different ways: first by changing the verb for
 ## Tuesday
 
 1. Review [[Anaphoric, cataphoric, and exophoric referencing]].
-2. [[How does deixis relate to referencing?]]
+2. [[How deixis relates to referencing]]
 
 ### Text Review 1
 

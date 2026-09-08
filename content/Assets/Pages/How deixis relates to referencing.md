@@ -1,5 +1,5 @@
 ---
-title: How does deixis relate to referencing
+title: How deixis relate to referencing
 tags:
 notes: []
 gh-publish: true
@@ -8,7 +8,7 @@ gh-published: true
 gh-published-url: https://bnleez1.github.io/PKM/content/New Page Template
 banner: https://scx2.b-cdn.net/gfx/news/hires/2019/2-nature.jpg
 ---
-# How Does Deixis Relate to Referencing?
+# How Deixis Relates to Referencing?
 
 Referencing (anaphora, cataphora, and exophora) and deixis are closely related, but they are not identical.
 
