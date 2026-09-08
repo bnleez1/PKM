@@ -1,7 +1,7 @@
 ---
 type: Module
 collections: Academic Writing Modules
-title: "Chapter 5: Integrating Sources and Building Arguments"
+title: AW-Module 5 Integrating Sources and Building Arguments
 tags:
   - Module
 date: 2026-09-07T00:00:00.000Z -> 2026-09-13T00:00:00.000Z
@@ -25,12 +25,11 @@ gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Academic
 banner: https://wallpapercave.com/wp/wp8819684.jpg
 ---
 
-# AW-Module 5 Integrating Sources and Building Arguments - Testing
+# AW-Module 5 Integrating Sources and Building Arguments
 
 ⚡️ Moving from summary and citation to evidence-based critical evaluation
 
 > Source use is effective when borrowed material becomes part of the writer’s reasoning rather than a substitute for it. This week brings together summary, paraphrase, quotation, citation, attribution, and argumentation in the article-review draft. Students will practice representing an author’s ideas accurately while maintaining clear boundaries between the source’s position and the reviewer’s evaluation. They will also use the M.E.A.L. structure to develop critical paragraphs in which claims are supported by evidence and followed by analysis. The central challenge is balance: too little source information makes evaluation unfair, while too much summary leaves no space for the reviewer’s argument. By learning to select, frame, cite, and interpret evidence, students begin to transform an article review from a report about a text into a reasoned academic judgment.
-
 ## Essential Questions
 **1.** How can a writer integrate sources while preserving clear authorship and critical ownership?
 
