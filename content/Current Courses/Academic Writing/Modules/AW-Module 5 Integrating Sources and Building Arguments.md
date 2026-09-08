@@ -22,6 +22,7 @@ gh-publish: true
 gh-path: content/Current Courses/Academic Writing/Modules
 gh-published: true
 gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Academic Writing/Modules/Chapter 5 Integrating Sources and Building Arguments
+banner: https://wallpapercave.com/wp/wp8819684.jpg
 ---
 
 # AW-Module 5 Integrating Sources and Building Arguments
@@ -119,9 +120,25 @@ A productive learning sequence for this chapter begins with a diagnostic respons
 
 The second part of the week should move from practice to production. Students use the guiding questions—“When should a writer summarize, paraphrase, or quote directly?” and “How do attribution and citation prevent ambiguity and patchwriting?”—as checkpoints while working toward the stated outcomes, especially the ability to distinguish the purposes of summary, paraphrase, and direct quotation and to integrate source material with accurate attribution, in-text citation, and reference correspondence. A brief peer conference should focus on one high-impact feature rather than attempting to correct everything at once. Students then revise, annotate the evidence of their decision-making, and complete the week’s deliverable: Source-integration practice; citation-reference and patchwriting check; M.E.A.L. critical-evaluation paragraphs with strengths, limitations, and counterpoints. The final five minutes of class can be used for an exit reflection identifying one decision the writer can now justify and one question that must be carried into the next chapter.
 
-## 🗓️ Wednesday (11:00 AM - 1:00 PM)
 
-## 🗓️ Thursday (12:00 PM - 1:00 PM)
+<details>
+<summary><h2>Wednesday</h2></summary>
 
-## 🗓️ Friday (10:00 AM - 12:00 PM)
+Content here...
+
+</details>
+
+<details>
+<summary><h2>Thursday</h2></summary>
+
+Content here...
+
+</details>
+
+<details>
+<summary><h2>Friday</h2></summary>
+
+Content here...
+
+</details>
 

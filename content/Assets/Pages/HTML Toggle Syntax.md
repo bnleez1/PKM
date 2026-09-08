@@ -73,6 +73,16 @@ Details for Activity 2...
 </details>
 ```
 
+```html
+<details>
+<summary><h2>Monday</h2></summary>
+
+Content here...
+
+</details>
+```
+
+
 That is much easier to reason about for **toggle-inside-toggle** layouts than deeply nested callout blockquotes.
 
 One caveat: Details Markdown currently targets **Reading View**; its documentation says Live Preview support is not yet available. ([GitHub](https://github.com/nickolay-kondratyev/obsidian-plugin-collapsible-details?utm_source=chatgpt.com "GitHub - nickolay-kondratyev/obsidian-plugin-collapsible-details: Plugin to make https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/details work in obsidian · GitHub"))
