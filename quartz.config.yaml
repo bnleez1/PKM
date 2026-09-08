@@ -259,9 +259,11 @@ plugins:
     options:
       includeAll: false
       includedProperties:
-        - description
         - tags
-        - aliases
+        - subject
+        - formalDefinition
+        - relatedTerms
+        - notes
       excludedProperties: []
       hidePropertiesView: false
       delimiters: ---
