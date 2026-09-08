@@ -1,7 +1,7 @@
 ---
 type: Module
 collections: Writing I Modules
-title: "W-Chapter 5: Telling a Clear Story About Study and Leisure"
+title: "W - Module 5: Telling a Clear Story About Study and Leisure"
 tags:
   - Writing
   - EnglishSkillDevelopment
@@ -25,7 +25,7 @@ gh-published: true
 gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Writing I/Modules/W-Module 5 Telling a Clear Story About Study and Leisure
 banner: https://www.solaresearch.org/wp-content/uploads/2019/08/Writing-Analytics-Image.jpg
 ---
-# W-Chapter 5: Telling a Clear Story About Study and Leisure
+# W - Module 5: Telling a Clear Story About Study and Leisure
 
 ⚡️ Planning narration with timelines and sequence connectors
 

@@ -1,7 +1,7 @@
 ---
 type: Module
 collections: Academic Writing Modules
-title: AW-Module 5 Integrating Sources and Building Arguments
+title: AW - Module 5 Integrating Sources and Building Arguments
 tags:
   - Module
 date: 2026-09-07T00:00:00.000Z -> 2026-09-13T00:00:00.000Z
@@ -24,7 +24,6 @@ gh-published: true
 gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Academic Writing/Modules/Chapter 5 Integrating Sources and Building Arguments
 banner: https://wallpapercave.com/wp/wp8819684.jpg
 ---
-
 # AW-Module 5 Integrating Sources and Building Arguments
 
 ⚡️ Moving from summary and citation to evidence-based critical evaluation

@@ -1,7 +1,7 @@
 ---
 type: Module
 collections: Listening I Modules
-title: "L - Chapter 5: Listening with a Study Purpose"
+title: "L - Module 5: Listening with a Study Purpose"
 tags:
   - Module
   - Listening
@@ -26,7 +26,7 @@ gh-published: true
 gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Listening I/Modules/L - Chapter 5 Listening with a Study Purpose
 banner: https://institute.careerguide.com/wp-content/uploads/2023/04/2023-4-3.jpg
 ---
-# L - Chapter 5: Listening with a Study Purpose
+# L - Module 5: Listening with a Study Purpose
 
 ⚡️ Study Habits, Global and Selective Listening, and Keyword Notes
 

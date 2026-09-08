@@ -1,7 +1,7 @@
 ---
 type: Module
 collections: Discourse Analysis Modules
-title: "DA - Chapter 5: Time, Viewpoint, and Narrative Movement"
+title: "DA - Module 5: Time, Viewpoint, and Narrative Movement"
 tags:
   - DiscourseAnalysis
   - AppliedLinguistics
@@ -25,7 +25,7 @@ gh-published: true
 gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Discourse Analysis/Modules/DA - Chapter 5 Time, Viewpoint, and Narrative Movement
 banner: https://wallpapercave.com/wp/wp8819684.jpg
 ---
-# DA - Chapter 5: Time, Viewpoint, and Narrative Movement
+# DA - Module 5: Time, Viewpoint, and Narrative Movement
 
 ⚡️ Understanding the discourse functions of tense and aspect beyond sentence-level accuracy
 
