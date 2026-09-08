@@ -111,8 +111,6 @@ Select three shifts and test possible explanations. Does a progressive form crea
 Revise one confusing shift in two different ways: first by changing the verb form, and second by preserving the form but adding a clearer temporal or discourse signal. Compare the effects. This demonstrates that tense correction is not always the only solution. End with a short feedback comment written to a learner that describes the interpretive issue and invites an intentional choice rather than issuing a mechanical rule.
 
 </details>
-## Main chapter content
-
 
 ## Tuesday
 
@@ -121,47 +119,65 @@ Revise one confusing shift in two different ways: first by changing the verb for
 
 ### Text Review 1
 
-Note: **Anaphora** is defined as reference backward to something already mentioned, **cataphora** as reference forward to something introduced later, and **exophoric reference** as reference that depends on the surrounding situation rather than the wording of the text itself.
+**Anaphoric = backward**  
+**Cataphoric = forward**  
+**Exophoric = outside the text**  
+**Deixis = meaning depends on the speaker's context**
+
 ## Sample Text
 
-**When she finally entered the classroom, everyone became quiet. Dr. Martínez had arrived to observe the student presentations.** The students had prepared for **her** visit for several days, and **they** were **understandably** nervous. One group had created a presentation about social media and language learning. **It** included several examples from online conversations.
+**When she entered the science lab, everyone stopped talking. Professor Rivera had come to observe the group experiment.** The students had prepared carefully for **her** visit, and **they** wanted everything to go smoothly. One team had designed an experiment about water filtration. **It** required several containers, filters, and measuring cups.
 
-Before the first group began, Dr. Martínez pointed toward a chair near the window and said, **“Could you move that over here?”** Luis looked around for a moment before realizing that **that** referred to the chair and **here** meant the space beside Dr. Martínez.
+Before the experiment began, Professor Rivera pointed toward a table near the door and said, **“Please move those over here.”** The students looked at the materials on the table and quickly realized that **those** referred to the empty containers and **here** meant the space beside Professor Rivera.
 
-Then something unexpected happened. **This was what worried the students most: the projector stopped working.** The instructor tried restarting **it**, but **the device** remained completely dark. Fortunately, one student had brought a laptop, so the group continued **their** presentation without the projector.
+A few minutes later, another problem appeared. **This was what the group had feared most: one of the filters began to leak.** The students replaced **it** immediately, and **the new filter** worked much better. After that, the team continued **their** demonstration and explained the results to the class.
 
 ### What is happening?
 
-| Example                                  | Type                    | Why?                                                                                                                                                  |
-| ---------------------------------------- | ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **she → Dr. Martínez**                   | **Cataphoric**          | _She_ appears **before** the person it refers to is identified. The reader must look **forward** to find the referent.                                |
-| **her → Dr. Martínez**                   | **Anaphoric**           | _Her_ points **backward** to Dr. Martínez, who has already been mentioned.                                                                            |
-| **they → the students**                  | **Anaphoric**           | _They_ refers backward to _the students_.                                                                                                             |
-| **it → a presentation**                  | **Anaphoric**           | _It_ refers backward to the presentation.                                                                                                             |
-| **that → the chair**                     | **Exophoric**           | The meaning of _that_ depends on Dr. Martínez physically **pointing to the chair**. The linguistic text alone does not initially identify the object. |
-| **here → beside Dr. Martínez**           | **Exophoric / deictic** | The location of _here_ depends on where the speaker is physically located.                                                                            |
-| **This → the projector stopped working** | **Cataphoric**          | _This_ introduces information that is explained **afterward**.                                                                                        |
-| **it / the device → projector**          | **Anaphoric**           | Both expressions point backward to _the projector_.                                                                                                   |
-| **their → the group**                    | **Anaphoric**           | _Their_ refers backward to the student group.                                                                                                         |
+| Example                                     | Type                    | Why?                                                                                                         |
+| ------------------------------------------- | ----------------------- | ------------------------------------------------------------------------------------------------------------ |
+| **she → Professor Rivera**                  | **Cataphoric**          | _She_ appears before the reader is told who the person is. The referent is identified later.                 |
+| **her → Professor Rivera**                  | **Anaphoric**           | _Her_ points backward to Professor Rivera, who has already been introduced.                                  |
+| **they → the students**                     | **Anaphoric**           | _They_ refers backward to _the students_.                                                                    |
+| **it → the experiment**                     | **Anaphoric**           | _It_ refers backward to the experiment about water filtration.                                               |
+| **those → the empty containers**            | **Exophoric**           | The students must use the physical situation—and Professor Rivera's pointing—to know what _those_ refers to. |
+| **here → beside Professor Rivera**          | **Exophoric / deictic** | _Here_ can only be interpreted by knowing the speaker's physical location.                                   |
+| **This → one of the filters began to leak** | **Cataphoric**          | _This_ points forward to the problem that is explained after the colon.                                      |
+| **it → the leaking filter**                 | **Anaphoric**           | _It_ points backward to _one of the filters_.                                                                |
+| **the new filter → the replacement filter** | **Anaphoric**           | The noun phrase refers back to the filter that the students replaced.                                        |
+| **their → the team**                        | **Anaphoric**           | _Their_ refers backward to the student team.                                                                 |
 
-## The Main Difference
+## The Three Types
 
-A simple way to distinguish the three is to ask **where they must look for the referent or antecedent**:
+The easiest way to distinguish them is to ask **where the reader or listener must look for the referent**:
 
-- **Anaphoric = look backward in the text.**  
-    _Maria bought a laptop. **She** uses it every day._  
-    **She → Maria**
+- **Anaphoric reference = look backward**
     
-- **Cataphoric = look forward in the text.**  
-    _Although **he** was nervous, **Carlos** began his presentation._  
-    **He → Carlos**
-    
-- **Exophoric = look outside the text at the situation or context.**  
-    _Put **that** over **there**._  
-    To understand _that_ and _there_, we need to see what the speaker is pointing at and where the interaction is taking place.
-    
+    - _The students prepared an experiment. **They** tested it twice._
+    - **They → the students**
 
-**Anaphoric = backward → Cataphoric = forward → Exophoric = outside.**
+- **Cataphoric reference = look forward**
+    
+    - _Although **she** was observing quietly, **Professor Rivera** took several notes._
+    - **She → Professor Rivera**
+
+- **Exophoric reference = look outside the text**
+    
+    - _Move **those** over **here**._
+    - The listener must use the physical situation to understand _those_ and _here_.
+
+Your Chapter 3 materials make this same distinction: anaphora refers backward, cataphora refers forward, while exophoric reference depends on the surrounding situation.
+
+## How this connects to deixis
+
+The exophoric expressions in the text are also **deictic**:
+
+> “Please move **those** over **here**.”
+
+- **those** = demonstrative deixis
+- **here** = spatial deixis
+
+Their meaning depends on the immediate communicative context rather than on the words of the text alone. This matches the course definition of deixis as context-dependent expressions such as _here, now, this,_ and _you_.
 
 ### Text Review 2
 
