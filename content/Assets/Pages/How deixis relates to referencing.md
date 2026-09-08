@@ -1,5 +1,5 @@
 ---
-title: How deixis relate to referencing
+title: How deixis relates to referencing
 tags:
 notes: []
 gh-publish: true
