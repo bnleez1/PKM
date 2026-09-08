@@ -233,7 +233,7 @@ A useful learner shorthand is:
 ## Wednesday
 
 1. Review last Friday's review 
-## thursday
+## Thursday
 
 
 ## Friday

@@ -86,38 +86,12 @@ Keep a short decision trace. Record one suggestion you accepted, one you rejecte
 
 CAADI Worksheet 5 provides another study-habits text. Apply global listening first, selective listening second, and keyword analysis afterward. Your goal is to leave the week with notes that are shorter, clearer, and more useful.
 
-<details>
-<summary><h2>Monday</h2></summary>
+## Monday
 
-Content here...
+1. Monday's song - Wake Me Up
+## Tuesday
 
-</details>
+1. Retell a story...
 
-<details>
-<summary><h2>Tuesday</h2></summary>
-
-Content here...
-
-</details>
-
-<details>
-<summary><h2>Wednesday</h2></summary>
-
-Content here...
-
-</details>
-
-<details>
-<summary><h2>Thursday</h2></summary>
-
-Content here...
-
-</details>
-
-<details>
-<summary><h2>Friday</h2></summary>
-
-Content here...
-
-</details>
+## Wednesday
 
