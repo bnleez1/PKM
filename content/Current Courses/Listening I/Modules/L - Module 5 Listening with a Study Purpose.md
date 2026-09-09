@@ -94,7 +94,7 @@ CAADI Worksheet 5 provides another study-habits text. Apply global listening fir
 
 ## Wednesday
 
-1. Complete listening activity and [handouts]([Handouts for Wednesday](https://eduuaa.sharepoint.com/:f:/s/ListeningI2026/IgDCWQe5MT6zRZ4ecq1VGqDvAVAJu2FR70rl8VVb5sd4zjo?e=WnZYN0)).
+1. Complete listening activity and [handouts]([Handouts for Wednesday](https://eduuaa.sharepoint.com/:f:/s/ListeningI2026/IgDCWQe5MT6zRZ4ecq1VGqDvAVAJu2FR70rl8VVb5sd4zjo?e=P3Ya5V)).
 2. Complete [multiple choice questions between 8:30 AM - 9:00 AM]([Week 5 Listening & Vocabulary Quiz_09092026 – Fill out form](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=kuLi4dYhSUi3EE1H2VeK0ItjcCXTT1VEvQ9aSPhTcDNUQlVLN1laUjZQUUY4TlM4QUQxQjY0TVpZMyQlQCNjPTEu)).
 3. Transcribe your audio from Tuesday and submit your transcription as a Word document to [Transcriptions folder in Week 5]([Transcriptions](https://eduuaa.sharepoint.com/:f:/s/ListeningI2026/IgDM5z0B3KnTQqFYHDc1HhS_AdlE0VqDVdhj8H7UoTlAnLM?e=vFLuue)). Refer to the video below on how to transcribe audio to text using Word online.
 
