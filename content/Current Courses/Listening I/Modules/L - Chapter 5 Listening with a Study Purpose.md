@@ -95,3 +95,11 @@ CAADI Worksheet 5 provides another study-habits text. Apply global listening fir
 
 ## Wednesday
 
+<details>
+<summary>Transcribe Audio to Text in Word</summary>
+
+### Additional information
+
+This can contain paragraphs, lists, links, and other Markdown.
+
+</details>
