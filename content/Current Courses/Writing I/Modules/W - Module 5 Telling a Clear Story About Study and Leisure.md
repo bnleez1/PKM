@@ -39,22 +39,15 @@ banner: https://www.solaresearch.org/wp-content/uploads/2019/08/Writing-Analytic
 ## Guiding Questions
 
 - Which event is small enough to develop in one paragraph?
-
 - How can a timeline help select and order the most important actions?
-
 - Which sequence connectors make relationships among events clear?
-
 - How can a narrative show a result, reaction, or lesson?
 ## Learning outcomes
 
 - Select a focused event related to study habits or leisure.
-
 - Plan the event with a beginning, middle, and end on a timeline.
-
 - Use sequence connectors to guide the reader through events.
-
 - Write a complete first draft without GenAI support.
-
 - Preserve evidence of planning and drafting for later revision.
 ## Key concepts and vocabulary
 
