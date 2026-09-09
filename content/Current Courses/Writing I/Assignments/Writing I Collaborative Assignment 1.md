@@ -22,7 +22,7 @@ gh-path: content/Current Courses/Writing I/Assignments
 gh-published: false
 banner: https://static.vecteezy.com/system/resources/previews/032/242/170/large_2x/beautiful-waterfall-flowers-water-nature-waterfall-hd-wallpaper-ai-generated-free-photo.jpg
 ---
-# Assignment Overview - testing
+# Assignment Overview
 
 **Purpose:**  
 In this collaborative writing workshop, you will plan, draft, review, and revise an original paragraph about **study habits**. The purpose is to practice writing as a process rather than producing only a final paragraph. You will work with classmates to examine organization, clarity, connectors, sentence structure, punctuation, and vocabulary while maintaining responsibility for your own writing. This assignment supports Unit II goals related to writing simple narrative and descriptive paragraphs, using sequence and lexical cohesion, and revising an independently written first draft through feedback.
