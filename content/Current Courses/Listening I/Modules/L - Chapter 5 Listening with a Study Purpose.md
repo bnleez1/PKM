@@ -85,7 +85,6 @@ This unit requires an independent first attempt. Listen, take notes, and answer 
 Keep a short decision trace. Record one suggestion you accepted, one you rejected if applicable, and the reason. For example: “I accepted the suggestion to use a table because I confused the two students. I rejected translating every word because it would slow the listening and is not permitted during the task.” This reflection connects feedback to action.
 
 CAADI Worksheet 5 provides another study-habits text. Apply global listening first, selective listening second, and keyword analysis afterward. Your goal is to leave the week with notes that are shorter, clearer, and more useful.
-
 ## Monday
 
 1. Monday's song - Wake Me Up
@@ -97,8 +96,7 @@ CAADI Worksheet 5 provides another study-habits text. Apply global listening fir
 
 1. Complete listening activity and [handouts]([Handouts for Wednesday](https://eduuaa.sharepoint.com/:f:/s/ListeningI2026/IgDCWQe5MT6zRZ4ecq1VGqDvAVAJu2FR70rl8VVb5sd4zjo?e=WnZYN0)).
 2. Complete [multiple choice questions between 8:30 AM - 9:00 AM]([Week 5 Listening & Vocabulary Quiz_09092026 – Fill out form](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=kuLi4dYhSUi3EE1H2VeK0ItjcCXTT1VEvQ9aSPhTcDNUQlVLN1laUjZQUUY4TlM4QUQxQjY0TVpZMyQlQCNjPTEu)).
-
-[Transcriptions folder in Week 5]([Transcriptions](https://eduuaa.sharepoint.com/:f:/s/ListeningI2026/IgDM5z0B3KnTQqFYHDc1HhS_AdlE0VqDVdhj8H7UoTlAnLM?e=vFLuue))
+3. Transcribe your audio from Tuesday and submit your transcription as a Word document to [Transcriptions folder in Week 5]([Transcriptions](https://eduuaa.sharepoint.com/:f:/s/ListeningI2026/IgDM5z0B3KnTQqFYHDc1HhS_AdlE0VqDVdhj8H7UoTlAnLM?e=vFLuue)). Refer to the video below on how to transcribe audio to text using Word online.
 
 <details>
 <summary>Transcribe Audio to Text in Word</summary>

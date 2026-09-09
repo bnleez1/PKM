@@ -212,21 +212,17 @@ The easiest way to distinguish them is to ask **where the listener or reader mus
 - **Anaphoric reference = look backward**
     
     - _Andrés prepared carefully. **He** felt nervous._
-        
     - **He → Andrés**
-        
+
 - **Cataphoric reference = look forward**
     
     - _Although **he** was nervous, **Andrés** began speaking._
-        
     - **He → Andrés**
-        
+
 - **Exophoric reference = look outside the text**
     
     - _Bring **those** over **here**._
-        
     - The listener must use the physical situation to know what _those_ and _here_ mean.
-        
 
 ## How this connects to deixis
 
@@ -245,10 +241,34 @@ A useful learner shorthand is:
 **Exophoric = outside the text**  
 **Deixis = meaning depends on the speaker’s context**
 
+## Wednesday - Review of last Friday's Analysis (Sept. 4, 2026)
 
-## Wednesday
+### Text 1
 
-1. Review last Friday's review 
+Before the class began, the students arranged their chairs in a circle near the front of the room. The students were preparing for a collaborative discussion about study habits. They first compared the strategies they normally used before exams. They then discussed which habits were effective and which were not. Although she had originally planned to work alone, Mariana decided to join a group after she saw several classmates exchanging ideas. The group needed an extra marker, so Luis offered them one. Some students preferred studying early in the morning; others, late at night. At one point, the instructor held up two worksheets and said, “Please put those over there,” while pointing toward a table beside the door.
+
+The group then created a list of common study problems. The list included procrastination, distractions, and poor time management. These problems led the students to discuss possible solutions. The solutions included using a weekly planner and turning off phone notifications. Those strategies encouraged the students to think more carefully about their daily routines. Their routines, in turn, revealed another difficulty: several students were not sleeping enough before important exams.
+
+Three kinds of support appeared repeatedly during the discussion: peer support, organizational support, and teacher support. Peer support helped students compare strategies and realize that many classmates had similar difficulties. Organizational support gave them practical tools such as calendars, checklists, and study schedules. Teacher support helped the groups clarify ideas that they could not resolve independently. By the end of the class, these three forms of support had helped the students develop more realistic study plans. This was the instructor's final message: effective study habits usually develop when learners combine personal responsibility with appropriate support.
+
+---
+
+# Learner Analysis Task
+
+Analyze the three paragraphs and find examples of the following:
+
+1. **Anaphoric reference**
+2. **Cataphoric reference**
+3. **Exophoric reference**
+4. **Ellipsis**
+5. **Substitution**
+6. **Marked Themes**
+7. **Unmarked Themes**
+8. **Constant thematic progression**
+9. **Linear thematic progression**
+10. **Derived thematic progression**
+
+For each example, identify the exact word or phrase and explain what it refers to or how it functions.
 ## Thursday
 
 
