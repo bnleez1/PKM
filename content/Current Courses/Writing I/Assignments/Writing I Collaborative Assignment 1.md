@@ -1,20 +1,26 @@
 ---
 type: Assignment
-title: Assignment Template
-icon: ⚡️
-tags: []
-courseS: []
-unitS:
-module:
-dueDate:
+title: Writing I Collaborative Assignment 1
+icon: ⚡
+tags:
+  - Deliverable
+  - Assessment
+courseS:
+  - Writing I
+units:
+module: "[[Writing II Module 5]]"
+dueDate: 2026-09-11
 status:
-learningOutcomes: []
+learningOutcomes:
 rubric:
-aiUse: []
-coverImage: "[Untitled](../Images/Untitled%20(1).md)"
+aiUse:
+coverImage:
 durationHours:
 grouping:
-banner: https://cdn.mos.cms.futurecdn.net/UTUrxHTEeyXAKjWFBZYjU4.jpg
+gh-publish: true
+gh-path: content/Current Courses/Writing I/Assignments
+gh-published: false
+banner: https://static.vecteezy.com/system/resources/previews/032/242/170/large_2x/beautiful-waterfall-flowers-water-nature-waterfall-hd-wallpaper-ai-generated-free-photo.jpg
 ---
 # Assignment Overview
 
@@ -38,13 +44,11 @@ Complete a collaborative **Paragraph Studio** focused on the topic of **study ha
 
 You will select one study habit or study routine, organize your ideas, and independently write a **7–9 sentence paragraph**. You will then work with classmates to review the paragraph from different perspectives, discuss possible improvements, and decide which feedback to use.
 
-Your final product will be a **Writing Workshop Portfolio** showing the development of your paragraph from planning through revision.
-
 ## Instructions
 
-1. **Choose and plan your topic.**  
+1. **Choose and plan your topic by interviewing a classmate.**  
     Select one specific study habit or routine, such as preparing for an exam, reviewing vocabulary, taking notes, completing homework, studying with classmates, organizing your schedule, or avoiding distractions. Complete the graphic organizer provided in class to identify your main idea and supporting details.
-    
+2. 
     
 ## Deliverable to Teams Assignment
 
