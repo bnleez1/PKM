@@ -97,6 +97,6 @@ Use your timeline and write the full paragraph without GenAI assistance. You may
 [[Writing I Reflection Assignment 1]]
 ## Tuesday
 
-Begin [[60 public/Website/Current Courses/Writing I/Assignments/Writing I Collaborative Assignment 1|Writing I Collaborative Assignment 1]].
+Begin [[Writing I Collaborative Assignment 1]].
 
 
