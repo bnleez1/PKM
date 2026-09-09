@@ -12,7 +12,7 @@ subject: "[[Listening I]]"
 chapterWeek:
 coverImage: "[[Ciudad-Universitaria-62-2048x1365]]"
 unit: "[Listening I Unit II: Listening with Purpose](Listening%20I%20Unit%20II%20Listening%20with%20Purpose.md)"
-prior: "[L - Chapter 5: Listening with a Study Purpose](L%20-%20Chapter%205%20Listening%20with%20a%20Study%20Purpose.md)"
+prior: "[L - Chapter 5: Listening with a Study Purpose](L%20-%20Module%205%20Listening%20with%20a%20Study%20Purpose.md)"
 next: "[L-Chapter 7: Selecting What Matters in Digital Talk](L-Chapter%207%20Selecting%20What%20Matters%20in%20Digital%20Talk.md)"
 reading:
 bookTitle: Hearing Preferences, Opinions, and Order

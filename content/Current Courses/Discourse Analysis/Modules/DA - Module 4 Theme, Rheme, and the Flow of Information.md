@@ -12,7 +12,7 @@ chapterWeek:
 coverImage: "[[Ciudad-Universitaria-62-2048x1365]]"
 unit: "[Discourse Analysis Unit II: Making Meaning in Text](Discourse%20Analysis%20Unit%20II%20Making%20Meaning%20in%20Text.md)"
 prior: "[DA - Module 3: How Texts Hold Together](DA%20-%20Module%203%20How%20Texts%20Hold%20Together.md)"
-next: "[DA - Chapter 5: Time, Viewpoint, and Narrative Movement](DA%20-%20Chapter%205%20Time,%20Viewpoint,%20and%20Narrative%20Movement.md)"
+next: "[DA - Chapter 5: Time, Viewpoint, and Narrative Movement](DA%20-%20Module%205%20Time,%20Viewpoint,%20and%20Narrative%20Movement.md)"
 reading:
 bookTitle: Theme, Rheme, and the Flow of Information
 studentDeliverableS: []

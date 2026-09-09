@@ -11,7 +11,7 @@ subject: "[[02 Projects/Discourse Analysis]]"
 chapterWeek:
 coverImage: "[[Ciudad-Universitaria-62-2048x1365]]"
 unit: "[Discourse Analysis Unit II: Making Meaning in Text](Discourse%20Analysis%20Unit%20II%20Making%20Meaning%20in%20Text.md)"
-prior: "[DA - Chapter 5: Time, Viewpoint, and Narrative Movement](DA%20-%20Chapter%205%20Time,%20Viewpoint,%20and%20Narrative%20Movement.md)"
+prior: "[DA - Chapter 5: Time, Viewpoint, and Narrative Movement](DA%20-%20Module%205%20Time,%20Viewpoint,%20and%20Narrative%20Movement.md)"
 next: "[DA - Chapter 7: Doing Things with Words](DA%20-%20Chapter%207%20Doing%20Things%20with%20Words.md)"
 reading:
 bookTitle: Positioning the Writer and Reader

@@ -252,7 +252,6 @@ The group then created a list of common study problems. The list included procra
 Three kinds of support appeared repeatedly during the discussion: peer support, organizational support, and teacher support. Peer support helped students compare strategies and realize that many classmates had similar difficulties. Organizational support gave them practical tools such as calendars, checklists, and study schedules. Teacher support helped the groups clarify ideas that they could not resolve independently. By the end of the class, these three forms of support had helped the students develop more realistic study plans. This was the instructor's final message: effective study habits usually develop when learners combine personal responsibility with appropriate support.
 
 ---
-
 # Learner Analysis Task
 
 Analyze the three paragraphs and find examples of the following:

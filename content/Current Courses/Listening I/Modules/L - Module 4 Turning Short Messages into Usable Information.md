@@ -13,7 +13,7 @@ chapterWeek:
 coverImage: "[[Ciudad-Universitaria-62-2048x1365]]"
 unit: "[Listening I Unit I: Building a Foundation](Listening%20I%20Unit%20I%20Building%20a%20Foundation.md)"
 prior: "[L - Module 3: Finding Your Way Through Campus Talk](L%20-%20Module%203%20Finding%20Your%20Way%20Through%20Campus%20Talk.md)"
-next: "[L - Chapter 5: Listening with a Study Purpose](L%20-%20Chapter%205%20Listening%20with%20a%20Study%20Purpose.md)"
+next: "[L - Chapter 5: Listening with a Study Purpose](L%20-%20Module%205%20Listening%20with%20a%20Study%20Purpose.md)"
 reading:
 bookTitle: Turning Short Messages into Usable Information
 studentDeliverableS: []
