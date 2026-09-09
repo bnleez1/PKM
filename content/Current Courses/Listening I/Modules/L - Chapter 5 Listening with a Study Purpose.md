@@ -95,11 +95,18 @@ CAADI Worksheet 5 provides another study-habits text. Apply global listening fir
 
 ## Wednesday
 
+1. Complete listening activity and [handouts]([Handouts for Wednesday](https://eduuaa.sharepoint.com/:f:/s/ListeningI2026/IgDCWQe5MT6zRZ4ecq1VGqDvAVAJu2FR70rl8VVb5sd4zjo?e=WnZYN0)).
+2. Complete [multiple choice questions between 8:30 AM - 9:00 AM]([Week 5 Listening & Vocabulary Quiz_09092026 – Fill out form](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=kuLi4dYhSUi3EE1H2VeK0ItjcCXTT1VEvQ9aSPhTcDNUQlVLN1laUjZQUUY4TlM4QUQxQjY0TVpZMyQlQCNjPTEu)).
+
+[Transcriptions folder in Week 5]([Transcriptions](https://eduuaa.sharepoint.com/:f:/s/ListeningI2026/IgDM5z0B3KnTQqFYHDc1HhS_AdlE0VqDVdhj8H7UoTlAnLM?e=vFLuue))
+
 <details>
 <summary>Transcribe Audio to Text in Word</summary>
 
-### Additional information
+<iframe title="How to transcribe audio to text in Word online" src="https://www.youtube.com/embed/GkBu0QjelSk?feature=oembed" height="113" width="200" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;" allowfullscreen="" allow="fullscreen"></iframe>
 
-This can contain paragraphs, lists, links, and other Markdown.
+	1. Use Word online to transcribe audio to text (refer to video above).
+	2. Copy and paste transcription to Word and submit Word document with your name at the top to **Transcriptions folder in Week 5**(See URL above).
 
 </details>
+
