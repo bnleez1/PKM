@@ -36,22 +36,15 @@ banner: https://wallpapercave.com/wp/wp8819684.jpg
 ## Guiding Questions
 
 **1.** When should a writer summarize, paraphrase, or quote directly?
-
 **2.** How do attribution and citation prevent ambiguity and patchwriting?
-
 **3.** How does the M.E.A.L. structure connect a paragraph’s main idea, evidence, analysis, and link?
-
 **4.** How can strengths, limitations, and counterpoints be evaluated fairly?
 ## Learning outcomes
 
 - Distinguish the purposes of summary, paraphrase, and direct quotation.
-
 - Integrate source material with accurate attribution, in-text citation, and reference correspondence.
-
 - Identify and reduce patchwriting risk.
-
 - Construct critical-evaluation paragraphs using the M.E.A.L. structure.
-
 - Develop claims, evidence, analysis, strengths, limitations, and counterpoints in the article review.
 ## Key concepts and vocabulary
 
@@ -109,7 +102,7 @@ The second part of the week should move from practice to production. Students us
 <details>
 <summary><h2>Wednesday</h2></summary>
 
-Content here...
+Continue Article Review 2
 
 </details>
 

@@ -95,8 +95,7 @@ Use your timeline and write the full paragraph without GenAI assistance. You may
 ## Monday
 
 [[Writing I Reflection Assignment 1]]
-## Tuesday
+## Tuesday, Wednesday
 
-Begin [[Writing I Collaborative Assignment 1]].
-
+Work on [[Writing I Collaborative Assignment 1]].
 
