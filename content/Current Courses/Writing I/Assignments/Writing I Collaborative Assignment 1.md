@@ -42,13 +42,14 @@ By completing this assignment, students will be able to:
 
 Complete a collaborative **Paragraph Studio** focused on the topic of **study habits**.
 
-You will select one study habit or study routine, organize your ideas, and independently write a **7–9 sentence paragraph**. You will then work with classmates to review the paragraph from different perspectives, discuss possible improvements, and decide which feedback to use.
+You will select one study habit or study routine, organize your ideas, and independently write a **8-10 sentence paragraph**. You will then work with classmates to review the paragraph from different perspectives, discuss possible improvements, and decide which feedback to use.
 
 ## Instructions
 
 1. **Choose and plan your topic by interviewing a classmate.**  
     Select one specific study habit or routine, such as preparing for an exam, reviewing vocabulary, taking notes, completing homework, studying with classmates, organizing your schedule, or avoiding distractions. Complete the graphic organizer provided in class to identify your main idea and supporting details.
-2. Will continue on Wednesday.
+2. Complete [handout]([Writing_I_General_Idea_and_Details_Graphic_Organizer.docx](https://eduuaa.sharepoint.com/:w:/s/WritingI2026/IQCnBB_RSI2ZQbZQNEwW16VXAUpViOnRAjZAK4f4yGoJQeg?e=Lqj3QM)) with information from your interview yesterday.
+3. 
     
 ## Deliverable to Teams Assignment
 
