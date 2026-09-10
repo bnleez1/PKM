@@ -107,8 +107,10 @@ The second part of the week should move from practice to production. Students us
 >Make sure to distinguish between findings (results) and discussion when completing your article review.
 
 1. Use [[Prompt for Finding Research Articles]] and add top three articles from the list to add to your [Academic Writing Matrix.xlsx](https://eduuaa.sharepoint.com/:x:/s/AcademicWriting2026/IQDswUes_hBpSK4zkSAVjdbiAcmC9uuyRwFZrz5vaeFEhns?e=UDSQ3L). 
-2. Update the rest of your [Academic Writing Matrix.xlsx](https://eduuaa.sharepoint.com/:x:/s/AcademicWriting2026/IQDswUes_hBpSK4zkSAVjdbiAcmC9uuyRwFZrz5vaeFEhns?e=UDSQ3L). 
-3. Work on [[Article Review 2]].
+2. Based on your list of articles, choose the next article to do your third article review.
+3. Print out your article for tomorrow or for class on [[Wednesday, September 16, 2026]].
+4. Update the rest of your [Academic Writing Matrix.xlsx](https://eduuaa.sharepoint.com/:x:/s/AcademicWriting2026/IQDswUes_hBpSK4zkSAVjdbiAcmC9uuyRwFZrz5vaeFEhns?e=UDSQ3L). 
+5. Work on [[Article Review 2]].
 
 ## [[Friday, September 11, 2026]]
 
