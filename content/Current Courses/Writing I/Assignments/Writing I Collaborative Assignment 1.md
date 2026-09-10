@@ -46,10 +46,11 @@ You will select one study habit or study routine, organize your ideas, and indep
 
 ## Instructions
 
-1. **Choose and plan your topic by interviewing a classmate.**  
+1. [[2026-09-07]]: **Choose and plan your topic by interviewing a classmate.** 
     Select one specific study habit or routine, such as preparing for an exam, reviewing vocabulary, taking notes, completing homework, studying with classmates, organizing your schedule, or avoiding distractions. Complete the graphic organizer provided in class to identify your main idea and supporting details.
-2. Complete [handout]([Writing_I_General_Idea_and_Details_Graphic_Organizer.docx](https://eduuaa.sharepoint.com/:w:/s/WritingI2026/IQCnBB_RSI2ZQbZQNEwW16VXAUpViOnRAjZAK4f4yGoJQeg?e=Lqj3QM)) with information from your interview yesterday.
-3. 
+2. [[2026-09-09]]: Complete [handout]([Writing_I_General_Idea_and_Details_Graphic_Organizer.docx](https://eduuaa.sharepoint.com/:w:/s/WritingI2026/IQCnBB_RSI2ZQbZQNEwW16VXAUpViOnRAjZAK4f4yGoJQeg?e=Lqj3QM)) with information from your interview yesterday. You and your partner should complete one handout with enough details (e.g., four examples for each person interviewed), examples, explanations etc. to complete an 8-10 sentence paragraph. I would include at least four examples for each of you. 
+3. Name the file of your hand with the first names of you and your partner and upload it to [Teams]([Partner Handouts](https://eduuaa.sharepoint.com/:f:/s/WritingI2026/IgAn8dSjHa16RYZQmKO4AXQ0ASMb_5vboJvLFmG-_aeE4C0?e=5OKyJf)
+4. [[2026-09-10]]: 
     
 ## Deliverable to Teams Assignment
 

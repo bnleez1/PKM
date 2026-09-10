@@ -241,7 +241,7 @@ A useful learner shorthand is:
 **Exophoric = outside the text**  
 **Deixis = meaning depends on the speaker’s context**
 
-## Wednesday - Review of last Friday's Analysis (Sept. 4, 2026)
+## [[Wednesday, September 9, 2026]]- Review of last Friday's Analysis
 
 ### Text 1
 
@@ -268,7 +268,10 @@ Analyze the three paragraphs and find examples of the following:
 10. **Derived thematic progression**
 
 For each example, identify the exact word or phrase and explain what it refers to or how it functions.
-## Thursday
+##  [[Thursday, September 10, 2026]]
 
+1. Today, we complete our final review of referencing, cohesion, and thematic progressions from yesterday: [Microsoft Form available from 9:00 AM - 10:00 AM]([Discourse Analysis Review Quiz_Sept. 10, 2026 – Fill out form](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=kuLi4dYhSUi3EE1H2VeK0ItjcCXTT1VEvQ9aSPhTcDNUMTAyV0s2OFE3MlBaVjFBUVQ2MVlNMVpIRiQlQCNjPTEu)
+2. Review [Discourse_Analysis_Weeks_2-5_One_Page_Study_Guide.pdf](https://eduuaa.sharepoint.com/:b:/s/DiscourseAnalysis2026/IQCML-CXoAaSRb8j7vJPFS9dAWX2-bYR8DdBYYeoy5xQmoQ?e=v0fnv8) for tomorrow's comprehensive review.
+## [[Friday, September 11, 2026]]
 
-## Friday
+Comprehensive review to include
