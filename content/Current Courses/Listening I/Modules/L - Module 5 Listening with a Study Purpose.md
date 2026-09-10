@@ -34,27 +34,19 @@ banner: https://institute.careerguide.com/wp-content/uploads/2023/04/2023-4-3.jp
 ## Essential understanding(s)
 
 - How does a clear listening purpose determine what information receives attention?
-
 - What can note-taking reveal about the strengths and weaknesses of a listening strategy?
 ## Guiding Questions
 
 - What is the difference between listening globally and listening selectively?
-
 - Which keywords represent a speaker’s study habits without becoming a transcript?
-
 - How can a table organize habits, reasons, frequency, and results?
-
 - What should be analyzed after an independent first attempt?
 ## Learning outcomes
 
 - Distinguish global listening from selective listening in a study-habits message.
-
 - Identify main ideas, habits, reasons, and relevant supporting details.
-
 - Take concise notes using keywords, abbreviations, and a structured table.
-
 - Analyze information loss and strategy effectiveness after an independent attempt.
-
 - Complete CAADI Worksheet 5 and document any authorized post-attempt feedback.
 ## Key concepts and vocabulary
 
@@ -91,8 +83,7 @@ CAADI Worksheet 5 provides another study-habits text. Apply global listening fir
 ## Tuesday
 
 1. Retell a story...
-
-## Wednesday
+## [[Wednesday, September 9, 2026]]
 
 1. Complete listening activity and [handouts](https://eduuaa.sharepoint.com/:f:/s/ListeningI2026/IgDCWQe5MT6zRZ4ecq1VGqDvAVAJu2FR70rl8VVb5sd4zjo?e=P3Ya5V).
 2. Complete [multiple choice questions between 8:30 AM - 9:00 AM]([Week 5 Listening & Vocabulary Quiz_09092026 – Fill out form](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=kuLi4dYhSUi3EE1H2VeK0ItjcCXTT1VEvQ9aSPhTcDNUQlVLN1laUjZQUUY4TlM4QUQxQjY0TVpZMyQlQCNjPTEu)).
@@ -107,4 +98,6 @@ CAADI Worksheet 5 provides another study-habits text. Apply global listening fir
 	2. Copy and paste transcription to Word and submit Word document with your name at the top to **Transcriptions folder in Week 5**(See URL above).
 
 </details>
+## [[Thursday, September 10, 2026]]
+
 
