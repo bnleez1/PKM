@@ -99,8 +99,12 @@ A productive learning sequence for this chapter begins with a diagnostic respons
 The second part of the week should move from practice to production. Students use the guiding questions—“When should a writer summarize, paraphrase, or quote directly?” and “How do attribution and citation prevent ambiguity and patchwriting?”—as checkpoints while working toward the stated outcomes, especially the ability to distinguish the purposes of summary, paraphrase, and direct quotation and to integrate source material with accurate attribution, in-text citation, and reference correspondence. A brief peer conference should focus on one high-impact feature rather than attempting to correct everything at once. Students then revise, annotate the evidence of their decision-making, and complete the week’s deliverable: Source-integration practice; citation-reference and patchwriting check; M.E.A.L. critical-evaluation paragraphs with strengths, limitations, and counterpoints. The final five minutes of class can be used for an exit reflection identifying one decision the writer can now justify and one question that must be carried into the next chapter.
 
 
-## Wednesday
+## [[Wednesday, September 9, 2026]]
 
-1. [Try prompt for searching for article on your chosen topic]([Prompt for searching for articles.docx](https://eduuaa.sharepoint.com/:w:/s/AcademicWriting2026/IQD3XIszZRXmQp9ioNhbfRFIAX-9usthIr_I4U709Y7Diak?e=hAE7AE)
-2. Continue Article Review 2.
+1. Continue Article Review 2.
+## [[Thursday, September 10, 2026]]
+
+1. Update [Academic Writing Matrix.xlsx](https://eduuaa.sharepoint.com/:x:/s/AcademicWriting2026/IQDswUes_hBpSK4zkSAVjdbiAcmC9uuyRwFZrz5vaeFEhns?e=01DqGS).
+2. Use [[Prompt for Finding Research Articles]].
+3. Work on [[Article Review 2]].
 

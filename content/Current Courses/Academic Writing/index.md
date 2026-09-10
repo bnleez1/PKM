@@ -37,7 +37,7 @@ area: "[[UAA Subjects]]"
 notes: "[[Writing mechanics]]"
 assignments:
   - "[[Research Matrix - Week 2]]"
-  - "[[Article Review 1]]"
+  - "[[00 Meta/Templates/Article Review 1]]"
 banner: https://static.vecteezy.com/system/resources/previews/012/347/781/large_2x/man-hand-with-pen-writing-on-notebook-with-computer-laptop-at-desk-free-photo.jpg
 ---
 # Academic Writing
