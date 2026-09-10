@@ -108,7 +108,6 @@ The second part of the week should move from practice to production. Students us
 4. Update the rest of your [Academic Writing Matrix.xlsx](https://eduuaa.sharepoint.com/:x:/s/AcademicWriting2026/IQDswUes_hBpSK4zkSAVjdbiAcmC9uuyRwFZrz5vaeFEhns?e=UDSQ3L). 
 5. Work on [[Article Review 2]].
 6. Reviewed yesterday: Jocelin, Melany, 
-
 ## [[Friday, September 11, 2026]]
 
 1. Complete [[Article Review 2]].
