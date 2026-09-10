@@ -77,11 +77,6 @@ Paraphrasing should change both wording and structure while preserving meaning. 
 Integrated evidence usually contains three elements: a frame, the source material, and a response. The frame tells the reader whose idea is being introduced and why it is relevant. The source material may be a summary, paraphrase, quotation, finding, or methodological detail. The response explains the significance for the reviewer’s claim. Without framing, a quotation may appear suddenly and leave attribution unclear. Without a response, evidence remains disconnected from the argument.
 
 APA in-text citations must correspond to full reference entries. Students should conduct a citation-reference check in both directions: every citation should have a reference, and every reference should be cited in the text. Page or paragraph numbers are required for direct quotations and may be useful for close paraphrases. Citation accuracy includes names, year, spelling, punctuation, and source identity. A polished citation does not compensate for an inaccurate representation of the source, so content verification remains essential.
-## Using M.E.A.L. to structure critical paragraphs
-
-The M.E.A.L. structure offers a practical model for paragraph development. M is the main idea, usually expressed in a topic sentence that presents the paragraph’s evaluative claim. E is evidence from the article or another relevant source. A is analysis explaining how the evidence supports, complicates, or limits the claim. L is the link that connects the paragraph back to the larger review or forward to the next idea. The sequence is flexible, but each function should be present.
-
-The analysis component is often the most underdeveloped. Students may provide a claim and several citations but assume the significance is obvious. Analytical sentences answer questions such as: Why is this evidence convincing or limited? How does the method affect interpretation? What assumption does the argument depend on? How is this finding relevant to the stated problem? What does the evidence fail to address? These explanations establish the reviewer’s intellectual contribution.
 ## Developing fair and emphatic evaluation
 
 Critical evaluation should be specific and proportionate. Describing an article as good, weak, biased, or interesting provides little information unless the writer identifies the criterion and evidence. A fair review may recognize a strength in one dimension and a limitation in another. For example, a small qualitative study may provide rich contextual detail while offering limited transferability. The reviewer should not treat every limitation as a fatal flaw; instead, the effect of the limitation on the claims should be explained.
@@ -100,7 +95,8 @@ The second part of the week should move from practice to production. Students us
 
 ## [[Wednesday, September 9, 2026]]
 
-1. Continue Article Review 2.
+1. Complete [[60 Public/Website/Current Courses/Academic Writing/Assignments/Article Review 1|Article Review 1]].
+2. Continue [[Article Review 2]].
 ## [[Thursday, September 10, 2026]]
 
 >[!IMPORTANT]
@@ -111,6 +107,7 @@ The second part of the week should move from practice to production. Students us
 3. Print out your article for tomorrow or for class on [[Wednesday, September 16, 2026]].
 4. Update the rest of your [Academic Writing Matrix.xlsx](https://eduuaa.sharepoint.com/:x:/s/AcademicWriting2026/IQDswUes_hBpSK4zkSAVjdbiAcmC9uuyRwFZrz5vaeFEhns?e=UDSQ3L). 
 5. Work on [[Article Review 2]].
+6. Reviewed yesterday: Jocelin, Melany, 
 
 ## [[Friday, September 11, 2026]]
 
