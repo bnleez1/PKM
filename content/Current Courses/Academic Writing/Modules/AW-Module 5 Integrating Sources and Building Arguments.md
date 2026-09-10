@@ -29,9 +29,9 @@ banner: https://wallpapercave.com/wp/wp8819684.jpg
 ⚡️ Moving from summary and citation to evidence-based critical evaluation
 
 > Source use is effective when borrowed material becomes part of the writer’s reasoning rather than a substitute for it. This week brings together summary, paraphrase, quotation, citation, attribution, and argumentation in the article-review draft. Students will practice representing an author’s ideas accurately while maintaining clear boundaries between the source’s position and the reviewer’s evaluation. They will also use the M.E.A.L. structure to develop critical paragraphs in which claims are supported by evidence and followed by analysis. The central challenge is balance: too little source information makes evaluation unfair, while too much summary leaves no space for the reviewer’s argument. By learning to select, frame, cite, and interpret evidence, students begin to transform an article review from a report about a text into a reasoned academic judgment.
-## Essential Questions
-**1.** How can a writer integrate sources while preserving clear authorship and critical ownership?
+## Essential Question
 
+**1.** How can a writer integrate sources while preserving clear authorship and critical ownership?
 **2.** What turns source evidence into a persuasive academic argument?
 ## Guiding Questions
 
@@ -98,13 +98,18 @@ A productive learning sequence for this chapter begins with a diagnostic respons
 
 The second part of the week should move from practice to production. Students use the guiding questions—“When should a writer summarize, paraphrase, or quote directly?” and “How do attribution and citation prevent ambiguity and patchwriting?”—as checkpoints while working toward the stated outcomes, especially the ability to distinguish the purposes of summary, paraphrase, and direct quotation and to integrate source material with accurate attribution, in-text citation, and reference correspondence. A brief peer conference should focus on one high-impact feature rather than attempting to correct everything at once. Students then revise, annotate the evidence of their decision-making, and complete the week’s deliverable: Source-integration practice; citation-reference and patchwriting check; M.E.A.L. critical-evaluation paragraphs with strengths, limitations, and counterpoints. The final five minutes of class can be used for an exit reflection identifying one decision the writer can now justify and one question that must be carried into the next chapter.
 
-
 ## [[Wednesday, September 9, 2026]]
 
 1. Continue Article Review 2.
 ## [[Thursday, September 10, 2026]]
 
-1. Update [Academic Writing Matrix.xlsx](https://eduuaa.sharepoint.com/:x:/s/AcademicWriting2026/IQDswUes_hBpSK4zkSAVjdbiAcmC9uuyRwFZrz5vaeFEhns?e=01DqGS).
-2. Use [[Prompt for Finding Research Articles]].
+>[!IMPORTANT]
+>Make sure to distinguish between findings (results) and discussion when completing your article review.
+
+1. Use [[Prompt for Finding Research Articles]] and add top three articles from the list to add to your [Academic Writing Matrix.xlsx](https://eduuaa.sharepoint.com/:x:/s/AcademicWriting2026/IQDswUes_hBpSK4zkSAVjdbiAcmC9uuyRwFZrz5vaeFEhns?e=UDSQ3L). 
+2. Update the rest of your [Academic Writing Matrix.xlsx](https://eduuaa.sharepoint.com/:x:/s/AcademicWriting2026/IQDswUes_hBpSK4zkSAVjdbiAcmC9uuyRwFZrz5vaeFEhns?e=UDSQ3L). 
 3. Work on [[Article Review 2]].
 
+## [[Friday, September 11, 2026]]
+
+1. Complete [[Article Review 2]].

@@ -85,10 +85,10 @@ A timeline may contain many actions, but the paragraph should include only the a
 
 Use your timeline and write the full paragraph without GenAI assistance. You may consult class models, a connector guide, and a dictionary for individual words. Keep the draft even when it contains mistakes; it is evidence of your current writing and the starting point for later feedback. After drafting, label the beginning, middle, and end in the margin. Underline sequence connectors and circle the sentence that communicates the result or reaction. Submit the timeline and draft as process evidence.
 
-## Monday
+## [[Monday, September 7, 2026]]
 
 [[Writing I Reflection Assignment 1]]
-## Tuesday, Wednesday
+## [[Tuesday, September 8, 2026]] - [[Wednesday, September 9, 2026]] - [[Thursday, September 10, 2026]]
 
 Work on [[Writing I Collaborative Assignment 1]].
 
