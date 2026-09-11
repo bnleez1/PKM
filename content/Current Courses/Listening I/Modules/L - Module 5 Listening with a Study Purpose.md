@@ -100,4 +100,11 @@ CAADI Worksheet 5 provides another study-habits text. Apply global listening fir
 </details>
 ## [[Thursday, September 10, 2026]]
 
+1. Audio and drawing practice
+2. Submitting transcription from Tuesday's audio to [Transcriptions](https://eduuaa.sharepoint.com/:f:/s/ListeningI2026/IgDM5z0B3KnTQqFYHDc1HhS_AdlE0VqDVdhj8H7UoTlAnLM?e=can1w2).
+
+## [[Friday, September 11, 2026]]
+
+1. Make sure to rename transcription Word file with your first name in [Transcriptions](https://eduuaa.sharepoint.com/:f:/s/ListeningI2026/IgDM5z0B3KnTQqFYHDc1HhS_AdlE0VqDVdhj8H7UoTlAnLM?e=can1w2).
+2. 
 
