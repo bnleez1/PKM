@@ -274,4 +274,4 @@ For each example, identify the exact word or phrase and explain what it refers t
 2. Review [Discourse_Analysis_Weeks_2-5_One_Page_Study_Guide.pdf](https://eduuaa.sharepoint.com/:b:/s/DiscourseAnalysis2026/IQCML-CXoAaSRb8j7vJPFS9dAWX2-bYR8DdBYYeoy5xQmoQ?e=v0fnv8) for tomorrow's comprehensive review.
 ## [[Friday, September 11, 2026]]
 
-Comprehensive review...
+Complete [Discourse Analysis Quiz: Weeks 2-5 (Sept. 11, 2026) – Fill out form](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=kuLi4dYhSUi3EE1H2VeK0ItjcCXTT1VEvQ9aSPhTcDNUMFdNVzBKQk5XWFZETkpaQlcyTDU1RzA2RSQlQCNjPTEu) in class.
