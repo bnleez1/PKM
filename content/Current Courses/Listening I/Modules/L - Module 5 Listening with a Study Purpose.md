@@ -89,5 +89,5 @@ CAADI Worksheet 5 provides another study-habits text. Apply global listening fir
 ## [[Friday, September 11, 2026]]
 
 1. Make sure to rename transcription Word file with your first name in [Transcriptions](https://eduuaa.sharepoint.com/:f:/s/ListeningI2026/IgDM5z0B3KnTQqFYHDc1HhS_AdlE0VqDVdhj8H7UoTlAnLM?e=can1w2).
-2. 
+2. Complete [[Week 05 - Listening and Drawing Task]].
 
