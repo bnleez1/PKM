@@ -9,6 +9,7 @@ banner: https://wallpapercave.com/wp/wp8819684.jpg
 gh-publish: true
 gh-path: content/Current Courses/Discourse Analysis/Modules
 ---
+
 # DA - Module 5: Time, Viewpoint, and Narrative Movement
 
 ⚡️ Understanding the discourse functions of tense and aspect beyond sentence-level accuracy

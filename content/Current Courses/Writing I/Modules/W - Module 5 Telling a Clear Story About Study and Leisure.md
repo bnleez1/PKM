@@ -74,6 +74,3 @@ Use your timeline and write the full paragraph without GenAI assistance. You may
 ## [[Tuesday, September 8, 2026]] - [[Wednesday, September 9, 2026]] - [[Thursday, September 10, 2026]] - [[Friday, September 11, 2026]]
 
  Complete [[Writing I Collaborative Assignment 1]].
-
-
-
