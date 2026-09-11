@@ -2,7 +2,7 @@
 type: Module
 title: "DA - Module 5: Time, Viewpoint, and Narrative Movement"
 date: 2026-09-07T00:00:00.000Z -> 2026-09-13T00:00:00.000Z
-status: InBox
+status: In progress
 unit: "[Discourse Analysis Unit II: Making Meaning in Text](Discourse%20Analysis%20Unit%20II%20Making%20Meaning%20in%20Text.md)"
 courseS: "[[60 Public/Website/Current Courses/Discourse Analysis/index]]"
 banner: https://wallpapercave.com/wp/wp8819684.jpg
@@ -130,7 +130,6 @@ A few minutes later, another problem appeared. **This was what the group had fea
 | **it → the leaking filter**                 | **Anaphoric**           | _It_ points backward to _one of the filters_.                                                                |
 | **the new filter → the replacement filter** | **Anaphoric**           | The noun phrase refers back to the filter that the students replaced.                                        |
 | **their → the team**                        | **Anaphoric**           | _Their_ refers backward to the student team.                                                                 |
-
 ## The Three Types
 
 The easiest way to distinguish them is to ask **where the reader or listener must look for the referent**:
@@ -162,7 +161,6 @@ The exophoric expressions in the text are also **deictic**:
 - **here** = spatial deixis
 
 Their meaning depends on the immediate communicative context rather than on the words of the text alone. This matches the course definition of deixis as context-dependent expressions such as _here, now, this,_ and _you_.
-
 ### Text Review 2
 
 Note: Another example of **anaphoric, cataphoric, and exophoric reference**, while also showing how exophoric reference connects to **deixis**. 
@@ -173,7 +171,6 @@ Note: Another example of **anaphoric, cataphoric, and exophoric reference**, whi
 Just before the debate began, the instructor pointed toward the back of the classroom and said, **“Please bring those over here.”** Two students turned around and saw several chairs beside the wall. They carried **them** toward the instructor and placed them near the discussion area.
 
 Then the instructor made an announcement: **“This is what you need to remember: you must support every claim with evidence.”** Andrés looked again at **his notes** and underlined the examples he planned to use. When his turn finally came, **he** stood up and began speaking.
-
 ### What is happening?
 
 | Example                                               | Type                    | Why?                                                                                                |
