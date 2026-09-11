@@ -73,5 +73,7 @@ Use your timeline and write the full paragraph without GenAI assistance. You may
 [[Writing I Reflection Assignment 1]]
 ## [[Tuesday, September 8, 2026]] - [[Wednesday, September 9, 2026]] - [[Thursday, September 10, 2026]] - [[Friday, September 11, 2026]]
 
-Work on [[Writing I Collaborative Assignment 1]].
+ Complete [[Writing I Collaborative Assignment 1]].
+
+
 
