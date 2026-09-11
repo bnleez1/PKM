@@ -1,29 +1,13 @@
 ---
 type: Module
-collections: Discourse Analysis Modules
 title: "DA - Module 1: Entering the World of Discourse"
-tags:
-  - DiscourseAnalysis
-  - AppliedLinguistics
 date: 2026-08-10T00:00:00.000Z -> 2026-08-16T00:00:00.000Z
 status: Ready
-subject: "[[02 Projects/Discourse Analysis]]"
-chapterWeek: 1
-coverImage: "[[Ciudad-Universitaria-62-2048x1365]]"
 unit: "[Discourse Analysis Unit I: Foundations: Text, Context, and History](Discourse%20Analysis%20Unit%20I%20Foundations%20Text,%20Context,%20and%20History.md)"
-prior:
-next: "[DA - Module 2: Speaking, Writing, and Communicative Purpose](DA%20-%20Module%202%20Speaking,%20Writing,%20and%20Communicative%20Purpose.md)"
-reading: "Readings for this week: Chapter 1 from [Celce-Murcia (2000)_Discourse and Context.pdf](https://eduuaa.sharepoint.com/:b:/s/DiscourseAnalysis2026/IQDRhPlz-kvIQ4p5x9gv8cI9ARx5bfGimi7yRumNUBFarcU?e=vgH3br)"
-bookTitle: Entering the World of Discourse
-studentDeliverableS: []
-semester: Fall 2026
-relations: []
-note:
-  - "[[DA Week 1 note]]"
+courseS: "[[60 Public/Website/Current Courses/Discourse Analysis/index]]"
+banner:
 gh-publish: true
 gh-path: content/Current Courses/Discourse Analysis/Modules
-gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Discourse Analysis/Modules/DA - Module 1 Entering the World of Discourse
 ---
 
 # DA - Module 1: Entering the World of Discourse

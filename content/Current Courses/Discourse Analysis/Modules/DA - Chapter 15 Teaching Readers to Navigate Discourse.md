@@ -1,28 +1,13 @@
 ---
 type: Module
-collections: Discourse Analysis Modules
 title: "DA - Chapter 15: Teaching Readers to Navigate Discourse"
-tags:
-  - DiscourseAnalysis
-  - AppliedLinguistics
 date: 2026-11-16T00:00:00.000Z -> 2026-11-22T00:00:00.000Z
 status: InBox
-subject: "[[02 Projects/Discourse Analysis]]"
-chapterWeek:
-coverImage: "[[Ciudad-Universitaria-62-2048x1365]]"
 unit: "[Discourse Analysis Unit IV: Discourse, Culture, and Reading](Discourse%20Analysis%20Unit%20IV%20Discourse,%20Culture,%20and%20Reading.md)"
-prior: "[DA - Chapter 14: Seeing the Shape of a Text](DA%20-%20Chapter%2014%20Seeing%20the%20Shape%20of%20a%20Text.md)"
-next: "[DA - Chapter 16: Independent Analysis and Professional Transfer](DA%20-%20Chapter%2016%20Independent%20Analysis%20and%20Professional%20Transfer.md)"
-reading:
-bookTitle: Teaching Readers to Navigate Discourse
-studentDeliverableS: []
-semester: Fall 2026
-relations: []
-note: []
+courseS: "[[60 Public/Website/Current Courses/Discourse Analysis/index]]"
+banner:
 gh-publish: true
 gh-path: content/Current Courses/Discourse Analysis/Modules
-gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Discourse Analysis/Modules/DA - Chapter 15 Teaching Readers to Navigate Discourse
 ---
 
 # DA - Chapter 15: Teaching Readers to Navigate Discourse

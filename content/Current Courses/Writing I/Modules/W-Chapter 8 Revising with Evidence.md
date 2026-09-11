@@ -1,28 +1,13 @@
 ---
 type: Module
-collections: Writing I Modules
 title: "W-Chapter 8: Revising with Evidence"
-tags:
-  - Writing
-  - EnglishSkillDevelopment
 date: 2026-09-28T00:00:00.000Z -> 2026-10-04T00:00:00.000Z
 status: InBox
-subject: "[[Writing I]]"
-chapterWeek:
-coverImage: "[[Ciudad-Universitaria-62-2048x1365]]"
 unit: "[Writing I Unit II: Everyday Experiences](Writing%20I%20Unit%20II%20Everyday%20Experiences.md)"
-prior: "[W-Chapter 7: Building Lexical Cohesion](W-Chapter%207%20Building%20Lexical%20Cohesion.md)"
-next: "[W-Chapter 9: Describing Sports and Physical Activities](W-Chapter%209%20Describing%20Sports%20and%20Physical%20Activities.md)"
-reading:
-bookTitle: Revising with Evidence
-studentDeliverableS: []
-semester: Fall 2026
-relations: []
-note: []
+courseS: "[[60 Public/Website/Current Courses/Writing I/index]]"
+banner:
 gh-publish: true
 gh-path: content/Current Courses/Writing I/Modules
-gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Writing I/Modules/W-Chapter 8 Revising with Evidence
 ---
 
 # W-Chapter 8: Revising with Evidence

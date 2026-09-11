@@ -1,19 +1,11 @@
 ---
 type: Unit
-collections: Academic Writing Units, Units
 title: Academic Writing Unit II
-tags:
-  - Unit
-  - Writing
-  - EnglishSkillDevelopment
-date: 2026-08-24T00:00:00.000Z -> 2026-09-20T00:00:00.000Z
-subject:
-  - "[[60 Public/Website/Current Courses/Academic Writing/index]]"
-coverImage:
+courseS: "[[60 Public/Website/Current Courses/Academic Writing/index]]"
+order: 2
+banner:
 gh-publish: true
 gh-path: content/Current Courses/Academic Writing/Units
-gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Academic Writing/Units/Academic Writing Unit II
 ---
 
 # Academic Writing Unit II

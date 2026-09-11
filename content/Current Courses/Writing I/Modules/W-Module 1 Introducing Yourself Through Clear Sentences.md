@@ -1,29 +1,13 @@
 ---
 type: Module
-collections: Writing I Modules
 title: "W-Module 1: Introducing Yourself Through Clear Sentences"
-tags:
-  - Writing
-  - EnglishSkillDevelopment
 date: 2026-08-10T00:00:00.000Z -> 2026-08-16T00:00:00.000Z
 status: Ready
-subject: "[[Writing I]]"
-chapterWeek: 1
-coverImage: "[[Ciudad-Universitaria-62-2048x1365]]"
 unit: "[Writing I Unit I: Paragraph Foundations](Writing%20I%20Unit%20I%20Paragraph%20Foundations.md)"
-prior:
-next: "[W-Module 2: Writing About Routines and Campus Life](W-Module%202%20Writing%20About%20Routines%20and%20Campus%20Life.md)"
-reading:
-bookTitle: Introducing Yourself Through Clear Sentences
-studentDeliverableS: []
-semester: Fall 2026
-relations: []
-note:
-  - "[[Writing I Week 1 note]]"
+courseS: "[[60 Public/Website/Current Courses/Writing I/index]]"
+banner:
 gh-publish: true
 gh-path: content/Current Courses/Writing I/Modules
-gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Writing I/Modules/W-Module 1 Introducing Yourself Through Clear Sentences
 ---
 # W-Module 1: Introducing Yourself Through Clear Sentences
 

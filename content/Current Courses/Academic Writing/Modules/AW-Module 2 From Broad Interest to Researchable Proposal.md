@@ -1,27 +1,13 @@
 ---
 type: Module
-collections: Academic Writing Modules
 title: "AW-Module 2: From Broad Interest to Researchable Proposal"
-tags:
-  - Module
 date: 2026-08-17T00:00:00.000Z -> 2026-08-23T00:00:00.000Z
 status: InBox
-subject: "[[60 Public/Website/Current Courses/Academic Writing/index]]"
-chapterWeek: 2
-coverImage: "[[Ciudad-Universitaria-62-2048x1365]]"
 unit: "[[Academic Writing Unit I]]"
-prior: "[AW-Module 1: Academic Integrity and Cognitive Ownership](AW-Module%201%20Academic%20Integrity%20and%20Cognitive%20Ownership.md)"
-next: "[AW-Module 3: Reporting Research with Accuracy and Caution](AW-Module%203%20Reporting%20Research%20with%20Accuracy%20and%20Caution.md)"
-reading:
-bookTitle:
-studentDeliverableS: []
-semester: Fall 2026
-relations: []
-note: []
+courseS: "[[60 Public/Website/Current Courses/Academic Writing/index]]"
+banner:
 gh-publish: true
 gh-path: content/Current Courses/Academic Writing/Modules
-gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Academic Writing/Modules/AW-Module 2 From Broad Interest to Researchable Proposal
 ---
 
 # AW-Module 2: From Broad Interest to Researchable Proposal

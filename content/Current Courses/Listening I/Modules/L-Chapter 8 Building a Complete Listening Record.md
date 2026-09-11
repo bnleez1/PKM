@@ -1,29 +1,13 @@
 ---
 type: Module
-collections: Listening I Modules
 title: "L-Chapter 8: Building a Complete Listening Record"
-tags:
-  - Module
-  - Listening
-  - EnglishSkillDevelopment
 date: 2026-09-28T00:00:00.000Z -> 2026-10-04T00:00:00.000Z
 status: InBox
-subject: "[[Listening I]]"
-chapterWeek:
-coverImage: "[[Ciudad-Universitaria-62-2048x1365]]"
 unit: "[Listening I Unit II: Listening with Purpose](Listening%20I%20Unit%20II%20Listening%20with%20Purpose.md)"
-prior: "[L-Chapter 7: Selecting What Matters in Digital Talk](L-Chapter%207%20Selecting%20What%20Matters%20in%20Digital%20Talk.md)"
-next: "[L-Chapter 9: Listening Beyond the Stated Words](L-Chapter%209%20Listening%20Beyond%20the%20Stated%20Words.md)"
-reading:
-bookTitle: Building a Complete Listening Record
-studentDeliverableS: []
-semester: Fall 2026
-relations: []
-note: []
+courseS: "[[60 Public/Website/Current Courses/Listening I/index]]"
+banner:
 gh-publish: true
 gh-path: content/Current Courses/Listening I/Modules
-gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Listening I/Modules/L-Chapter 8 Building a Complete Listening Record
 ---
 
 # L-Chapter 8: Building a Complete Listening Record

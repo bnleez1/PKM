@@ -1,28 +1,13 @@
 ---
 type: Module
-collections: Writing I Modules
 title: "W-Module 3: Planning a Paragraph Before Writing"
-tags:
-  - Writing
-  - EnglishSkillDevelopment
 date: 2026-08-24T00:00:00.000Z -> 2026-08-30T00:00:00.000Z
 status: InBox
-subject: "[[Writing I]]"
-chapterWeek: 3
-coverImage: "[[Ciudad-Universitaria-62-2048x1365]]"
 unit: "[Writing I Unit I: Paragraph Foundations](Writing%20I%20Unit%20I%20Paragraph%20Foundations.md)"
-prior: "[W-Module 2: Writing About Routines and Campus Life](W-Module%202%20Writing%20About%20Routines%20and%20Campus%20Life.md)"
-next: "[W-Module 4: From Draft to Final Paragraph](W-Module%204%20From%20Draft%20to%20Final%20Paragraph.md)"
-reading:
-bookTitle: Planning a Paragraph Before Writing
-studentDeliverableS: []
-semester: Fall 2026
-relations: []
-note: []
+courseS: "[[60 Public/Website/Current Courses/Writing I/index]]"
+banner:
 gh-publish: true
 gh-path: content/Current Courses/Writing I/Modules
-gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Writing I/Modules/W-Module 3 Planning a Paragraph Before Writing
 ---
 # W-Module 3: Planning a Paragraph Before Writing
 

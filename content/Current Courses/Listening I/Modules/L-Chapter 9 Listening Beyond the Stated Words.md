@@ -1,29 +1,13 @@
 ---
 type: Module
-collections: Listening I Modules
 title: "L-Chapter 9: Listening Beyond the Stated Words"
-tags:
-  - Module
-  - Listening
-  - EnglishSkillDevelopment
 date: 2026-10-05T00:00:00.000Z -> 2026-10-11T00:00:00.000Z
 status: InBox
-subject: "[[Listening I]]"
-chapterWeek:
-coverImage: "[[Ciudad-Universitaria-62-2048x1365]]"
 unit: "[Listening I Unit III: Listening Beyond Words](Listening%20I%20Unit%20III%20Listening%20Beyond%20Words.md)"
-prior: "[L-Chapter 8: Building a Complete Listening Record](L-Chapter%208%20Building%20a%20Complete%20Listening%20Record.md)"
-next: "[L-Chapter 10: Connecting the Stops in a Journey](L-Chapter%2010%20Connecting%20the%20Stops%20in%20a%20Journey.md)"
-reading:
-bookTitle: Listening Beyond the Stated Words
-studentDeliverableS: []
-semester: Fall 2026
-relations: []
-note: []
+courseS: "[[60 Public/Website/Current Courses/Listening I/index]]"
+banner:
 gh-publish: true
 gh-path: content/Current Courses/Listening I/Modules
-gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Listening I/Modules/L-Chapter 9 Listening Beyond the Stated Words
 ---
 
 # L-Chapter 9: Listening Beyond the Stated Words

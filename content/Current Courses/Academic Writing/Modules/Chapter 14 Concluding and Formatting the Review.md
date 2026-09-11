@@ -1,27 +1,13 @@
 ---
 type: Module
-collections: Academic Writing Modules
 title: "Chapter 14: Concluding and Formatting the Review"
-tags:
-  - Module
 date: 2026-11-09T00:00:00.000Z -> 2026-11-15T00:00:00.000Z
 status: InBox
-subject: "[[60 Public/Website/Current Courses/Academic Writing/index]]"
-chapterWeek: 14
-coverImage: "[[Ciudad-Universitaria-62-2048x1365]]"
 unit: "[[Academic Writing Unit IV]]"
-prior: "[Chapter 13: Building a Unified Body](Chapter%2013%20Building%20a%20Unified%20Body.md)"
-next: "[Chapter 15: Peer Review and AI as a Critical Friend](Chapter%2015%20Peer%20Review%20and%20AI%20as%20a%20Critical%20Friend.md)"
-reading:
-bookTitle: Concluding and Formatting the Review
-studentDeliverableS: []
-semester: Fall 2026
-relations: []
-note: []
+courseS: "[[60 Public/Website/Current Courses/Academic Writing/index]]"
+banner:
 gh-publish: true
 gh-path: content/Current Courses/Academic Writing/Modules
-gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Academic Writing/Modules/Chapter 14 Concluding and Formatting the Review
 ---
 
 # Chapter 14: Concluding and Formatting the Review

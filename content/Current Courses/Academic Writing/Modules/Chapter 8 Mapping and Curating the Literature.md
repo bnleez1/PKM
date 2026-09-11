@@ -1,27 +1,13 @@
 ---
 type: Module
-collections: Academic Writing Modules
 title: "Chapter 8: Mapping and Curating the Literature"
-tags:
-  - Module
 date: 2026-09-28T00:00:00.000Z -> 2026-10-04T00:00:00.000Z
 status: InBox
-subject: "[[60 Public/Website/Current Courses/Academic Writing/index]]"
-chapterWeek: 8
-coverImage: "[[Ciudad-Universitaria-62-2048x1365]]"
 unit: "[[Academic Writing Unit III]]"
-prior: "[Chapter 7: Reading Sources Critically](Chapter%207%20Reading%20Sources%20Critically.md)"
-next: "[Chapter 9: Designing the Literature Review](Chapter%209%20Designing%20the%20Literature%20Review.md)"
-reading:
-bookTitle: Mapping and Curating the Literature
-studentDeliverableS: []
-semester: Fall 2026
-relations: []
-note: []
+courseS: "[[60 Public/Website/Current Courses/Academic Writing/index]]"
+banner:
 gh-publish: true
 gh-path: content/Current Courses/Academic Writing/Modules
-gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Academic Writing/Modules/Chapter 8 Mapping and Curating the Literature
 ---
 
 # Chapter 8: Mapping and Curating the Literature

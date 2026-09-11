@@ -1,29 +1,13 @@
 ---
 type: Module
-collections: Listening I Modules
 title: "L-Chapter 13: Listening as a Member of a Team"
-tags:
-  - Module
-  - Listening
-  - EnglishSkillDevelopment
 date: 2026-11-02T00:00:00.000Z -> 2026-11-08T00:00:00.000Z
 status: InBox
-subject: "[[Listening I]]"
-chapterWeek:
-coverImage: "[[Ciudad-Universitaria-62-2048x1365]]"
 unit: "[Listening I Unit IV: Collaboration, Problem-Solving, and Community](Listening%20I%20Unit%20IV%20Collaboration,%20Problem-Solving,%20and%20Community.md)"
-prior: "[L-Chapter 12: Choosing Strategies Without Waiting for Directions](L-Chapter%2012%20Choosing%20Strategies%20Without%20Waiting%20for%20Directions.md)"
-next: "[L-Chapter 14: Listening for a Way Forward](L-Chapter%2014%20Listening%20for%20a%20Way%20Forward.md)"
-reading:
-bookTitle: Listening as a Member of a Team
-studentDeliverableS: []
-semester: Fall 2026
-relations: []
-note: []
+courseS: "[[60 Public/Website/Current Courses/Listening I/index]]"
+banner:
 gh-publish: true
 gh-path: content/Current Courses/Listening I/Modules
-gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Listening I/Modules/L-Chapter 13 Listening as a Member of a Team
 ---
 
 # L-Chapter 13: Listening as a Member of a Team

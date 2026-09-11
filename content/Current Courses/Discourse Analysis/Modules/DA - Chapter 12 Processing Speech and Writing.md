@@ -1,28 +1,13 @@
 ---
 type: Module
-collections: Discourse Analysis Modules
 title: "DA - Chapter 12: Processing Speech and Writing"
-tags:
-  - DiscourseAnalysis
-  - AppliedLinguistics
 date: 2026-10-26T00:00:00.000Z -> 2026-11-01T00:00:00.000Z
 status: InBox
-subject: "[[02 Projects/Discourse Analysis]]"
-chapterWeek:
-coverImage: "[[Ciudad-Universitaria-62-2048x1365]]"
 unit: "[Discourse Analysis Unit IV: Discourse, Culture, and Reading](Discourse%20Analysis%20Unit%20IV%20Discourse,%20Culture,%20and%20Reading.md)"
-prior: "[DA - Chapter 11: When AI Writes the Dialogue](DA%20-%20Chapter%2011%20When%20AI%20Writes%20the%20Dialogue.md)"
-next: "[DA - Chapter 13: Culture, Rhetoric, and Organizational Expectations](DA%20-%20Chapter%2013%20Culture,%20Rhetoric,%20and%20Organizational%20Expectations.md)"
-reading:
-bookTitle: Processing Speech and Writing
-studentDeliverableS: []
-semester: Fall 2026
-relations: []
-note: []
+courseS: "[[60 Public/Website/Current Courses/Discourse Analysis/index]]"
+banner:
 gh-publish: true
 gh-path: content/Current Courses/Discourse Analysis/Modules
-gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Discourse Analysis/Modules/DA - Chapter 12 Processing Speech and Writing
 ---
 
 # DA - Chapter 12: Processing Speech and Writing

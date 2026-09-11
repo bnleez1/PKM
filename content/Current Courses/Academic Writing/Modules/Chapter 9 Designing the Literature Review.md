@@ -1,27 +1,13 @@
 ---
 type: Module
-collections: Academic Writing Modules
 title: "Chapter 9: Designing the Literature Review"
-tags:
-  - Module
 date: 2026-10-05T00:00:00.000Z -> 2026-10-11T00:00:00.000Z
 status: InBox
-subject: "[[60 Public/Website/Current Courses/Academic Writing/index]]"
-chapterWeek: 9
-coverImage: "[[Ciudad-Universitaria-62-2048x1365]]"
 unit: "[[Academic Writing Unit IV]]"
-prior: "[Chapter 8: Mapping and Curating the Literature](Chapter%208%20Mapping%20and%20Curating%20the%20Literature.md)"
-next: "[Chapter 10: Opening the Scholarly Conversation](Chapter%2010%20Opening%20the%20Scholarly%20Conversation.md)"
-reading:
-bookTitle: Designing the Literature Review
-studentDeliverableS: []
-semester: Fall 2026
-relations: []
-note: []
+courseS: "[[60 Public/Website/Current Courses/Academic Writing/index]]"
+banner:
 gh-publish: true
 gh-path: content/Current Courses/Academic Writing/Modules
-gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Academic Writing/Modules/Chapter 9 Designing the Literature Review
 ---
 
 # Chapter 9: Designing the Literature Review

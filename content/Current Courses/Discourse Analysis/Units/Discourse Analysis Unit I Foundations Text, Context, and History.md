@@ -1,18 +1,11 @@
 ---
 type: Unit
-collections: Discourse Analysis Units, Units
 title: "Discourse Analysis Unit I: Foundations: Text, Context, and History"
-tags:
-  - Unit
-  - AppliedLinguistics
-date: 2026-08-10T00:00:00.000Z -> 2026-08-23T00:00:00.000Z
-subject:
-  - "[[02 Projects/Discourse Analysis]]"
-coverImage:
+courseS: "[[60 Public/Website/Current Courses/Discourse Analysis/index]]"
+order: 1
+banner:
 gh-publish: true
 gh-path: content/Current Courses/Discourse Analysis/Units
-gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Discourse Analysis/Units/Discourse Analysis Unit I Foundations Text, Context, and History
 ---
 
 # Discourse Analysis Unit I: Foundations: Text, Context, and History

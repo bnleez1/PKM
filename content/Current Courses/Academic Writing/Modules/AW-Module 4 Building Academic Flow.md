@@ -1,27 +1,13 @@
 ---
 type: Module
-collections: Academic Writing Modules
 title: "AW-Module 4: Building Academic Flow"
-tags:
-  - Module
 date: 2026-08-31T00:00:00.000Z -> 2026-09-06T00:00:00.000Z
 status: InBox
-subject: "[[60 Public/Website/Current Courses/Academic Writing/index]]"
-chapterWeek: 4
-coverImage: "[[Ciudad-Universitaria-62-2048x1365]]"
 unit: "[[Academic Writing Unit II]]"
-prior: "[AW-Module 3: Reporting Research with Accuracy and Caution](AW-Module%203%20Reporting%20Research%20with%20Accuracy%20and%20Caution.md)"
-next: "[Chapter 5: Integrating Sources and Building Arguments](AW-Module%205%20Integrating%20Sources%20and%20Building%20Arguments.md)"
-reading:
-bookTitle: Building Academic Flow
-studentDeliverableS: []
-semester: Fall 2026
-relations: []
-note: []
+courseS: "[[60 Public/Website/Current Courses/Academic Writing/index]]"
+banner:
 gh-publish: true
 gh-path: content/Current Courses/Academic Writing/Modules
-gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Academic Writing/Modules/AW-Module 4 Building Academic Flow
 ---
 
 # AW-Module 4: Building Academic Flow

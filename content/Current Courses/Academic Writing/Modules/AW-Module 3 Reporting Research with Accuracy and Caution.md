@@ -1,28 +1,13 @@
 ---
 type: Module
-collections: Academic Writing Modules
 title: "AW-Module 3: Reporting Research with Accuracy and Caution"
-tags:
-  - Module
 date: 2026-08-24T00:00:00.000Z -> 2026-08-30T00:00:00.000Z
 status: Ready
-subject: "[[60 Public/Website/Current Courses/Academic Writing/index]]"
-chapterWeek: 3
-coverImage: "[[Ciudad-Universitaria-62-2048x1365]]"
 unit: "[[Academic Writing Unit II]]"
-prior: "[AW-Module 2: From Broad Interest to Researchable Proposal](AW-Module%202%20From%20Broad%20Interest%20to%20Researchable%20Proposal.md)"
-next: "[AW-Module 4: Building Academic Flow](AW-Module%204%20Building%20Academic%20Flow.md)"
-reading:
-bookTitle:
-studentDeliverableS: []
-semester: Fall 2026
-relations: []
-note:
-  - "[[AW-Module 3 Note]]"
+courseS: "[[60 Public/Website/Current Courses/Academic Writing/index]]"
+banner:
 gh-publish: true
 gh-path: content/Current Courses/Academic Writing/Modules
-gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Academic Writing/Modules/AW-Module 3 Reporting Research with Accuracy and Caution
 ---
 
 # AW-Module 3: Reporting Research with Accuracy and Caution

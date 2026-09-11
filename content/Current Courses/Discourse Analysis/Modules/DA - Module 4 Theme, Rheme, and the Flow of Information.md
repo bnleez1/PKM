@@ -1,25 +1,10 @@
 ---
 type: Module
-collections: Discourse Analysis Modules
 title: "DA - Module 4: Theme, Rheme, and the Flow of Information"
-tags:
-  - DiscourseAnalysis
-  - AppliedLinguistics
 date: 2026-08-31T00:00:00.000Z -> 2026-09-06T00:00:00.000Z
 status: InBox
-subject: "[[02 Projects/Discourse Analysis]]"
-chapterWeek:
-coverImage: "[[Ciudad-Universitaria-62-2048x1365]]"
 unit: "[Discourse Analysis Unit II: Making Meaning in Text](Discourse%20Analysis%20Unit%20II%20Making%20Meaning%20in%20Text.md)"
-prior: "[DA - Module 3: How Texts Hold Together](DA%20-%20Module%203%20How%20Texts%20Hold%20Together.md)"
-next: "[DA - Chapter 5: Time, Viewpoint, and Narrative Movement](DA%20-%20Module%205%20Time,%20Viewpoint,%20and%20Narrative%20Movement.md)"
-reading:
-bookTitle: Theme, Rheme, and the Flow of Information
-studentDeliverableS: []
-semester: Fall 2026
-relations: []
-note:
-  - "[[DA Module 4 Note]]"
+courseS: "[[60 Public/Website/Current Courses/Discourse Analysis/index]]"
 banner: https://wallpaperaccess.com/full/256070.jpg
 gh-publish: true
 gh-path: content/Current Courses/Discourse Analysis/Modules

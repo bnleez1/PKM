@@ -1,29 +1,13 @@
 ---
 type: Module
-collections: Listening I Modules
 title: "L - Chapter 6: Hearing Preferences, Opinions, and Order"
-tags:
-  - Module
-  - Listening
-  - EnglishSkillDevelopment
 date: 2026-09-14T00:00:00.000Z -> 2026-09-20T00:00:00.000Z
 status: InBox
-subject: "[[Listening I]]"
-chapterWeek:
-coverImage: "[[Ciudad-Universitaria-62-2048x1365]]"
 unit: "[Listening I Unit II: Listening with Purpose](Listening%20I%20Unit%20II%20Listening%20with%20Purpose.md)"
-prior: "[L - Chapter 5: Listening with a Study Purpose](L%20-%20Module%205%20Listening%20with%20a%20Study%20Purpose.md)"
-next: "[L-Chapter 7: Selecting What Matters in Digital Talk](L-Chapter%207%20Selecting%20What%20Matters%20in%20Digital%20Talk.md)"
-reading:
-bookTitle: Hearing Preferences, Opinions, and Order
-studentDeliverableS: []
-semester: Fall 2026
-relations: []
-note: []
+courseS: "[[60 Public/Website/Current Courses/Listening I/index]]"
+banner:
 gh-publish: true
 gh-path: content/Current Courses/Listening I/Modules
-gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Listening I/Modules/L - Chapter 6 Hearing Preferences, Opinions, and Order
 ---
 
 # L - Chapter 6: Hearing Preferences, Opinions, and Order

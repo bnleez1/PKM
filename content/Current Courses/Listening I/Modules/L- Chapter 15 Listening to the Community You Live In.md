@@ -1,29 +1,13 @@
 ---
 type: Module
-collections: Listening I Modules
 title: "L- Chapter 15: Listening to the Community You Live In"
-tags:
-  - Module
-  - Listening
-  - EnglishSkillDevelopment
 date: 2026-11-16T00:00:00.000Z -> 2026-11-22T00:00:00.000Z
 status: InBox
-subject: "[[Listening I]]"
-chapterWeek:
-coverImage: "[[Ciudad-Universitaria-62-2048x1365]]"
 unit: "[Listening I Unit IV: Collaboration, Problem-Solving, and Community](Listening%20I%20Unit%20IV%20Collaboration,%20Problem-Solving,%20and%20Community.md)"
-prior: "[L-Chapter 14: Listening for a Way Forward](L-Chapter%2014%20Listening%20for%20a%20Way%20Forward.md)"
-next: "[L-Chapter 16: From Course Strategies to Real-Life Listening](L-Chapter%2016%20From%20Course%20Strategies%20to%20Real-Life%20Listening.md)"
-reading:
-bookTitle: Listening to the Community You Live In
-studentDeliverableS: []
-semester: Fall 2026
-relations: []
-note: []
+courseS: "[[60 Public/Website/Current Courses/Listening I/index]]"
+banner:
 gh-publish: true
 gh-path: content/Current Courses/Listening I/Modules
-gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Listening I/Modules/L- Chapter 15 Listening to the Community You Live In
 ---
 
 # L- Chapter 15: Listening to the Community You Live In

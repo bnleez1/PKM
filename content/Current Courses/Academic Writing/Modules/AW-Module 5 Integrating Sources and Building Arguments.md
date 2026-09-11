@@ -1,28 +1,13 @@
 ---
 type: Module
-collections: Academic Writing Modules
 title: AW - Module 5 Integrating Sources and Building Arguments
-tags:
-  - Module
 date: 2026-09-07T00:00:00.000Z -> 2026-09-13T00:00:00.000Z
 status: InBox
-subject: "[[60 Public/Website/Current Courses/Academic Writing/index]]"
-chapterWeek: 5
-coverImage: "[[Ciudad-Universitaria-62-2048x1365]]"
 unit: "[[Academic Writing Unit II]]"
-prior: "[AW-Module 4: Building Academic Flow](AW-Module%204%20Building%20Academic%20Flow.md)"
-next: "[Chapter 6: Revising for Precision, Coherence, and Critical Voice](AW-Module%206%20Revising%20for%20Precision,%20Coherence,%20and%20Critical%20Voice.md)"
-reading:
-bookTitle: Integrating Sources and Building Arguments
-studentDeliverableS: []
-semester: Fall 2026
-relations: []
-note: []
+courseS: "[[60 Public/Website/Current Courses/Academic Writing/index]]"
+banner: https://wallpapercave.com/wp/wp8819684.jpg
 gh-publish: true
 gh-path: content/Current Courses/Academic Writing/Modules
-gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Academic Writing/Modules/Chapter 5 Integrating Sources and Building Arguments
-banner: https://wallpapercave.com/wp/wp8819684.jpg
 ---
 # AW-Module 5 Integrating Sources and Building Arguments
 

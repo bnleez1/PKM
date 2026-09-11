@@ -1,29 +1,13 @@
 ---
 type: Module
-collections: Listening I Modules
 title: "L-Chapter 12: Choosing Strategies Without Waiting for Directions"
-tags:
-  - Module
-  - Listening
-  - EnglishSkillDevelopment
 date: 2026-10-26T00:00:00.000Z -> 2026-11-01T00:00:00.000Z
 status: InBox
-subject: "[[Listening I]]"
-chapterWeek:
-coverImage: "[[Ciudad-Universitaria-62-2048x1365]]"
 unit: "[Listening I Unit III: Listening Beyond Words](Listening%20I%20Unit%20III%20Listening%20Beyond%20Words.md)"
-prior: "[L-Chapter 11: Recognizing English as It Is Actually Spoken](L-Chapter%2011%20Recognizing%20English%20as%20It%20Is%20Actually%20Spoken.md)"
-next: "[L-Chapter 13: Listening as a Member of a Team](L-Chapter%2013%20Listening%20as%20a%20Member%20of%20a%20Team.md)"
-reading:
-bookTitle: Choosing Strategies Without Waiting for Directions
-studentDeliverableS: []
-semester: Fall 2026
-relations: []
-note: []
+courseS: "[[60 Public/Website/Current Courses/Listening I/index]]"
+banner:
 gh-publish: true
 gh-path: content/Current Courses/Listening I/Modules
-gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Listening I/Modules/L-Chapter 12 Choosing Strategies Without Waiting for Directions
 ---
 
 # L-Chapter 12: Choosing Strategies Without Waiting for Directions

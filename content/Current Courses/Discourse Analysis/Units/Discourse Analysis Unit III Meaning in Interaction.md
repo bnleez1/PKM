@@ -1,19 +1,11 @@
 ---
 type: Unit
-collections: Discourse Analysis Units, Units
 title: "Discourse Analysis Unit III: Meaning in Interaction"
-tags:
-  - AppliedLinguistics
-  - DiscourseAnalysis
-  - Unit
-date: 2026-09-28T00:00:00.000Z -> 2026-11-01T00:00:00.000Z
-subject:
-  - "[[02 Projects/Discourse Analysis]]"
-coverImage:
+courseS: "[[60 Public/Website/Current Courses/Discourse Analysis/index]]"
+order: 3
+banner:
 gh-publish: true
 gh-path: content/Current Courses/Discourse Analysis/Units
-gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Discourse Analysis/Units/Discourse Analysis Unit III Meaning in Interaction
 ---
 
 # Discourse Analysis Unit III: Meaning in Interaction

@@ -1,16 +1,11 @@
 ---
 type: Unit
-collections: Writing II Units, Units
 title: Writing II Unit III - Argumentative Essay
-tags: []
-date: 2026-04-06T00:00:00.000Z -> 2026-06-05T00:00:00.000Z
-subject:
-  - "[[Writing II]]"
-coverImage:
+courseS: "[[60 Public/Website/99 Course Archive/Writing II/index]]"
+order: 3
+banner:
 gh-publish: true
 gh-path: content/99 Course Archive/Writing II/Units
-gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/99 Course Archive/Writing II/Units/Writing II Unit III - Argumentative Essay
 ---
 
 # Writing II Unit III - Argumentative Essay

@@ -1,28 +1,13 @@
 ---
 type: Module
-collections: Writing I Modules
 title: "W-Chapter 7: Building Lexical Cohesion"
-tags:
-  - Writing
-  - EnglishSkillDevelopment
 date: 2026-09-21T00:00:00.000Z -> 2026-09-27T00:00:00.000Z
 status: InBox
-subject: "[[Writing I]]"
-chapterWeek:
-coverImage: "[[Ciudad-Universitaria-62-2048x1365]]"
 unit: "[Writing I Unit II: Everyday Experiences](Writing%20I%20Unit%20II%20Everyday%20Experiences.md)"
-prior: "[W-Chapter 6: Connecting Everyday Experiences](W-Chapter%206%20Connecting%20Everyday%20Experiences.md)"
-next: "[W-Chapter 8: Revising with Evidence](W-Chapter%208%20Revising%20with%20Evidence.md)"
-reading:
-bookTitle: Building Lexical Cohesion
-studentDeliverableS: []
-semester: Fall 2026
-relations: []
-note: []
+courseS: "[[60 Public/Website/Current Courses/Writing I/index]]"
+banner:
 gh-publish: true
 gh-path: content/Current Courses/Writing I/Modules
-gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Writing I/Modules/W-Chapter 7 Building Lexical Cohesion
 ---
 
 # W-Chapter 7: Building Lexical Cohesion

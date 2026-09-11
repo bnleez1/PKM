@@ -1,23 +1,14 @@
 ---
 type: Lecture
 title: Academic Integrity and Cognitive Ownership
-tags:
-  - Lecture
-course: "[[60 Public/Website/Current Courses/Academic Writing/index]]"
-weeklyModule:
-  - "[AW-Module 1: Academic Integrity and Cognitive Ownership](../Modules/AW-Module%201%20Academic%20Integrity%20and%20Cognitive%20Ownership.md)"
-duration: 20 minutes
-unit: "[[Academic Writing Unit I]]"
 status: "[[Planning]]"
-essentialQuestion:
-note: "[[Private note_100820261122]]"
-coverImage: "[Untitled](../Images/Untitled%20(173).md)"
+banner: https://images4.alphacoders.com/104/10414.jpg
+courseS: "[[60 Public/Website/Current Courses/Academic Writing/index]]"
+module:
+  - "[AW-Module 1: Academic Integrity and Cognitive Ownership](../Modules/AW-Module%201%20Academic%20Integrity%20and%20Cognitive%20Ownership.md)"
 gh-publish: true
 gh-path: content/Current Courses/Academic Writing
-gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Academic Writing/Academic Integrity and Cognitive Ownership
 ---
-
 # Academic Integrity and Cognitive Ownership
 
 **Course:** [[60 Public/Website/Current Courses/Academic Writing/index]]

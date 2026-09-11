@@ -1,28 +1,13 @@
 ---
 type: Module
-collections: Discourse Analysis Modules
 title: "DA - Chapter 11: When AI Writes the Dialogue"
-tags:
-  - DiscourseAnalysis
-  - AppliedLinguistics
 date: 2026-10-19T00:00:00.000Z -> 2026-10-25T00:00:00.000Z
 status: InBox
-subject: "[[02 Projects/Discourse Analysis]]"
-chapterWeek:
-coverImage: "[[Ciudad-Universitaria-62-2048x1365]]"
 unit: "[Discourse Analysis Unit III: Meaning in Interaction](Discourse%20Analysis%20Unit%20III%20Meaning%20in%20Interaction.md)"
-prior: "[DA - Chapter 10: From Sound to Evidence](DA%20-%20Chapter%2010%20From%20Sound%20to%20Evidence.md)"
-next: "[DA - Chapter 12: Processing Speech and Writing](DA%20-%20Chapter%2012%20Processing%20Speech%20and%20Writing.md)"
-reading:
-bookTitle: When AI Writes the Dialogue
-studentDeliverableS: []
-semester: Fall 2026
-relations: []
-note: []
+courseS: "[[60 Public/Website/Current Courses/Discourse Analysis/index]]"
+banner:
 gh-publish: true
 gh-path: content/Current Courses/Discourse Analysis/Modules
-gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Discourse Analysis/Modules/DA - Chapter 11 When AI Writes the Dialogue
 ---
 
 # DA - Chapter 11: When AI Writes the Dialogue

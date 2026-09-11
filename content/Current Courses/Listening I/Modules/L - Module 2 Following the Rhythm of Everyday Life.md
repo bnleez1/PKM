@@ -1,30 +1,13 @@
 ---
 type: Module
-collections: Listening I Modules
 title: "L - Module 2: Following the Rhythm of Everyday Life"
-tags:
-  - Module
-  - Listening
-  - EnglishSkillDevelopment
 date: 2026-08-17T00:00:00.000Z -> 2026-08-23T00:00:00.000Z
 status: InBox
-subject: "[[Listening I]]"
-chapterWeek:
-coverImage: "[[Ciudad-Universitaria-62-2048x1365]]"
 unit: "[Listening I Unit I: Building a Foundation](Listening%20I%20Unit%20I%20Building%20a%20Foundation.md)"
-prior: "[L - Module 1: Listening Begins Before the Audio](L%20-%20Module%201%20Listening%20Begins%20Before%20the%20Audio.md)"
-next: "[L - Module 3: Finding Your Way Through Campus Talk](L%20-%20Module%203%20Finding%20Your%20Way%20Through%20Campus%20Talk.md)"
-reading:
-bookTitle: Following the Rhythm of Everyday Life
-studentDeliverableS: []
-semester: Fall 2026
-relations: []
-note:
-  - "[[Listening I Week 2 Note]]"
+courseS: "[[60 Public/Website/Current Courses/Listening I/index]]"
+banner:
 gh-publish: true
 gh-path: content/Current Courses/Listening I/Modules
-gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Listening I/Modules/L - Module 2 Following the Rhythm of Everyday Life
 ---
 
 # L - Module 2: Following the Rhythm of Everyday Life

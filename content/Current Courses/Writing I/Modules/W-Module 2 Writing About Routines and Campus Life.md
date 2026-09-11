@@ -1,28 +1,13 @@
 ---
 type: Module
-collections: Writing I Modules
 title: "W-Module 2: Writing About Routines and Campus Life"
-tags:
-  - Writing
-  - EnglishSkillDevelopment
 date: 2026-08-17T00:00:00.000Z -> 2026-08-23T00:00:00.000Z
 status: InBox
-subject: "[[Writing I]]"
-chapterWeek: 2
-coverImage: "[[Ciudad-Universitaria-62-2048x1365]]"
 unit: "[Writing I Unit I: Paragraph Foundations](Writing%20I%20Unit%20I%20Paragraph%20Foundations.md)"
-prior: "[W-Module 1: Introducing Yourself Through Clear Sentences](W-Module%201%20Introducing%20Yourself%20Through%20Clear%20Sentences.md)"
-next: "[W-Module 3: Planning a Paragraph Before Writing](W-Module%203%20Planning%20a%20Paragraph%20Before%20Writing.md)"
-reading:
-bookTitle: Writing About Routines and Campus Life
-studentDeliverableS: []
-semester: Fall 2026
-relations: []
-note: []
+courseS: "[[60 Public/Website/Current Courses/Writing I/index]]"
+banner:
 gh-publish: true
 gh-path: content/Current Courses/Writing I/Modules
-gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Writing I/Modules/W-Module 2 Writing About Routines and Campus Life
 ---
 # W-Module 2: Writing About Routines and Campus Life
 

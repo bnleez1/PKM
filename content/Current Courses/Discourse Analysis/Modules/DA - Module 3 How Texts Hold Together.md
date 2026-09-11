@@ -1,29 +1,13 @@
 ---
 type: Module
-collections: Discourse Analysis Modules
 title: "DA - Module 3: How Texts Hold Together"
-tags:
-  - AppliedLinguistics
-  - DiscourseAnalysis
 date: 2026-08-24T00:00:00.000Z -> 2026-08-30T00:00:00.000Z
 status: InBox
-subject: "[[02 Projects/Discourse Analysis]]"
-chapterWeek: 3
-coverImage: "[[Ciudad-Universitaria-62-2048x1365]]"
 unit: "[Discourse Analysis Unit II: Making Meaning in Text](Discourse%20Analysis%20Unit%20II%20Making%20Meaning%20in%20Text.md)"
-prior: "[DA - Module 2: Speaking, Writing, and Communicative Purpose](DA%20-%20Module%202%20Speaking,%20Writing,%20and%20Communicative%20Purpose.md)"
-next: "[DA - Module 4: Theme, Rheme, and the Flow of Information](DA%20-%20Module%204%20Theme,%20Rheme,%20and%20the%20Flow%20of%20Information.md)"
-reading: "Paltridge (2022): Ch. 6, §§6.2–6.9, pp. 116–129Celce-Murcia & Olshtain (2000): Ch. 1, pp. 7–8; Ch. 4, beginning p. 53; Ch. 5, pp. 83–84"
-bookTitle: How Texts Hold Together
-studentDeliverableS: []
-semester: Fall 2026
-relations: []
-note:
-  - "[[DA Chapter 3 Note]]"
+courseS: "[[60 Public/Website/Current Courses/Discourse Analysis/index]]"
+banner:
 gh-publish: true
 gh-path: content/Current Courses/Discourse Analysis/Modules
-gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Discourse Analysis/Modules/DA - Module 3 How Texts Hold Together
 ---
 # DA - Module 3: How Texts Hold Together
 

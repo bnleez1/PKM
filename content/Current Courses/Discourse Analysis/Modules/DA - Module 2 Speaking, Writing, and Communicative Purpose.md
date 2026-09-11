@@ -1,29 +1,13 @@
 ---
 type: Module
-collections: Discourse Analysis Modules
 title: "DA - Module 2: Speaking, Writing, and Communicative Purpose"
-tags:
-  - DiscourseAnalysis
-  - AppliedLinguistics
 date: 2026-08-17T00:00:00.000Z -> 2026-08-23T00:00:00.000Z
 status: InBox
-subject: "[[02 Projects/Discourse Analysis]]"
-chapterWeek: 2
-coverImage: "[[Ciudad-Universitaria-62-2048x1365]]"
 unit: "[Discourse Analysis Unit I: Foundations: Text, Context, and History](Discourse%20Analysis%20Unit%20I%20Foundations%20Text,%20Context,%20and%20History.md)"
-prior: "[DA - Module 1: Entering the World of Discourse](DA%20-%20Module%201%20Entering%20the%20World%20of%20Discourse.md)"
-next: "[DA - Module 3: How Texts Hold Together](DA%20-%20Module%203%20How%20Texts%20Hold%20Together.md)"
-reading: "Paltridge (2022): Ch. 4, §§4.1.5–4.1.6, pp. 70–71; §4.5, p. 75 ff.Celce-Murcia & Olshtain (2000): Ch. 1, pp. 5–7; Ch. 8, pp. 142–145"
-bookTitle: Speaking, Writing, and Communicative Purpose
-studentDeliverableS: []
-semester: Fall 2026
-relations: []
-note:
-  - "[[DA Week 2 Note]]"
+courseS: "[[60 Public/Website/Current Courses/Discourse Analysis/index]]"
+banner:
 gh-publish: true
 gh-path: content/Current Courses/Discourse Analysis/Modules
-gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Discourse Analysis/Modules/DA - Module 2 Speaking, Writing, and Communicative Purpose
 ---
 
 # DA - Module 2: Speaking, Writing, and Communicative Purpose

@@ -1,20 +1,13 @@
 ---
 type: Lecture
 title: "Defining Discourse Analysis: How the Focus Has Shifted Over Time"
-tags: []
-course: "[[02 Projects/Discourse Analysis]]"
-weeklyModule:
-  - "[DA - Module 1: Entering the World of Discourse](../Modules/DA%20-%20Module%201%20Entering%20the%20World%20of%20Discourse.md)"
-duration: "20"
-unit: "[Discourse Analysis Unit I: Foundations: Text, Context, and History](../Units/Discourse%20Analysis%20Unit%20I%20Foundations%20Text,%20Context,%20and%20History.md)"
 status: "[[InBox (idea)]]"
-essentialQuestion: "**How has the meaning of “discourse analysis” changed as scholars have changed what they believe counts as meaningful language?**"
-note:
-coverImage: "[Untitled](../Images/Untitled%20(219).md)"
+banner:
+courseS: "[[60 Public/Website/Current Courses/Discourse Analysis/index]]"
+module:
+  - "[DA - Module 1: Entering the World of Discourse](../Modules/DA%20-%20Module%201%20Entering%20the%20World%20of%20Discourse.md)"
 gh-publish: true
 gh-path: content/Current Courses/Discourse Analysis
-gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Discourse Analysis/Defining Discourse Analysis How the Focus Has Shifted Over Time
 ---
 
 # Defining Discourse Analysis: How the Focus Has Shifted Over Time

@@ -1,29 +1,13 @@
 ---
 type: Module
-collections: Writing I Modules
 title: "W-Module 4: From Draft to Final Paragraph"
-tags:
-  - Writing
-  - EnglishSkillDevelopment
 date: 2026-08-31T00:00:00.000Z -> 2026-09-06T00:00:00.000Z
 status: InBox
-subject: "[[Writing I]]"
-chapterWeek:
-coverImage: "[[Ciudad-Universitaria-62-2048x1365]]"
 unit: "[Writing I Unit I: Paragraph Foundations](Writing%20I%20Unit%20I%20Paragraph%20Foundations.md)"
-prior: "[W-Module 3: Planning a Paragraph Before Writing](W-Module%203%20Planning%20a%20Paragraph%20Before%20Writing.md)"
-next: "[W-Chapter 5: Telling a Clear Story About Study and Leisure](W%20-%20Module%205%20Telling%20a%20Clear%20Story%20About%20Study%20and%20Leisure.md)"
-reading:
-bookTitle: From Draft to Final Paragraph
-studentDeliverableS: []
-semester: Fall 2026
-relations: []
-note:
-  - "[[Writing I Module 4 Note]]"
-gh-path: content/Current Courses/Writing I/Modules
+courseS: "[[60 Public/Website/Current Courses/Writing I/index]]"
+banner:
 gh-publish: true
-gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Writing I/Modules/W-Module 4 From Draft to Final Paragraph
+gh-path: content/Current Courses/Writing I/Modules
 ---
 # W-Module 4: From Draft to Final Paragraph - Testing Sept 5
 

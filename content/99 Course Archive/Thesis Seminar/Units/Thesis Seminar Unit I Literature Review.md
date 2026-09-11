@@ -1,17 +1,11 @@
 ---
 type: Unit
-collections: Units
 title: "Thesis Seminar Unit I: Literature Review"
-tags:
-  - Unit
-date: 2026-01-26T00:00:00.000Z -> 2026-02-27T00:00:00.000Z
-subject:
-  - "[[Thesis Seminar]]"
-coverImage:
+courseS: "[[60 Public/Website/99 Course Archive/Thesis Seminar/index]]"
+order: 1
+banner:
 gh-publish: true
 gh-path: content/99 Course Archive/Thesis Seminar/Units
-gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/99 Course Archive/Thesis Seminar/Units/Thesis Seminar Unit I Literature Review
 ---
 
 # Thesis Seminar Unit I: Literature Review

@@ -1,28 +1,13 @@
 ---
 type: Module
-collections: Writing I Modules
 title: "W-Chapter 13: Making an Argument About Teamwork"
-tags:
-  - Writing
-  - EnglishSkillDevelopment
 date: 2026-11-02T00:00:00.000Z -> 2026-11-08T00:00:00.000Z
 status: InBox
-subject: "[[Writing I]]"
-chapterWeek:
-coverImage: "[[Ciudad-Universitaria-62-2048x1365]]"
 unit: "[Writing I Unit IV: Persuasion](Writing%20I%20Unit%20IV%20Persuasion.md)"
-prior: "[W-Chapter 12: Editing While Preserving Your Voice](W-Chapter%2012%20Editing%20While%20Preserving%20Your%20Voice.md)"
-next: "[W-Chapter 14: Solving Problems in Your Community](W-Chapter%2014%20Solving%20Problems%20in%20Your%20Community.md)"
-reading:
-bookTitle: Making an Argument About Teamwork
-studentDeliverableS: []
-semester: Fall 2026
-relations: []
-note: []
+courseS: "[[60 Public/Website/Current Courses/Writing I/index]]"
+banner:
 gh-publish: true
 gh-path: content/Current Courses/Writing I/Modules
-gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Writing I/Modules/W-Chapter 13 Making an Argument About Teamwork
 ---
 
 # W-Chapter 13: Making an Argument About Teamwork

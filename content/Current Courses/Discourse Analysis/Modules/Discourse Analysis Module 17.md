@@ -1,28 +1,13 @@
 ---
 type: Module
-collections: Discourse Analysis Modules
 title: Discourse Analysis Module 17
-tags:
-  - DiscourseAnalysis
-  - AppliedLinguistics
 date: 2026-11-30T00:00:00.000Z -> 2026-12-06T00:00:00.000Z
 status: InBox
-subject: "[[02 Projects/Discourse Analysis]]"
-chapterWeek:
-coverImage: "[[Ciudad-Universitaria-62-2048x1365]]"
 unit: "[Discourse Analysis Unit IV: Discourse, Culture, and Reading](../Units/Discourse%20Analysis%20Unit%20IV%20Discourse,%20Culture,%20and%20Reading.md)"
-prior: "[DA - Chapter 16: Independent Analysis and Professional Transfer](DA%20-%20Chapter%2016%20Independent%20Analysis%20and%20Professional%20Transfer.md)"
-next:
-reading:
-bookTitle: Discourse Analysis Module 17
-studentDeliverableS: []
-semester: Fall 2026
-relations: []
-note: []
+courseS: "[[60 Public/Website/Current Courses/Discourse Analysis/index]]"
+banner:
 gh-publish: true
 gh-path: content/Current Courses/Discourse Analysis
-gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Discourse Analysis/Discourse Analysis Module 17
 ---
 
 # Discourse Analysis Module 17

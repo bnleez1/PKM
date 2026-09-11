@@ -1,29 +1,13 @@
 ---
 type: Module
-collections: Writing I Modules
 title: "W - Module 5: Telling a Clear Story About Study and Leisure"
-tags:
-  - Writing
-  - EnglishSkillDevelopment
 date: 2026-09-07T00:00:00.000Z -> 2026-09-13T00:00:00.000Z
 status: InBox
-subject: "[[Writing I]]"
-chapterWeek:
-coverImage: "[[Ciudad-Universitaria-62-2048x1365]]"
 unit: "[Writing I Unit II: Everyday Experiences](Writing%20I%20Unit%20II%20Everyday%20Experiences.md)"
-prior: "[W-Module 4: From Draft to Final Paragraph](W-Module%204%20From%20Draft%20to%20Final%20Paragraph.md)"
-next: "[W-Chapter 6: Connecting Everyday Experiences](W-Chapter%206%20Connecting%20Everyday%20Experiences.md)"
-reading:
-bookTitle: Telling a Clear Story About Study and Leisure
-studentDeliverableS: []
-semester: Fall 2026
-relations: []
-note: []
+courseS: "[[60 Public/Website/Current Courses/Writing I/index]]"
+banner: https://www.solaresearch.org/wp-content/uploads/2019/08/Writing-Analytics-Image.jpg
 gh-publish: true
 gh-path: content/Current Courses/Writing I/Modules
-gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Writing I/Modules/W-Module 5 Telling a Clear Story About Study and Leisure
-banner: https://www.solaresearch.org/wp-content/uploads/2019/08/Writing-Analytics-Image.jpg
 ---
 # W - Module 5: Telling a Clear Story About Study and Leisure
 

@@ -1,27 +1,13 @@
 ---
 type: Module
-collections: Academic Writing Modules
 title: "Chapter 11: Comparing, Contrasting, and Interpreting"
-tags:
-  - Module
 date: 2026-10-19T00:00:00.000Z -> 2026-10-25T00:00:00.000Z
 status: InBox
-subject: "[[60 Public/Website/Current Courses/Academic Writing/index]]"
-chapterWeek: 11
-coverImage: "[[Ciudad-Universitaria-62-2048x1365]]"
 unit: "[[Academic Writing Unit IV]]"
-prior: "[Chapter 10: Opening the Scholarly Conversation](Chapter%2010%20Opening%20the%20Scholarly%20Conversation.md)"
-next: "[Chapter 12: Patterns, Gaps, and Context](Chapter%2012%20Patterns,%20Gaps,%20and%20Context.md)"
-reading:
-bookTitle: Comparing, Contrasting, and Interpreting
-studentDeliverableS: []
-semester: Fall 2026
-relations: []
-note: []
+courseS: "[[60 Public/Website/Current Courses/Academic Writing/index]]"
+banner:
 gh-publish: true
 gh-path: content/Current Courses/Academic Writing/Modules
-gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Academic Writing/Modules/Chapter 11 Comparing, Contrasting, and Interpreting
 ---
 
 # Chapter 11: Comparing, Contrasting, and Interpreting

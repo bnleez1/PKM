@@ -1,29 +1,13 @@
 ---
 type: Module
-collections: Listening I Modules
 title: "L-Chapter 14: Listening for a Way Forward"
-tags:
-  - Module
-  - Listening
-  - EnglishSkillDevelopment
 date: 2026-11-09T00:00:00.000Z -> 2026-11-15T00:00:00.000Z
 status: InBox
-subject: "[[Listening I]]"
-chapterWeek:
-coverImage: "[[Ciudad-Universitaria-62-2048x1365]]"
 unit: "[Listening I Unit IV: Collaboration, Problem-Solving, and Community](Listening%20I%20Unit%20IV%20Collaboration,%20Problem-Solving,%20and%20Community.md)"
-prior: "[L-Chapter 13: Listening as a Member of a Team](L-Chapter%2013%20Listening%20as%20a%20Member%20of%20a%20Team.md)"
-next: "[L- Chapter 15: Listening to the Community You Live In](L-%20Chapter%2015%20Listening%20to%20the%20Community%20You%20Live%20In.md)"
-reading:
-bookTitle: Listening for a Way Forward
-studentDeliverableS: []
-semester: Fall 2026
-relations: []
-note: []
+courseS: "[[60 Public/Website/Current Courses/Listening I/index]]"
+banner:
 gh-publish: true
 gh-path: content/Current Courses/Listening I/Modules
-gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Listening I/Modules/L-Chapter 14 Listening for a Way Forward
 ---
 
 # L-Chapter 14: Listening for a Way Forward

@@ -1,27 +1,13 @@
 ---
 type: Module
-collections: Academic Writing Modules
 title: "Chapter 7: Reading Sources Critically"
-tags:
-  - Module
 date: 2026-09-21T00:00:00.000Z -> 2026-09-27T00:00:00.000Z
 status: InBox
-subject: "[[60 Public/Website/Current Courses/Academic Writing/index]]"
-chapterWeek: 7
-coverImage: "[[Ciudad-Universitaria-62-2048x1365]]"
 unit: "[[Academic Writing Unit III]]"
-prior: "[Chapter 6: Revising for Precision, Coherence, and Critical Voice](AW-Module%206%20Revising%20for%20Precision,%20Coherence,%20and%20Critical%20Voice.md)"
-next: "[Chapter 8: Mapping and Curating the Literature](Chapter%208%20Mapping%20and%20Curating%20the%20Literature.md)"
-reading:
-bookTitle: Reading Sources Critically
-studentDeliverableS: []
-semester: Fall 2026
-relations: []
-note: []
+courseS: "[[60 Public/Website/Current Courses/Academic Writing/index]]"
+banner:
 gh-publish: true
 gh-path: content/Current Courses/Academic Writing/Modules
-gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Academic Writing/Modules/Chapter 7 Reading Sources Critically
 ---
 
 # Chapter 7: Reading Sources Critically

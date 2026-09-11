@@ -1,28 +1,13 @@
 ---
 type: Module
-collections: Discourse Analysis Modules
 title: "DA - Chapter 7: Doing Things with Words"
-tags:
-  - DiscourseAnalysis
-  - AppliedLinguistics
 date: 2026-09-21T00:00:00.000Z -> 2026-09-27T00:00:00.000Z
 status: InBox
-subject: "[[02 Projects/Discourse Analysis]]"
-chapterWeek:
-coverImage: "[[Ciudad-Universitaria-62-2048x1365]]"
 unit: "[Discourse Analysis Unit III: Meaning in Interaction](Discourse%20Analysis%20Unit%20III%20Meaning%20in%20Interaction.md)"
-prior: "[DA - Chapter 6: Positioning the Writer and Reader](DA%20-%20Chapter%206%20Positioning%20the%20Writer%20and%20Reader.md)"
-next: "[DA - Chapter 8: The Architecture of Conversation](DA%20-%20Chapter%208%20The%20Architecture%20of%20Conversation.md)"
-reading:
-bookTitle: Doing Things with Words
-studentDeliverableS: []
-semester: Fall 2026
-relations: []
-note: []
+courseS: "[[60 Public/Website/Current Courses/Discourse Analysis/index]]"
+banner:
 gh-publish: true
 gh-path: content/Current Courses/Discourse Analysis/Modules
-gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Discourse Analysis/Modules/DA - Chapter 7 Doing Things with Words
 ---
 
 # DA - Chapter 7: Doing Things with Words

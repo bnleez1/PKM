@@ -1,14 +1,9 @@
 ---
 type: Unit
-collections: Discourse Analysis Units, Units
 title: "Discourse Analysis Unit IV: Discourse, Culture, and Reading"
-tags:
-  - DiscourseAnalysis
-  - Unit
-date: 2026-11-02T00:00:00.000Z -> 2026-12-06T00:00:00.000Z
-subject:
-  - "[[02 Projects/Discourse Analysis]]"
-coverImage:
+courseS: "[[60 Public/Website/Current Courses/Discourse Analysis/index]]"
+order: 4
+banner:
 gh-publish: true
 gh-path: content/Current Courses/Discourse Analysis/Units
 ---

@@ -1,28 +1,13 @@
 ---
 type: Module
-collections: Writing I Modules
 title: "W-Chapter 16: Publishing and Reflecting on Your Writing Process"
-tags:
-  - Writing
-  - EnglishSkillDevelopment
 date: 2026-11-23T00:00:00.000Z -> 2026-11-29T00:00:00.000Z
 status: InBox
-subject: "[[Writing I]]"
-chapterWeek: 16
-coverImage: "[[Ciudad-Universitaria-62-2048x1365]]"
 unit: "[Writing I Unit IV: Persuasion](Writing%20I%20Unit%20IV%20Persuasion.md)"
-prior: "[W-Chapter 15: Strengthening Argumentative Organization](W-Chapter%2015%20Strengthening%20Argumentative%20Organization.md)"
-next: "[[Writing I Module 17]]"
-reading:
-bookTitle: Publishing and Reflecting on Your Writing Process
-studentDeliverableS: []
-semester: Fall 2026
-relations: []
-note: []
+courseS: "[[60 Public/Website/Current Courses/Writing I/index]]"
+banner:
 gh-publish: true
 gh-path: content/Current Courses/Writing I/Modules
-gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Writing I/Modules/W-Chapter 16 Publishing and Reflecting on Your Writing Process
 ---
 
 # W-Chapter 16: Publishing and Reflecting on Your Writing Process

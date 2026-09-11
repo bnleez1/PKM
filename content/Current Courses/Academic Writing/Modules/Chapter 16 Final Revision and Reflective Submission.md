@@ -1,27 +1,13 @@
 ---
 type: Module
-collections: Academic Writing Modules
 title: "Chapter 16: Final Revision and Reflective Submission"
-tags:
-  - Module
 date: 2026-11-23T00:00:00.000Z -> 2026-11-29T00:00:00.000Z
 status: InBox
-subject: "[[60 Public/Website/Current Courses/Academic Writing/index]]"
-chapterWeek: 16
-coverImage: "[[Ciudad-Universitaria-62-2048x1365]]"
 unit: "[[Academic Writing Unit IV]]"
-prior: "[Chapter 15: Peer Review and AI as a Critical Friend](Chapter%2015%20Peer%20Review%20and%20AI%20as%20a%20Critical%20Friend.md)"
-next: "[[Academic Writing Module 17]]"
-reading:
-bookTitle: Final Revision and Reflective Submission
-studentDeliverableS: []
-semester: Fall 2026
-relations: []
-note: []
+courseS: "[[60 Public/Website/Current Courses/Academic Writing/index]]"
+banner:
 gh-publish: true
 gh-path: content/Current Courses/Academic Writing/Modules
-gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Academic Writing/Modules/Chapter 16 Final Revision and Reflective Submission
 ---
 
 # Chapter 16: Final Revision and Reflective Submission

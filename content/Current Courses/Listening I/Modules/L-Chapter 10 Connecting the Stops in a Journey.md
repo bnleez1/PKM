@@ -1,29 +1,13 @@
 ---
 type: Module
-collections: Listening I Modules
 title: "L-Chapter 10: Connecting the Stops in a Journey"
-tags:
-  - Module
-  - Listening
-  - EnglishSkillDevelopment
 date: 2026-10-12T00:00:00.000Z -> 2026-10-18T00:00:00.000Z
 status: InBox
-subject: "[[Listening I]]"
-chapterWeek:
-coverImage: "[[Ciudad-Universitaria-62-2048x1365]]"
 unit: "[Listening I Unit III: Listening Beyond Words](Listening%20I%20Unit%20III%20Listening%20Beyond%20Words.md)"
-prior: "[L-Chapter 9: Listening Beyond the Stated Words](L-Chapter%209%20Listening%20Beyond%20the%20Stated%20Words.md)"
-next: "[L-Chapter 11: Recognizing English as It Is Actually Spoken](L-Chapter%2011%20Recognizing%20English%20as%20It%20Is%20Actually%20Spoken.md)"
-reading:
-bookTitle: Connecting the Stops in a Journey
-studentDeliverableS: []
-semester: Fall 2026
-relations: []
-note: []
+courseS: "[[60 Public/Website/Current Courses/Listening I/index]]"
+banner:
 gh-publish: true
 gh-path: content/Current Courses/Listening I/Modules
-gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Listening I/Modules/L-Chapter 10 Connecting the Stops in a Journey
 ---
 
 # L-Chapter 10: Connecting the Stops in a Journey

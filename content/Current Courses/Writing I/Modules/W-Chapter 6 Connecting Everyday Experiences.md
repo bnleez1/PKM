@@ -1,28 +1,13 @@
 ---
 type: Module
-collections: Writing I Modules
 title: "W-Chapter 6: Connecting Everyday Experiences"
-tags:
-  - Writing
-  - EnglishSkillDevelopment
 date: 2026-09-14T00:00:00.000Z -> 2026-09-20T00:00:00.000Z
 status: InBox
-subject: "[[Writing I]]"
-chapterWeek:
-coverImage: "[[Ciudad-Universitaria-62-2048x1365]]"
 unit: "[Writing I Unit II: Everyday Experiences](Writing%20I%20Unit%20II%20Everyday%20Experiences.md)"
-prior: "[W-Chapter 5: Telling a Clear Story About Study and Leisure](W%20-%20Module%205%20Telling%20a%20Clear%20Story%20About%20Study%20and%20Leisure.md)"
-next: "[W-Chapter 7: Building Lexical Cohesion](W-Chapter%207%20Building%20Lexical%20Cohesion.md)"
-reading:
-bookTitle: Connecting Everyday Experiences
-studentDeliverableS: []
-semester: Fall 2026
-relations: []
-note: []
+courseS: "[[60 Public/Website/Current Courses/Writing I/index]]"
+banner:
 gh-publish: true
 gh-path: content/Current Courses/Writing I/Modules
-gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Writing I/Modules/W-Chapter 6 Connecting Everyday Experiences
 ---
 
 # W-Chapter 6: Connecting Everyday Experiences

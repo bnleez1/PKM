@@ -1,28 +1,13 @@
 ---
 type: Module
-collections: Discourse Analysis Modules
 title: "DA - Chapter 10: From Sound to Evidence"
-tags:
-  - DiscourseAnalysis
-  - AppliedLinguistics
 date: 2026-10-12T00:00:00.000Z -> 2026-10-18T00:00:00.000Z
 status: InBox
-subject: "[[02 Projects/Discourse Analysis]]"
-chapterWeek:
-coverImage: "[[Ciudad-Universitaria-62-2048x1365]]"
 unit: "[Discourse Analysis Unit III: Meaning in Interaction](Discourse%20Analysis%20Unit%20III%20Meaning%20in%20Interaction.md)"
-prior: "[DA - Chapter 9: Relationship Talk and Task Talk](DA%20-%20Chapter%209%20Relationship%20Talk%20and%20Task%20Talk.md)"
-next: "[DA - Chapter 11: When AI Writes the Dialogue](DA%20-%20Chapter%2011%20When%20AI%20Writes%20the%20Dialogue.md)"
-reading:
-bookTitle: From Sound to Evidence
-studentDeliverableS: []
-semester: Fall 2026
-relations: []
-note: []
+courseS: "[[60 Public/Website/Current Courses/Discourse Analysis/index]]"
+banner:
 gh-publish: true
 gh-path: content/Current Courses/Discourse Analysis/Modules
-gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Discourse Analysis/Modules/DA - Chapter 10 From Sound to Evidence
 ---
 
 # DA - Chapter 10: From Sound to Evidence

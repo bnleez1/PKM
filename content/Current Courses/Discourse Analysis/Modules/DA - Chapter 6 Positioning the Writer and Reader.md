@@ -1,28 +1,13 @@
 ---
 type: Module
-collections: Discourse Analysis Modules
 title: "DA - Chapter 6: Positioning the Writer and Reader"
-tags:
-  - DiscourseAnalysis
-  - AppliedLinguistics
 date: 2026-09-14T00:00:00.000Z -> 2026-09-20T00:00:00.000Z
 status: InBox
-subject: "[[02 Projects/Discourse Analysis]]"
-chapterWeek:
-coverImage: "[[Ciudad-Universitaria-62-2048x1365]]"
 unit: "[Discourse Analysis Unit II: Making Meaning in Text](Discourse%20Analysis%20Unit%20II%20Making%20Meaning%20in%20Text.md)"
-prior: "[DA - Chapter 5: Time, Viewpoint, and Narrative Movement](DA%20-%20Module%205%20Time,%20Viewpoint,%20and%20Narrative%20Movement.md)"
-next: "[DA - Chapter 7: Doing Things with Words](DA%20-%20Chapter%207%20Doing%20Things%20with%20Words.md)"
-reading:
-bookTitle: Positioning the Writer and Reader
-studentDeliverableS: []
-semester: Fall 2026
-relations: []
-note: []
+courseS: "[[60 Public/Website/Current Courses/Discourse Analysis/index]]"
+banner:
 gh-publish: true
 gh-path: content/Current Courses/Discourse Analysis/Modules
-gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Discourse Analysis/Modules/DA - Chapter 6 Positioning the Writer and Reader
 ---
 
 # DA - Chapter 6: Positioning the Writer and Reader

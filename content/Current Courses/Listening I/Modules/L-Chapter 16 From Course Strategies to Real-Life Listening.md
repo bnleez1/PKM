@@ -1,29 +1,13 @@
 ---
 type: Module
-collections: Listening I Modules
 title: "L-Chapter 16: From Course Strategies to Real-Life Listening"
-tags:
-  - Module
-  - Listening
-  - EnglishSkillDevelopment
 date: 2026-11-23T00:00:00.000Z -> 2026-11-29T00:00:00.000Z
 status: InBox
-subject: "[[Listening I]]"
-chapterWeek:
-coverImage: "[[Ciudad-Universitaria-62-2048x1365]]"
 unit: "[Listening I Unit IV: Collaboration, Problem-Solving, and Community](Listening%20I%20Unit%20IV%20Collaboration,%20Problem-Solving,%20and%20Community.md)"
-prior: "[L- Chapter 15: Listening to the Community You Live In](L-%20Chapter%2015%20Listening%20to%20the%20Community%20You%20Live%20In.md)"
-next: "[[Listening I Module 17]]"
-reading:
-bookTitle: From Course Strategies to Real-Life Listening
-studentDeliverableS: []
-semester: Fall 2026
-relations: []
-note: []
+courseS: "[[60 Public/Website/Current Courses/Listening I/index]]"
+banner:
 gh-publish: true
 gh-path: content/Current Courses/Listening I/Modules
-gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Listening I/Modules/L-Chapter 16 From Course Strategies to Real-Life Listening
 ---
 
 # L-Chapter 16: From Course Strategies to Real-Life Listening

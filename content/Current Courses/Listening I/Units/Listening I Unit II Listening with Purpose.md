@@ -1,18 +1,11 @@
 ---
 type: Unit
-collections: Listening I Units, Units
 title: "Listening I Unit II: Listening with Purpose"
-tags:
-  - Writing
-  - EnglishSkillDevelopment
-date: 2026-09-07T00:00:00.000Z -> 2026-10-04T00:00:00.000Z
-subject:
-  - "[[Listening I]]"
-coverImage:
+courseS: "[[60 Public/Website/Current Courses/Listening I/index]]"
+order: 2
+banner:
 gh-publish: true
 gh-path: content/Current Courses/Listening I/Units
-gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Listening I/Units/Listening I Unit II Listening with Purpose
 ---
 
 # Listening I Unit II: Listening with Purpose

@@ -1,27 +1,13 @@
 ---
 type: Module
-collections: Academic Writing Modules
 title: "Chapter 12: Patterns, Gaps, and Context"
-tags:
-  - Module
 date: 2026-10-26T00:00:00.000Z -> 2026-11-01T00:00:00.000Z
 status: InBox
-subject: "[[60 Public/Website/Current Courses/Academic Writing/index]]"
-chapterWeek: 12
-coverImage: "[[Ciudad-Universitaria-62-2048x1365]]"
 unit: "[[Academic Writing Unit IV]]"
-prior: "[Chapter 11: Comparing, Contrasting, and Interpreting](Chapter%2011%20Comparing,%20Contrasting,%20and%20Interpreting.md)"
-next: "[Chapter 13: Building a Unified Body](Chapter%2013%20Building%20a%20Unified%20Body.md)"
-reading:
-bookTitle: Patterns, Gaps, and Context
-studentDeliverableS: []
-semester: Fall 2026
-relations: []
-note: []
+courseS: "[[60 Public/Website/Current Courses/Academic Writing/index]]"
+banner:
 gh-publish: true
 gh-path: content/Current Courses/Academic Writing/Modules
-gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Academic Writing/Modules/Chapter 12 Patterns, Gaps, and Context
 ---
 
 # Chapter 12: Patterns, Gaps, and Context

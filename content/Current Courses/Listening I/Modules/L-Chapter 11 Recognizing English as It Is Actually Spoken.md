@@ -1,29 +1,13 @@
 ---
 type: Module
-collections: Listening I Modules
 title: "L-Chapter 11: Recognizing English as It Is Actually Spoken"
-tags:
-  - Module
-  - Listening
-  - EnglishSkillDevelopment
 date: 2026-10-19T00:00:00.000Z -> 2026-10-25T00:00:00.000Z
 status: InBox
-subject: "[[Listening I]]"
-chapterWeek:
-coverImage: "[[Ciudad-Universitaria-62-2048x1365]]"
 unit: "[Listening I Unit III: Listening Beyond Words](Listening%20I%20Unit%20III%20Listening%20Beyond%20Words.md)"
-prior: "[L-Chapter 10: Connecting the Stops in a Journey](L-Chapter%2010%20Connecting%20the%20Stops%20in%20a%20Journey.md)"
-next: "[L-Chapter 12: Choosing Strategies Without Waiting for Directions](L-Chapter%2012%20Choosing%20Strategies%20Without%20Waiting%20for%20Directions.md)"
-reading:
-bookTitle: Recognizing English as It Is Actually Spoken
-studentDeliverableS: []
-semester: Fall 2026
-relations: []
-note: []
+courseS: "[[60 Public/Website/Current Courses/Listening I/index]]"
+banner:
 gh-publish: true
 gh-path: content/Current Courses/Listening I/Modules
-gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Listening I/Modules/L-Chapter 11 Recognizing English as It Is Actually Spoken
 ---
 
 # L-Chapter 11: Recognizing English as It Is Actually Spoken

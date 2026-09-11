@@ -1,28 +1,13 @@
 ---
 type: Module
-collections: Writing I Modules
 title: "W-Chapter 9: Describing Sports and Physical Activities"
-tags:
-  - Writing
-  - EnglishSkillDevelopment
 date: 2026-10-05T00:00:00.000Z -> 2026-10-11T00:00:00.000Z
 status: InBox
-subject: "[[Writing I]]"
-chapterWeek:
-coverImage: "[[Ciudad-Universitaria-62-2048x1365]]"
 unit: "[Writing I Unit III: Detail and Clarity](Writing%20I%20Unit%20III%20Detail%20and%20Clarity.md)"
-prior: "[W-Chapter 8: Revising with Evidence](W-Chapter%208%20Revising%20with%20Evidence.md)"
-next: "[W-Chapter 10: Organizing Ideas About Travel and Future Goals](W-Chapter%2010%20Organizing%20Ideas%20About%20Travel%20and%20Future%20Goals.md)"
-reading:
-bookTitle: Describing Sports and Physical Activities
-studentDeliverableS: []
-semester: Fall 2026
-relations: []
-note: []
+courseS: "[[60 Public/Website/Current Courses/Writing I/index]]"
+banner:
 gh-publish: true
 gh-path: content/Current Courses/Writing I/Modules
-gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Writing I/Modules/W-Chapter 9 Describing Sports and Physical Activities
 ---
 
 # W-Chapter 9: Describing Sports and Physical Activities
