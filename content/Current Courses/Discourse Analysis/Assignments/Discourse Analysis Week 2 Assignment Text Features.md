@@ -1,26 +1,12 @@
 ---
 type: Assignment
 title: "Discourse Analysis Week 2 Assignment: Text Features"
-icon: ⚡️
-tags:
-  - AppliedLinguistics
 courseS:
   - "[[02 Projects/Discourse Analysis]]"
-unitS: "[Discourse Analysis Unit I: Foundations: Text](../Units/Discourse%20Analysis%20Unit%20I%20Foundations%20Text.md)"
-module: "[DA - Module 2: Speaking, Writing, and Communicative Purpose](../Modules/DA%20-%20Module%202%20Speaking,%20Writing,%20and%20Communicative%20Purpose.md)"
 dueDate: 2026-08-21T00:00:00.000Z
 status: "[[In Progress]]"
-learningOutcomes: []
-rubric:
-aiUse:
-  - "[[GenAI Assessment Scale for BA in ELT Programs]]"
-coverImage: "[Untitled](../Images/Untitled%20(1).md)"
-durationHours:
-grouping: Individual
 gh-publish: true
 gh-path: content/Current Courses/Discourse Analysis
-gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Discourse Analysis/Discourse Analysis Week 2 Assignment Text Features
 ---
 
 # Discourse Analysis Week 2 Assignment: Text Features

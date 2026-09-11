@@ -1,26 +1,12 @@
 ---
 type: Assignment
 title: Unit I Initial Research Proposal
-icon:
-tags:
-  - Research
 courseS:
   - "[[60 Public/Website/Current Courses/Academic Writing/index]]"
-unitS: "[[Academic Writing Unit I]]"
-module: "[AW-Module 2: From Broad Interest to Researchable Proposal](../Modules/AW-Module%202%20From%20Broad%20Interest%20to%20Researchable%20Proposal.md)"
 dueDate: 2026-08-21T00:00:00.000Z
 status: "[[In Progress]]"
-learningOutcomes:
-  - "[[Narrowing down a topic]]"
-rubric: "[[Unit I Initial Research Proposal – Analytic Rubric]]"
-aiUse: []
-coverImage:
-durationHours:
-grouping: Individual
 gh-publish: true
 gh-path: content/Current Courses/Academic Writing
-gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Academic Writing/Unit I Initial Research Proposal
 ---
 
 # Unit I Initial Research Proposal

@@ -1,25 +1,12 @@
 ---
 type: Assignment
 title: Writing I Week 2 Assignment
-icon: ⚡️
-tags:
-  - Writing
 courseS:
   - "[[Writing I]]"
-unitS: "[Writing I Unit I: Paragraph Foundations](Writing%20I%20Unit%20I%20Paragraph%20Foundations.md)"
-module: "[W-Module 1: Introducing Yourself Through Clear Sentences](W-Module%201%20Introducing%20Yourself%20Through%20Clear%20Sentences.md)"
 dueDate: 2026-08-14T00:00:00.000Z
 status: "[[Done]]"
-learningOutcomes: []
-rubric:
-aiUse: []
-coverImage: "[Untitled](../Images/Untitled%20(1).md)"
-durationHours:
-grouping:
 gh-publish: true
 gh-path: content/Current Courses/Writing I/Assignments
-gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Writing I/Assignments/Writing I Week 2 Assignment
 ---
 
 # Writing I Week 2 Assignment

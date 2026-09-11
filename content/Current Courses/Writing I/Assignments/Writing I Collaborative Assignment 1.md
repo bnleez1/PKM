@@ -1,26 +1,13 @@
 ---
 type: Assignment
 title: Writing I Collaborative Assignment 1
-icon: ⚡
-tags:
-  - Deliverable
-  - Assessment
 courseS:
   - Writing I
-units:
-module: "[[Writing II Module 5]]"
 dueDate: 2026-09-11
 status:
-learningOutcomes:
-rubric:
-aiUse:
-coverImage:
-durationHours:
-grouping:
+banner: https://static.vecteezy.com/system/resources/previews/032/242/170/large_2x/beautiful-waterfall-flowers-water-nature-waterfall-hd-wallpaper-ai-generated-free-photo.jpg
 gh-publish: true
 gh-path: content/Current Courses/Writing I/Assignments
-gh-published: false
-banner: https://static.vecteezy.com/system/resources/previews/032/242/170/large_2x/beautiful-waterfall-flowers-water-nature-waterfall-hd-wallpaper-ai-generated-free-photo.jpg
 ---
 # Writing I Collaborative Assignment 1
 

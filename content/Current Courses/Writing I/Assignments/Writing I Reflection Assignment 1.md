@@ -1,19 +1,11 @@
 ---
 type: Assignment
 title: Assignment Template
-icon: ⚡️
-tags: []
 courseS: []
-unitS:
-module:
 dueDate:
 status:
-learningOutcomes: []
-rubric:
-aiUse: []
-coverImage: "[Untitled](../Images/Untitled%20(1).md)"
-durationHours:
-grouping:
+gh-publish: true
+gh-path: content/Current Courses/Writing I/Assignments
 ---
 # Reflective Writing 1: My First Four Weeks as a Writer
 

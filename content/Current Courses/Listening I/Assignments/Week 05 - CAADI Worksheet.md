@@ -1,30 +1,15 @@
 ---
 type: Assignment
-title: Listening CAADI Worksheet 2
-icon: ✴️
-tags:
-  - CAADI
-  - Deliverable
-  - Assessment
+title: Listening CAADI Worksheet 3
 courseS:
   - "[[Listening I]]"
-unitS: "[Listening I Unit I: Building a Foundation](Listening%20I%20Unit%20I%20Building%20a%20Foundation.md)"
-module: "[L - Module 1: Listening Begins Before the Audio](L%20-%20Module%201%20Listening%20Begins%20Before%20the%20Audio.md)"
 dueDate: 2026-08-28T00:00:00.000Z
-status: "[[In Progress]]"
-learningOutcomes: []
-rubric:
-aiUse: []
-coverImage: "[Untitled](../Images/Untitled%20(4).md)"
-durationHours:
-grouping:
+status: "[[Done]]"
 gh-publish: true
 gh-path: content/Current Courses/Listening I/Assignments
-gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Listening I/Assignments/Listening CAADI Worksheet 2
 ---
 
-# Listening CAADI Worksheet 2
+# Listening CAADI Worksheet 3
 
 ## Purpose
 

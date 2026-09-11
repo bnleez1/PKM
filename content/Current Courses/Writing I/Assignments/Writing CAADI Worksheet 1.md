@@ -1,27 +1,12 @@
 ---
 type: Assignment
 title: Writing CAADI Worksheet 1
-icon: ✴️
-tags:
-  - CAADI
-  - Deliverable
-  - Assessment
 courseS:
   - "[[Writing I]]"
-unitS: "[Writing I Unit I: Paragraph Foundations](Writing%20I%20Unit%20I%20Paragraph%20Foundations.md)"
-module: "[W-Module 2: Writing About Routines and Campus Life](W-Module%202%20Writing%20About%20Routines%20and%20Campus%20Life.md)"
 dueDate: 2026-08-21T00:00:00.000Z
 status: "[[In Progress]]"
-learningOutcomes: []
-rubric:
-aiUse: []
-coverImage: "[Untitled](../Images/Untitled%20(4).md)"
-durationHours:
-grouping:
 gh-publish: true
 gh-path: content/Current Courses/Writing I/Assignments
-gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Writing I/Assignments/Writing CAADI Worksheet 1
 ---
 
 # Writing CAADI Worksheet 1

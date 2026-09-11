@@ -1,30 +1,15 @@
 ---
 type: Assignment
-title: Listening CAADI Worksheet 3
-icon: ✴️
-tags:
-  - CAADI
-  - Deliverable
-  - Assessment
+title: Listening CAADI Worksheet 2
 courseS:
   - "[[Listening I]]"
-unitS: "[Listening I Unit I: Building a Foundation](Listening%20I%20Unit%20I%20Building%20a%20Foundation.md)"
-module: "[[L - Module 3 Finding Your Way Through Campus Talk]]"
 dueDate: 2026-08-28T00:00:00.000Z
-status: "[[Done]]"
-learningOutcomes: []
-rubric:
-aiUse: []
-coverImage: "[Untitled](../Images/Untitled%20(4).md)"
-durationHours:
-grouping:
+status: "[[In Progress]]"
 gh-publish: true
 gh-path: content/Current Courses/Listening I/Assignments
-gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Listening I/Assignments/Listening CAADI Worksheet 2
 ---
 
-# Listening CAADI Worksheet 3
+# Listening CAADI Worksheet 2
 
 ## Purpose
 

@@ -139,5 +139,5 @@ Song activity...
 
 ## 🗓️ Friday
 
-Today, we will take attendance in our classroom, and then go to CAADI to complete [[Listening CAADI Worksheet 1]]
+Today, we will take attendance in our classroom, and then go to CAADI to complete [[Week 01 - CAADI Worksheet]]
 

@@ -1,26 +1,13 @@
 ---
 type: Assignment
 title: Article Review 1
-icon: ⚡
-tags:
-  - Deliverable
-  - Assessment
 courseS:
   - "[[60 Public/Website/Current Courses/Academic Writing/index]]"
-units: "[[Academic Writing Unit II]]"
-module: "[[AW-Module 3 Reporting Research with Accuracy and Caution]]"
 dueDate: 2026-08-28
 status: "[[Done]]"
-learningOutcomes:
-rubric:
-aiUse:
-coverImage:
-durationHours:
-grouping:
+banner: https://www.ourmindfullife.com/wp-content/uploads/2023/11/Wooden-path-in-nature-coloring-page_original.jpg
 gh-publish: true
 gh-path: content/Current Courses/Writing I/Assignments
-gh-published: false
-banner: https://www.ourmindfullife.com/wp-content/uploads/2023/11/Wooden-path-in-nature-coloring-page_original.jpg
 ---
 ## Article Review I
 ## Purpose
