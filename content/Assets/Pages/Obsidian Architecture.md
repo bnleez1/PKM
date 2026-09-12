@@ -13,7 +13,7 @@ gh-published: true
 gh-published-url: https://bnleez1.github.io/PKM/content/New Page Template
 banner: https://wingedsheep.com/content/images/2023/04/wingedsheep_Nature_photograph_by_George_Lucas_and_Melissa_Groo__62f5a5b6-ba64-496f-8ff6-9d30fc57fca8.jpg
 ---
-# Obsidian Architecture - Testing
+# Obsidian Architecture
 
 As of [[Friday, September 11, 2026]], my current workflow—Obsidian → GitHub → Quartz—has the following filesystem:
 
