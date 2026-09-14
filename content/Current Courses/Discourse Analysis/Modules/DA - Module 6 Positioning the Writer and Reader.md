@@ -10,7 +10,7 @@ gh-publish: true
 gh-path: content/Current Courses/Discourse Analysis/Modules
 ---
 
-# DA - Chapter 6: Positioning the Writer and Reader
+# Discourse Analysis Module 6: Positioning the Writer and Reader
 
 
 ⚡️ Modality, hedging, register, and an integrated AI-supported revision trail

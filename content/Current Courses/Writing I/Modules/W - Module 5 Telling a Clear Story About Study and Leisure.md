@@ -1,6 +1,6 @@
 ---
 type: Module
-title: "W - Module 5: Telling a Clear Story About Study and Leisure"
+title: "Writing I Module 5: Telling a Clear Story About Study and Leisure"
 date: 2026-09-07T00:00:00.000Z -> 2026-09-13T00:00:00.000Z
 status: InBox
 unit: "[Writing I Unit II: Everyday Experiences](Writing%20I%20Unit%20II%20Everyday%20Experiences.md)"
@@ -9,7 +9,8 @@ banner: https://www.solaresearch.org/wp-content/uploads/2019/08/Writing-Analytic
 gh-publish: true
 gh-path: content/Current Courses/Writing I/Modules
 ---
-# W - Module 5: Telling a Clear Story About Study and Leisure
+[[W - Module 6 Connecting Everyday Experiences]]
+# Writing I Module 5: Telling a Clear Story About Study and Leisure
 
 ⚡️ Planning narration with timelines and sequence connectors
 

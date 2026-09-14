@@ -9,7 +9,7 @@ banner: https://cdn.pixabay.com/photo/2022/09/27/19/44/ai-generated-7483569_1280
 gh-publish: true
 gh-path: content/Current Courses/Academic Writing/Modules
 ---
-# Module 6: Revising for Precision, Coherence, and Critical Voice
+# Academic Writing Module 6: Revising for Precision, Coherence, and Critical Voice
 
 ⚡️ Transforming a complete article-review draft through human-led revision
 

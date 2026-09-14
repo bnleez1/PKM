@@ -9,7 +9,7 @@ banner: https://wallup.net/wp-content/uploads/2016/01/111509-landscape-nature.jp
 gh-publish: true
 gh-path: content/Current Courses/Listening I/Modules
 ---
-# L - Module 6: Hearing Preferences, Opinions, and Order
+# Listening I Module 6: Hearing Preferences, Opinions, and Order
 
 ⚡️ Technology, Social Media, Digital Habits, Preferences, and Sequences in Spoken Messages
 
