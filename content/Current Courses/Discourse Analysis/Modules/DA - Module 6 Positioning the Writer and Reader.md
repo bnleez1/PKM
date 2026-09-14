@@ -17,16 +17,12 @@ gh-path: content/Current Courses/Discourse Analysis/Modules
 
 > Every extended text positions its producer in relation to the message and the audience. Writers and speakers express certainty, possibility, obligation, willingness, evaluation, and distance through modal verbs, adverbs, reporting structures, lexical choices, and patterns of attribution. These resources construct stance and interpersonal meaning. They also interact with cohesion, thematic progression, tense, aspect, and register. This week brings Unit II together through an integrated analysis. You will first produce a fully human draft, then use an approved GenAI tool as a Level 3 critical friend to review academic clarity, hedging, and register. The graded evidence is not an AI-polished product alone; it is the annotated revision trail showing what changed, what you accepted or rejected, and why. Your rationale should demonstrate ownership, disciplinary judgment, and attention to meaning rather than automatic compliance.
 
-
 ## Essential understanding(s)
 
-
-How do modality and related stance resources construct authority, caution, obligation, and interpersonal relationships?
-
-How can AI feedback support revision without replacing the analyst’s judgment or voice?
+1. How do modality and related stance resources construct authority, caution, obligation, and interpersonal relationships?
+2. How can AI feedback support revision without replacing the analyst’s judgment or voice?
 
 ## Guiding Questions
-
 
 What degrees and types of modality are expressed in a text, and through which linguistic resources?
 
@@ -95,39 +91,15 @@ For the Unit II task, work from global purpose toward local form. First state th
 The written analysis should group features by interpretive claim rather than by textbook category. One paragraph might argue that the writer creates cautious authority; evidence could include epistemic modals, reporting verbs, attribution, and thematic placement of source-based claims. Another paragraph might argue that the text guides the reader poorly; evidence could include unstable reference, abrupt thematic shifts, and a connector that signals an unsupported relation.
 Before consulting AI, write a self-review memo identifying two uncertainties. After receiving critical-friend feedback, compare the model’s attention with your own. Did it notice discourse-level issues or focus mainly on sentence polish? Include that comparison in the revision trail. This turns AI use into an object of analysis as well as a source of feedback.
 
-<details>
-<summary><h2>Tuesday, September 15, 2026</h2></summary>
+## [[Tuesday, September 15, 2026]]
 
-<details>
-<summary>Tense, Aspect, and Modality</summary>
+---
+1. Review [[Dative Alternation]] as indirect objects and particle movement using phrasal verbs (See [[The world of phrasal verbs A unique challenge in English]].).
 
-</details>
-
-</details>
-
-<details>
-<summary><h2>Wednesday, September 16, 2026</h2></summary>
+## Wednesday
 
 Holiday.
 
-</details>
+## Thursday
 
-<details>
-<summary><h2>Tuesday, September 15, 2026</h2></summary>
-
-<details>
-<summary>Marked Constructions</summary>
-
-</details>
-
-</details>
-
-<details>
-<summary><h2>Friday, September 18, 2026</h2></summary>
-
-<details>
-<summary>Pedagogy and Assessment</summary>
-
-</details>
-
-</details>
+## [[Friday, September 18, 2026]]

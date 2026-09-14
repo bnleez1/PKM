@@ -151,3 +151,86 @@ One caveat: depending on Obsidian/Quartz CSS, putting an actual `<h2>` inside `<
 and style the **first-level summary to look like an H2** with CSS. That usually produces a more polished Notion-like result on both Obsidian and your Quartz website.
 
 If you want, I can show you the CSS for making the **outer summary look like an H2 while nested summaries stay smaller**.
+
+## How to include hyperlinks within Obsidian
+
+The important limitation is that **Obsidian does not parse `[[wikilinks]]` as Markdown when they are inside a raw HTML `<details>` block**. So your current:
+
+```html
+<details>
+<summary>Word Order Choices</summary>
+[[Dative Alternation]]
+</details>
+```
+
+will display `[[Dative Alternation]]` literally, as in your screenshot. This is expected behavior. ([Obsidian Forum](https://forum.obsidian.md/t/allow-internal-links-inside-html-tags/18077?utm_source=chatgpt.com "Allow [[Internal Links]] inside html tags - Feature archive - Obsidian Forum"))
+
+Instead, make the Obsidian link itself HTML.
+
+### For your exact example
+
+```html
+<details>
+<summary><h2>Tuesday, September 15, 2026</h2></summary>
+
+<details>
+<summary>Word Order Choices</summary>
+
+<a 
+  class="internal-link"
+  data-href="Dative Alternation"
+  href="Dative Alternation.md">
+  Dative Alternation
+</a>
+
+</details>
+
+</details>
+```
+
+Obsidian recognizes links with `class="internal-link"`; using `data-href` also helps Obsidian identify the target note. ([Obsidian Forum](https://forum.obsidian.md/t/bases-html-function-links-dont-open-notes-they-link-to/108239?utm_source=chatgpt.com "Bases HTML function Links don't open notes they link to - Help - Obsidian Forum"))
+
+If the note is in another folder, use its vault-relative path. For example:
+
+```html
+<a
+  class="internal-link"
+  data-href="Current Courses/Discourse Analysis/Modules/Dative Alternation"
+  href="Current Courses/Discourse Analysis/Modules/Dative Alternation.md">
+  Dative Alternation
+</a>
+```
+
+That would give you approximately:
+
+**▼ TUESDAY, SEPTEMBER 15, 2026**  
+  **▼ Word Order Choices**  
+    Dative Alternation ← clickable Obsidian note link
+
+### You can also make the toggle text itself the link
+
+For example:
+
+```html
+<details>
+<summary>
+  <a
+    class="internal-link"
+    data-href="Dative Alternation"
+    href="Dative Alternation.md">
+    Word Order Choices
+  </a>
+</summary>
+
+Additional information here.
+
+</details>
+```
+
+I **wouldn't recommend this version**, though. Clicking the text can conflict with clicking the `<summary>` to expand/collapse the toggle. Keeping the toggle title and destination link separate is more predictable.
+
+There is one other important consideration for **your Obsidian → Quartz website setup**: raw HTML links like this are not equivalent to normal `[[wikilinks]]`. In particular, they may **not participate in Obsidian backlinks/link indexing in the same way**, and Quartz may need the published URL rather than the vault `.md` path. Users have also reported that HTML-generated internal links don't necessarily behave like ordinary Obsidian links in every context. ([Obsidian Forum](https://forum.obsidian.md/t/how-to-add-internal-links-inside-html-component/80599?utm_source=chatgpt.com "How to add internal links inside HTML component - Help - Obsidian Forum"))
+
+Because you're using these toggles extensively on your course pages, I think there is an even better solution: **keep writing normal `[[Dative Alternation]]` links in Markdown and use CSS/Obsidian callouts to create the collapsible appearance instead of raw `<details>` HTML**. That would preserve Obsidian autocomplete, backlinks, renaming, and your Quartz publishing workflow.
+
+If you want, I can show you how to reproduce **exactly the toggle appearance in your first screenshot while still using ordinary `[[Obsidian links]]` inside it**.
