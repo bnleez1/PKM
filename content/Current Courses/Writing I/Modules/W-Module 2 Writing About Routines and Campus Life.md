@@ -116,7 +116,7 @@ Complete [handout](https://eduuaa.sharepoint.com/:w:/s/WritingI2026/IQABxWH-tn8j
 
 - Upload all pending assignments by 2:00 PM today.
 
-- Submit [[Writing CAADI Worksheet 1]].
+- Submit [[Writing CAADI Worksheet 01]].
 
 - Complete [[Writing I Week 2 Assignment]].
 
