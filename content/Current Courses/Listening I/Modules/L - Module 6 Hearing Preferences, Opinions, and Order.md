@@ -2,71 +2,50 @@
 type: Module
 title: "L - Chapter 6: Hearing Preferences, Opinions, and Order"
 date: 2026-09-14T00:00:00.000Z -> 2026-09-20T00:00:00.000Z
-status: InBox
+status: "[[In Progress]]"
 unit: "[Listening I Unit II: Listening with Purpose](Listening%20I%20Unit%20II%20Listening%20with%20Purpose.md)"
 courseS: "[[60 Public/Website/Current Courses/Listening I/index]]"
-banner:
+banner: https://wallup.net/wp-content/uploads/2016/01/111509-landscape-nature.jpg
 gh-publish: true
 gh-path: content/Current Courses/Listening I/Modules
 ---
-# L - Chapter 6: Hearing Preferences, Opinions, and Order
+# L - Module 6: Hearing Preferences, Opinions, and Order
 
-⚡️ Movies, Series, Music, Video Games, and Sequences in Spoken Messages
+⚡️ Technology, Social Media, Digital Habits, Preferences, and Sequences in Spoken Messages
 
-> People often talk about entertainment by combining facts with personal reactions. A speaker may name a favorite series, explain a preference, compare two games, or describe the order of events in a movie or listening experience. This chapter develops the ability to separate preference from opinion and to recognize sequence. You will listen more than once, compare independent notes, and use evidence to decide whether a speaker likes, dislikes, recommends, or feels uncertain about something. Authorized GenAI may support parallel practice after the first attempt, but it may not reconstruct the assigned audio or provide its answers. Careful attention to wording and tone will help you represent each speaker’s position accurately.
+> Technology is part of everyday university life. People use phones, computers, apps, social media, messaging platforms, artificial intelligence, streaming services, and online learning tools for many different purposes. When people talk about technology, they often combine **facts, habits, preferences, opinions, reasons, and recommendations**. A speaker might explain which social media platform they use most, describe how they use their phone during the day, compare two apps, recommend a digital tool, or explain how they complete an online task step by step. Understanding these spoken messages requires more than recognizing individual words. Listeners need to identify **what happened, what the speaker thinks about it, why the speaker feels that way, and in what order events occurred**. This module develops your ability to listen globally and selectively to short spoken messages about technology and social media. You will listen more than once, organize information using notes and graphic organizers, compare interpretations with classmates, and return to the audio to verify important details. After completing an independent first attempt, authorized GenAI may help you reflect on listening difficulties or generate **parallel practice**. It may not reconstruct, transcribe, translate, summarize, or provide answers to the assigned audio.
 
 ## Essential understanding(s)
 
-- How do listeners distinguish what happened from how a speaker feels about it?
-- How do sequence markers help a listener organize a spoken message?
+- Understanding technology-related talk requires listeners to separate **digital actions and facts** from a speaker's **preferences, opinions, recommendations, and reasons**.
+- Sequence markers, comparison language, and evaluation words help listeners organize spoken information and understand how a speaker feels about technology or social media.
 ## Guiding Questions
 
-- Which words and intonation patterns express strong or weak preference?
-- How can notes separate facts, opinions, and reasons?
-- What signals show the order of events or ideas?
-- How can repeated listening and partner comparison improve accuracy?
+- How can listeners distinguish between what a person **does with technology** and what the person **thinks about it**?
+- Which expressions indicate positive, negative, or uncertain attitudes toward an app, device, platform, or digital habit?
+- How can listeners recognize a speaker's **preference or recommendation**?
+- Which details explain **why** a speaker prefers one technology or social media platform over another?
+- How do sequence markers help listeners understand digital routines and procedures?
+- How can repeated listening, note comparison, and focused replay improve comprehension?
 ## Learning outcomes
 
-- Identify preferences, opinions, recommendations, and supporting reasons.
-- Recognize basic sequence markers and organize events in order.
-- Separate factual information from a speaker’s evaluation.
-- Compare independent notes and revise answers with audio evidence.
-- Complete CAADI Worksheet 6 and create or use authorized parallel practice.
+By the end of this module, learners will be able to:
+
+- Identify the **main idea** of short spoken messages about technology and social media.
+- Identify preferences, opinions, recommendations, digital habits, and supporting reasons.
+- Distinguish factual information from a speaker's personal evaluation.
+- Recognize basic sequence markers and organize digital actions or events in the correct order.
+- Use keywords, tables, timelines, or other graphic organizers to record relevant information.
+- Compare independent notes and revise interpretations using evidence from the audio.
+- Reflect on listening difficulties and select strategies for a second or third listening.
+- Complete **CAADI Worksheet 6** and, when authorized, create or use parallel GenAI listening practice.
 ## Key concepts and vocabulary
 
-**preference** • **opinion** • **recommendation** • **reason** • **comparison** • **sequence marker** • **first** • **next** • **afterward** • **finally** • **favorite** • **prefer** • **would rather**
-## Main chapter content
+**technology • social media • app • platform • account • profile • post • message • notification • screen time • device • smartphone • laptop • online • offline • upload • download • share • follow • unfollow • comment • like • scroll • privacy • preference • opinion • recommendation • reason • comparison • sequence • first • then • next • afterward • finally • prefer • would rather • useful • distracting • convenient**
 
-### Facts and evaluations in the same message
-
-Entertainment talk often mixes objective information and personal evaluation. “The film is two hours long” is a fact. “The film feels too long” is an opinion. “I prefer the first film because the characters are more interesting” combines a preference with a reason. Listeners need to separate these layers because a question may ask what the speaker watched, what the speaker thought, or why the speaker recommends it.
-
-Before listening, create three columns: Item or Event, Opinion or Preference, and Reason. This organizer prepares you to capture relationships instead of isolated words. During the first listening, identify the topic and general attitude. Does the speaker sound enthusiastic, disappointed, surprised, or neutral? Intonation can support meaning, but it should be combined with words. A rising, energetic voice may suggest excitement, while a slower, flatter delivery may suggest disappointment. However, the strongest evidence comes from explicit expressions such as I loved it, it was okay, I did not really enjoy it, or I would recommend it.
-
-### Degrees of preference
-
-Preferences are not always absolute. “I like strategy games” is positive, but “I prefer puzzle games” indicates a stronger choice in a comparison. “I would rather play with friends” expresses a preferred option in a situation. “It is not my favorite” is mild rather than strongly negative. Listen for modifiers such as really, quite, a little, not very, and much better. These small expressions change the strength of an opinion.
-
-Reasons often follow because, since, or so. They may also appear in a separate sentence: “I watch that series every week. The characters feel realistic.” The second sentence explains the preference even without an explicit connector. Use an arrow in your notes to link opinion and reason.
-
-### Sequence in stories and experiences
-
-A speaker describing a movie, game session, concert, or viewing experience usually organizes events in time. Sequence markers such as first, then, next, after that, later, and finally provide a clear route. Other clues include verb tense, time expressions, and cause-and-effect relationships. A timeline with numbered boxes can represent the order.
-
-Be careful when the speaker changes direction: “At first I thought the game was easy, but later the levels became difficult.” Here, at first and later show time, while but signals contrast. The final opinion may be different from the initial reaction. Questions often target this change, so do not record only the first evaluation.
-
-### Compare notes, then return to the audio
-
-After an independent attempt, explain your interpretation to a partner. Compare the order of events and the relationship between opinion and reason. If the sequence differs, identify the exact transition to listen for. If the opinions differ, listen for strength markers and negative forms. A phrase such as “I did not dislike it” is not as negative as “I hated it.” Focused replay turns disagreement into a listening objective.
-
-### Parallel practice without answer reconstruction
-
-After you complete the assigned task, the teacher may authorize GenAI to generate a similar entertainment scenario, additional prediction questions, or a short A2 practice script with new content. The practice should train the same skills—preference, opinion, reason, and sequence—without copying or revealing the assessed audio. You are responsible for checking whether the language is appropriate and for documenting the tool, prompt, and decisions.
-
-CAADI Worksheet 6 should show a clear progression: identify the overall attitude, record preferences and reasons, organize sequences, compare notes, and verify revisions with evidence. The purpose is not to agree with the speaker’s taste; it is to understand how that taste is communicated.
 
 <details>
-<summary><h2>[[Monday, September 14, 2026]]</h2></summary>
+<summary><h2>Monday, September 14, 2026</h2></summary>
 
 <details>
 <summary>Prediction Sprint</summary>
