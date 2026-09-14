@@ -1,6 +1,6 @@
 ---
 type: Assignment
-title: Writing I Collaborative Assignment 1
+title: Writing II Collaborative Assignment 1
 courseS:
   - Writing I
 dueDate: 2026-09-11
@@ -9,7 +9,7 @@ banner: https://static.vecteezy.com/system/resources/previews/032/242/170/large_
 gh-publish: true
 gh-path: content/Current Courses/Writing I/Assignments
 ---
-# Writing I Collaborative Assignment 1
+# Writing II Collaborative Assignment 1
 
 **Purpose:**  
 In this collaborative writing workshop, you will plan, draft, review, and revise an original paragraph about **study habits**. The purpose is to practice writing as a process rather than producing only a final paragraph. You will work with classmates to examine organization, clarity, connectors, sentence structure, punctuation, and vocabulary while maintaining responsibility for your own writing. This assignment supports Unit II goals related to writing simple narrative and descriptive paragraphs, using sequence and lexical cohesion, and revising an independently written first draft through feedback.

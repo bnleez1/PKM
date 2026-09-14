@@ -75,7 +75,7 @@ After drafting independently, read the paragraph with criteria. Can you identify
 
 ## [[Monday, September 14, 2026]]
 
-1.  Complete [[Writing I Collaborative Assignment 1]] from [[Friday, September 11, 2026]].
+1.  Complete [[Writing I Collaborative Assignment 2]] from [[Friday, September 11, 2026]].
 2. Work on Writing Worksheet for this week.
 
 ## [[Tuesday, September 15, 2026]]
