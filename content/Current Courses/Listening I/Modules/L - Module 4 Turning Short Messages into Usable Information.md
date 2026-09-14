@@ -28,7 +28,7 @@ gh-path: content/Current Courses/Listening I/Modules
 - How can sequence and cause-effect language show why a learner chooses a particular habit?
 
 - How can a graphic organizer reveal similarities, differences, missing details, or contradictions?
-[[05 knowledge/Notes/030920260700|Private Note]]
+[[030920260700|Private Note]]
 
 - How can Project 1 show both comprehension and responsible strategy use?
 

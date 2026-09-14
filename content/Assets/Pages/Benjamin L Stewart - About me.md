@@ -44,5 +44,5 @@ My [[GenAI Policy]].
 
 ## 📚️ Subject Archive
 
-[[Academic Writing UAA Instructors]] | [[Class Observation]] | [[Grammar in Context II]] | [[Listening & Speaking I]] | [[Teaching Workshop II]] | [[Thesis Seminar]] | [[Writing II]] | [[Writing Workshop]]
+[[60 Public/Website/99 Course Archive/Academic Writing UAA Instructors/index]] | [[60 Public/Website/99 Course Archive/Class Observation/index]] | [[Grammar in Context II]] | [[Listening & Speaking I]] | [[60 Public/Website/99 Course Archive/Teaching Workshop II/index]] | [[Thesis Seminar]] | [[Writing II]] | [[60 Public/Website/99 Course Archive/Writing Workshop/index]]
 

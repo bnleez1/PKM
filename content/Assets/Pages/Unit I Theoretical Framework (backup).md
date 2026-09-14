@@ -85,7 +85,7 @@ Draft a theoretical framework in support of a recent research project to be publ
 
         - **Equipment**: I would recommend bringing a laptop computer, tablet, or iPad to class, making sure you have access to the internet.
 
-        - Review educational technologies: tour of [virtual classroom](https://aulavirtual.uaa.mx/course/view.php?id=7372), [[Academic Writing UAA Instructors]], and [Microsoft Teams](https://teams.microsoft.com/l/team/19%3ASzSBnoxFFPvWixwVLcg_sXSBCqAZbiJA-QXhUMomyCo1%40thread.tacv2/conversations?groupId=65ea533b-c435-44a8-8a0f-30d675eed145&tenantId=e1e2e292-21d6-4849-b710-4d47d9578ad0).
+        - Review educational technologies: tour of [virtual classroom](https://aulavirtual.uaa.mx/course/view.php?id=7372), [[60 Public/Website/99 Course Archive/Academic Writing UAA Instructors/index]], and [Microsoft Teams](https://teams.microsoft.com/l/team/19%3ASzSBnoxFFPvWixwVLcg_sXSBCqAZbiJA-QXhUMomyCo1%40thread.tacv2/conversations?groupId=65ea533b-c435-44a8-8a0f-30d675eed145&tenantId=e1e2e292-21d6-4849-b710-4d47d9578ad0).
 
         - Review [syllabus](https://aulavirtual.uaa.mx/pluginfile.php/316292/mod_resource/content/1/Programa%20EAI.pdf) found in the virtual classroom.
 
