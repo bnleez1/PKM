@@ -9,7 +9,6 @@ banner:
 gh-publish: true
 gh-path: content/Current Courses/Writing I/Modules
 ---
-
 # W-Chapter 6: Connecting Everyday Experiences
 
 
@@ -87,13 +86,16 @@ Because you know a great deal about technology or food, you may include more inf
 
 After drafting independently, read the paragraph with criteria. Can you identify one main idea? Does each sentence support it? Are events or details in a logical order? Are sentences complete? Are capital letters and end punctuation correct? Are connectors understandable? Underline one sentence that works well and mark one place that needs revision. Write a brief note naming your revision priority, such as “Add a specific example after sentence two” or “Reduce repeated use of then.” This self-evaluation prepares you to use peer, teacher, or later AI feedback critically rather than accepting every suggestion.
 
-## 🗓️ Monday
+<details>
+<summary><h2>Monday, September 14, 2026</h2></summary>
 
-## 🗓️ Tuesday
+<details>
+<summary>Complete paragraph from Friday</summary>
 
-## 🗓️ Wednesday
+1. Complete paragraph from Friday.
+2. Work on Writing Worksheet for this week.
 
-## 🗓️ Thursday
+</details>
 
-## 🗓️ Friday
+</details>
 

@@ -95,11 +95,39 @@ For the Unit II task, work from global purpose toward local form. First state th
 The written analysis should group features by interpretive claim rather than by textbook category. One paragraph might argue that the writer creates cautious authority; evidence could include epistemic modals, reporting verbs, attribution, and thematic placement of source-based claims. Another paragraph might argue that the text guides the reader poorly; evidence could include unstable reference, abrupt thematic shifts, and a connector that signals an unsupported relation.
 Before consulting AI, write a self-review memo identifying two uncertainties. After receiving critical-friend feedback, compare the model’s attention with your own. Did it notice discourse-level issues or focus mainly on sentence polish? Include that comparison in the revision trail. This turns AI use into an object of analysis as well as a source of feedback.
 
-## 🗓️ Tuesday (9:00 AM - 10:00 AM)
+<details>
+<summary><h2>Tuesday, September 15, 2026</h2></summary>
 
-## 🗓️ Wednesday (9:00 AM - 10:00 AM)
+<details>
+<summary>Tense, Aspect, and Modality</summary>
 
-## 🗓️ Thursday (9:00 AM - 10:00 AM)
+</details>
 
-## 🗓️ Friday (9:00 AM - 10:00 AM)
+</details>
 
+<details>
+<summary><h2>Wednesday, September 16, 2026</h2></summary>
+
+Holiday.
+
+</details>
+
+<details>
+<summary><h2>Tuesday, September 15, 2026</h2></summary>
+
+<details>
+<summary>Marked Constructions</summary>
+
+</details>
+
+</details>
+
+<details>
+<summary><h2>Friday, September 18, 2026</h2></summary>
+
+<details>
+<summary>Pedagogy and Assessment</summary>
+
+</details>
+
+</details>
