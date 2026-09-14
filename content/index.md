@@ -34,7 +34,7 @@ Welcome to my Language Teaching Commons—a public space where I share course ma
 
 Research, evidence, academic writing, and scholarly communication.
 
-**[Enter Academic Writing](https://chatgpt.com/g/g-p-6a5fb2ec36248191b946f1903b806dd8-personal-brand-and-online-presence/c/Current%20Courses/Academic%20Writing/index)**
+[[60 Public/Website/Current Courses/Academic Writing/index|Enter Academic Writing]]
 
 ---
 
@@ -42,7 +42,7 @@ Research, evidence, academic writing, and scholarly communication.
 
 Explore how language works in context through cohesion, information structure, discourse patterns, and authentic language use.
 
-**[Enter Discourse Analysis](https://chatgpt.com/g/g-p-6a5fb2ec36248191b946f1903b806dd8-personal-brand-and-online-presence/c/Current%20Courses/Discourse%20Analysis/index)**
+[[60 Public/Website/Current Courses/Discourse Analysis/index|Enter Discourse Analysis]]
 
 ---
 
@@ -50,7 +50,7 @@ Explore how language works in context through cohesion, information structure, d
 
 Develop listening comprehension through authentic and adapted spoken English, collaborative activities, and purposeful listening strategies.
 
-**[Enter Listening I](https://chatgpt.com/g/g-p-6a5fb2ec36248191b946f1903b806dd8-personal-brand-and-online-presence/c/Current%20Courses/Listening%20I/index)**
+[[60 Public/Website/Current Courses/Listening I/index|Enter Listening I]]
 
 ---
 
@@ -58,7 +58,7 @@ Develop listening comprehension through authentic and adapted spoken English, co
 
 Build a foundation for clear and effective written English through sentences, paragraphs, organization, and meaningful communication.
 
-**[Enter Writing I](https://chatgpt.com/g/g-p-6a5fb2ec36248191b946f1903b806dd8-personal-brand-and-online-presence/c/Current%20Courses/Writing%20I/index)**
+[[60 Public/Website/Current Courses/Writing I/index|Enter Writing I]]
 
 ---
 
