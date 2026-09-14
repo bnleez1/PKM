@@ -1,6 +1,6 @@
 ---
 type: Module
-title: "W - Module 6: Connecting Everyday Experiences"
+title: "Writing I Module 6: Connecting Everyday Experiences"
 date: 2026-09-14T00:00:00.000Z -> 2026-09-20T00:00:00.000Z
 status: InBox
 unit: "[Writing I Unit II: Everyday Experiences](Writing%20I%20Unit%20II%20Everyday%20Experiences.md)"

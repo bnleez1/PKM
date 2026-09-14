@@ -1,11 +1,11 @@
 ---
 type: Module
-title: "AW - Module 6: Revising for Precision, Coherence, and Critical Voice"
+title: "Academic Writing Module 6: Revising for Precision, Coherence, and Critical Voice"
 date: 2026-09-14T00:00:00.000Z -> 2026-09-20T00:00:00.000Z
 status: InBox
 unit: "[[Academic Writing Unit II]]"
 courseS: "[[60 Public/Website/Current Courses/Academic Writing/index]]"
-banner:
+banner: https://cdn.pixabay.com/photo/2022/09/27/19/44/ai-generated-7483569_1280.jpg
 gh-publish: true
 gh-path: content/Current Courses/Academic Writing/Modules
 ---
@@ -18,29 +18,21 @@ gh-path: content/Current Courses/Academic Writing/Modules
 ## Essential Questions
 
 **1.** How can revision strengthen meaning without removing the writer’s authentic voice?
-
 **2.** What evidence shows that a revision decision was thoughtful rather than automatic?
 
 ## Guiding Questions
 
 **1.** How can writers identify vague, repetitive, redundant, or unnecessary language?
-
 **2.** What is the difference between coherence and cohesion?
-
 **3.** How can evidence sentences become more specific and analytically useful?
-
 **4.** How should peer and AI feedback be evaluated and documented?
 
 ## Learning outcomes
 
 - Revise sentences for precision and concision while preserving necessary qualification.
-
 - Distinguish and improve coherence, cohesion, and paragraph unity.
-
 - Compare general and specific evidence sentences and strengthen source-based analysis.
-
 - Apply peer feedback through an explicit revision plan.
-
 - Use approved GenAI feedback critically and document accepted and rejected suggestions in a revision trail.
 
 ## Key concepts and vocabulary

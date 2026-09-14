@@ -1,6 +1,6 @@
 ---
 type: Module
-title: "L - Module 6: Hearing Preferences, Opinions, and Order"
+title: "Listening I Module 6: Hearing Preferences, Opinions, and Order"
 date: 2026-09-14T00:00:00.000Z -> 2026-09-20T00:00:00.000Z
 status: "[[In Progress]]"
 unit: "[Listening I Unit II: Listening with Purpose](Listening%20I%20Unit%20II%20Listening%20with%20Purpose.md)"
