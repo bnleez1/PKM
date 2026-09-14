@@ -1,6 +1,6 @@
 ---
 type: Module
-title: "Module 6: Revising for Precision, Coherence, and Critical Voice"
+title: "AW - Module 6: Revising for Precision, Coherence, and Critical Voice"
 date: 2026-09-14T00:00:00.000Z -> 2026-09-20T00:00:00.000Z
 status: InBox
 unit: "[[Academic Writing Unit II]]"
@@ -9,14 +9,11 @@ banner:
 gh-publish: true
 gh-path: content/Current Courses/Academic Writing/Modules
 ---
-
 # Module 6: Revising for Precision, Coherence, and Critical Voice
-
 
 ⚡️ Transforming a complete article-review draft through human-led revision
 
 > Revision is not the final cleaning stage of writing; it is the point at which a draft becomes more accurate, focused, and intellectually coherent. This week students complete and submit the article reviews by examining the relationship among sentences, paragraphs, evidence, and evaluation. Precision requires replacing vague or general language with specific meaning. Concision requires removing repetition and unnecessary wording without erasing nuance or authentic voice. Coherence and cohesion require both logical organization and clear linguistic connections. Students will peer-review the draft, revise it independently, and then use GenAI only in the approved role of editor or critical friend. Every accepted or rejected suggestion must be justified in a revision trail. The final goal is not a perfectly polished text produced by a tool, but a defensible review in which the student’s reasoning and language choices remain visible.
-
 
 ## Essential Questions
 
