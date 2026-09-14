@@ -1,6 +1,6 @@
 ---
 type: Module
-title: "W-Chapter 6: Connecting Everyday Experiences"
+title: "W - Module 6: Connecting Everyday Experiences"
 date: 2026-09-14T00:00:00.000Z -> 2026-09-20T00:00:00.000Z
 status: InBox
 unit: "[Writing I Unit II: Everyday Experiences](Writing%20I%20Unit%20II%20Everyday%20Experiences.md)"
@@ -9,13 +9,11 @@ banner:
 gh-publish: true
 gh-path: content/Current Courses/Writing I/Modules
 ---
-# W-Chapter 6: Connecting Everyday Experiences
-
+# W - Module 6: Connecting Everyday Experiences
 
 ⚡️ Writing about technology, social media, food, and habits
 
 > Technology, social media, food, and eating habits are familiar topics, but familiar topics can still produce unclear writing. A paragraph becomes effective when it focuses on one experience or pattern and explains it in an organized way. This chapter extends your work with narrative and descriptive paragraphs. You will practice sequence connectors, build lexical connections among sentences, and apply an A2-level checklist to an original draft. Your task is not to present a perfect or advanced text. It is to communicate a clear idea with language you understand. You may use model texts, dictionaries, a connector guide, Microsoft Teams resources, and teacher feedback. Because the first draft must demonstrate your own ability, GenAI will not write or revise it for you during this stage.
-
 
 ## Essential understanding(s)
 

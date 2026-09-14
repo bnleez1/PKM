@@ -1,6 +1,6 @@
 ---
 type: Module
-title: "DA - Chapter 6: Positioning the Writer and Reader"
+title: "DA - Module 6: Positioning the Writer and Reader"
 date: 2026-09-14T00:00:00.000Z -> 2026-09-20T00:00:00.000Z
 status: InBox
 unit: "[Discourse Analysis Unit II: Making Meaning in Text](Discourse%20Analysis%20Unit%20II%20Making%20Meaning%20in%20Text.md)"

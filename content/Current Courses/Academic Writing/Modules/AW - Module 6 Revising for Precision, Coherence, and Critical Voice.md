@@ -1,6 +1,6 @@
 ---
 type: Module
-title: "Chapter 6: Revising for Precision, Coherence, and Critical Voice"
+title: "Module 6: Revising for Precision, Coherence, and Critical Voice"
 date: 2026-09-14T00:00:00.000Z -> 2026-09-20T00:00:00.000Z
 status: InBox
 unit: "[[Academic Writing Unit II]]"
@@ -10,7 +10,7 @@ gh-publish: true
 gh-path: content/Current Courses/Academic Writing/Modules
 ---
 
-# Chapter 6: Revising for Precision, Coherence, and Critical Voice
+# Module 6: Revising for Precision, Coherence, and Critical Voice
 
 
 ⚡️ Transforming a complete article-review draft through human-led revision
