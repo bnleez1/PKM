@@ -34,7 +34,7 @@ Welcome to my Language Teaching Commons—a public space where I share course ma
 
 Research, evidence, academic writing, and scholarly communication.
 
-[[60 Public/Website/Current Courses/Academic Writing/index|Enter Academic Writing]]
+[[Current Courses/Academic Writing/index|Enter Academic Writing]]
 
 ---
 
@@ -42,7 +42,7 @@ Research, evidence, academic writing, and scholarly communication.
 
 Explore how language works in context through cohesion, information structure, discourse patterns, and authentic language use.
 
-[[60 Public/Website/Current Courses/Discourse Analysis/index|Enter Discourse Analysis]]
+[[Current Courses/Discourse Analysis/index|Enter Discourse Analysis]]
 
 ---
 
@@ -50,7 +50,7 @@ Explore how language works in context through cohesion, information structure, d
 
 Develop listening comprehension through authentic and adapted spoken English, collaborative activities, and purposeful listening strategies.
 
-[[60 Public/Website/Current Courses/Listening I/index|Enter Listening I]]
+[[Current Courses/Listening I/index|Enter Listening I]]
 
 ---
 
@@ -58,7 +58,7 @@ Develop listening comprehension through authentic and adapted spoken English, co
 
 Build a foundation for clear and effective written English through sentences, paragraphs, organization, and meaningful communication.
 
-[[60 Public/Website/Current Courses/Writing I/index|Enter Writing I]]
+[[Current Courses/Writing I/index|Enter Writing I]]
 
 ---
 
