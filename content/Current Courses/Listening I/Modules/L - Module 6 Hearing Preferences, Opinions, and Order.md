@@ -43,7 +43,7 @@ By the end of this module, learners will be able to:
 
 **technology • social media • app • platform • account • profile • post • message • notification • screen time • device • smartphone • laptop • online • offline • upload • download • share • follow • unfollow • comment • like • scroll • privacy • preference • opinion • recommendation • reason • comparison • sequence • first • then • next • afterward • finally • prefer • would rather • useful • distracting • convenient**
 
-
+independent writing prompt￼￼ modeled on the kind of opinion task traditionally associated with TOEFL writing. For your Writing I learners, I would reduce the length and linguistic demands to match the course’s A2 target while retaining the core requirement of stating a position, supporting it with reasons, and giving examples. This fits the course emphasis on organized paragraphs, connectors, and increasingly independent student writing.
 <details>
 <summary><h2>Monday, September 14, 2026</h2></summary>
 
@@ -101,4 +101,5 @@ In Teams, exchange your reconstructed meaning with another team and identify one
 
 ## [[Tuesday, September 15, 2026]]
 
-Listening handout activity (Scroll, Study, Connect=) to be turned in.
+1. Review answer key from yesterday's listening activity (song): [Listening_I_Beautiful_Things_Dynamic_Song_Handout_Answer_Key.docx](https://eduuaa.sharepoint.com/:w:/s/ListeningI2026/IQChQ-weoKAOT6rGiy4Ss2CFAedNJDC8SrNBsyiYHCBOBPg?e=ceQfpe) 
+2. Listening handout activity (Scroll, Study, Connect=) to be turned in.
