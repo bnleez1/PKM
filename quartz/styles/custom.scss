@@ -29,3 +29,12 @@
 .collapsible-heading-hidden {
   display: none !important;
 }
+
+/* =========================================================
+   FIX: Completely hide collapsed callout content
+   Prevents nested toggles from getting scrunched together
+   ========================================================= */
+
+.callout.is-collapsible.is-collapsed > .callout-content {
+  display: none !important;
+}
