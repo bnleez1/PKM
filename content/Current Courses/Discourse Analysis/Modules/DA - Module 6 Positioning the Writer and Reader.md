@@ -9,19 +9,15 @@ banner:
 gh-publish: true
 gh-path: content/Current Courses/Discourse Analysis/Modules
 ---
-
 # Discourse Analysis Module 6: Positioning the Writer and Reader
-
 
 ⚡️ Modality, hedging, register, and an integrated AI-supported revision trail
 
 > Every extended text positions its producer in relation to the message and the audience. Writers and speakers express certainty, possibility, obligation, willingness, evaluation, and distance through modal verbs, adverbs, reporting structures, lexical choices, and patterns of attribution. These resources construct stance and interpersonal meaning. They also interact with cohesion, thematic progression, tense, aspect, and register. This week brings Unit II together through an integrated analysis. You will first produce a fully human draft, then use an approved GenAI tool as a Level 3 critical friend to review academic clarity, hedging, and register. The graded evidence is not an AI-polished product alone; it is the annotated revision trail showing what changed, what you accepted or rejected, and why. Your rationale should demonstrate ownership, disciplinary judgment, and attention to meaning rather than automatic compliance.
-
 ## Essential understanding(s)
 
 1. How do modality and related stance resources construct authority, caution, obligation, and interpersonal relationships?
 2. How can AI feedback support revision without replacing the analyst’s judgment or voice?
-
 ## Guiding Questions
 
 What degrees and types of modality are expressed in a text, and through which linguistic resources?
@@ -91,15 +87,57 @@ For the Unit II task, work from global purpose toward local form. First state th
 The written analysis should group features by interpretive claim rather than by textbook category. One paragraph might argue that the writer creates cautious authority; evidence could include epistemic modals, reporting verbs, attribution, and thematic placement of source-based claims. Another paragraph might argue that the text guides the reader poorly; evidence could include unstable reference, abrupt thematic shifts, and a connector that signals an unsupported relation.
 Before consulting AI, write a self-review memo identifying two uncertainties. After receiving critical-friend feedback, compare the model’s attention with your own. Did it notice discourse-level issues or focus mainly on sentence polish? Include that comparison in the revision trail. This turns AI use into an object of analysis as well as a source of feedback.
 
-## [[Tuesday, September 15, 2026]]
+## [[Tuesday, September 15, 2026]] - [[Thursday, September 17, 2026]]
 
 ---
-1. Review [[Dative Alternation]] as indirect objects and particle movement using phrasal verbs (See [[The world of phrasal verbs A unique challenge in English]].).
+
+### Text 1: the Missing Presentation File
+> [!note] Note
+> Review [[Word-Order Choices as Discourse Resources]] as indirect objects and particle movement using phrasal verbs (See [[The world of phrasal verbs A unique challenge in English]].).
+
+On Monday morning, Professor Reyes arrived early for her research seminar. Before class began, one of the students approached her with a problem. Daniel had prepared the group's presentation the night before, but he could not find the final version on his laptop.
+
+Professor Reyes **<mark style="background:#d3f8b6">gave Daniel her USB drive</mark>** and asked him to check whether he had saved a copy there during the previous class. A few minutes later, another student found the file in the shared course folder and <mark style="background:#d3f8b6">**sent the file to Daniel**</mark>. Relieved, Daniel opened the presentation and began checking the slides.
+
+Before the seminar started, Professor Reyes <mark style="background:#d3f8b6">**handed the students a short evaluation form**</mark>. She also <mark style="background:#d3f8b6">**handed a copy of the presentation guidelines to each group leader**</mark> because several groups had asked about the assessment criteria.
+
+During the presentation, Daniel realized that one slide contained outdated information. He quickly <mark style="background:#d3f8b6">**took the slide out**</mark> of the presentation. Later, his partner noticed another unnecessary example and told him to **take it out** as well.
+
+After class, Professor Reyes asked what had happened. Daniel explained the situation and promised to organize his files more carefully. She smiled and said, “Next time, <mark style="background:#d3f8b6">**send me the final version** before class</mark>.” Daniel agreed and immediately **sent it to her**.
+
+
+### Text 2: Changing Study Habits
+> [!note] Note
+> Review [[Tense, Aspect, and Modality as Discourse Resources]].
+
+
+When Mariana first entered university, she ___ (study) only the night before an examination. She __ (sit) at her desk for several hours, rereading her notes and trying to memorize everything at once. Sometimes this strategy worked, but more often she arrived at class exhausted.
+
+Her study habits ___ (change) considerably since then. Over the past two semesters, she ___ (develop) a weekly study schedule, and she __ (review) her notes for about thirty minutes each evening. This week, she __ (prepare) for three examinations, so she __ (spend) more time in the library than usual.
+
+Mariana believes students ___ (develop) regular study routines rather than depend on last-minute preparation. However, she also recognizes that one strategy __ (work) equally well for everyone. Some students ___ (need) complete silence, while others __ (concentrate) better with background music. Students __ (decide) which conditions help them learn most effectively.
+
+Next semester, Mariana ___ (experiment) with a study group. She thinks the group ___ (help) her explain difficult concepts aloud, although it __ (create) new distractions. By the end of the academic year, she hopes she __ (develop) a flexible system that she can continue using throughout her degree.
+
+### Text 3: Rethinking the University Library
+
+> [!note] Note
+> Review [[Marked Constructions as Discourse Resources]].
+
+For many students, the university library is primarily a place to find books and study quietly. Recently, however, its role has begun to change. <mark style="background:#d3f8b6">**There are now several collaborative areas on the first floor**</mark>, and students can use them for group projects, tutoring sessions, and informal discussions.
+
+Last year, university administrators asked students what improvements they wanted. <mark style="background:#d3f8b6">**What many students requested was more flexible study space</mark>.** They explained that traditional silent areas were useful for individual work but less appropriate for collaborative assignments. <mark style="background:#d3f8b6">**What the university decided to create was a combination of quiet and interactive spaces.**</mark>
+
+The changes have not satisfied everyone. <mark style="background:#d3f8b6">**There have been several complaints about noise**</mark>, particularly during examination periods. Some students argue that collaboration belongs elsewhere on campus. Others believe the library should support different ways of learning.
+
+<mark style="background:#d3f8b6">**What seems to matter most is how the different spaces are managed.** </mark>On the upper floors, silence remains the expectation. On the first floor, conversation is permitted within designated areas. <mark style="background:#d3f8b6">**There is also a new reservation system for group rooms**,</mark> which has reduced conflicts between students.
+
+The library is therefore no longer organized around a single idea of studying. <mark style="background:#d3f8b6">What the redesign demonstrates is that one building can support several kinds of academic activity.</mark>
+
+The third text deliberately emphasizes the two marked constructions highlighted in the reading: **existential _there_** for introducing information into the discourse and **wh-clefts** for focusing or contrasting particular information.
 
 ## Wednesday
 
 Holiday.
-
-## Thursday
 
 ## [[Friday, September 18, 2026]]
