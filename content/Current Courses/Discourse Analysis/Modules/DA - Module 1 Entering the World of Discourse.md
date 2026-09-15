@@ -11,7 +11,7 @@ gh-path: content/Current Courses/Discourse Analysis/Modules
 ---
 [[DA - Module 2 Modes of Discourse, Audience, and Communicative Purpose]]
 
-# Module 1: Entering the World of Discourse
+# Discourse Analysis Module 1: Entering the World of Discourse
 
 **⚡ Language, context, and the foundations of discourse analysis**
 

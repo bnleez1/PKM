@@ -11,7 +11,7 @@ gh-path: content/Current Courses/Discourse Analysis/Modules
 ---
 [[DA - Module 4 Theme, Rheme, and the Flow of Information]]
 [[DA - Module 6 Positioning the Writer and Reader]]
-# DA - Module 5: Time, Viewpoint, and Narrative Movement
+# Discourse Analysis Module 5: Time, Viewpoint, and Narrative Movement
 
 **⚡ Understanding the discourse functions of tense and aspect beyond sentence-level accuracy**
 

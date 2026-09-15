@@ -12,7 +12,7 @@ gh-path: content/Current Courses/Discourse Analysis/Modules
 [[DA - Module 1 Entering the World of Discourse]] 
 [[DA - Module 3 How Texts Hold Together]]
 
-# DA – Module 2: Modes of Discourse, Audience, and Communicative Purpose
+# Discourse Analysis Module 2: Modes of Discourse, Audience, and Communicative Purpose
 
 > [!abstract]- ⚡ Module Overview
 > **Speaking, writing, hybrid discourse, and their implications for ELT**

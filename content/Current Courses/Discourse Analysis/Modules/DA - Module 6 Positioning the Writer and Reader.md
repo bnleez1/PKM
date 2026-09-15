@@ -11,7 +11,7 @@ gh-path: content/Current Courses/Discourse Analysis/Modules
 ---
 [[DA - Module 5 Time, Viewpoint, and Narrative Movement]]
 [[DA - Module 7 Doing Things with Words]]
-# DA – Module 6: Positioning the Writer and Reader: Modality, Stance, Register, and AI-Supported Revision
+# Discourse Analysis Module 6: Positioning the Writer and Reader: Modality, Stance, Register, and AI-Supported Revision
 
 > [!abstract]- ⚡ Module Overview
 > Every extended text positions its producer in relation to both the **message** and the **audience**.

@@ -11,7 +11,7 @@ gh-path: content/Current Courses/Discourse Analysis/Modules
 ---
 [[DA - Module 2 Modes of Discourse, Audience, and Communicative Purpose]]
 [[DA - Module 4 Theme, Rheme, and the Flow of Information]]
-# DA – Module 3: Cohesion and Coherence — How Texts Hold Together
+# Discourse Analysis Module 3: Cohesion and Coherence — How Texts Hold Together
 
 > [!abstract]- ⚡ Module Overview
 > **Grammatical cohesion, lexical chains, and the construction of continuity**
