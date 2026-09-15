@@ -7,7 +7,6 @@ gh-path: content/Assets/Pages
 gh-published: true
 gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Mastering English Particles From Phrasal Verbs to Negation
 ---
-
 # Mastering English Particles: From Phrasal Verbs to Negation
 
 In English, **particles** are small words that have grammatical or functional roles, but they do not change in form. They are typically used in conjunction with verbs to add meaning, or they serve as connectors in sentences. Here are the main types of particles used in English:

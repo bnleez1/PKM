@@ -101,9 +101,9 @@ Professor Reyes **<mark style="background:#d3f8b6">gave Daniel her USB drive</ma
 
 Before the seminar started, Professor Reyes <mark style="background:#d3f8b6">**handed the students a short evaluation form**</mark>. She also <mark style="background:#d3f8b6">**handed a copy of the presentation guidelines to each group leader**</mark> because several groups had asked about the assessment criteria.
 
-During the presentation, Daniel realized that one slide contained outdated information. He quickly <mark style="background:#d3f8b6">**took the slide out**</mark> of the presentation. Later, his partner noticed another unnecessary example and told him to **take it out** as well.
+During the presentation, Daniel realized that one slide contained outdated information. He quickly <mark style="background:#d3f8b6">**took the slide out**</mark> of the presentation. Later, his partner noticed another unnecessary example and told him to <mark style="background:#d3f8b6">**take it out** </mark>as well.
 
-After class, Professor Reyes asked what had happened. Daniel explained the situation and promised to organize his files more carefully. She smiled and said, “Next time, <mark style="background:#d3f8b6">**send me the final version** before class</mark>.” Daniel agreed and immediately **sent it to her**.
+After class, Professor Reyes asked what had happened. Daniel explained the situation and promised to organize his files more carefully. She smiled and said, “Next time, <mark style="background:#d3f8b6">**send me the final version** before class</mark>.” Daniel agreed and immediately <mark style="background:#d3f8b6">**sent it to her**</mark>.
 
 
 ### Text 2: Changing Study Habits
@@ -141,3 +141,5 @@ The third text deliberately emphasizes the two marked constructions highlighted 
 Holiday.
 
 ## [[Friday, September 18, 2026]]
+
+Complete in-class activity.
