@@ -143,3 +143,21 @@ Holiday.
 ## [[Friday, September 18, 2026]]
 
 Complete in-class activity.
+
+> [!note] Note
+> This is a test.
+
+> [!tip] Tip
+> This is a tip.
+
+> [!quote] Quote
+> This is a quote.
+
+> [!abstract] Abstract
+> This is an Abstract
+> kñkj
+> ñlkj
+> ñlkj
+
+
+
