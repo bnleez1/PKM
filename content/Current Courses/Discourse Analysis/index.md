@@ -3,6 +3,7 @@ title: Discourse Analysis
 description: Course materials, weekly modules, assignments, and resources for Discourse Analysis
 gh-publish: true
 gh-path: content/Current Courses/Discourse Analysis
+gh-published-url: "https://bnleez1.github.io/PKM/current-courses/discourse-analysis"
 ---
 
 # Discourse Analysis

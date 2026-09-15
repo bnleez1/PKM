@@ -13,6 +13,7 @@ documents: []
 area: "[[UAA Subjects]]"
 notes:
 assignments: []
+gh-published-url: "https://bnleez1.github.io/PKM/99-course-archive/toefl-preparation-course"
 ---
 
 # UAA TOEFL Preparation Fall 2024

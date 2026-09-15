@@ -11,6 +11,7 @@ fileSize: 27427749
 url: null
 origin: upload
 category: null
+gh-published-url: "https://bnleez1.github.io/PKM/assets/audio/increase-originality-score"
 ---
 
 # Increase originality score

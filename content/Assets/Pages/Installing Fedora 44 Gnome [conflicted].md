@@ -3,6 +3,7 @@ title: Installing Fedora 44 Gnome
 tags: [Linux]
 gh-publish: true
 gh-path: content/Assets/Pages
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/installing-fedora-44-gnome-conflicted"
 ---
 
 # Installing Fedora 44 Gnome

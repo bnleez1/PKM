@@ -7,6 +7,7 @@ dueDate: 2026-09-01T00:00:00.000Z
 status: "[[Done]]"
 gh-publish: true
 gh-path: content/Current Courses/Writing I/Assignments
+gh-published-url: "https://bnleez1.github.io/PKM/current-courses/writing-i/assignments/writing-i-week-4-assignment"
 ---
 
 # Writing I Week 4 Assignment

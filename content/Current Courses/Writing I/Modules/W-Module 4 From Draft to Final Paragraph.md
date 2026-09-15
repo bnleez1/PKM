@@ -8,6 +8,7 @@ courseS: "[[60 Public/Website/Current Courses/Writing I/index]]"
 banner:
 gh-publish: true
 gh-path: content/Current Courses/Writing I/Modules
+gh-published-url: "https://bnleez1.github.io/PKM/current-courses/writing-i/modules/w-module-4-from-draft-to-final-paragraph"
 ---
 # W-Module 4: From Draft to Final Paragraph - Testing Sept 5
 

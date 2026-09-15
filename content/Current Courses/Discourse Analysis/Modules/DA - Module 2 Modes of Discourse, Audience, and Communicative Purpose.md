@@ -8,6 +8,7 @@ courseS: "[[60 Public/Website/Current Courses/Discourse Analysis/index]]"
 banner: https://wallup.net/wp-content/uploads/2016/01/200876-nature-landscape-water.jpg
 gh-publish: true
 gh-path: content/Current Courses/Discourse Analysis/Modules
+gh-published-url: "https://bnleez1.github.io/PKM/current-courses/discourse-analysis/modules/da-module-2-modes-of-discourse-audience-and-communicative-purpose"
 ---
 [[DA - Module 1 Entering the World of Discourse]] 
 [[DA - Module 3 How Texts Hold Together]]

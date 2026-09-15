@@ -6,6 +6,7 @@ order: 1
 banner:
 gh-publish: true
 gh-path: content/Current Courses/Discourse Analysis/Units
+gh-published-url: "https://bnleez1.github.io/PKM/current-courses/discourse-analysis/units/discourse-analysis-unit-i-foundations-text-context-and-history"
 ---
 
 # Discourse Analysis Unit I: Foundations: Text, Context, and History

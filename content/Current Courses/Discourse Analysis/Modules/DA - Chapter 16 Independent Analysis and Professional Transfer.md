@@ -8,6 +8,7 @@ courseS: "[[60 Public/Website/Current Courses/Discourse Analysis/index]]"
 banner:
 gh-publish: true
 gh-path: content/Current Courses/Discourse Analysis/Modules
+gh-published-url: "https://bnleez1.github.io/PKM/current-courses/discourse-analysis/modules/da-chapter-16-independent-analysis-and-professional-transfer"
 ---
 
 # DA - Chapter 16: Independent Analysis and Professional Transfer

@@ -8,6 +8,7 @@ courseS: "[[60 Public/Website/Current Courses/Discourse Analysis/index]]"
 banner:
 gh-publish: true
 gh-path: content/Current Courses/Discourse Analysis/Modules
+gh-published-url: "https://bnleez1.github.io/PKM/current-courses/discourse-analysis/modules/da-chapter-10-from-sound-to-evidence"
 ---
 
 # DA - Chapter 10: From Sound to Evidence

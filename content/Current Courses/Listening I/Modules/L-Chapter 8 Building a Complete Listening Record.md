@@ -8,6 +8,7 @@ courseS: "[[60 Public/Website/Current Courses/Listening I/index]]"
 banner:
 gh-publish: true
 gh-path: content/Current Courses/Listening I/Modules
+gh-published-url: "https://bnleez1.github.io/PKM/current-courses/listening-i/modules/l-chapter-8-building-a-complete-listening-record"
 ---
 
 # L-Chapter 8: Building a Complete Listening Record

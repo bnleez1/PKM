@@ -8,6 +8,7 @@ courseS: "[[60 Public/Website/Current Courses/Writing I/index]]"
 banner:
 gh-publish: true
 gh-path: content/Current Courses/Writing I/Modules
+gh-published-url: "https://bnleez1.github.io/PKM/current-courses/writing-i/modules/w-module-1-introducing-yourself-through-clear-sentences"
 ---
 # W-Module 1: Introducing Yourself Through Clear Sentences
 

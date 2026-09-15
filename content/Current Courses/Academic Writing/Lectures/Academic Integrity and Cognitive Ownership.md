@@ -8,6 +8,7 @@ module:
   - "[AW-Module 1: Academic Integrity and Cognitive Ownership](../Modules/AW-Module%201%20Academic%20Integrity%20and%20Cognitive%20Ownership.md)"
 gh-publish: true
 gh-path: content/Current Courses/Academic Writing
+gh-published-url: "https://bnleez1.github.io/PKM/current-courses/academic-writing/lectures/academic-integrity-and-cognitive-ownership"
 ---
 # Academic Integrity and Cognitive Ownership
 

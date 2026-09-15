@@ -13,6 +13,7 @@ documents: []
 area: "[[Servicio Social (UAA) - ¡bienvenida!]]"
 notes:
 assignments: []
+gh-published-url: "https://bnleez1.github.io/PKM/99-course-archive/servicio-social-uaa-idiomas/curso-de-induccion-de-servicio-social-uaa-idiomas-12-de-junio-del-2023"
 ---
 
 # Curso de inducción de servicio social (UAA-idiomas) - 12 de junio del 2023

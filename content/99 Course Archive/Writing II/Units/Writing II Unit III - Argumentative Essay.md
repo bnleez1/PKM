@@ -6,6 +6,7 @@ order: 3
 banner:
 gh-publish: true
 gh-path: content/99 Course Archive/Writing II/Units
+gh-published-url: "https://bnleez1.github.io/PKM/99-course-archive/writing-ii/units/writing-ii-unit-iii-argumentative-essay"
 ---
 
 # Writing II Unit III - Argumentative Essay

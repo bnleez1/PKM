@@ -3,6 +3,7 @@ title: Writing II
 description: Writing activities, weekly modules, assignments, and resources for Writing II.
 gh-publish: true
 gh-path: content/99 Course Archive/Writing II
+gh-published-url: "https://bnleez1.github.io/PKM/99-course-archive/writing-ii"
 ---
 
 # Writing II

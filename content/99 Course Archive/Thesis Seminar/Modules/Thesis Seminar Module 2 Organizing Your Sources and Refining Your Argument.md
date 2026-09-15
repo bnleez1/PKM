@@ -21,6 +21,7 @@ relations: []
 note: []
 gh-publish: true
 gh-path: content/99 Course Archive/Thesis Seminar
+gh-published-url: "https://bnleez1.github.io/PKM/99-course-archive/thesis-seminar/modules/thesis-seminar-module-2-organizing-your-sources-and-refining-your-argument"
 ---
 
 # Thesis Seminar Module 2: Organizing Your Sources and Refining Your Argument

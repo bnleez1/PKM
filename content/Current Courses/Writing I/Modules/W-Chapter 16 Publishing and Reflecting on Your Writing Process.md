@@ -8,6 +8,7 @@ courseS: "[[60 Public/Website/Current Courses/Writing I/index]]"
 banner:
 gh-publish: true
 gh-path: content/Current Courses/Writing I/Modules
+gh-published-url: "https://bnleez1.github.io/PKM/current-courses/writing-i/modules/w-chapter-16-publishing-and-reflecting-on-your-writing-process"
 ---
 
 # W-Chapter 16: Publishing and Reflecting on Your Writing Process

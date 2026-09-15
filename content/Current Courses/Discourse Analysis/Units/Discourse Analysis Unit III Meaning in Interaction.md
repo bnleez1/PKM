@@ -6,6 +6,7 @@ order: 3
 banner:
 gh-publish: true
 gh-path: content/Current Courses/Discourse Analysis/Units
+gh-published-url: "https://bnleez1.github.io/PKM/current-courses/discourse-analysis/units/discourse-analysis-unit-iii-meaning-in-interaction"
 ---
 
 # Discourse Analysis Unit III: Meaning in Interaction

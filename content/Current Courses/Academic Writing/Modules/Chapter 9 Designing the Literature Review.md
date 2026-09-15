@@ -8,6 +8,7 @@ courseS: "[[60 Public/Website/Current Courses/Academic Writing/index]]"
 banner:
 gh-publish: true
 gh-path: content/Current Courses/Academic Writing/Modules
+gh-published-url: "https://bnleez1.github.io/PKM/current-courses/academic-writing/modules/chapter-9-designing-the-literature-review"
 ---
 
 # Chapter 9: Designing the Literature Review

@@ -3,6 +3,7 @@ title: Thesis Seminar
 description: Course materials, research resources, and guidance for Thesis Seminar.
 gh-publish: true
 gh-path: content/99 Course Archive/Thesis Seminar
+gh-published-url: "https://bnleez1.github.io/PKM/99-course-archive/thesis-seminar"
 ---
 
 # Thesis Seminar

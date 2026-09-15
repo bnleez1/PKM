@@ -8,6 +8,7 @@ courseS: "[[60 Public/Website/Current Courses/Discourse Analysis/index]]"
 banner: https://defraenvironment.blog.gov.uk/wp-content/uploads/sites/276/2026/08/Active-woman-walking-through-a-yellow-rapeseed-field-2048x1365.jpg
 gh-publish: true
 gh-path: content/Current Courses/Discourse Analysis/Modules
+gh-published-url: "https://bnleez1.github.io/PKM/current-courses/discourse-analysis/modules/da-module-3-how-texts-hold-together"
 ---
 [[DA - Module 2 Modes of Discourse, Audience, and Communicative Purpose]]
 [[DA - Module 4 Theme, Rheme, and the Flow of Information]]

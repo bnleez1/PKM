@@ -14,6 +14,7 @@ documents: []
 area: "[[UAA Subjects]]"
 notes:
 assignments: []
+gh-published-url: "https://bnleez1.github.io/PKM/99-course-archive/academic-writing-uaa-instructors"
 ---
 
 # Academic Writing UAA Instructors

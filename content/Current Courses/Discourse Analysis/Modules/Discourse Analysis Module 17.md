@@ -8,6 +8,7 @@ courseS: "[[60 Public/Website/Current Courses/Discourse Analysis/index]]"
 banner:
 gh-publish: true
 gh-path: content/Current Courses/Discourse Analysis
+gh-published-url: "https://bnleez1.github.io/PKM/current-courses/discourse-analysis/modules/discourse-analysis-module-17"
 ---
 
 # Discourse Analysis Module 17

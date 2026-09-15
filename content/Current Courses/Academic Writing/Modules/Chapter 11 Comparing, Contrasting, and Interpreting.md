@@ -8,6 +8,7 @@ courseS: "[[60 Public/Website/Current Courses/Academic Writing/index]]"
 banner:
 gh-publish: true
 gh-path: content/Current Courses/Academic Writing/Modules
+gh-published-url: "https://bnleez1.github.io/PKM/current-courses/academic-writing/modules/chapter-11-comparing-contrasting-and-interpreting"
 ---
 
 # Chapter 11: Comparing, Contrasting, and Interpreting

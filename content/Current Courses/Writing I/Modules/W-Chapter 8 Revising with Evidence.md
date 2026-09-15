@@ -8,6 +8,7 @@ courseS: "[[60 Public/Website/Current Courses/Writing I/index]]"
 banner:
 gh-publish: true
 gh-path: content/Current Courses/Writing I/Modules
+gh-published-url: "https://bnleez1.github.io/PKM/current-courses/writing-i/modules/w-chapter-8-revising-with-evidence"
 ---
 
 # W-Chapter 8: Revising with Evidence

@@ -6,6 +6,7 @@ order: 2
 banner:
 gh-publish: true
 gh-path: content/Current Courses/Discourse Analysis/Units
+gh-published-url: "https://bnleez1.github.io/PKM/current-courses/discourse-analysis/units/discourse-analysis-unit-ii-making-meaning-in-text"
 ---
 
 # Discourse Analysis Unit II: Making Meaning in Text

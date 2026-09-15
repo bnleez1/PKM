@@ -3,6 +3,7 @@ title: Installing Kubuntu 26.04 LTS
 tags: [Linux]
 gh-publish: true
 gh-path: content/Assets/Pages
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/installing-kubuntu-2604-lts-conflicted"
 ---
 
 # Installing Kubuntu 26.04 LTS

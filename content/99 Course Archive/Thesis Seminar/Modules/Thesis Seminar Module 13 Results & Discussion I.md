@@ -21,6 +21,7 @@ relations: []
 note: []
 gh-publish: true
 gh-path: content/99 Course Archive/Thesis Seminar
+gh-published-url: "https://bnleez1.github.io/PKM/99-course-archive/thesis-seminar/modules/thesis-seminar-module-13-results-discussion-i"
 ---
 
 # Thesis Seminar Module 13: Results & Discussion I

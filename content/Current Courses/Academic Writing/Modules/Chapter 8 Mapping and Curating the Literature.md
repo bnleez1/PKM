@@ -8,6 +8,7 @@ courseS: "[[60 Public/Website/Current Courses/Academic Writing/index]]"
 banner:
 gh-publish: true
 gh-path: content/Current Courses/Academic Writing/Modules
+gh-published-url: "https://bnleez1.github.io/PKM/current-courses/academic-writing/modules/chapter-8-mapping-and-curating-the-literature"
 ---
 
 # Chapter 8: Mapping and Curating the Literature

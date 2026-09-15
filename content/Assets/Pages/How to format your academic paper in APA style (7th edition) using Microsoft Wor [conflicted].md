@@ -5,6 +5,7 @@ title: >-
 tags: [Writing]
 gh-publish: true
 gh-path: content/Assets/Pages
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/how-to-format-your-academic-paper-in-apa-style-7th-edition-using-microsoft-wor-conflicted"
 ---
 
 # How to format your academic paper in APA style (7th edition) using Microsoft Word

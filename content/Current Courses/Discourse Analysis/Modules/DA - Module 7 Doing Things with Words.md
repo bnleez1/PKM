@@ -8,6 +8,7 @@ courseS: "[[60 Public/Website/Current Courses/Discourse Analysis/index]]"
 banner: https://www.thespruce.com/thmb/rzTuUV7tLg-23LyoxqOGvQSSNb8=/3868x0/filters:no_upscale():max_bytes(150000):strip_icc()/mixed-pot-plants--including-coneflowers--rudbeckia---geraniums--pelargonium--and-red-salvia--salvia-coccinea---august-121812803-5b2434f2a9d4f90037517ba3.jpg
 gh-publish: true
 gh-path: content/Current Courses/Discourse Analysis/Modules
+gh-published-url: "https://bnleez1.github.io/PKM/current-courses/discourse-analysis/modules/da-module-7-doing-things-with-words"
 ---
 [[DA - Module 6 Positioning the Writer and Reader]]
 [[DA - Module 8 The Architecture of Conversation]]

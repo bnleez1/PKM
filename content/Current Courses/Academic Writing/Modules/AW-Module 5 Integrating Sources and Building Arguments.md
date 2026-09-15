@@ -8,6 +8,7 @@ courseS: "[[60 Public/Website/Current Courses/Academic Writing/index]]"
 banner: https://wallpapercave.com/wp/wp8819684.jpg
 gh-publish: true
 gh-path: content/Current Courses/Academic Writing/Modules
+gh-published-url: "https://bnleez1.github.io/PKM/current-courses/academic-writing/modules/aw-module-5-integrating-sources-and-building-arguments"
 ---
 # AW-Module 5 Integrating Sources and Building Arguments
 

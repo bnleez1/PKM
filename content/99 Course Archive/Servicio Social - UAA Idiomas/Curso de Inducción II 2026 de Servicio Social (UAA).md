@@ -12,6 +12,7 @@ documents: []
 area: '[[Servicio Social (UAA) - ¡bienvenida!]]'
 notes: '20800'
 assignments: []
+gh-published-url: "https://bnleez1.github.io/PKM/99-course-archive/servicio-social-uaa-idiomas/curso-de-induccion-ii-2026-de-servicio-social-uaa"
 ---
 
 # Curso de Inducción II 2026 de Servicio Social (UAA)

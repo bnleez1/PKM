@@ -13,6 +13,7 @@ documents: []
 area: "[[UAA Subjects]]"
 notes:
 assignments: []
+gh-published-url: "https://bnleez1.github.io/PKM/99-course-archive/writing-workshop"
 ---
 
 # Writing Workshop

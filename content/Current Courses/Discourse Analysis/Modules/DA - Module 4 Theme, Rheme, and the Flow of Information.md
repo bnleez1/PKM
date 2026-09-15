@@ -8,6 +8,7 @@ courseS: "[[60 Public/Website/Current Courses/Discourse Analysis/index]]"
 banner: https://wallpaperaccess.com/full/256070.jpg
 gh-publish: true
 gh-path: content/Current Courses/Discourse Analysis/Modules
+gh-published-url: "https://bnleez1.github.io/PKM/current-courses/discourse-analysis/modules/da-module-4-theme-rheme-and-the-flow-of-information"
 ---
 [[DA - Module 3 How Texts Hold Together]]
 [[DA - Module 5 Time, Viewpoint, and Narrative Movement]]

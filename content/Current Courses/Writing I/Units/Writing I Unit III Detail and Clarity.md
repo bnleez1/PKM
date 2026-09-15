@@ -6,6 +6,7 @@ order: 3
 banner:
 gh-publish: true
 gh-path: content/Current Courses/Writing I/Units
+gh-published-url: "https://bnleez1.github.io/PKM/current-courses/writing-i/units/writing-i-unit-iii-detail-and-clarity"
 ---
 
 # Writing I Unit III: Detail and Clarity

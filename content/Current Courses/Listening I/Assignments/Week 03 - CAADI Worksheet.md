@@ -7,6 +7,7 @@ dueDate: 2026-08-28T00:00:00.000Z
 status: "[[In Progress]]"
 gh-publish: true
 gh-path: content/Current Courses/Listening I/Assignments
+gh-published-url: "https://bnleez1.github.io/PKM/current-courses/listening-i/assignments/week-03-caadi-worksheet"
 ---
 
 # Listening CAADI Worksheet 2

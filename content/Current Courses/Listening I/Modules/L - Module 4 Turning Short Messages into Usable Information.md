@@ -8,6 +8,7 @@ courseS: "[[60 Public/Website/Current Courses/Listening I/index]]"
 banner:
 gh-publish: true
 gh-path: content/Current Courses/Listening I/Modules
+gh-published-url: "https://bnleez1.github.io/PKM/current-courses/listening-i/modules/l-module-4-turning-short-messages-into-usable-information"
 ---
 # L - Module 4: Turning Short Messages into Usable Information
 

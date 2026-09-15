@@ -8,6 +8,7 @@ courseS: "[[60 Public/Website/Current Courses/Discourse Analysis/index]]"
 banner:
 gh-publish: true
 gh-path: content/Current Courses/Discourse Analysis/Modules
+gh-published-url: "https://bnleez1.github.io/PKM/current-courses/discourse-analysis/modules/da-module-8-the-architecture-of-conversation"
 ---
 [[DA - Module 7 Doing Things with Words]]
 [[DA - Chapter 9 Relationship Talk and Task Talk]]

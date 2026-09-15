@@ -7,6 +7,7 @@ dueDate: 2026-08-21T00:00:00.000Z
 status: "[[In Progress]]"
 gh-publish: true
 gh-path: content/Current Courses/Academic Writing
+gh-published-url: "https://bnleez1.github.io/PKM/current-courses/academic-writing/assignments/research-matrix-week-2"
 ---
 
 # Research Matrix - Week 2

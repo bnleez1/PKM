@@ -8,6 +8,7 @@ courseS: "[[60 Public/Website/Current Courses/Listening I/index]]"
 banner:
 gh-publish: true
 gh-path: content/Current Courses/Listening I/Modules
+gh-published-url: "https://bnleez1.github.io/PKM/current-courses/listening-i/modules/l-module-3-finding-your-way-through-campus-talk"
 ---
 
 # L - Module 3: Finding Your Way Through Campus Talk

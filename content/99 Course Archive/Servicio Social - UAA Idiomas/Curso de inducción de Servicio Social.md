@@ -12,6 +12,7 @@ documents: []
 area: '[[Servicio Social (UAA) - ¡bienvenida!]]'
 notes: null
 assignments: []
+gh-published-url: "https://bnleez1.github.io/PKM/99-course-archive/servicio-social-uaa-idiomas/curso-de-induccion-de-servicio-social"
 ---
 
 # Curso de inducción de Servicio Social

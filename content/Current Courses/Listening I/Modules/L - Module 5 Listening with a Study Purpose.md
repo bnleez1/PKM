@@ -8,6 +8,7 @@ courseS: "[[60 Public/Website/Current Courses/Listening I/index]]"
 banner: https://institute.careerguide.com/wp-content/uploads/2023/04/2023-4-3.jpg
 gh-publish: true
 gh-path: content/Current Courses/Listening I/Modules
+gh-published-url: "https://bnleez1.github.io/PKM/current-courses/listening-i/modules/l-module-5-listening-with-a-study-purpose"
 ---
 # L - Module 5: Listening with a Study Purpose
 

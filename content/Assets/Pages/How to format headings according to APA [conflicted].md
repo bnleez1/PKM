@@ -3,6 +3,7 @@ title: How to format headings according to APA
 tags: [Writing]
 gh-publish: true
 gh-path: content/Assets/Pages
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/how-to-format-headings-according-to-apa-conflicted"
 ---
 
 # How to format headings according to APA

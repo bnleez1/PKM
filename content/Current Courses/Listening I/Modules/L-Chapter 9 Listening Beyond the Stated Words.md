@@ -8,6 +8,7 @@ courseS: "[[60 Public/Website/Current Courses/Listening I/index]]"
 banner:
 gh-publish: true
 gh-path: content/Current Courses/Listening I/Modules
+gh-published-url: "https://bnleez1.github.io/PKM/current-courses/listening-i/modules/l-chapter-9-listening-beyond-the-stated-words"
 ---
 
 # L-Chapter 9: Listening Beyond the Stated Words

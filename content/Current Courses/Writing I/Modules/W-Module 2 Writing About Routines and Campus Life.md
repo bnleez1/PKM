@@ -8,6 +8,7 @@ courseS: "[[60 Public/Website/Current Courses/Writing I/index]]"
 banner:
 gh-publish: true
 gh-path: content/Current Courses/Writing I/Modules
+gh-published-url: "https://bnleez1.github.io/PKM/current-courses/writing-i/modules/w-module-2-writing-about-routines-and-campus-life"
 ---
 # W-Module 2: Writing About Routines and Campus Life
 

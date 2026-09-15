@@ -6,6 +6,7 @@ order: 2
 banner:
 gh-publish: true
 gh-path: content/Current Courses/Academic Writing/Units
+gh-published-url: "https://bnleez1.github.io/PKM/current-courses/academic-writing/units/academic-writing-unit-ii"
 ---
 
 # Academic Writing Unit II

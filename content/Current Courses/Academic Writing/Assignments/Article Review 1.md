@@ -8,6 +8,7 @@ status: "[[Done]]"
 banner: https://www.ourmindfullife.com/wp-content/uploads/2023/11/Wooden-path-in-nature-coloring-page_original.jpg
 gh-publish: true
 gh-path: content/Current Courses/Writing I/Assignments
+gh-published-url: "https://bnleez1.github.io/PKM/current-courses/academic-writing/assignments/article-review-1"
 ---
 ## Article Review I
 ## Purpose

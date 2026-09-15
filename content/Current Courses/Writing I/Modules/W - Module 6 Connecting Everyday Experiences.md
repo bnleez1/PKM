@@ -8,6 +8,7 @@ courseS: "[[60 Public/Website/Current Courses/Writing I/index]]"
 banner: https://wallup.net/wp-content/uploads/2016/03/10/318375-nature-landscape-lake-mountain-forest-wildflowers-spring-pine_trees-path-Switzerland-HDR.jpg
 gh-publish: true
 gh-path: content/Current Courses/Writing I/Modules
+gh-published-url: "https://bnleez1.github.io/PKM/current-courses/writing-i/modules/w-module-6-connecting-everyday-experiences"
 ---
 [[W - Module 5 Telling a Clear Story About Study and Leisure]]
 # Writing I Module 6: Connecting Everyday Experiences
@@ -80,7 +81,7 @@ After drafting independently, read the paragraph with criteria. Can you identify
 
 ## [[Tuesday, September 15, 2026]]
 
-[[TOEFL Writing Task_15092026]]
+Completed [[TOEFL Writing Task_15092026]]. 
 
 ## Wednesday
 

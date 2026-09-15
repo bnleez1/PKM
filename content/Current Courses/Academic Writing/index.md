@@ -39,6 +39,7 @@ assignments:
   - "[[Research Matrix - Week 2]]"
   - "[[00 Meta/Templates/Article Review 1]]"
 banner: https://static.vecteezy.com/system/resources/previews/012/347/781/large_2x/man-hand-with-pen-writing-on-notebook-with-computer-laptop-at-desk-free-photo.jpg
+gh-published-url: "https://bnleez1.github.io/PKM/current-courses/academic-writing"
 ---
 # Academic Writing
 

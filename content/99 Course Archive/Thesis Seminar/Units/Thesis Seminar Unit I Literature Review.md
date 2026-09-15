@@ -6,6 +6,7 @@ order: 1
 banner:
 gh-publish: true
 gh-path: content/99 Course Archive/Thesis Seminar/Units
+gh-published-url: "https://bnleez1.github.io/PKM/99-course-archive/thesis-seminar/units/thesis-seminar-unit-i-literature-review"
 ---
 
 # Thesis Seminar Unit I: Literature Review

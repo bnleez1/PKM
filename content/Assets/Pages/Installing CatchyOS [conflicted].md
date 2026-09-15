@@ -3,6 +3,7 @@ title: Installing CatchyOS
 tags: []
 gh-publish: true
 gh-path: content/Assets/Pages
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/installing-catchyos-conflicted"
 ---
 
 # Installing CatchyOS

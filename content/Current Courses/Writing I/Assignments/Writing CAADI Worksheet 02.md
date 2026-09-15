@@ -7,6 +7,7 @@ dueDate: 2026-09-04
 status: "[[In Progress]]"
 gh-publish: true
 gh-path: content/Current Courses/Writing I/Assignments
+gh-published-url: "https://bnleez1.github.io/PKM/current-courses/writing-i/assignments/writing-caadi-worksheet-02"
 ---
 
 # Writing CAADI Worksheet 2

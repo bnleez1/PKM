@@ -7,6 +7,7 @@ dueDate: 2026-08-21T00:00:00.000Z
 status: "[[In Progress]]"
 gh-publish: true
 gh-path: content/Current Courses/Discourse Analysis
+gh-published-url: "https://bnleez1.github.io/PKM/current-courses/discourse-analysis/assignments/discourse-analysis-week-2-assignment-text-features"
 ---
 
 # Discourse Analysis Week 2 Assignment: Text Features

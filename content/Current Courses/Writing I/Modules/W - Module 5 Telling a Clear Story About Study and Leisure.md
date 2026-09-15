@@ -8,6 +8,7 @@ courseS: "[[60 Public/Website/Current Courses/Writing I/index]]"
 banner: https://www.solaresearch.org/wp-content/uploads/2019/08/Writing-Analytics-Image.jpg
 gh-publish: true
 gh-path: content/Current Courses/Writing I/Modules
+gh-published-url: "https://bnleez1.github.io/PKM/current-courses/writing-i/modules/w-module-5-telling-a-clear-story-about-study-and-leisure"
 ---
 [[W - Module 6 Connecting Everyday Experiences]]
 # Writing I Module 5: Telling a Clear Story About Study and Leisure

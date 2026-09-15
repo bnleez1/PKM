@@ -8,6 +8,7 @@ courseS: "[[60 Public/Website/Current Courses/Discourse Analysis/index]]"
 banner:
 gh-publish: true
 gh-path: content/Current Courses/Discourse Analysis/Modules
+gh-published-url: "https://bnleez1.github.io/PKM/current-courses/discourse-analysis/modules/da-chapter-15-teaching-readers-to-navigate-discourse"
 ---
 
 # DA - Chapter 15: Teaching Readers to Navigate Discourse

@@ -8,6 +8,7 @@ courseS: "[[60 Public/Website/Current Courses/Academic Writing/index]]"
 banner:
 gh-publish: true
 gh-path: content/Current Courses/Academic Writing/Modules
+gh-published-url: "https://bnleez1.github.io/PKM/current-courses/academic-writing/modules/aw-module-2-from-broad-interest-to-researchable-proposal"
 ---
 
 # AW-Module 2: From Broad Interest to Researchable Proposal
