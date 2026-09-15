@@ -5,10 +5,12 @@ date: 2026-09-14T00:00:00.000Z -> 2026-09-20T00:00:00.000Z
 status: InBox
 unit: "[Discourse Analysis Unit II: Making Meaning in Text](Discourse%20Analysis%20Unit%20II%20Making%20Meaning%20in%20Text.md)"
 courseS: "[[60 Public/Website/Current Courses/Discourse Analysis/index]]"
-banner:
+banner: https://cdn.fordhamram.com/wp-content/uploads/perennial-flowers-and-plants-1674072475.jpeg
 gh-publish: true
 gh-path: content/Current Courses/Discourse Analysis/Modules
 ---
+[[DA - Module 5 Time, Viewpoint, and Narrative Movement]]
+[[DA - Module 7 Doing Things with Words]]
 # Discourse Analysis Module 6: Positioning the Writer and Reader
 
 > [!abstract]- ⚡ Module Overview

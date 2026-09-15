@@ -1,22 +1,21 @@
 ---
 type: Module
-title: "DA - Chapter 7: Doing Things with Words"
+title: "DA - Module 7: Doing Things with Words"
 date: 2026-09-21T00:00:00.000Z -> 2026-09-27T00:00:00.000Z
 status: InBox
 unit: "[Discourse Analysis Unit III: Meaning in Interaction](Discourse%20Analysis%20Unit%20III%20Meaning%20in%20Interaction.md)"
 courseS: "[[60 Public/Website/Current Courses/Discourse Analysis/index]]"
-banner:
+banner: https://www.thespruce.com/thmb/rzTuUV7tLg-23LyoxqOGvQSSNb8=/3868x0/filters:no_upscale():max_bytes(150000):strip_icc()/mixed-pot-plants--including-coneflowers--rudbeckia---geraniums--pelargonium--and-red-salvia--salvia-coccinea---august-121812803-5b2434f2a9d4f90037517ba3.jpg
 gh-publish: true
 gh-path: content/Current Courses/Discourse Analysis/Modules
 ---
-
-# DA - Chapter 7: Doing Things with Words
-
+[[DA - Module 6 Positioning the Writer and Reader]]
+[[DA - Module 8 The Architecture of Conversation]]
+# DA - Module 7: Doing Things with Words
 
 ⚡️ Speech acts, intentions, effects, and the contextual interpretation of utterances
 
 > Utterances do not merely describe the world; they perform actions within it. A speaker can promise, request, apologize, refuse, warn, invite, congratulate, or declare something by producing language in an appropriate context. Speech Act Theory provides a framework for separating the words uttered, the action intended, and the effects achieved. It also helps explain why grammatically similar sentences can perform different functions and why indirect forms are often central to politeness and social negotiation. This week you will analyze locutionary, illocutionary, and perlocutionary dimensions, classify direct and indirect speech acts, and consider felicity conditions. The challenge is to avoid reading intention directly from form. Claims about what an utterance does must be supported by context, participant roles, sequential position, and the recipients’ responses.
-
 
 ## Essential understanding(s)
 

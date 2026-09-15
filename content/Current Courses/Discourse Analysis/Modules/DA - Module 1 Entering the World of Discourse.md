@@ -9,7 +9,7 @@ banner:
 gh-publish: true
 gh-path: content/Current Courses/Discourse Analysis/Modules
 ---
-
+[[DA - Module 2 Speaking, Writing, and Communicative Purpose]]
 # DA - Module 1: Entering the World of Discourse
 
 [DA week 1](../Audios/Media/DA%20week%201.mp3)

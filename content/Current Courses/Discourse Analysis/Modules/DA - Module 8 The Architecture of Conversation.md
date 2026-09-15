@@ -1,6 +1,6 @@
 ---
 type: Module
-title: "DA - Chapter 8: The Architecture of Conversation"
+title: "DA - Module 8: The Architecture of Conversation"
 date: 2026-09-28T00:00:00.000Z -> 2026-10-04T00:00:00.000Z
 status: InBox
 unit: "[Discourse Analysis Unit III: Meaning in Interaction](Discourse%20Analysis%20Unit%20III%20Meaning%20in%20Interaction.md)"
@@ -9,9 +9,9 @@ banner:
 gh-publish: true
 gh-path: content/Current Courses/Discourse Analysis/Modules
 ---
-
-# DA - Chapter 8: The Architecture of Conversation
-
+[[DA - Module 7 Doing Things with Words]]
+[[DA - Chapter 9 Relationship Talk and Task Talk]]
+# DA - Module 8: The Architecture of Conversation
 
 ⚡️ Adjacency pairs, preference organization, turn-taking, overlap, and repair
 

@@ -9,6 +9,8 @@ banner:
 gh-publish: true
 gh-path: content/Current Courses/Discourse Analysis/Modules
 ---
+[[DA - Module 2 Speaking, Writing, and Communicative Purpose]]
+[[DA - Module 4 Theme, Rheme, and the Flow of Information]]
 # DA - Module 3: How Texts Hold Together
 
 ⚡️ Grammatical cohesion, lexical chains, and the construction of continuity

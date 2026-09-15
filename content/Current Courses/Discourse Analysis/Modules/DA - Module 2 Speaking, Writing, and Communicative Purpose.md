@@ -9,7 +9,8 @@ banner:
 gh-publish: true
 gh-path: content/Current Courses/Discourse Analysis/Modules
 ---
-
+[[DA - Module 1 Entering the World of Discourse]] 
+[[DA - Module 3 How Texts Hold Together]]
 # DA - Module 2: Speaking, Writing, and Communicative Purpose
 
 
