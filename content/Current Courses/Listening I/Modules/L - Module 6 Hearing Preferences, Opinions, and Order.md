@@ -99,3 +99,6 @@ In Teams, exchange your reconstructed meaning with another team and identify one
 
 </details>
 
+## [[Tuesday, September 15, 2026]]
+
+Listening handout activity (Scroll, Study, Connect=) to be turned in.
