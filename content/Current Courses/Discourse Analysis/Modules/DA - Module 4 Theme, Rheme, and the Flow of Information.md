@@ -11,8 +11,6 @@ gh-path: content/Current Courses/Discourse Analysis/Modules
 ---
 [[DA - Module 3 How Texts Hold Together]]
 [[DA - Module 5 Time, Viewpoint, and Narrative Movement]]
-
-
 # DA - Module 4: Theme, Rheme, and the Flow of Information
 
 > [!abstract]- ⚡ Module Overview
