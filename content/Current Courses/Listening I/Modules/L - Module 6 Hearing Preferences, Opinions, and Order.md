@@ -103,3 +103,21 @@ In Teams, exchange your reconstructed meaning with another team and identify one
 
 1. Review answer key from yesterday's listening activity (song): [Listening_I_Beautiful_Things_Dynamic_Song_Handout_Answer_Key.docx](https://eduuaa.sharepoint.com/:w:/s/ListeningI2026/IQChQ-weoKAOT6rGiy4Ss2CFAedNJDC8SrNBsyiYHCBOBPg?e=ceQfpe) 
 2. Listening handout activity (Scroll, Study, Connect=) to be turned in.
+
+## [[Wednesday, September 16, 2026]]
+
+Holiday.
+
+## [[Thursday, September 17, 2026]]
+
+ Complete listening handout
+
+|Group|Students|
+|---|---|
+|**1**|**Andrea S.** • **Diana Angelica** • Datan R. • Lupita|
+|**2**|**Valeria Valadez Q.** • **Selena** • Mariana J. • Sofia C.|
+|**3**|**Ana** • **Mariana Camila** • Luciana • Fernando|
+|**4**|**Juls Ortega** • **Luna Camacho** • Karol V. • Vanessa D.|
+|**5**|**Eder** • **Jimena V.** • Janice • Evolet|
+|**6**|**Regina** • **Yocelin** • Dannae F. • Sofia F.|
+|**7**|**Adalay** • **Brianna** • Unnamed student|
