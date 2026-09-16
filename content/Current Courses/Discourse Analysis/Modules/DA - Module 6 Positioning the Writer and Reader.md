@@ -15,579 +15,75 @@ gh-published-url: https://bnleez1.github.io/PKM/current-courses/discourse-analys
 # Discourse Analysis Module 6: Positioning the Writer and Reader: Modality, Stance, Register, and AI-Supported Revision
 
 > [!abstract]- ⚡ Module Overview
-> Every extended text positions its producer in relation to both the **message** and the **audience**.
->
-> Writers and speakers express:
->
-> - certainty
-> - possibility
-> - obligation
-> - willingness
-> - evaluation
-> - distance
->
-> They do this through resources such as:
->
-> - modal verbs
-> - adverbs
-> - reporting structures
-> - lexical choices
-> - patterns of attribution
->
-> These resources construct **stance** and **interpersonal meaning**.
->
-> They also interact with:
->
-> - cohesion
-> - thematic progression
-> - tense and aspect
-> - register
->
-> This module brings the concepts from Unit II together through an **integrated analysis**.
->
-> You will first produce a fully human-written draft. Only afterward will you use an approved GenAI tool as a **Level 3 critical friend** to review academic clarity, hedging, register, and organization.
->
-> The important evidence is not simply an AI-polished final product. It is the **annotated revision trail** showing:
->
-> - what changed;
-> - what you accepted;
-> - what you adapted;
-> - what you rejected;
-> - and why.
->
-> Your rationale should demonstrate **ownership, disciplinary judgment, and attention to meaning rather than automatic compliance**.
+> Grammar provides speakers and writers with choices, and those choices influence how information is organized and interpreted across discourse. This module examines two related areas of discourse grammar: **word-order choices** and **tense, aspect, and modality**.
+> 
+> First, you will examine how alternative word orders can package information differently. Particular attention will be given to **dative alternation**, including direct-object–indirect-object and indirect-object–direct-object patterns, and to **particle placement in separable phrasal verbs**. Rather than treating these alternatives as interchangeable grammatical forms, you will consider how speakers and writers use them to manage **given and new information**, maintain continuity, and guide the reader or listener through a text.
+> 
+> Second, you will investigate how **tense, aspect, and modality** work together to construct temporal perspective and speaker or writer commitment. Tense locates situations relative to time, aspect presents situations as complete, ongoing, repeated, or connected to another time, and modality expresses meanings such as possibility, likelihood, necessity, obligation, permission, and willingness.
+> 
+> The central goal is to move beyond identifying grammatical forms and ask a discourse-level question: **Why has the producer selected this particular grammatical choice at this point in the text?**
 
 ---
 
 > [!question]- 🎯 Essential Understandings
-> 1. How do modality and related stance resources construct:
->    - authority,
->    - caution,
->    - obligation,
->    - and interpersonal relationships?
->
-> 2. How can AI feedback support revision **without replacing the analyst's judgment or voice**?
+> - How do word-order choices help speakers and writers organize given and new information within discourse?
+> - How do tense, aspect, and modality work together to construct temporal perspective and express different degrees of possibility, certainty, necessity, and obligation?   
+
 
 > [!question]- ❓ Guiding Questions
-> - What degrees and types of modality are expressed in a text, and through which linguistic resources?
-> - How does stance vary across academic, institutional, and everyday genres?
-> - How do cohesion, thematic progression, tense–aspect, modality, and register interact?
-> - What evidence justifies accepting, adapting, or rejecting an AI-generated suggestion?
-
+> - What alternatives are available when English allows more than one possible word order?
+> - How does **dative alternation** affect the placement of direct objects, indirect objects, given information, and new information?
+>- What influences the position of particles in **separable phrasal verbs**, and how can particle placement contribute to information flow?
+>- How does **tense** locate events, states, and situations relative to the time of speaking or writing?
+>- How does **aspect** influence whether a situation is presented as complete, ongoing, repeated, temporary, or connected to another point in time?
+>- How do tense and aspect interact to create a particular **temporal perspective** across a text?
+>- What kinds of meanings are expressed through **modality**, including possibility, likelihood, obligation, permission, necessity, and willingness?
+>- How can the same modal form express different meanings depending on its discourse context?
+>- How do grammatical choices involving word order, tense, aspect, and modality contribute to the communicative purpose of an extended text?
+   
 > [!success]- ✅ Learning Outcomes
 > By the end of this module, you should be able to:
->
-> 1. Identify modal verbs and other stance resources in extended discourse.
-> 2. Interpret degrees of:
->    - certainty,
->    - obligation,
->    - permission,
->    - willingness,
->    - evaluation,
->    - and interpersonal distance.
-> 3. Produce an integrated analysis of:
->    - cohesion,
->    - information flow,
->    - tense–aspect,
->    - modality,
->    - and register.
-> 4. Use GenAI as a **critical friend only after completing an independent draft**.
-> 5. Create an annotated revision trail explaining the pedagogical and analytical reasons for each substantive decision.
+> 1. **Identify alternative word-order patterns** in authentic and instructional texts.
+> 2. **Distinguish the two major patterns of dative alternation**: 1) indirect object + direct object (_The professor gave Daniel the USB drive._) and 2) direct object + prepositional indirect object (_The professor gave the USB drive to Daniel).
+>3. **Explain how word order can reflect given and new information**, rather than treating alternative structures as completely interchangeable.
+>4. **Analyze particle placement in separable phrasal verbs** and explain how object form, length, and information status may influence the choice.
+>5. **Identify tense and aspect forms** in extended discourse and distinguish their grammatical forms from their discourse functions.
+>6. **Explain how simple, progressive, and perfect aspect construct different perspectives on situations and events.**
+>7. **Trace tense–aspect patterns across a text** and explain how shifts contribute to temporal organization.
+>8. **Identify modal meanings** including possibility, likelihood, certainty, necessity, obligation, permission, and willingness.
+>9. **Distinguish epistemic modality from deontic modality** using evidence from the surrounding discourse.
+>10. **Produce evidence-based interpretations** explaining why a speaker or writer may have selected a particular word order, tense, aspect, or modal expression.
+
 
 ---
 
-> [!note]- 🧠 Key Concepts and Vocabulary
->
-> > [!note]- Modality
-> > Linguistic resources that express judgments about:
-> >
-> > - possibility
-> > - necessity
-> > - obligation
-> > - permission
-> > - willingness
-> > - related meanings
->
-> > [!note]- Epistemic Modality
-> > Judgments about:
-> >
-> > - likelihood
-> > - certainty
-> > - evidence
-> > - knowledge
->
-> > [!note]- Deontic Modality
-> > Judgments about:
-> >
-> > - obligation
-> > - permission
-> > - necessity in relation to action
->
-> > [!note]- Stance
-> > The producer's positioning toward:
-> >
-> > - the proposition
-> > - the audience
-> > - the evidence
-> > - the social situation
->
-> > [!note]- Hedging
-> > Reducing categorical force to express:
-> >
-> > - caution
-> > - limitation
-> > - politeness
-> > - appropriate uncertainty
->
-> > [!note]- Boosting
-> > Increasing commitment or emphasis through expressions of certainty or importance.
->
-> > [!note]- Register
-> > A configuration of linguistic choices associated with:
-> >
-> > - situation
-> > - purpose
-> > - participant relationship
-> > - mode
->
-> > [!note]- Interpersonal Meaning
-> > How language enacts:
-> >
-> > - roles
-> > - relationships
-> > - attitudes
-> > - degrees of alignment
->
-> > [!note]- Critical Friend
-> > A reviewer who offers questions and feedback while leaving responsibility and decision-making with the author.
->
-> > [!note]- Revision Trail
-> > A documented comparison of:
-> >
-> > - drafts
-> > - changes
-> > - feedback
-> > - rationales
-> >
-> > The purpose is to make the revision process visible.
+|Term|Working definition|
+|---|---|
+|**Word order**|The arrangement of grammatical elements within a clause. Alternative orders can influence how information is packaged and interpreted.|
+|**Information structure**|The organization of information according to factors such as what is already accessible to the reader or listener and what is being introduced.|
+|**Given information**|Information that the producer presents as already accessible, previously mentioned, inferable, or shared.|
+|**New information**|Information introduced or highlighted as not yet established in the discourse.|
+|**Dative alternation**|The possibility of expressing certain transfer events through two related grammatical patterns: _give Daniel the file_ and _give the file to Daniel_.|
+|**Direct object (DO)**|The grammatical element typically representing the entity transferred, affected, or acted upon, as in _the file_ in _She gave Daniel the file_.|
+|**Indirect object (IO)**|The grammatical element typically representing the recipient or beneficiary, as in _Daniel_ in _She gave Daniel the file_.|
+|**Double-object construction**|A dative pattern in which the indirect object precedes the direct object: _She gave Daniel the file._|
+|**Prepositional dative**|A dative pattern in which the direct object precedes a recipient expressed with a preposition: _She gave the file to Daniel._|
+|**Phrasal verb**|A verb combined with a particle that functions as a lexical unit, such as _take out_, _hand in_, or _pick up_.|
+|**Particle movement**|Variation in the position of the particle in a separable phrasal verb, as in _take out the slide_ versus _take the slide out_.|
+|**Tense**|A grammatical system that locates a situation relative to a temporal reference point, commonly contrasting present and past in English.|
+|**Aspect**|A grammatical system that presents how a situation unfolds or is viewed through time rather than simply locating it in time.|
+|**Simple aspect**|Presentation of a situation without progressive or perfect marking, often used for states, habits, completed events, or generalizations depending on context.|
+|**Progressive aspect**|Presentation of a situation as ongoing, temporary, developing, or viewed from within its duration: _is studying_.|
+|**Perfect aspect**|Presentation of an earlier situation in relation to a later reference point: _has studied_, _had studied_, _will have studied_.|
+|**Temporal perspective**|The viewpoint from which events, states, and relationships in time are presented across a discourse.|
+|**Tense–aspect shift**|A change in tense or aspect that signals a change in temporal perspective, discourse function, or relationship among events.|
+|**Modality**|Linguistic expression of meanings such as possibility, likelihood, necessity, obligation, permission, willingness, or related judgments.|
+|**Epistemic modality**|Modality concerned with the producer's assessment of likelihood, possibility, certainty, evidence, or knowledge: _She may be studying._|
+|**Deontic modality**|Modality concerned with obligation, permission, necessity, or required action: _Students must submit the assignment._|
+|**Modal auxiliary**|A helping verb such as _may, might, can, could, must, should,_ or _will_ that can express modal meaning.|
+|**Modal meaning**|The contextual interpretation expressed through a modal form—for example possibility, permission, obligation, inference, or willingness.|
+|**Speaker/writer commitment**|The degree to which a producer presents a proposition as possible, probable, certain, necessary, or otherwise qualified.|
 
----
-
-> [!example]- 1️⃣ Modality as a System of Choices
-> Modal verbs are prominent resources for expressing modality:
->
-> - may
-> - might
-> - can
-> - could
-> - must
-> - should
-> - will
->
-> However, modality extends beyond modal auxiliaries.
->
-> Other resources include:
->
-> **Adverbs**
->
-> - probably
-> - certainly
->
-> **Adjectives**
->
-> - possible
-> - essential
->
-> **Reporting verbs**
->
-> - suggest
-> - demonstrate
->
-> **Phrases**
->
-> - *it appears that...*
->
-> The analyst should therefore examine a **network of choices**, rather than simply underline modal verbs.
->
-> > [!example]- Epistemic Modality
-> > **The pattern may indicate...**
-> >
-> > This presents the interpretation as a **possibility**.
-> >
-> > **The pattern clearly demonstrates...**
-> >
-> > This presents much stronger commitment.
->
-> > [!example]- Deontic Modality
-> > **Students must submit...**
-> >
-> > This constructs an institutional requirement.
-> >
-> > **Students may consult...**
-> >
-> > Depending on context, this may indicate permission or possibility.
->
-> > [!important]- Form Does Not Equal One Fixed Meaning
-> > Meanings are not permanently attached to individual forms.
-> >
-> > **must** can express:
-> >
-> > - obligation
-> > - strong inference
-> >
-> > **can** can express:
-> >
-> > - ability
-> > - possibility
-> > - permission
-> >
-> > Context and, in spoken discourse, intonation also influence interpretation.
->
-> > [!tip]- Analytical Sequence
-> > A discourse analysis should:
-> >
-> > 1. identify the linguistic form;
-> > 2. propose its likely meaning;
-> > 3. explain how the choice positions producer and audience within the genre.
-
----
-
-> [!example]- 2️⃣ Hedging, Boosting, and Responsible Claims
-> Academic hedging should not automatically be interpreted as weak writing.
->
-> Appropriate hedging matches the **strength of the claim to the strength of the evidence**.
->
-> Compare:
->
-> **The findings suggest...**
->
-> with:
->
-> **The findings prove...**
->
-> A small classroom sample may justify the first claim but not the second.
->
-> Writers can limit claims through:
->
-> - expressions of probability;
-> - attribution;
-> - expressions of limitation;
-> - restrictions in scope.
->
-> These resources help writers avoid overgeneralization and create space for disciplinary dialogue.
->
-> > [!note]- Boosters
-> > Boosters strengthen commitment.
-> >
-> > Examples include:
-> >
-> > - clearly
-> > - undoubtedly
-> > - demonstrate
-> >
-> > They can emphasize well-supported conclusions.
-> >
-> > However, excessive boosting can create an inflated or defensive tone.
->
-> > [!warning]- Under-Commitment Can Also Be a Problem
-> > Qualifying every statement with expressions such as:
-> >
-> > - maybe
-> > - perhaps
-> >
-> > may obscure conclusions that the evidence reasonably supports.
->
-> > [!example]- Stance Is Relational
-> > Compare:
-> >
-> > **You must revise this section.**
-> >
-> > with:
-> >
-> > **This section could be clarified by...**
-> >
-> > The two expressions position writer and reader differently.
-> >
-> > The appropriate choice depends on:
-> >
-> > - authority
-> > - purpose
-> > - urgency
-> > - institutional norms
->
-> > [!important]- Analytical Principle
-> > An instructor's rubric, a peer comment, a research article, and a personal reflection draw on different stance resources.
-> >
-> > The task is to evaluate **fit within context**, not to label one particular form as universally polite or formal.
-
----
-
-> [!example]- 3️⃣ Register and the Integrated Text
-> Register connects linguistic choices to the situation.
->
-> Three important dimensions are:
->
-> **Field**
->
-> What activity or content is taking place?
->
-> **Tenor**
->
-> What are the participant roles and relationships?
->
-> **Mode**
->
-> How does language function through spoken, written, or multimodal channels?
->
-> These dimensions help explain choices involving:
->
-> - vocabulary
-> - grammatical density
-> - pronouns
-> - directives
-> - hedges
-> - interactional markers
->
-> > [!info]- How Unit II Concepts Interact
-> > **Reference chains and lexical cohesion**  
-> > → maintain topics
-> >
-> > **Theme–rheme choices**  
-> > → manage information flow
-> >
-> > **Tense and aspect**  
-> > → construct temporal perspective
-> >
-> > **Modality and evaluation**  
-> > → position claims and relationships
-> >
-> > **Register**  
-> > → helps explain why the complete configuration is appropriate—or why it clashes with audience expectations.
->
-> > [!important]- Avoid Checklist Analysis
-> > An integrated discourse analysis should not become a checklist of unrelated labels.
-> >
-> > Select the patterns most relevant to the text's **communicative work**.
->
-> > [!example]- Integrated Interpretation
-> > An academic paragraph might:
-> >
-> > - maintain the study as a constant theme;
-> > - use present tense for interpretations;
-> > - develop a lexical chain around *feedback*;
-> > - use epistemic hedges to limit claims.
-> >
-> > The important analytical question is how these choices work **together** to construct a cautious analytical voice.
-
----
-
-> [!example]- 4️⃣ Using AI as a Level 3 Critical Friend
-> The process begins with a **complete human-written analysis**.
->
-> This sequencing protects the purpose of the assessment:
->
-> the student must first demonstrate:
->
-> - noticing
-> - interpretation
-> - explanation
->
-> Only afterward should an approved GenAI tool review areas such as:
->
-> - clarity
-> - register
-> - hedging
-> - organization
-> - sentence-level expression
->
-> > [!tip]- A Better AI Prompt
-> > Define the AI's role narrowly.
-> >
-> > For example, ask it to identify:
-> >
-> > - passages that sound too categorical for the evidence;
-> > - unclear references;
-> > - shifts in register;
-> > - places where hedging might be insufficient or excessive.
-> >
-> > Ask it to **explain the problem rather than rewrite the entire text**.
->
-> > [!warning]- AI Feedback Is a Proposal
-> > AI may:
-> >
-> > - flatten your voice;
-> > - add unnecessary hedges;
-> > - replace precise course terminology;
-> > - make claims sound more authoritative without improving the evidence;
-> > - misunderstand the analyzed text because it lacks the original context.
->
-> > [!important]- Verify Every Suggestion
-> > Check suggestions against:
-> >
-> > - the source text;
-> > - course concepts;
-> > - assignment criteria;
-> > - your intended meaning.
->
-> > [!tip]- Make the Process Dialogic
-> > You can:
-> >
-> > - ask why the model suggested a change;
-> > - request alternatives;
-> > - challenge its interpretation.
-> >
-> > The goal is **not the most polished-sounding prose**.
-> >
-> > The goal is to improve the accuracy and communicative effectiveness of **your own analysis**.
-
----
-
-> [!example]- 5️⃣ Building an Annotated Revision Trail
-> Your revision trail should contain:
->
-> 1. the original draft;
-> 2. AI feedback or an AI-reviewed version;
-> 3. tracked changes;
-> 4. your commentary.
->
-> For each substantive suggestion, indicate whether you:
->
-> - **accepted** it;
-> - **adapted** it;
-> - **rejected** it.
->
-> Then explain why.
->
-> > [!example]- Evidence-Based Rationale
-> > **Rejected**
-> >
-> > *I rejected the replacement of "may suggest" with "proves" because the sample includes only one interaction.*
-> >
-> > **Accepted**
-> >
-> > *I accepted the clearer antecedent because the original pronoun could refer to either participant.*
->
-> > [!warning]- Avoid Weak Rationales
-> > A statement such as:
-> >
-> > **"This sounds better."**
-> >
-> > is insufficient.
-> >
-> > Explain the effect on:
-> >
-> > - clarity
-> > - register
-> > - stance
-> > - coherence
-> > - accuracy
-> > - audience
->
-> > [!important]- Evaluate the AI Too
-> > Identify places where the AI:
-> >
-> > - failed to notice a problem;
-> > - introduced a new problem;
-> > - misunderstood the intended meaning.
-> >
-> > These moments demonstrate critical evaluation.
->
-> > [!success]- Final Audit
-> > Before submission:
-> >
-> > - read the final analysis without tracked changes;
-> > - confirm that it still represents your voice;
-> > - confirm that each analytical claim is supported;
-> > - include the prompts used;
-> > - identify AI contributions;
-> > - verify sources;
-> > - ensure that the final decisions remain yours.
-> >
-> > The documented process is the central evidence of responsible **Level 3 AI use**.
-
----
-
-> [!example]- 6️⃣ Integrated Analytical Sequence
-> Work from **global purpose toward local form**.
->
-> ### Step 1
-> Identify:
->
-> - genre
-> - audience
-> - communicative purpose
->
-> ### Step 2
-> Identify the dominant topic and map the text's paragraph progression.
->
-> ### Step 3
-> Trace one:
->
-> - reference chain; or
-> - lexical chain
->
-> that sustains the topic.
->
-> ### Step 4
-> Diagram the themes of a representative paragraph.
->
-> ### Step 5
-> Identify:
->
-> - a tense–aspect pattern;
-> - a cluster of stance resources.
->
-> ### Step 6
-> Explain how these choices fit—or fail to fit—the register.
->
-> > [!important]- Organize Analysis by Interpretation
-> > Do not organize the written analysis simply by textbook categories.
-> >
-> > Instead, group evidence according to an **interpretive claim**.
->
-> > [!example]- Possible Interpretive Claim 1
-> > **The writer constructs cautious authority.**
-> >
-> > Evidence might include:
-> >
-> > - epistemic modals
-> > - reporting verbs
-> > - attribution
-> > - thematic placement of source-based claims
->
-> > [!example]- Possible Interpretive Claim 2
-> > **The text guides the reader poorly.**
-> >
-> > Evidence might include:
-> >
-> > - unstable reference
-> > - abrupt thematic shifts
-> > - a connector signaling an unsupported relationship
-
----
-
-> [!exercise]- 🤖 Self-Review Before AI
-> Before consulting AI, write a short self-review memo.
->
-> Identify **two uncertainties** in your analysis.
->
-> Ask yourself:
->
-> - Which interpretation am I least confident about?
-> - Where might I have overgeneralized?
-> - Which part of my analysis needs clearer evidence?
-> - Is my register appropriate?
-> - Have I explained the discourse effect rather than merely labeled a feature?
->
-> After receiving AI feedback, compare the model's attention with your own.
->
-> Ask:
->
-> **Did it notice discourse-level issues, or did it focus mainly on sentence-level polishing?**
->
-> Include this comparison in your revision trail.
-
----
 
 > [!note]- 🔄 Review: Word-Order Choices as Discourse Resources
 > Review:
@@ -703,53 +199,5 @@ gh-published-url: https://bnleez1.github.io/PKM/current-courses/discourse-analys
 > >
 > > Used for focusing or contrasting particular information.
 
----
 
-> [!tip]- 🧭 Module Review
-> Before completing Module 6, check whether you can do the following:
->
-> - Identify modality beyond modal verbs.
-> - Distinguish epistemic from deontic modality.
-> - Interpret different degrees of certainty and obligation.
-> - Identify hedges and boosters.
-> - Explain how stance positions writer and reader.
-> - Relate register to field, tenor, and mode.
-> - Connect cohesion, theme–rheme, tense–aspect, modality, and register.
-> - Organize an analysis around interpretive claims rather than isolated labels.
-> - Complete an independent analysis before consulting AI.
-> - Evaluate AI feedback rather than automatically accept it.
-> - Explain why you accepted, adapted, or rejected a suggestion.
-> - Produce a transparent revision trail.
-> - Confirm that the final work still reflects your own analytical judgment and voice.
-
-> [!success]- 🧩 Final Takeaway
-> Discourse choices do more than communicate content.
->
-> They position:
->
-> **the writer or speaker,**
->
-> **the claim,**
->
-> **the evidence,**
->
-> **and the audience.**
->
-> Modality, hedging, boosting, register, cohesion, information structure, tense, and aspect work together to create these relationships.
->
-> The purpose of analysis is therefore not merely to identify linguistic forms.
->
-> Ask instead:
->
-> **What does this choice allow the producer to claim?**
->
-> **How strongly is the claim presented?**
->
-> **What relationship does it establish with the audience?**
->
-> **Why is that choice appropriate—or inappropriate—for this genre and situation?**
->
-> When using AI, apply the same principle:
->
-> **AI can propose. The analyst must decide.**
 
