@@ -57,33 +57,34 @@ gh-published-url: https://bnleez1.github.io/PKM/current-courses/discourse-analys
 
 ---
 
-|Term|Working definition|
-|---|---|
-|**Word order**|The arrangement of grammatical elements within a clause. Alternative orders can influence how information is packaged and interpreted.|
-|**Information structure**|The organization of information according to factors such as what is already accessible to the reader or listener and what is being introduced.|
-|**Given information**|Information that the producer presents as already accessible, previously mentioned, inferable, or shared.|
-|**New information**|Information introduced or highlighted as not yet established in the discourse.|
-|**Dative alternation**|The possibility of expressing certain transfer events through two related grammatical patterns: _give Daniel the file_ and _give the file to Daniel_.|
-|**Direct object (DO)**|The grammatical element typically representing the entity transferred, affected, or acted upon, as in _the file_ in _She gave Daniel the file_.|
-|**Indirect object (IO)**|The grammatical element typically representing the recipient or beneficiary, as in _Daniel_ in _She gave Daniel the file_.|
-|**Double-object construction**|A dative pattern in which the indirect object precedes the direct object: _She gave Daniel the file._|
-|**Prepositional dative**|A dative pattern in which the direct object precedes a recipient expressed with a preposition: _She gave the file to Daniel._|
-|**Phrasal verb**|A verb combined with a particle that functions as a lexical unit, such as _take out_, _hand in_, or _pick up_.|
-|**Particle movement**|Variation in the position of the particle in a separable phrasal verb, as in _take out the slide_ versus _take the slide out_.|
-|**Tense**|A grammatical system that locates a situation relative to a temporal reference point, commonly contrasting present and past in English.|
-|**Aspect**|A grammatical system that presents how a situation unfolds or is viewed through time rather than simply locating it in time.|
-|**Simple aspect**|Presentation of a situation without progressive or perfect marking, often used for states, habits, completed events, or generalizations depending on context.|
-|**Progressive aspect**|Presentation of a situation as ongoing, temporary, developing, or viewed from within its duration: _is studying_.|
-|**Perfect aspect**|Presentation of an earlier situation in relation to a later reference point: _has studied_, _had studied_, _will have studied_.|
-|**Temporal perspective**|The viewpoint from which events, states, and relationships in time are presented across a discourse.|
-|**Tense–aspect shift**|A change in tense or aspect that signals a change in temporal perspective, discourse function, or relationship among events.|
-|**Modality**|Linguistic expression of meanings such as possibility, likelihood, necessity, obligation, permission, willingness, or related judgments.|
-|**Epistemic modality**|Modality concerned with the producer's assessment of likelihood, possibility, certainty, evidence, or knowledge: _She may be studying._|
-|**Deontic modality**|Modality concerned with obligation, permission, necessity, or required action: _Students must submit the assignment._|
-|**Modal auxiliary**|A helping verb such as _may, might, can, could, must, should,_ or _will_ that can express modal meaning.|
-|**Modal meaning**|The contextual interpretation expressed through a modal form—for example possibility, permission, obligation, inference, or willingness.|
-|**Speaker/writer commitment**|The degree to which a producer presents a proposition as possible, probable, certain, necessary, or otherwise qualified.|
+| Term                           | Working definition                                                                                                                                            |
+| ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Word order**                 | The arrangement of grammatical elements within a clause. Alternative orders can influence how information is packaged and interpreted.                        |
+| **Information structure**      | The organization of information according to factors such as what is already accessible to the reader or listener and what is being introduced.               |
+| **Given information**          | Information that the producer presents as already accessible, previously mentioned, inferable, or shared.                                                     |
+| **New information**            | Information introduced or highlighted as not yet established in the discourse.                                                                                |
+| **Dative alternation**         | The possibility of expressing certain transfer events through two related grammatical patterns: _give Daniel the file_ and _give the file to Daniel_.         |
+| **Direct object (DO)**         | The grammatical element typically representing the entity transferred, affected, or acted upon, as in _the file_ in _She gave Daniel the file_.               |
+| **Indirect object (IO)**       | The grammatical element typically representing the recipient or beneficiary, as in _Daniel_ in _She gave Daniel the file_.                                    |
+| **Double-object construction** | A dative pattern in which the indirect object precedes the direct object: _She gave Daniel the file._                                                         |
+| **Prepositional dative**       | A dative pattern in which the direct object precedes a recipient expressed with a preposition: _She gave the file to Daniel._                                 |
+| **Phrasal verb**               | A verb combined with a particle that functions as a lexical unit, such as _take out_, _hand in_, or _pick up_.                                                |
+| **Particle movement**          | Variation in the position of the particle in a separable phrasal verb, as in _take out the slide_ versus _take the slide out_.                                |
+| **Tense**                      | A grammatical system that locates a situation relative to a temporal reference point, commonly contrasting present and past in English.                       |
+| **Aspect**                     | A grammatical system that presents how a situation unfolds or is viewed through time rather than simply locating it in time.                                  |
+| **Simple aspect**              | Presentation of a situation without progressive or perfect marking, often used for states, habits, completed events, or generalizations depending on context. |
+| **Progressive aspect**         | Presentation of a situation as ongoing, temporary, developing, or viewed from within its duration: _is studying_.                                             |
+| **Perfect aspect**             | Presentation of an earlier situation in relation to a later reference point: _has studied_, _had studied_, _will have studied_.                               |
+| **Temporal perspective**       | The viewpoint from which events, states, and relationships in time are presented across a discourse.                                                          |
+| **Tense–aspect shift**         | A change in tense or aspect that signals a change in temporal perspective, discourse function, or relationship among events.                                  |
+| **Modality**                   | Linguistic expression of meanings such as possibility, likelihood, necessity, obligation, permission, willingness, or related judgments.                      |
+| **Epistemic modality**         | Modality concerned with the producer's assessment of likelihood, possibility, certainty, evidence, or knowledge: _She may be studying._                       |
+| **Deontic modality**           | Modality concerned with obligation, permission, necessity, or required action: _Students must submit the assignment._                                         |
+| **Modal auxiliary**            | A helping verb such as _may, might, can, could, must, should,_ or _will_ that can express modal meaning.                                                      |
+| **Modal meaning**              | The contextual interpretation expressed through a modal form—for example possibility, permission, obligation, inference, or willingness.                      |
+| **Speaker/writer commitment**  | The degree to which a producer presents a proposition as possible, probable, certain, necessary, or otherwise qualified.                                      |
 
+## [[Tuesday, September 15, 2026]] & [[Thursday, September 17, 2026]]
 
 > [!note]- 🔄 Review: Word-Order Choices as Discourse Resources
 > Review:
@@ -126,21 +127,8 @@ gh-published-url: https://bnleez1.github.io/PKM/current-courses/discourse-analys
 > - modality expresses possibility, necessity, obligation, willingness, or related meanings.
 
 > [!exercise]- 📄 Text 2: Changing Study Habits
-> When Mariana first entered university, she ___ (study) only the night before an examination.
->
-> She ___ (sit) at her desk for several hours, rereading her notes and trying to memorize everything at once. Sometimes this strategy worked, but more often she arrived at class exhausted.
->
-> Her study habits ___ (change) considerably since then. Over the past two semesters, she ___ (develop) a weekly study schedule, and she ___ (review) her notes for about thirty minutes each evening.
->
-> This week, she ___ (prepare) for three examinations, so she ___ (spend) more time in the library than usual.
->
-> Mariana believes students ___ (develop) regular study routines rather than depend on last-minute preparation. However, she also recognizes that one strategy ___ (work) equally well for everyone.
->
-> Some students ___ (need) complete silence, while others ___ (concentrate) better with background music. Students ___ (decide) which conditions help them learn most effectively.
->
-> Next semester, Mariana ___ (experiment) with a study group. She thinks the group ___ (help) her explain difficult concepts aloud, although it ___ (create) new distractions.
->
-> By the end of the academic year, she hopes she ___ (develop) a flexible system that she can continue using throughout her degree.
+> [[Example Texts_170920260659]]
+> 
 >
 > > [!question]- Analysis Focus
 > > Examine the interaction among:
@@ -150,54 +138,5 @@ gh-published-url: https://bnleez1.github.io/PKM/current-courses/discourse-analys
 > > - modality
 > > - temporal perspective
 > > - speaker commitment
-
----
-
-> [!note]- 🔀 Review: Marked Constructions as Discourse Resources
-> Review how marked constructions can reorganize information in order to:
->
-> - introduce information;
-> - focus attention;
-> - contrast alternatives;
-> - alter the expected information structure.
-
-> [!exercise]- 📄 Text 3: Rethinking the University Library
-> For many students, the university library is primarily a place to find books and study quietly. Recently, however, its role has begun to change.
->
-> **There are now several collaborative areas on the first floor**, and students can use them for group projects, tutoring sessions, and informal discussions.
->
-> Last year, university administrators asked students what improvements they wanted.
->
-> **What many students requested was more flexible study space.**
->
-> They explained that traditional silent areas were useful for individual work but less appropriate for collaborative assignments.
->
-> **What the university decided to create was a combination of quiet and interactive spaces.**
->
-> The changes have not satisfied everyone. There have been several complaints about noise, particularly during examination periods.
->
-> Some students argue that collaboration belongs elsewhere on campus. Others believe the library should support different ways of learning.
->
-> **What seems to matter most is how the different spaces are managed.**
->
-> On the upper floors, silence remains the expectation. On the first floor, conversation is permitted within designated areas.
->
-> **There is also a new reservation system for group rooms**, which has reduced conflicts between students.
->
-> The library is therefore no longer organized around a single idea of studying.
->
-> **What the redesign demonstrates is that one building can support several kinds of academic activity.**
->
-> > [!success]- What This Text Illustrates
-> > The text deliberately emphasizes two marked constructions:
-> >
-> > **Existential _there_**
-> >
-> > Used for introducing information into the discourse.
-> >
-> > **Wh-clefts**
-> >
-> > Used for focusing or contrasting particular information.
-
 
 

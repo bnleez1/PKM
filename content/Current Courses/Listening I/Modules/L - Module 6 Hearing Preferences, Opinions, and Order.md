@@ -111,14 +111,14 @@ Holiday.
 
 ## [[Thursday, September 17, 2026]]
 
- Complete listening handout
+ Complete listening handout.
 
-|Group|Students|
-|---|---|
-|**1**|**Andrea S.** • **Diana Angelica** • Datan R. • Lupita|
-|**2**|**Valeria Valadez Q.** • **Selena** • Mariana J. • Sofia C.|
-|**3**|**Ana** • **Mariana Camila** • Luciana • Fernando|
-|**4**|**Juls Ortega** • **Luna Camacho** • Karol V. • Vanessa D.|
-|**5**|**Eder** • **Jimena V.** • Janice • Evolet|
-|**6**|**Regina** • **Yocelin** • Dannae F. • Sofia F.|
-|**7**|**Adalay** • **Brianna** • Unnamed student|
+| Group | Students                                            |
+| ----- | --------------------------------------------------- |
+| 1 | Andrea S. • Diana Angelica • Datan R. • Lupita      |
+| 2 | Valeria Valadez Q. • Selena • Mariana J. • Sofia C. |
+| 3 | Ana • Mariana Camila • Luciana • Fernando           |
+| 4 | Juls Ortega • Luna Camacho • Karol V. • Vanessa D.  |
+| 5 | Eder • Jimena V. • Janice • Evolet                  |
+| 6 | Regina • Yocelin • Dannae F. • Sofia F.             |
+| 7 | Adalay • Brianna                                    |
