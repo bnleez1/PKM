@@ -8,6 +8,7 @@ status: "[[Done]]"
 gh-publish: true
 gh-path: content/Current Courses/Writing I/Assignments
 gh-published-url: "https://bnleez1.github.io/PKM/current-courses/writing-i/assignments/writing-i-week-2-assignment"
+date:
 ---
 
 # Writing I Week 2 Assignment

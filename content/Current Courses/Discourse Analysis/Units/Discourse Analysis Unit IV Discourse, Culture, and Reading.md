@@ -7,6 +7,7 @@ banner:
 gh-publish: true
 gh-path: content/Current Courses/Discourse Analysis/Units
 gh-published-url: "https://bnleez1.github.io/PKM/current-courses/discourse-analysis/units/discourse-analysis-unit-iv-discourse-culture-and-reading"
+date:
 ---
 
 # Discourse Analysis Unit IV: Discourse, Culture, and Reading

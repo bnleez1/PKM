@@ -7,6 +7,7 @@ banner:
 gh-publish: true
 gh-path: content/Current Courses/Listening I/Units
 gh-published-url: "https://bnleez1.github.io/PKM/current-courses/listening-i/units/listening-i-unit-ii-listening-with-purpose"
+date:
 ---
 
 # Listening I Unit II: Listening with Purpose

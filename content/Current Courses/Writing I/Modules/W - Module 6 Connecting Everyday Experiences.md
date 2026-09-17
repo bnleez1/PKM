@@ -86,3 +86,7 @@ Completed [[TOEFL Writing Task_15092026]].
 ## Wednesday
 
 Holiday.
+
+## Thursday
+
+Writing Assignment 

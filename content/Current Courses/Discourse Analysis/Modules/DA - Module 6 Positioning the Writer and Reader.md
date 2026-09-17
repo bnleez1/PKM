@@ -84,7 +84,7 @@ gh-published-url: https://bnleez1.github.io/PKM/current-courses/discourse-analys
 | **Modal meaning**              | The contextual interpretation expressed through a modal form—for example possibility, permission, obligation, inference, or willingness.                      |
 | **Speaker/writer commitment**  | The degree to which a producer presents a proposition as possible, probable, certain, necessary, or otherwise qualified.                                      |
 
-## [[Tuesday, September 15, 2026]] & [[Thursday, September 17, 2026]]
+## [[Tuesday, September 15, 2026]] & [[Thursday, September 17, 2026]] (no class [[Friday, September 18, 2026]])
 
 > [!note]- 🔄 Review: Word-Order Choices as Discourse Resources
 > Review:

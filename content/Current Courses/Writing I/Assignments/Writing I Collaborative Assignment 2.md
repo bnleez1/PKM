@@ -9,6 +9,7 @@ banner: https://static.vecteezy.com/system/resources/previews/032/242/170/large_
 gh-publish: true
 gh-path: content/Current Courses/Writing I/Assignments
 gh-published-url: "https://bnleez1.github.io/PKM/current-courses/writing-i/assignments/writing-i-collaborative-assignment-2"
+date:
 ---
 # Writing II Collaborative Assignment 1
 

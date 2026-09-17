@@ -7,6 +7,7 @@ banner:
 gh-publish: true
 gh-path: content/Current Courses/Writing I/Units
 gh-published-url: "https://bnleez1.github.io/PKM/current-courses/writing-i/units/writing-i-unit-ii-everyday-experiences"
+date:
 ---
 
 # Writing I Unit II: Everyday Experiences

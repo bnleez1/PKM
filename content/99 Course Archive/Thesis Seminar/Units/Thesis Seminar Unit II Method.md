@@ -7,6 +7,7 @@ banner:
 gh-publish: true
 gh-path: content/99 Course Archive/Thesis Seminar/Units
 gh-published-url: "https://bnleez1.github.io/PKM/99-course-archive/thesis-seminar/units/thesis-seminar-unit-ii-method"
+date:
 ---
 
 # Thesis Seminar Unit II: Method

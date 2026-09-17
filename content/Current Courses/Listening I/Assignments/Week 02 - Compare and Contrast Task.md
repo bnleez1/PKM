@@ -8,6 +8,7 @@ status: "[[In Progress]]"
 gh-publish: true
 gh-path: content/Current Courses/Listening I/Assignments
 gh-published-url: "https://bnleez1.github.io/PKM/current-courses/listening-i/assignments/week-02-compare-and-contrast-task"
+date:
 ---
 
 # Listening I Task Week 2

@@ -8,6 +8,7 @@ status: "[[Done]]"
 gh-publish: true
 gh-path: content/Current Courses/Listening I/Assignments
 gh-published-url: "https://bnleez1.github.io/PKM/current-courses/listening-i/assignments/week-05-caadi-worksheet"
+date:
 ---
 
 # Listening CAADI Worksheet 3

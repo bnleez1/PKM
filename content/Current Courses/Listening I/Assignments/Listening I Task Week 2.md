@@ -20,6 +20,7 @@ gh-publish: true
 gh-path: content/Current Courses/Listening I/Assignments
 gh-published: true
 gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Listening I/Assignments/Listening I Task Week 2
+date:
 ---
 
 # Listening I Task Week 2

@@ -8,6 +8,7 @@ status: "[[In Progress]]"
 gh-publish: true
 gh-path: content/Current Courses/Academic Writing
 gh-published-url: "https://bnleez1.github.io/PKM/current-courses/academic-writing/assignments/research-matrix-week-2"
+date:
 ---
 
 # Research Matrix - Week 2
