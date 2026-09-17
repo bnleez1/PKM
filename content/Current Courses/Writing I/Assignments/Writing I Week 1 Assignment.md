@@ -3,12 +3,11 @@ type: Assignment
 title: Writing I Week 1 Assignment
 courseS:
   - "[[Writing I]]"
-dueDate: 2026-08-14T00:00:00.000Z
 status: "[[Done]]"
 gh-publish: true
 gh-path: content/Current Courses/Writing I/Assignments
 gh-published-url: "https://bnleez1.github.io/PKM/current-courses/writing-i/assignments/writing-i-week-1-assignment"
-date:
+date: 2026-08-14T00:00:00.000Z
 ---
 
 # Writing I Week 1 Assignment

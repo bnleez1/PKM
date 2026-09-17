@@ -10,7 +10,6 @@ courseS:
   - "[[Listening I]]"
 unitS: "[Listening I Unit I: Building a Foundation](Listening%20I%20Unit%20I%20Building%20a%20Foundation.md)"
 module: "[L - Module 1: Listening Begins Before the Audio](L%20-%20Module%201%20Listening%20Begins%20Before%20the%20Audio.md)"
-dueDate: 2026-08-28T00:00:00.000Z
 status: "[[In Progress]]"
 learningOutcomes: []
 rubric:
@@ -22,7 +21,7 @@ gh-publish: true
 gh-path: content/Current Courses/Listening I/Assignments
 gh-published: true
 gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Listening I/Assignments/Listening CAADI Worksheet 2
-date:
+date: 2026-08-28T00:00:00.000Z
 ---
 
 # Listening CAADI Worksheet 2

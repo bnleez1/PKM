@@ -3,12 +3,11 @@ type: Assignment
 title: Discourse Analysis Unit I Quiz
 courseS:
   - "[[02 Projects/Discourse Analysis]]"
-dueDate: 2026-08-25T00:00:00.000Z
 status: "[[Done]]"
 gh-publish: true
 gh-path: content/Current Courses/Discourse Analysis
 gh-published-url: "https://bnleez1.github.io/PKM/current-courses/discourse-analysis/assignments/discourse-analysis-unit-i-quiz"
-date:
+date: 2026-08-25T00:00:00.000Z
 ---
 
 # Discourse Analysis Unit I Quiz

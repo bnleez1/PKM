@@ -3,13 +3,12 @@ type: Assignment
 title: Writing II Collaborative Assignment 1
 courseS:
   - Writing I
-dueDate: 2026-09-11
 status:
 banner: https://static.vecteezy.com/system/resources/previews/032/242/170/large_2x/beautiful-waterfall-flowers-water-nature-waterfall-hd-wallpaper-ai-generated-free-photo.jpg
 gh-publish: true
 gh-path: content/Current Courses/Writing I/Assignments
 gh-published-url: "https://bnleez1.github.io/PKM/current-courses/writing-i/assignments/writing-i-collaborative-assignment-2"
-date:
+date: 2026-09-11
 ---
 # Writing II Collaborative Assignment 1
 

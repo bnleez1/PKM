@@ -3,13 +3,12 @@ type: Assignment
 title: Article Review 2
 courseS:
   - "[[60 Public/Website/Current Courses/Academic Writing/index]]"
-dueDate: 2026-09-11
 status: "[[Done]]"
 banner: https://www.ourmindfullife.com/wp-content/uploads/2023/11/Wooden-path-in-nature-coloring-page_original.jpg
 gh-publish: true
 gh-path: content/Current Courses/Writing I/Assignments
 gh-published-url: "https://bnleez1.github.io/PKM/current-courses/academic-writing/assignments/article-review-2"
-date:
+date: 2026-09-11
 ---
 ## Article Review II
 ## Purpose

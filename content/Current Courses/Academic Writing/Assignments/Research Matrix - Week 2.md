@@ -3,12 +3,11 @@ type: Assignment
 title: Research Matrix - Week 2
 courseS:
   - "[[60 Public/Website/Current Courses/Academic Writing/index]]"
-dueDate: 2026-08-21T00:00:00.000Z
 status: "[[In Progress]]"
 gh-publish: true
 gh-path: content/Current Courses/Academic Writing
 gh-published-url: "https://bnleez1.github.io/PKM/current-courses/academic-writing/assignments/research-matrix-week-2"
-date:
+date: 2026-08-21T00:00:00.000Z
 ---
 
 # Research Matrix - Week 2

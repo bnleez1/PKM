@@ -8,7 +8,6 @@ courseS:
   - "[[Listening I]]"
 unitS: "[Listening I Unit I: Building a Foundation](Listening%20I%20Unit%20I%20Building%20a%20Foundation.md)"
 module: "[L - Module 2: Following the Rhythm of Everyday Life](L%20-%20Module%202%20Following%20the%20Rhythm%20of%20Everyday%20Life.md)"
-dueDate: 2026-08-21T00:00:00.000Z
 status: "[[In Progress]]"
 learningOutcomes: []
 rubric:
@@ -20,7 +19,7 @@ gh-publish: true
 gh-path: content/Current Courses/Listening I/Assignments
 gh-published: true
 gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Listening I/Assignments/Listening I Task Week 2
-date:
+date: 2026-08-21T00:00:00.000Z
 ---
 
 # Listening I Task Week 2

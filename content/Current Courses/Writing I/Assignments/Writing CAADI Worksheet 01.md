@@ -3,12 +3,11 @@ type: Assignment
 title: Writing CAADI Worksheet 1
 courseS:
   - "[[Writing I]]"
-dueDate: 2026-08-21T00:00:00.000Z
 status: "[[In Progress]]"
 gh-publish: true
 gh-path: content/Current Courses/Writing I/Assignments
 gh-published-url: "https://bnleez1.github.io/PKM/current-courses/writing-i/assignments/writing-caadi-worksheet-01"
-date:
+date: 2026-08-21T00:00:00.000Z
 ---
 
 # Writing CAADI Worksheet 1
