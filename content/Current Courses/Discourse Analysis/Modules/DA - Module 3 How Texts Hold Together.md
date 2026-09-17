@@ -1,10 +1,11 @@
 ---
 type: Module
 title: "DA - Module 3: Cohesion and Coherence — How Texts Hold Together"
-date: 2026-08-24T00:00:00.000Z -> 2026-08-30T00:00:00.000Z
 status: InBox
 unit: "[Discourse Analysis Unit II: Making Meaning in Text](Discourse%20Analysis%20Unit%20II%20Making%20Meaning%20in%20Text.md)"
 courseS: "[[60 Public/Website/Current Courses/Discourse Analysis/index]]"
+endDate: 2026-12-17
+startDate: 2026-08-10
 banner: https://defraenvironment.blog.gov.uk/wp-content/uploads/sites/276/2026/08/Active-woman-walking-through-a-yellow-rapeseed-field-2048x1365.jpg
 gh-publish: true
 gh-path: content/Current Courses/Discourse Analysis/Modules

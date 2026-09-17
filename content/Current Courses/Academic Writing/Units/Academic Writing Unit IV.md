@@ -3,11 +3,12 @@ type: Unit
 title: Academic Writing Unit IV
 courseS: "[[60 Public/Website/Current Courses/Academic Writing/index]]"
 order: 4
+endDate: 2026-12-17
+startDate: 2026-08-10
 banner:
 gh-publish: true
 gh-path: content/Current Courses/Academic Writing/Units
 gh-published-url: "https://bnleez1.github.io/PKM/current-courses/academic-writing/units/academic-writing-unit-iv"
-date:
 ---
 
 # Academic Writing Unit IV

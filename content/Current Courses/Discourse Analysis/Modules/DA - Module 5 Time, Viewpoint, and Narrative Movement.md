@@ -1,10 +1,11 @@
 ---
 type: Module
 title: "DA - Module 5: Time, Viewpoint, and Narrative Movement"
-date: 2026-09-07T00:00:00.000Z -> 2026-09-13T00:00:00.000Z
 status: In progress
 unit: "[Discourse Analysis Unit II: Making Meaning in Text](Discourse%20Analysis%20Unit%20II%20Making%20Meaning%20in%20Text.md)"
 courseS: "[[60 Public/Website/Current Courses/Discourse Analysis/index]]"
+endDate: 2026-12-17
+startDate: 2026-08-10
 banner: https://wallpapercave.com/wp/wp8819684.jpg
 gh-publish: true
 gh-path: content/Current Courses/Discourse Analysis/Modules

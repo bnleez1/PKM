@@ -1,10 +1,11 @@
 ---
 type: Module
 title: "W-Module 1: Introducing Yourself Through Clear Sentences"
-date: 2026-08-10T00:00:00.000Z -> 2026-08-16T00:00:00.000Z
 status: Ready
 unit: "[Writing I Unit I: Paragraph Foundations](Writing%20I%20Unit%20I%20Paragraph%20Foundations.md)"
 courseS: "[[60 Public/Website/Current Courses/Writing I/index]]"
+endDate: 2026-12-17
+startDate: 2026-08-10
 banner:
 gh-publish: true
 gh-path: content/Current Courses/Writing I/Modules

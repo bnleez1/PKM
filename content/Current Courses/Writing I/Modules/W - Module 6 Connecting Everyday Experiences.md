@@ -1,10 +1,11 @@
 ---
 type: Module
 title: "Writing I Module 6: Connecting Everyday Experiences"
-date: 2026-09-14T00:00:00.000Z -> 2026-09-20T00:00:00.000Z
 status: InBox
 unit: "[Writing I Unit II: Everyday Experiences](Writing%20I%20Unit%20II%20Everyday%20Experiences.md)"
 courseS: "[[60 Public/Website/Current Courses/Writing I/index]]"
+endDate: 2026-12-17
+startDate: 2026-08-10
 banner: https://wallup.net/wp-content/uploads/2016/03/10/318375-nature-landscape-lake-mountain-forest-wildflowers-spring-pine_trees-path-Switzerland-HDR.jpg
 gh-publish: true
 gh-path: content/Current Courses/Writing I/Modules

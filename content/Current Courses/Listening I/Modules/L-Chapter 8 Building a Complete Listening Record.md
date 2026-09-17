@@ -1,10 +1,11 @@
 ---
 type: Module
 title: "L-Chapter 8: Building a Complete Listening Record"
-date: 2026-09-28T00:00:00.000Z -> 2026-10-04T00:00:00.000Z
 status: InBox
 unit: "[Listening I Unit II: Listening with Purpose](Listening%20I%20Unit%20II%20Listening%20with%20Purpose.md)"
 courseS: "[[60 Public/Website/Current Courses/Listening I/index]]"
+endDate: 2026-12-17
+startDate: 2026-08-10
 banner:
 gh-publish: true
 gh-path: content/Current Courses/Listening I/Modules

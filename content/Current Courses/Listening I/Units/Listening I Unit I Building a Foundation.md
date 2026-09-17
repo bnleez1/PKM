@@ -3,13 +3,13 @@ type: Unit
 title: "Listening I Unit I: Building a Foundation"
 courseS: "[[60 Public/Website/Current Courses/Listening I/index]]"
 order: 1
+endDate: 2026-12-17
+startDate: 2026-08-10
 banner:
 gh-publish: true
 gh-path: content/Current Courses/Listening I/Units
 gh-published-url: "https://bnleez1.github.io/PKM/current-courses/listening-i/units/listening-i-unit-i-building-a-foundation"
-date:
 ---
-
 # Listening I Unit I: Building a Foundation
 
 ---

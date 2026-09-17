@@ -1,10 +1,11 @@
 ---
 type: Module
 title: "L-Chapter 12: Choosing Strategies Without Waiting for Directions"
-date: 2026-10-26T00:00:00.000Z -> 2026-11-01T00:00:00.000Z
 status: InBox
 unit: "[Listening I Unit III: Listening Beyond Words](Listening%20I%20Unit%20III%20Listening%20Beyond%20Words.md)"
 courseS: "[[60 Public/Website/Current Courses/Listening I/index]]"
+endDate: 2026-12-17
+startDate: 2026-08-10
 banner:
 gh-publish: true
 gh-path: content/Current Courses/Listening I/Modules

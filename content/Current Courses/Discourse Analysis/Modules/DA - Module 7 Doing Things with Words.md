@@ -1,10 +1,11 @@
 ---
 type: Module
 title: "DA - Module 7: Doing Things with Words"
-date: 2026-09-21T00:00:00.000Z -> 2026-09-27T00:00:00.000Z
 status: InBox
 unit: "[Discourse Analysis Unit III: Meaning in Interaction](Discourse%20Analysis%20Unit%20III%20Meaning%20in%20Interaction.md)"
 courseS: "[[60 Public/Website/Current Courses/Discourse Analysis/index]]"
+endDate: 2026-12-17
+startDate: 2026-08-10
 banner: https://www.thespruce.com/thmb/rzTuUV7tLg-23LyoxqOGvQSSNb8=/3868x0/filters:no_upscale():max_bytes(150000):strip_icc()/mixed-pot-plants--including-coneflowers--rudbeckia---geraniums--pelargonium--and-red-salvia--salvia-coccinea---august-121812803-5b2434f2a9d4f90037517ba3.jpg
 gh-publish: true
 gh-path: content/Current Courses/Discourse Analysis/Modules

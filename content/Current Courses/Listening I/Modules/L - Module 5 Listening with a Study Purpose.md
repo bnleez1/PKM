@@ -1,10 +1,11 @@
 ---
 type: Module
 title: "L - Module 5: Listening with a Study Purpose"
-date: 2026-09-07T00:00:00.000Z -> 2026-09-13T00:00:00.000Z
 status: InBox
 unit: "[Listening I Unit II: Listening with Purpose](Listening%20I%20Unit%20II%20Listening%20with%20Purpose.md)"
 courseS: "[[60 Public/Website/Current Courses/Listening I/index]]"
+endDate: 2026-12-17
+startDate: 2026-08-10
 banner: https://institute.careerguide.com/wp-content/uploads/2023/04/2023-4-3.jpg
 gh-publish: true
 gh-path: content/Current Courses/Listening I/Modules

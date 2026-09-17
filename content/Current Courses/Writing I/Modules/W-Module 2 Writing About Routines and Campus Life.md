@@ -1,10 +1,11 @@
 ---
 type: Module
 title: "W-Module 2: Writing About Routines and Campus Life"
-date: 2026-08-17T00:00:00.000Z -> 2026-08-23T00:00:00.000Z
 status: InBox
 unit: "[Writing I Unit I: Paragraph Foundations](Writing%20I%20Unit%20I%20Paragraph%20Foundations.md)"
 courseS: "[[60 Public/Website/Current Courses/Writing I/index]]"
+endDate: 2026-12-17
+startDate: 2026-08-10
 banner:
 gh-publish: true
 gh-path: content/Current Courses/Writing I/Modules

@@ -1,10 +1,11 @@
 ---
 type: Module
 title: "L - Module 3: Finding Your Way Through Campus Talk"
-date: 2026-08-24T00:00:00.000Z -> 2026-08-30T00:00:00.000Z
 status: InBox
 unit: "[Listening I Unit I: Building a Foundation](Listening%20I%20Unit%20I%20Building%20a%20Foundation.md)"
 courseS: "[[60 Public/Website/Current Courses/Listening I/index]]"
+endDate: 2026-12-17
+startDate: 2026-08-10
 banner:
 gh-publish: true
 gh-path: content/Current Courses/Listening I/Modules

@@ -3,11 +3,12 @@ type: Unit
 title: "Writing I Unit III: Detail and Clarity"
 courseS: "[[60 Public/Website/Current Courses/Writing I/index]]"
 order: 3
+endDate: 2026-12-17
+startDate: 2026-08-10
 banner:
 gh-publish: true
 gh-path: content/Current Courses/Writing I/Units
 gh-published-url: "https://bnleez1.github.io/PKM/current-courses/writing-i/units/writing-i-unit-iii-detail-and-clarity"
-date:
 ---
 
 # Writing I Unit III: Detail and Clarity

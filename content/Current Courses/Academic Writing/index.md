@@ -2,6 +2,8 @@
 type: Project
 collections: Subject Planning
 title: Academic Writing
+endDate: 2026-12-17
+startDate: 2026-08-10
 description:
 tags:
   - EnglishSkillDevelopment
@@ -31,7 +33,6 @@ roster:
   - "[[Jose Luis Serna Lemos]]"
   - "[[Luis Antonio Tachiquin Hernandez]]"
   - "[[Daniela Amayrani Zurita Lopez]]"
-date: 2026-08-10T00:00:00.000Z -> 2026-12-11T00:00:00.000Z
 documents: []
 area: "[[UAA Subjects]]"
 notes: "[[Writing mechanics]]"

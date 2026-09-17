@@ -2,9 +2,10 @@
 type: Module
 collections: Academic Writing Modules
 title: Academic Writing Module 17
+endDate: 2026-12-17
+startDate: 2026-08-10
 tags:
   - Module
-date: 2026-11-30T00:00:00.000Z -> 2026-12-06T00:00:00.000Z
 status: InBox
 subject: "[[60 Public/Website/Current Courses/Academic Writing/index]]"
 chapterWeek:

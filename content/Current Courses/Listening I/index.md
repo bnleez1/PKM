@@ -1,5 +1,7 @@
 ---
 title: Listening I
+endDate: 2026-12-17
+startDate: 2026-08-10
 description: Course materials, weekly modules, assignments, and resources for Academic Writing.
 gh-publish: true
 gh-path: content/Current Courses/Listening I

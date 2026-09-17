@@ -1,10 +1,11 @@
 ---
 type: Module
 title: "DA - Module 1: Entering the World of Discourse — Language, Context, and the Foundations of Discourse Analysis"
-date: 2026-08-10T00:00:00.000Z -> 2026-08-16T00:00:00.000Z
 status: Ready
 unit: "[Discourse Analysis Unit I: Foundations: Text, Context, and History](Discourse%20Analysis%20Unit%20I%20Foundations%20Text,%20Context,%20and%20History.md)"
 courseS: "[[60 Public/Website/Current Courses/Discourse Analysis/index]]"
+endDate: 2026-12-17
+startDate: 2026-08-10
 banner: https://image.tmdb.org/t/p/w1280/cg5mTWpFagPzHMG887GPKe1kskM.jpg
 gh-publish: true
 gh-path: content/Current Courses/Discourse Analysis/Modules
