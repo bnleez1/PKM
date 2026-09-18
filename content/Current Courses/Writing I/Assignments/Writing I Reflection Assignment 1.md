@@ -6,7 +6,7 @@ status:
 gh-publish: true
 gh-path: content/Current Courses/Writing I/Assignments
 gh-published-url: "https://bnleez1.github.io/PKM/current-courses/writing-i/assignments/writing-i-reflection-assignment-1"
-date: status:
+status:
 ---
 # Reflective Writing 1: My First Four Weeks as a Writer
 
