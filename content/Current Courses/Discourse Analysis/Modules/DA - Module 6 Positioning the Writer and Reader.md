@@ -1,11 +1,10 @@
 ---
 type: Module
 title: "Discourse Analysis Module 6: Positioning the Writer and Reader: Modality, Stance, Register, and AI-Supported Revision"
+date: 2026-09-14T00:00:00.000Z -> 2026-09-20T00:00:00.000Z
 status: InBox
 unit: "[Discourse Analysis Unit II: Making Meaning in Text](Discourse%20Analysis%20Unit%20II%20Making%20Meaning%20in%20Text.md)"
 courseS: "[[60 Public/Website/Current Courses/Discourse Analysis/index]]"
-endDate: 2026-12-17
-startDate: 2026-08-10
 banner: https://wallup.net/wp-content/uploads/2016/01/200876-nature-landscape-water.jpg
 gh-publish: true
 gh-path: content/Current Courses/Discourse Analysis/Modules
@@ -56,8 +55,6 @@ gh-published-url: https://bnleez1.github.io/PKM/current-courses/discourse-analys
 >10. **Produce evidence-based interpretations** explaining why a speaker or writer may have selected a particular word order, tense, aspect, or modal expression.
 
 
----
-
 | Term                           | Working definition                                                                                                                                            |
 | ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Word order**                 | The arrangement of grammatical elements within a clause. Alternative orders can influence how information is packaged and interpreted.                        |
@@ -85,7 +82,7 @@ gh-published-url: https://bnleez1.github.io/PKM/current-courses/discourse-analys
 | **Modal meaning**              | The contextual interpretation expressed through a modal form—for example possibility, permission, obligation, inference, or willingness.                      |
 | **Speaker/writer commitment**  | The degree to which a producer presents a proposition as possible, probable, certain, necessary, or otherwise qualified.                                      |
 
-## [[Tuesday, September 15, 2026]] & [[Thursday, September 17, 2026]] (no class [[Friday, September 18, 2026]])
+## [[Tuesday, September 15, 2026]] & [[Thursday, September 17, 2026]]
 
 > [!note]- 🔄 Review: Word-Order Choices as Discourse Resources
 > Review:
