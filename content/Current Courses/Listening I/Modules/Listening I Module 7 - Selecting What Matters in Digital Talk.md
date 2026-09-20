@@ -14,8 +14,6 @@ gh-published-url: https://bnleez1.github.io/PKM/current-courses/listening-i/modu
 [[Listening I Module 6 - Hearing Preferences, Opinions, and Order]]
 
 ---
----
-
 # Listening I Module 7: Selecting What Matters in Food Talk
 
 > [!abstract] Technology of attention, applied to meals
@@ -26,7 +24,6 @@ gh-published-url: https://bnleez1.github.io/PKM/current-courses/listening-i/modu
 **Syllabus alignment (Unidad II):** food and eating habits; global and selective listening; main ideas, preferences, opinions, sequences, and relevant details; notes with keywords, tables, and graphic organizers; first attempt without GenAI; authorized GenAI only afterward as metacognitive feedback; decision trace of accepted/rejected suggestions.
 
 ---
-
 ## Essential understanding(s)
 
 - How does a listener decide which details are relevant in a dense spoken message about food?
@@ -38,7 +35,6 @@ gh-published-url: https://bnleez1.github.io/PKM/current-courses/listening-i/modu
 - How can a listener distinguish examples from main points?
 - Which listening difficulty caused a missed or confused detail?
 - What evidence supports accepting or rejecting a suggested strategy?
-
 ## Learning outcomes
 
 - Identify a main point and select relevant supporting details in a food-related message.
@@ -46,23 +42,66 @@ gh-published-url: https://bnleez1.github.io/PKM/current-courses/listening-i/modu
 - Verify information after repeated listening and explain revisions.
 - Analyze listening difficulties and evaluate authorized GenAI strategy suggestions.
 - Complete **CAADI Worksheet 7** and maintain a decision trace.
-
 ## Key concepts and vocabulary
 
 `relevant detail` · `supporting example` · `meal` · `snack` · `portion` · `ingredient` · `recipe` · `diet` · `allergy` · `spicy` · `bland` · `cafeteria` · `street food` · `home-cooked` · `takeout` · `grocery` · `budget` · `calories` · `skip a meal` · `craving` · `balanced diet` · `verification` · `strategy option` · `accept` · `reject`
 
 ### Useful A2 word families for this chapter
 
-| Base | Related forms | Typical listening use |
-|---|---|---|
-| eat | eating, eater, uneaten | habits and frequency |
-| cook | cooked, cooking, overcooked | process vs result |
-| taste | tasty, tasteless, aftertaste | opinion vs description |
-| fresh | fresher, freshness | quality comparison |
-| skip | skipped, skipping | change of habit |
-| prefer | preference, preferred | opinion marker |
-| healthy | healthier, healthiest | comparison |
-| spicy | spice, too spicy | intensity |
-| budget | on a budget | problem / constraint |
-| leftover | leftovers | habit / solution |
+| Base     | Related forms                | Typical listening use  |
+| -------- | ---------------------------- | ---------------------- |
+| eat      | eating, eater, uneaten       | habits and frequency   |
+| cook     | cooked, cooking, overcooked  | process vs result      |
+| taste    | tasty, tasteless, aftertaste | opinion vs description |
+| fresh    | fresher, freshness           | quality comparison     |
+| skip     | skipped, skipping            | change of habit        |
+| prefer   | preference, preferred        | opinion marker         |
+| healthy  | healthier, healthiest        | comparison             |
+| spicy    | spice, too spicy             | intensity              |
+| budget   | on a budget                  | problem / constraint   |
+| leftover | leftovers                    | habit / solution       |
+
+[[Instructor Note_200920260803]]
+
+> [!goal]- 📄 Monday - Song
+>
+> > [!note]- Central Focus
+> >
+> > **What does the speaker want the other person to do?**
+> > **Which details help you understand that message?**
+>
+> > [!note]- Brainstorm Food Vocabulary
+> >
+> > Four corners: **MAIN MESSAGE** | **FOOD EXAMPLE** | **PROBLEM / EXCUSE** | **NOT NEEDED**
+>
+> > [!note]- Brainstorming II
+> > 
+> > **What does the speaker want the other person to do?**
+> >
+
+
+
+> [!question]- CENTRAL FOCUS
+>
+> What does the speaker want the other person to do?
+> Which details help you understand that message?
+>
+> > [!question]- Brainstorm Food Vocabulary
+> >
+> > Four corners: **MAIN MESSAGE** | **FOOD EXAMPLE** | **PROBLEM / EXCUSE** | **NOT NEEDED**
+
+
+
+> [!Goal]- Tuesday
+> 1. asdfasdf
+> 2. asdfafsd
+> 
+> > [!Note]- Text 1
+> > asdf
+> > asdf
+>
+
+>
+
+
 
