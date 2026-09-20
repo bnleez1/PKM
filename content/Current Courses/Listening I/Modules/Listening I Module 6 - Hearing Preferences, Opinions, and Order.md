@@ -11,6 +11,8 @@ gh-publish: true
 gh-path: content/Current Courses/Listening I/Modules
 gh-published-url: "https://bnleez1.github.io/PKM/current-courses/listening-i/modules/l-module-6-hearing-preferences-opinions-and-order"
 ---
+[[L - Module 5 Listening with a Study Purpose]]
+[[Listening I Module 7 - Selecting What Matters in Digital Talk]]
 # Listening I Module 6: Hearing Preferences, Opinions, and Order
 
 ⚡️ Technology, Social Media, Digital Habits, Preferences, and Sequences in Spoken Messages
@@ -45,7 +47,6 @@ By the end of this module, learners will be able to:
 
 **technology • social media • app • platform • account • profile • post • message • notification • screen time • device • smartphone • laptop • online • offline • upload • download • share • follow • unfollow • comment • like • scroll • privacy • preference • opinion • recommendation • reason • comparison • sequence • first • then • next • afterward • finally • prefer • would rather • useful • distracting • convenient**
 
-independent writing prompt￼￼ modeled on the kind of opinion task traditionally associated with TOEFL writing. For your Writing I learners, I would reduce the length and linguistic demands to match the course’s A2 target while retaining the core requirement of stating a position, supporting it with reasons, and giving examples. This fits the course emphasis on organized paragraphs, connectors, and increasingly independent student writing.
 <details>
 <summary><h2>Monday, September 14, 2026</h2></summary>
 
