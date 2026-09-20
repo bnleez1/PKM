@@ -12,7 +12,7 @@ gh-path: content/Current Courses/Listening I/Modules
 gh-published-url: "https://bnleez1.github.io/PKM/current-courses/listening-i/modules/l-module-6-hearing-preferences-opinions-and-order"
 ---
 [[L - Module 5 Listening with a Study Purpose]]
-[[Listening I Module 7 - Selecting What Matters in Digital Talk]]
+[[Listening I Module 7 - Selecting What Matters in Food Talk]]
 # Listening I Module 6: Hearing Preferences, Opinions, and Order
 
 ⚡️ Technology, Social Media, Digital Habits, Preferences, and Sequences in Spoken Messages
