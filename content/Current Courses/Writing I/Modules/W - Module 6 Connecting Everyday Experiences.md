@@ -12,6 +12,7 @@ gh-path: content/Current Courses/Writing I/Modules
 gh-published-url: "https://bnleez1.github.io/PKM/current-courses/writing-i/modules/w-module-6-connecting-everyday-experiences"
 ---
 [[W - Module 5 Telling a Clear Story About Study and Leisure]]
+[[Writing I Module 7 Building Lexical Cohesion]]
 # Writing I Module 6: Connecting Everyday Experiences
 
 ⚡️ Writing about technology, social media, food, and habits

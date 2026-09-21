@@ -29,8 +29,8 @@ At the end of the course, the student will use strategies that promote the devel
 [[L - Module 1 Listening Begins Before the Audio]]
 [[L - Module 2 Following the Rhythm of Everyday Life]]
 [[L - Module 3 Finding Your Way Through Campus Talk]]
-[[L - Module 4 Turning Short Messages into Usable Information]]
-[[L - Module 5 Listening with a Study Purpose]]
+[[Listening I - Module 4 Turning Short Messages into Usable Information]]
+[[Listening I - Module 5 Listening with a Study Purpose]]
 [[Listening I Module 6 - Hearing Preferences, Opinions, and Order]]
 
 # Methodology

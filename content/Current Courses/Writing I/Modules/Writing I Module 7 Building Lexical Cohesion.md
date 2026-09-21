@@ -1,19 +1,19 @@
 ---
 type: Module
-title: "W-Chapter 7: Building Lexical Cohesion"
+title: "Writing I Module 7: Building Lexical Cohesion"
 status: InBox
 unit: "[Writing I Unit II: Everyday Experiences](Writing%20I%20Unit%20II%20Everyday%20Experiences.md)"
 courseS: "[[60 Public/Website/Current Courses/Writing I/index]]"
 endDate: 2026-12-17
 startDate: 2026-08-10
-banner:
+banner: https://i.pinimg.com/originals/77/61/34/776134d7a006f61002d27271041734a3.jpg
 gh-publish: true
 gh-path: content/Current Courses/Writing I/Modules
-gh-published-url: "https://bnleez1.github.io/PKM/current-courses/writing-i/modules/w-chapter-7-building-lexical-cohesion"
+gh-published-url: https://bnleez1.github.io/PKM/current-courses/writing-i/modules/w-chapter-7-building-lexical-cohesion
 ---
-
-# W-Chapter 7: Building Lexical Cohesion
-
+[[W - Module 6 Connecting Everyday Experiences]]
+[[W-Chapter 8 Revising with Evidence]]
+# Writing I Module 7: Building Lexical Cohesion
 
 ⚡️ Using repetition, reference, and feedback to connect a narrative
 
@@ -23,29 +23,20 @@ gh-published-url: "https://bnleez1.github.io/PKM/current-courses/writing-i/modul
 ## Essential understanding(s)
 
 - How does lexical cohesion help readers follow a paragraph?
-
 - How can writers use AI feedback without giving up responsibility for their text?
 
 ## Guiding Questions
 
 - When does repetition support clarity, and when does it become unnecessary?
-
 - How can pronouns refer clearly to people, objects, or ideas?
-
 - What questions should a peer or AI tool answer about a completed draft?
-
 - How can a revision trail demonstrate critical decision-making?
-
 ## Learning outcomes
 
 - Identify examples of controlled repetition, reference, and related vocabulary in a paragraph.
-
 - Revise unclear pronoun references and unnecessary repetition.
-
 - Give peer feedback using specific A2-level criteria.
-
 - Use authorized GenAI only after drafting and only for limited feedback.
-
 - Document accepted and rejected suggestions with brief reasons.
 
 ## Key concepts and vocabulary
@@ -89,6 +80,7 @@ Create a cohesion map by writing the main topic word in the center of a page and
 
 Keep the original draft and make a simple record with four parts: the issue, the suggestion, your decision, and your reason. For example: “Repeated phone five times; AI suggested device; rejected because device is less specific and not a word I normally use.” Another entry might say: “Pronoun it had no clear antecedent; peer suggested repeating the app; accepted because the meaning is clearer.” The revision trail shows that feedback informed your thinking but did not control it. Submit it with the next revised version.
 
+[[Writing I Module 7 Note]]
 ## 🗓️ Monday
 
 ## 🗓️ Tuesday

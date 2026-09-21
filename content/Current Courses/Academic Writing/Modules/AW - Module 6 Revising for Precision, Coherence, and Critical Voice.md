@@ -11,6 +11,8 @@ gh-publish: true
 gh-path: content/Current Courses/Academic Writing/Modules
 gh-published-url: "https://bnleez1.github.io/PKM/current-courses/academic-writing/modules/aw-module-6-revising-for-precision-coherence-and-critical-voice"
 ---
+[[AW-Module 5 Integrating Sources and Building Arguments]]
+[[Academic Writing Module 7 Reading Sources Critically]]
 # Academic Writing Module 6: Revising for Precision, Coherence, and Critical Voice
 
 ⚡️ Transforming a complete article-review draft through human-led revision

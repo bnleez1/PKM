@@ -1,6 +1,6 @@
 ---
 type: Module
-title: "L - Module 4: Turning Short Messages into Usable Information"
+title: "Listening I - Module 4: Turning Short Messages into Usable Information"
 status: InBox
 unit: "[Listening I Unit I: Building a Foundation](Listening%20I%20Unit%20I%20Building%20a%20Foundation.md)"
 courseS: "[[60 Public/Website/Current Courses/Listening I/index]]"
@@ -9,9 +9,11 @@ startDate: 2026-08-10
 banner:
 gh-publish: true
 gh-path: content/Current Courses/Listening I/Modules
-gh-published-url: "https://bnleez1.github.io/PKM/current-courses/listening-i/modules/l-module-4-turning-short-messages-into-usable-information"
+gh-published-url: https://bnleez1.github.io/PKM/current-courses/listening-i/modules/l-module-4-turning-short-messages-into-usable-information
 ---
-# L - Module 4: Turning Short Messages into Usable Information
+[[L - Module 3 Finding Your Way Through Campus Talk]]
+[[Listening I - Module 5 Listening with a Study Purpose]]
+# Listening I - Module 4: Turning Short Messages into Usable Information
 
 *Study habits shape when, where, and how learners prepare for classes, complete assignments, and review information. When you listen to someone describe a study routine, you may need to identify frequency, sequence, location, duration, distractions, and the reasons behind particular choices. This module brings together the complete before-during-after listening cycle developed in Unit I. You will prepare with predictions, listen first for the overall routine, listen again for selected details, and organize what you hear in a chart, timeline, or comparison. The week also culminates in Listening Comprehension Project 1, which asks you to demonstrate not only what you understood but how you reached that understanding. Any authorized GenAI preparation must remain separate from the listening and must be documented transparently.*
 
