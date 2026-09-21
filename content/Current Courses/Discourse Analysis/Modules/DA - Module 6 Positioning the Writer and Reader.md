@@ -11,7 +11,7 @@ gh-path: content/Current Courses/Discourse Analysis/Modules
 gh-published-url: https://bnleez1.github.io/PKM/current-courses/discourse-analysis/modules/da-module-6-positioning-the-writer-and-reader
 ---
 [[DA - Module 5 Time, Viewpoint, and Narrative Movement]]
-[[DA - Module 7 Doing Things with Words]]
+[[Discourse Analysis Module 7 - Doing Things with Words]]
 # Discourse Analysis Module 6: Positioning the Writer and Reader: Modality, Stance, Register, and AI-Supported Revision
 
 > [!abstract]- ⚡ Module Overview
