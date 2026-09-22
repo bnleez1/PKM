@@ -126,7 +126,7 @@ icon: 🛩️
 > > **What evidence supports your interpretation of what an utterance is doing?**
 > 1.  **On your own (OYO)**: Read main chapter content above.
 > 2. **OYO**: Read **Paltridge (2022): Ch. 3, §§3.1–3.3.2, pp. 44–47** and **Celce-Murcia & Olshtain (2000): Ch. 2, pp. 19–25**.
-> 3. We'll start [[Tuesday, September 22, 2026]] with [DA_Week_7_Tuesday_Integrated_Texts Only 1.docx](https://eduuaa.sharepoint.com/:w:/s/DiscourseAnalysis2026/IQByYtUxAatpRrQKrioFRFeyASdoy9ZetgVpXImgJgLqlQE?e=NK7w1w). 
+> 3. We'll start with [DA_Week_7_Tuesday_Integrated_Texts Only 1.docx](https://eduuaa.sharepoint.com/:w:/s/DiscourseAnalysis2026/IQByYtUxAatpRrQKrioFRFeyASdoy9ZetgVpXImgJgLqlQE?e=NK7w1w). 
 > 4. **For tomorrow**: Bring two notes with you to class tomorrow: one idea from the reading that clarified speech acts and one example that still seems ambiguous.
 > 5. **Note**: For any missed assignments, you will have an opportunity to make up up to three missed assignments throughout the semester. You decide which three assignments your updated grade will be applied to.
 

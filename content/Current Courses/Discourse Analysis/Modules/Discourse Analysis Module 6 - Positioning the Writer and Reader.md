@@ -8,7 +8,7 @@ courseS: "[[60 Public/Website/Current Courses/Discourse Analysis/index]]"
 banner: https://wallup.net/wp-content/uploads/2016/01/200876-nature-landscape-water.jpg
 gh-publish: true
 gh-path: content/Current Courses/Discourse Analysis/Modules
-gh-published-url: https://bnleez1.github.io/PKM/current-courses/discourse-analysis/modules/da-module-6-positioning-the-writer-and-reader
+gh-published-url: https://bnleez1.github.io/PKM/current-courses/discourse-analysis/modules/discourse-analysis-module-6-positioning-the-writer-and-reader
 ---
 [[DA - Module 5 Time, Viewpoint, and Narrative Movement]]
 [[Discourse Analysis Module 7 - Doing Things with Words]]
