@@ -12,7 +12,7 @@ gh-path: content/Current Courses/Discourse Analysis/Modules
 gh-published-url: "https://bnleez1.github.io/PKM/current-courses/discourse-analysis/modules/da-module-5-time-viewpoint-and-narrative-movement"
 ---
 [[DA - Module 4 Theme, Rheme, and the Flow of Information]]
-[[DA - Module 6 Positioning the Writer and Reader]]
+[[DA Module 6_Positioning the Writer and Reader]]
 # Discourse Analysis Module 5: Time, Viewpoint, and Narrative Movement
 
 **⚡ Understanding the discourse functions of tense and aspect beyond sentence-level accuracy**

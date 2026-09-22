@@ -37,8 +37,19 @@ Upon completion of the semester, the student will analyze oral and written texts
 
 [Discourse Analysis Modules](../Modules/Discourse%20Analysis%20Modules.csv)
 
+# Learning Modules
+
+- [[DA - Module 1 Entering the World of Discourse]]
+- [[DA - Module 2 Speaking, Writing, and Communicative Purpose]]
+- [[DA - Module 3 How Texts Hold Together]]
+- [[DA - Module 4 Theme, Rheme, and the Flow of Information]]
+- [[DA - Module 5 Time, Viewpoint, and Narrative Movement]]
+- [[DA Module 6_Positioning the Writer and Reader]]
+- [[DA Module 7 - Doing Things with Words]]
+
 # Methodology
 
+The course methodology promotes a student-centered learning environment in which dynamic lectures, guided inquiry, and collaborative interaction support the development of critical reading, reflective thinking, and discourse-analysis skills. Students will participate in individual, pair, small-group, and whole-class activities based on authentic written, spoken, digital, and multi-modal texts. The instructor will facilitate discussion, model analytical procedures, and provide contextualized learning experiences that connect theoretical concepts with practical applications. Through project-based learning, students will identify relevant questions, collect and organize discourse data, apply appropriate analytical frameworks, and communicate evidence-based findings. When authorized, generative artificial intelligence may support brainstorming, pattern identification, comparison of interpretations, and preliminary analysis. Students will critically evaluate and verify AI-generated content rather than accept it uncritically. By applying linguistic knowledge, pedagogical reasoning, collaboration, and reflection, students will develop analytical competence and gain a transparent understanding of discourse analysis from the perspectives of both language learners and future English language educators.
 # Assessment
 
 | Descriptive essay (including pre-writing work, draft, and final essay) – Five weeks  | 25% |

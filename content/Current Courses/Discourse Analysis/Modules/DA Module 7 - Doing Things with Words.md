@@ -13,7 +13,7 @@ gh-published-url: https://bnleez1.github.io/PKM/current-courses/discourse-analys
 icon-image: 60 Public/Website/Assets/arrow flow chart.png
 icon: 🛩️
 ---
-[[DA - Module 6 Positioning the Writer and Reader]]
+[[DA Module 6_Positioning the Writer and Reader]]
 [[DA - Module 8 The Architecture of Conversation]]
 
 > [!goal]- # Discourse Analysis Module 7 - Doing Things with Words

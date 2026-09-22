@@ -80,28 +80,11 @@ gh-published-url: https://bnleez1.github.io/PKM/current-courses/listening-i/modu
 > >
 
 
-
-> [!question]- CENTRAL FOCUS
->
-> What does the speaker want the other person to do?
-> Which details help you understand that message?
->
-> > [!question]- Brainstorm Food Vocabulary
-> >
-> > Four corners: **MAIN MESSAGE** | **FOOD EXAMPLE** | **PROBLEM / EXCUSE** | **NOT NEEDED**
-
-
-
-> [!Goal]- Tuesday
-> 1. asdfasdf
-> 2. asdfafsd
-> 
-> > [!Note]- Text 1
-> > asdf
-> > asdf
->
-
->
+> [!Goal]- Tuesday - Retell a story
+> 1. Listen to a story.
+> 2. Identify phrasal verbs.
+> 3. Identify idiomatic expressions
+> 4. Retell story.
 
 
 
