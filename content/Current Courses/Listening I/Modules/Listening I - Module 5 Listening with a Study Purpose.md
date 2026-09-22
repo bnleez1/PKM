@@ -9,7 +9,7 @@ startDate: 2026-08-10
 banner: https://institute.careerguide.com/wp-content/uploads/2023/04/2023-4-3.jpg
 gh-publish: true
 gh-path: content/Current Courses/Listening I/Modules
-gh-published-url: https://bnleez1.github.io/PKM/current-courses/listening-i/modules/l-module-5-listening-with-a-study-purpose
+gh-published-url: "https://bnleez1.github.io/PKM/current-courses/listening-i/modules/listening-i-module-5-listening-with-a-study-purpose"
 ---
 [[Listening I - Module 4 Turning Short Messages into Usable Information]]
 [[Listening I Module 6 - Hearing Preferences, Opinions, and Order]]

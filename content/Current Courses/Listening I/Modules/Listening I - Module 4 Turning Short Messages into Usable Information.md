@@ -9,7 +9,7 @@ startDate: 2026-08-10
 banner:
 gh-publish: true
 gh-path: content/Current Courses/Listening I/Modules
-gh-published-url: https://bnleez1.github.io/PKM/current-courses/listening-i/modules/l-module-4-turning-short-messages-into-usable-information
+gh-published-url: "https://bnleez1.github.io/PKM/current-courses/listening-i/modules/listening-i-module-4-turning-short-messages-into-usable-information"
 ---
 [[L - Module 3 Finding Your Way Through Campus Talk]]
 [[Listening I - Module 5 Listening with a Study Purpose]]

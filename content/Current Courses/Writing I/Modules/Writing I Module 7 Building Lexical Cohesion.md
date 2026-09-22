@@ -9,7 +9,7 @@ startDate: 2026-08-10
 banner: https://i.pinimg.com/originals/77/61/34/776134d7a006f61002d27271041734a3.jpg
 gh-publish: true
 gh-path: content/Current Courses/Writing I/Modules
-gh-published-url: https://bnleez1.github.io/PKM/current-courses/writing-i/modules/w-chapter-7-building-lexical-cohesion
+gh-published-url: "https://bnleez1.github.io/PKM/current-courses/writing-i/modules/writing-i-module-7-building-lexical-cohesion"
 ---
 [[W - Module 6 Connecting Everyday Experiences]]
 [[W-Chapter 8 Revising with Evidence]]

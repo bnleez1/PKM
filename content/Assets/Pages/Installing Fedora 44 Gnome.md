@@ -14,7 +14,6 @@ gh-path: content/Assets/Pages
 gh-published: true
 gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Installing Fedora 44 Gnome
 ---
-
 # Installing Fedora 44 Gnome
 
 - Installing SyncThing on two PCs

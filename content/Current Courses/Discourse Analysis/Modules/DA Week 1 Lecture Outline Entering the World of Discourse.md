@@ -16,7 +16,7 @@ coverImage:
 gh-publish: true
 gh-path: content/Current Courses/Discourse Analysis/Modules
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Discourse Analysis/Modules/DA Week 1 Lecture Outline Entering the World of Discourse
+gh-published-url: "https://bnleez1.github.io/PKM/current-courses/discourse-analysis/modules/da-week-1-lecture-outline-entering-the-world-of-discourse"
 ---
 
 # DA Week 1 Lecture Outline: Entering the World of Discourse

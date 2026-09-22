@@ -22,7 +22,7 @@ note: []
 gh-publish: true
 gh-path: content/Current Courses/Academic Writing/Modules
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Academic Writing/Modules/Academic Writing Module 17
+gh-published-url: "https://bnleez1.github.io/PKM/current-courses/academic-writing/modules/academic-writing-module-17"
 ---
 
 # Academic Writing Module 17

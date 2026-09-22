@@ -20,7 +20,7 @@ grouping:
 gh-publish: true
 gh-path: content/Current Courses/Listening I/Assignments
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Listening I/Assignments/Listening CAADI Worksheet 2
+gh-published-url: "https://bnleez1.github.io/PKM/current-courses/listening-i/assignments/listening-caadi-worksheet-2"
 date: 2026-08-28T00:00:00.000Z
 ---
 

@@ -9,7 +9,7 @@ startDate: 2026-08-10
 banner: https://wallup.net/wp-content/uploads/2016/01/111509-landscape-nature.jpg
 gh-publish: true
 gh-path: content/Current Courses/Listening I/Modules
-gh-published-url: "https://bnleez1.github.io/PKM/current-courses/listening-i/modules/l-module-6-hearing-preferences-opinions-and-order"
+gh-published-url: "https://bnleez1.github.io/PKM/current-courses/listening-i/modules/listening-i-module-6-hearing-preferences-opinions-and-order"
 ---
 [[Listening I - Module 5 Listening with a Study Purpose]]
 [[Listening I Module 7 - Selecting What Matters in Food Talk]]

@@ -6,7 +6,7 @@ description: Course materials, weekly modules, assignments, and resources for Ac
 gh-publish: true
 gh-path: content/Current Courses/Listening I
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Current Courses/Listening I/index
+gh-published-url: "https://bnleez1.github.io/PKM/current-courses/listening-i"
 ---
 # Listening I
 ![Listening_Writing PROPE Icon](Listening_Writing%20PROPE%20Icon.png)

@@ -9,7 +9,7 @@ startDate: 2026-08-10
 banner: https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.pexels.com%2Fphotos%2F1092730%2Fpexels-photo-1092730.jpeg%3Fcs%3Dsrgb%26dl%3Dpexels-janetrangdoan-1092730.jpg%26fm%3Djpg&f=1&nofb=1&ipt=b3bd6d4170293b65665e1063d064e290401f3a2c2211b0b83cbd1cc4dd838be0
 gh-publish: true
 gh-path: content/Current Courses/Listening I/Modules
-gh-published-url: https://bnleez1.github.io/PKM/current-courses/listening-i/modules/l-chapter-7-selecting-what-matters-in-digital-talk
+gh-published-url: "https://bnleez1.github.io/PKM/current-courses/listening-i/modules/listening-i-module-7-selecting-what-matters-in-food-talk"
 ---
 [[Listening I Module 6 - Hearing Preferences, Opinions, and Order]]
 
