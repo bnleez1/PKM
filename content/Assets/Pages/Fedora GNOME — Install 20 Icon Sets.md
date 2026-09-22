@@ -7,7 +7,7 @@ notes: []
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/assets/pages/top-20-icon-themes-for-fedora-gnome
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/fedora-gnome-%E2%80%94-install-20-icon-sets"
 banner: https://cdn.pixabay.com/photo/2022/09/27/19/44/ai-generated-7483569_1280.jpg
 ---
 # Fedora GNOME — Install 20 Icon Sets

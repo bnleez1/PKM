@@ -5,7 +5,7 @@ tags:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/GenAI to review 1,000-word excerpts (academic text)
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/genai-to-review-1,000-word-excerpts-(academic-text)"
 ---
 
 # GenAI to review 1,000-word excerpts (academic text)

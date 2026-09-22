@@ -5,7 +5,7 @@ tags:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Parts of speech (aka word classes)
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/parts-of-speech-(aka-word-classes)"
 ---
 
 # Parts of speech (aka word classes)

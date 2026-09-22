@@ -5,7 +5,7 @@ notes: []
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/VF - verb phrase formation is incorrect
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/vf---verb-phrase-formation-is-incorrect"
 ---
 
 # VF - verb phrase formation is incorrect

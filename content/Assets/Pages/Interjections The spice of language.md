@@ -5,7 +5,7 @@ tags:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Interjections The spice of language
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/interjections-the-spice-of-language"
 ---
 
 # Interjections: The spice of language

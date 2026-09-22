@@ -5,7 +5,7 @@ tags:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Lesson Plan Tutorial Query
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/lesson-plan-tutorial-query"
 ---
 
 # Lesson Plan Tutorial Query

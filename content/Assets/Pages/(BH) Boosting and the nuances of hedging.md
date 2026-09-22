@@ -7,7 +7,7 @@ notes: []
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/(BH) Boosting and the nuances of hedging
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/(bh)-boosting-and-the-nuances-of-hedging"
 ---
 
 # (BH) Boosting and the nuances of hedging

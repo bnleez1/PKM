@@ -5,7 +5,7 @@ tags:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Transitioning From a First Draft to a Final Draft
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/transitioning-from-a-first-draft-to-a-final-draft"
 ---
 
 # Transitioning From a First Draft to a Final Draft

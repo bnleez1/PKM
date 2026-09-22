@@ -6,7 +6,7 @@ notes: []
 gh-publish: true
 gh-path:
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/New Page Template
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/home-pc---publish-obsidian-to-github-from-inside-obsidian"
 banner: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihLwYOhSwIlJjyWIIxe17o67-c6IYoBRb0cY9D2rx3AASHh6fhIZmNfWS4j7fFi1-SKRjNKRCCLb_6gOyI_Kl7cC0e04SHL9GQQSU-ezncN1Eu2fVE-RQ-zDhEXi7DutO0LpkJN6WR5iDSA7qgezXmxaNs6ENgjH7rJXj52CKU3kEIMhME8KKuxv2yOGI/s1080/rainbow-obsidian.jpg
 ---
 Here is a reusable **Home PC tutorial** that reproduces the office setup as closely as possible.

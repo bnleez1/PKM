@@ -4,7 +4,7 @@ tags: []
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Installing Ubuntu 2604 LTS (1)
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/installing-ubuntu-2604-lts-(1)"
 ---
 
 # Installing Ubuntu 26.04 LTS

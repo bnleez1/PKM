@@ -5,7 +5,7 @@ tags:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Situational questions when doing research
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/situational-questions-when-doing-research"
 ---
 
 # Situational questions when doing research

@@ -6,7 +6,7 @@ tags:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Action Plan Designs for Three-Tier Intensive RTI Support
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/action-plan-designs-for-three-tier-intensive-rti-support"
 ---
 
 # Action Plan Designs for Three-Tier Intensive RTI Support

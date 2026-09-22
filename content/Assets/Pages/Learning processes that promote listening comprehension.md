@@ -5,7 +5,7 @@ tags:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Learning processes that promote listening comprehension
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/learning-processes-that-promote-listening-comprehension"
 ---
 
 # Learning processes that promote listening comprehension

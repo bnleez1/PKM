@@ -4,7 +4,7 @@ tags: []
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Differences between DI and UDL
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/differences-between-di-and-udl"
 ---
 
 # Differences between DI and UDL

@@ -5,7 +5,7 @@ tags:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Installing Zorin 181
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/installing-zorin-181"
 ---
 
 # Installing Zorin 18.1

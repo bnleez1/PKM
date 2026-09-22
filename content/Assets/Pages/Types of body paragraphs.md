@@ -5,7 +5,7 @@ tags:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Types of body paragraphs
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/types-of-body-paragraphs"
 ---
 
 # Types of body paragraphs

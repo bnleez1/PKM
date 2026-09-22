@@ -5,7 +5,7 @@ tags:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Understanding Conditionals in English A Comprehensive Guide
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/understanding-conditionals-in-english-a-comprehensive-guide"
 ---
 
 # Understanding Conditionals in English: A Comprehensive Guide

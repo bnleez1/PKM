@@ -5,7 +5,7 @@ tags:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/ELT Cast 127 TOEFL Vocabulary and Reading Preparation using AI (Copy)
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/elt-cast-127-toefl-vocabulary-and-reading-preparation-using-ai-(copy)"
 ---
 
 # ELT Cast 127: TOEFL Vocabulary and Reading Preparation using AI (Copy)

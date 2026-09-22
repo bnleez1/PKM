@@ -5,7 +5,7 @@ tags:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Behind the Syllabus Podcast
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/behind-the-syllabus-podcast"
 ---
 
 # Behind the Syllabus Podcast

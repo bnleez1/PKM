@@ -5,7 +5,7 @@ tags:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Evaluación del curso de inducción al servicio social - UAA
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/evaluaci%C3%B3n-del-curso-de-inducci%C3%B3n-al-servicio-social---uaa"
 ---
 
 # Evaluación del curso de inducción al servicio social - UAA

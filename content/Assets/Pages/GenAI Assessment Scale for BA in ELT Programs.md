@@ -7,7 +7,7 @@ tags:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/GenAI Assessment Scale for BA in ELT Programs
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/genai-assessment-scale-for-ba-in-elt-programs"
 ---
 
 # GenAI Assessment Scale for BA in ELT Programs

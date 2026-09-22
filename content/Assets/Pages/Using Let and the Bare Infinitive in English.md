@@ -5,7 +5,7 @@ tags:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Using Let and the Bare Infinitive in English
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/using-let-and-the-bare-infinitive-in-english"
 ---
 
 # Using "Let" and the Bare Infinitive in English

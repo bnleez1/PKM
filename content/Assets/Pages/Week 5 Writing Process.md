@@ -7,7 +7,7 @@ tags:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Week 5 Writing Process
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/week-5-writing-process"
 ---
 
 # Week 5: Writing Process

@@ -5,7 +5,7 @@ tags:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/From Data to Defensible Themes
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/from-data-to-defensible-themes"
 ---
 
 # From Data to Defensible Themes

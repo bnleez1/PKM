@@ -5,7 +5,7 @@ tags:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Examples of figurative language
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/examples-of-figurative-language"
 ---
 
 # Examples of figurative language

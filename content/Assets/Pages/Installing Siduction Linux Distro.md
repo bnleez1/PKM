@@ -5,7 +5,7 @@ tags:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Installing Siduction Linux Distro
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/installing-siduction-linux-distro"
 ---
 
 # Installing Siduction Linux Distro

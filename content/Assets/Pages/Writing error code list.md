@@ -5,7 +5,7 @@ tags:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Writing error code list
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/writing-error-code-list"
 ---
 
 # Writing error code list

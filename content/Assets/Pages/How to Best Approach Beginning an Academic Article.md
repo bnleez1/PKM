@@ -5,7 +5,7 @@ tags:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/How to Best Approach Beginning an Academic Article
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/how-to-best-approach-beginning-an-academic-article"
 ---
 
 # How to Best Approach Beginning an Academic Article

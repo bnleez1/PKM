@@ -13,7 +13,7 @@ coverImage: "[Untitled](../Images/Untitled%20(29).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/How to format your academic paper in APA style (7th edition) using Microsoft Wor
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/how-to-format-your-academic-paper-in-apa-style-(7th-edition)-using-microsoft-wor"
 ---
 
 # How to format your academic paper in APA style (7th edition) using Microsoft Word

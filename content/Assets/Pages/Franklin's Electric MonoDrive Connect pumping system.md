@@ -5,7 +5,7 @@ tags:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Franklin's Electric MonoDrive Connect pumping system
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/franklin%27s-electric-monodrive-connect-pumping-system"
 ---
 
 # Franklin's Electric MonoDrive Connect pumping system

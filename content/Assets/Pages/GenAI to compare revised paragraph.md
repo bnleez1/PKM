@@ -5,7 +5,7 @@ tags:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/GenAI to compare revised paragraph
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/genai-to-compare-revised-paragraph"
 ---
 
 # GenAI to compare revised paragraph

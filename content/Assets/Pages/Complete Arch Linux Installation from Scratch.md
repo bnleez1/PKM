@@ -6,7 +6,7 @@ notes: []
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/assets/pages/untitled
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/complete-arch-linux-installation-from-scratch"
 banner: https://cdn.pixabay.com/photo/2022/09/27/19/44/ai-generated-7483569_1280.jpg
 ---
 # Complete Arch Linux Installation from Scratch: UEFI, KDE Plasma, systemd-boot, and NetworkManager

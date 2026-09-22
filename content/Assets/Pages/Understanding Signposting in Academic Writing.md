@@ -5,7 +5,7 @@ tags:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Understanding Signposting in Academic Writing
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/understanding-signposting-in-academic-writing"
 ---
 
 # Understanding Signposting in Academic Writing

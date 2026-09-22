@@ -7,7 +7,7 @@ notes: []
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/(CN) Text cohesion vs text coherence Unraveling the threads of meaning
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/(cn)-text-cohesion-vs-text-coherence-unraveling-the-threads-of-meaning"
 ---
 
 # (CN) Text cohesion vs. text coherence: Unraveling the threads of meaning

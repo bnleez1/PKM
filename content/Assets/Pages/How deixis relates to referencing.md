@@ -5,7 +5,7 @@ notes: []
 gh-publish: true
 gh-path:
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/New Page Template
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/how-deixis-relates-to-referencing"
 banner: https://scx2.b-cdn.net/gfx/news/hires/2019/2-nature.jpg
 ---
 # How Deixis Relates to Referencing?

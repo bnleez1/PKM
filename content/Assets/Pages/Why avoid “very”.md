@@ -5,7 +5,7 @@ tags:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Why avoid “very”
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/why-avoid-%E2%80%9Cvery%E2%80%9D"
 ---
 
 # Why avoid “very”?

@@ -7,7 +7,7 @@ notes: []
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/(SS) Common sentence structures in English
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/(ss)-common-sentence-structures-in-english"
 ---
 
 # (SS) Common sentence structures in English

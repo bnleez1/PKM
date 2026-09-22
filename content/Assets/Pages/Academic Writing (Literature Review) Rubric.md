@@ -7,7 +7,7 @@ tags:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Academic Writing (Literature Review) Rubric
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/academic-writing-(literature-review)-rubric"
 ---
 # Academic Writing (Literature Review) Rubric
 

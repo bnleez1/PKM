@@ -5,7 +5,7 @@ tags:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Unit I Crafting a Research Article for Academic Journals
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/unit-i-crafting-a-research-article-for-academic-journals"
 ---
 
 # Unit I: Crafting a Research Article for Academic Journals

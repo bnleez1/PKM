@@ -5,7 +5,7 @@ tags:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Common Sentence Patterns in English
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/common-sentence-patterns-in-english"
 ---
 
 # Common Sentence Patterns in English

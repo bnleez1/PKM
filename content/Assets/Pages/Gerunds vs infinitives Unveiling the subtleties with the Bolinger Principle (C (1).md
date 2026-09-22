@@ -5,7 +5,7 @@ tags:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Gerunds vs infinitives Unveiling the subtleties with the Bolinger Principle (C (1)
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/gerunds-vs-infinitives-unveiling-the-subtleties-with-the-bolinger-principle-(c-(1)"
 ---
 
 # Gerunds vs. infinitives: Unveiling the subtleties with the Bolinger Principle (Copy)

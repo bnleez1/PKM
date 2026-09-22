@@ -5,7 +5,7 @@ tags:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Formatting headings (APA, 7th edition)
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/formatting-headings-(apa,-7th-edition)"
 ---
 
 # Formatting headings (APA, 7th edition)

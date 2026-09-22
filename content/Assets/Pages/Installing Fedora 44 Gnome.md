@@ -12,7 +12,7 @@ coverImage: "[Untitled](../Images/Untitled%20(28).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Installing Fedora 44 Gnome
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/installing-fedora-44-gnome"
 ---
 # Installing Fedora 44 Gnome
 

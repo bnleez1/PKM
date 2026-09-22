@@ -7,7 +7,7 @@ notes: []
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/(AGREE) Subject-verb agreement
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/(agree)-subject-verb-agreement"
 ---
 
 # (AGREE) Subject-verb agreement

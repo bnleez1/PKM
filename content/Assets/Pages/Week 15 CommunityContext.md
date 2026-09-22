@@ -7,7 +7,7 @@ tags:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Week 15 CommunityContext
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/week-15-communitycontext"
 ---
 
 # Week 15: Community/Context

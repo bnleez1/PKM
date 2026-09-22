@@ -6,7 +6,7 @@ notes: []
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/(AP) Apostrophe
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/tense,-aspect,-and-modality-as-discourse-resources"
 banner: https://cdn.wallpapersafari.com/13/85/8a4Nsp.jpg
 ---
 # Tense, Aspect, and Modality as Discourse Resources

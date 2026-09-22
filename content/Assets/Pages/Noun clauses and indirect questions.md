@@ -5,7 +5,7 @@ tags:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Noun clauses and indirect questions
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/noun-clauses-and-indirect-questions"
 ---
 
 # Noun clauses and indirect questions

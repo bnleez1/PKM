@@ -5,7 +5,7 @@ tags:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Acceptable fonts (APA, 7th edition)
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/acceptable-fonts-(apa,-7th-edition)"
 ---
 
 # Acceptable fonts (APA, 7th edition)

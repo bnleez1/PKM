@@ -5,7 +5,7 @@ tags:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Reference as a Form of Grammatical Cohesion
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/reference-as-a-form-of-grammatical-cohesion"
 ---
 # Reference as a Form of Grammatical Cohesion
 

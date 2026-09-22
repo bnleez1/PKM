@@ -5,7 +5,7 @@ tags:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Collocations in English The art of natural word pairing
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/collocations-in-english-the-art-of-natural-word-pairing"
 ---
 
 # Collocations in English: The art of natural word pairing

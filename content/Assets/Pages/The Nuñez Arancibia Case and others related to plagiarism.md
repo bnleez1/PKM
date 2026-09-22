@@ -7,7 +7,7 @@ tags:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/The Nuñez Arancibia Case and others related to plagiarism
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/the-nu%C3%B1ez-arancibia-case-and-others-related-to-plagiarism"
 ---
 
 # The Nuñez Arancibia Case and others related to plagiarism

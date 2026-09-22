@@ -7,7 +7,7 @@ notes: []
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/(WP) Understanding English punctuation
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/(wp)-understanding-english-punctuation"
 ---
 
 # (WP) Understanding English punctuation

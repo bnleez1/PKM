@@ -4,7 +4,7 @@ tags: []
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Three-Tier RTI Template (Expanded Version)
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/three-tier-rti-template-(expanded-version)"
 ---
 
 # Three-Tier RTI Template (Expanded Version)

@@ -5,7 +5,7 @@ tags:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Crafting a Results and Discussion Section for a Thesis Paper
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/crafting-a-results-and-discussion-section-for-a-thesis-paper"
 ---
 
 # Crafting a Results and Discussion Section for a Thesis Paper

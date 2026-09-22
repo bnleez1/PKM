@@ -4,7 +4,7 @@ tags: []
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Guidelines on Mechanics of Style (APA)
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/guidelines-on-mechanics-of-style-(apa)"
 ---
 
 # Guidelines on Mechanics of Style (APA)

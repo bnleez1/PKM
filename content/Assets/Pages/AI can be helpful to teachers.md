@@ -4,7 +4,7 @@ tags: []
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/AI can be helpful to teachers
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/ai-can-be-helpful-to-teachers"
 ---
 
 # AI can be helpful to teachers

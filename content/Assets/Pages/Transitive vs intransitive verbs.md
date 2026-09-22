@@ -5,7 +5,7 @@ tags:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Transitive vs intransitive verbs
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/transitive-vs-intransitive-verbs"
 ---
 
 # Transitive vs. intransitive verbs

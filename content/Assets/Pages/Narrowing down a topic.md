@@ -5,7 +5,7 @@ tags:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Narrowing down a topic
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/narrowing-down-a-topic"
 ---
 
 # Narrowing down a topic

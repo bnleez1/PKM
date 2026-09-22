@@ -8,7 +8,7 @@ notes: []
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/UAA language departmental plagiarism policy 2024 (under revision)
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/uaa-language-departmental-plagiarism-policy-2024-(under-revision)"
 ---
 
 # UAA language departmental plagiarism policy 2024 (under revision)

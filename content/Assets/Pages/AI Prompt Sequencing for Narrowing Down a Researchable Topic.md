@@ -4,7 +4,7 @@ tags: []
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/AI Prompt Sequencing for Narrowing Down a Researchable Topic
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/ai-prompt-sequencing-for-narrowing-down-a-researchable-topic"
 ---
 
 # AI Prompt Sequencing for Narrowing Down a Researchable Topic

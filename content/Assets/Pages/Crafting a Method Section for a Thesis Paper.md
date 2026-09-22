@@ -5,7 +5,7 @@ tags:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Crafting a Method Section for a Thesis Paper
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/crafting-a-method-section-for-a-thesis-paper"
 ---
 
 # Crafting a Method Section for a Thesis Paper

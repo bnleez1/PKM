@@ -5,7 +5,7 @@ tags:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Gerunds and possessive forms before gerunds
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/gerunds-and-possessive-forms-before-gerunds"
 ---
 
 # Gerunds and possessive forms before gerunds

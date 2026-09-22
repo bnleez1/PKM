@@ -5,7 +5,7 @@ tags:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Stative verbs Expressing states, not actions
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/stative-verbs-expressing-states,-not-actions"
 ---
 
 # Stative verbs: Expressing states, not actions

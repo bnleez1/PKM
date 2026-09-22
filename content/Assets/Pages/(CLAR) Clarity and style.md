@@ -7,7 +7,7 @@ notes: []
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/(CLAR) Clarity and style
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/(clar)-clarity-and-style"
 ---
 
 # (CLAR) Clarity and style

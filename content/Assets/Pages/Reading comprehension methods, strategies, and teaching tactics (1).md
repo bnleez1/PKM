@@ -5,7 +5,7 @@ tags:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Reading comprehension methods, strategies, and teaching tactics (1)
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/reading-comprehension-methods,-strategies,-and-teaching-tactics-(1)"
 ---
 
 # Reading comprehension methods, strategies, and teaching tactics

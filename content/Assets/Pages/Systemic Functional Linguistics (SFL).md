@@ -5,7 +5,7 @@ notes: []
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Systemic Functional Linguistics (SFL)
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/systemic-functional-linguistics-(sfl)"
 ---
 
 # Systemic Functional Linguistics (SFL)

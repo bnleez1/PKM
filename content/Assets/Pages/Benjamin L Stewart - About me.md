@@ -4,7 +4,7 @@ tags: []
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Benjamin L Stewart - About me
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/benjamin-l-stewart---about-me"
 ---
 
 # Benjamin L. Stewart - About me

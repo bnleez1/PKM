@@ -4,7 +4,7 @@ tags: []
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Unit I Theoretical Framework (backup)
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/unit-i-theoretical-framework-(backup)"
 ---
 
 # Unit I: Theoretical Framework (backup)

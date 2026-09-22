@@ -5,7 +5,7 @@ tags:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Types of TOEFL listening questions
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/types-of-toefl-listening-questions"
 ---
 
 # Types of TOEFL listening questions

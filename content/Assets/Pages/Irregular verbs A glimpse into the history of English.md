@@ -5,7 +5,7 @@ tags:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Irregular verbs A glimpse into the history of English
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/irregular-verbs-a-glimpse-into-the-history-of-english"
 ---
 
 # Irregular verbs: A glimpse into the history of English

@@ -4,7 +4,7 @@ tags: []
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/How to Paraphrase Direct Quotes A Comprehensive Guide
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/how-to-paraphrase-direct-quotes-a-comprehensive-guide"
 ---
 
 # How to Paraphrase Direct Quotes: A Comprehensive Guide

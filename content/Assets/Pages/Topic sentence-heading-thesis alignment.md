@@ -5,7 +5,7 @@ tags:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Topic sentence-heading-thesis alignment
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/topic-sentence-heading-thesis-alignment"
 ---
 
 # Topic sentence-heading-thesis alignment

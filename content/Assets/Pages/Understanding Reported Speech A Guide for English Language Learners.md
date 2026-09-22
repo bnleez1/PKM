@@ -5,7 +5,7 @@ tags:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Understanding Reported Speech A Guide for English Language Learners
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/understanding-reported-speech-a-guide-for-english-language-learners"
 ---
 
 # Understanding Reported Speech: A Guide for English Language Learners

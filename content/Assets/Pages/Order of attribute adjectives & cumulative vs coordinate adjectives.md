@@ -5,7 +5,7 @@ tags:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Order of attribute adjectives & cumulative vs coordinate adjectives
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/order-of-attribute-adjectives--and--cumulative-vs-coordinate-adjectives"
 ---
 
 # Order of attribute adjectives & cumulative vs. coordinate adjectives

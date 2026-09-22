@@ -5,7 +5,7 @@ tags:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/So, Such, Very, and Too A Guide to English Intensifiers
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/so,-such,-very,-and-too-a-guide-to-english-intensifiers"
 ---
 
 # So, Such, Very, and Too: A Guide to English Intensifiers

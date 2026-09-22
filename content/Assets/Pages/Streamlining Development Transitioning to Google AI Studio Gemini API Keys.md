@@ -6,7 +6,7 @@ tags:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Streamlining Development Transitioning to Google AI Studio Gemini API Keys
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/streamlining-development-transitioning-to-google-ai-studio-gemini-api-keys"
 ---
 
 # Streamlining Development: Transitioning to Google AI Studio Gemini API Keys

@@ -6,7 +6,7 @@ tags:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Connectivity issues installing UbuntuDDE
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/connectivity-issues-installing-ubuntudde"
 ---
 
 # Connectivity issues installing UbuntuDDE

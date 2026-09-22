@@ -9,7 +9,7 @@ tags:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Strategies for Enhancing Academic Originality and Precision
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/strategies-for-enhancing-academic-originality-and-precision"
 ---
 
 # Strategies for Enhancing Academic Originality and Precision

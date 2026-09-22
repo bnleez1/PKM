@@ -5,7 +5,7 @@ tags:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Understanding Theme and Rheme in Academic Writing
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/understanding-theme-and-rheme-in-academic-writing"
 ---
 # Understanding Theme and Rheme in Academic Writing
 

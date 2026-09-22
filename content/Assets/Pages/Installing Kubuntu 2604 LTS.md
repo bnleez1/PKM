@@ -12,7 +12,7 @@ coverImage:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Installing Kubuntu 2604 LTS
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/installing-kubuntu-2604-lts"
 ---
 
 # Installing Kubuntu 26.04 LTS

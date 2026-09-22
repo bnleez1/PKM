@@ -6,7 +6,7 @@ notes: []
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/(AP) Apostrophe
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/marked-constructions-as-discourse-resources"
 ---
 # Marked Constructions as Discourse Resources
 

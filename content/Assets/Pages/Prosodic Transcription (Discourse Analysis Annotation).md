@@ -5,7 +5,7 @@ tags:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Prosodic Transcription (Discourse Analysis Annotation)
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/prosodic-transcription-(discourse-analysis-annotation)"
 ---
 
 # Prosodic Transcription (Discourse Analysis Annotation)

@@ -12,7 +12,7 @@ notes: []
 gh-publish: true
 gh-path:
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/New Page Template
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/prompt-for-assessing-an-artical-review"
 banner: https://img.magnific.com/premium-photo/nature-wallpaper-beautiful-nature-wallpaper-4k-nature-wallpapers-hd-nature-wallpaper-green-nature_722194-205.jpg?w=2000
 ---
 I wrote a 250–300 word academic article review. Act as a **reviewer and coach, not a writer**. Do not rewrite my review or add information from the original article.

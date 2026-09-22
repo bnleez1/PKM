@@ -5,7 +5,7 @@ tags:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Active vs passive voice A Writer's guide to clarity and impact
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/active-vs-passive-voice-a-writer%27s-guide-to-clarity-and-impact"
 ---
 
 # Active vs. passive voice: A Writer's guide to clarity and impact

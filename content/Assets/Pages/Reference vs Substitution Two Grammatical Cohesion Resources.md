@@ -5,7 +5,7 @@ tags:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Reference vs Substitution Two Grammatical Cohesion Resources
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/reference-vs-substitution-two-grammatical-cohesion-resources"
 ---
 
 # Reference vs. Substitution: Two Grammatical Cohesion Resources

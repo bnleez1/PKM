@@ -5,7 +5,7 @@ tags:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Reading Strategies for Improving Reading Comprehension
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/reading-strategies-for-improving-reading-comprehension"
 ---
 
 # Reading Strategies for Improving Reading Comprehension

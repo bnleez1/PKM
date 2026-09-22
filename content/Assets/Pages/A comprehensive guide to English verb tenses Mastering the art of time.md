@@ -5,7 +5,7 @@ tags:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/A comprehensive guide to English verb tenses Mastering the art of time
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/a-comprehensive-guide-to-english-verb-tenses-mastering-the-art-of-time"
 ---
 
 # A comprehensive guide to English verb tenses: Mastering the art of time

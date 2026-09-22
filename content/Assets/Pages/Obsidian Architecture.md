@@ -10,7 +10,7 @@ notes: []
 gh-publish: true
 gh-path:
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/New Page Template
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/obsidian-architecture"
 banner: https://wingedsheep.com/content/images/2023/04/wingedsheep_Nature_photograph_by_George_Lucas_and_Melissa_Groo__62f5a5b6-ba64-496f-8ff6-9d30fc57fca8.jpg
 ---
 # Obsidian Architecture

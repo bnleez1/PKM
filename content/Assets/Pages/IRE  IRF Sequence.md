@@ -5,7 +5,7 @@ notes: []
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/IRE  IRF Sequence
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/ire--irf-sequence"
 ---
 
 # IRE / IRF Sequence

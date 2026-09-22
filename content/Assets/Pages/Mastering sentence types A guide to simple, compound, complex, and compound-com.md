@@ -6,7 +6,7 @@ tags:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Mastering sentence types A guide to simple, compound, complex, and compound-com
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/mastering-sentence-types-a-guide-to-simple,-compound,-complex,-and-compound-com"
 ---
 
 # Mastering sentence types: A guide to simple, compound, complex, and compound-complex sentences

@@ -6,7 +6,7 @@ tags:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Student Guide Writing a 250-300 Word Article Review
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/student-guide-writing-a-250-300-word-article-review"
 ---
 
 # Student Guide: Writing a 250-300 Word Article Review

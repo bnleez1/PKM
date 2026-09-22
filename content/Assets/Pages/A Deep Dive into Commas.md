@@ -5,7 +5,7 @@ tags:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/A Deep Dive into Commas
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/a-deep-dive-into-commas"
 ---
 
 # A Deep Dive into Commas

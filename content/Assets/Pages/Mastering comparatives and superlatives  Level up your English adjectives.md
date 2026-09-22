@@ -5,7 +5,7 @@ tags:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Mastering comparatives and superlatives  Level up your English adjectives
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/mastering-comparatives-and-superlatives--level-up-your-english-adjectives"
 ---
 
 # Mastering comparatives and superlatives:  Level up your English adjectives

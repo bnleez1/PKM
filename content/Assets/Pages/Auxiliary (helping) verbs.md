@@ -5,7 +5,7 @@ tags:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Auxiliary (helping) verbs
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/auxiliary-(helping)-verbs"
 ---
 
 # Auxiliary (helping) verbs

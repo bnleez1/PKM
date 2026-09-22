@@ -13,7 +13,7 @@ coverImage: "[Untitled](../Images/Untitled%20(233).md)"
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/How to format headings according to APA
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/how-to-format-headings-according-to-apa"
 ---
 
 # How to format headings according to APA

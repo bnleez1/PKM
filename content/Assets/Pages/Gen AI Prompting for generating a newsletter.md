@@ -4,7 +4,7 @@ tags: []
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Gen AI Prompting for generating a newsletter
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/gen-ai-prompting-for-generating-a-newsletter"
 ---
 
 # Gen AI Prompting for generating a newsletter

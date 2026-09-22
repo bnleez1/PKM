@@ -7,7 +7,7 @@ notes: []
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/assets/pages/untitled
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/toefl-writing-task_15092026"
 banner: https://cdn.pixabay.com/photo/2022/09/27/19/44/ai-generated-7483569_1280.jpg
 ---
 # TOEFL Writing Task_15092026 in [[60 Public/Website/Current Courses/Writing I/Modules/W - Module 6 Connecting Everyday Experiences|W - Module 6 Connecting Everyday Experiences]]

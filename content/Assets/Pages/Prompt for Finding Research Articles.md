@@ -11,7 +11,7 @@ notes: []
 gh-publish: true
 gh-path:
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/New Page Template
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/prompt-for-finding-research-articles"
 banner: https://www.pixelstalk.net/wp-content/uploads/2016/08/Free-Download-Best-HD-Nature-Photos.jpg
 ---
 ## Prompt for Finding Research Articles

@@ -5,7 +5,7 @@ tags:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Embracing one’s originality and process in academic writing A guide for English
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/embracing-one%E2%80%99s-originality-and-process-in-academic-writing-a-guide-for-english"
 ---
 
 # Embracing one’s originality and process in academic writing: A guide for English language learners

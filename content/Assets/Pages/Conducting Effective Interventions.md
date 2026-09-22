@@ -5,7 +5,7 @@ tags:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Conducting Effective Interventions
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/conducting-effective-interventions"
 ---
 
 # Conducting Effective Interventions

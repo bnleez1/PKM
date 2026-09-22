@@ -5,7 +5,7 @@ tags:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Unit III Enhancing Clarity and Impact in Results and Discussion Sections
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/unit-iii-enhancing-clarity-and-impact-in-results-and-discussion-sections"
 ---
 
 # Unit III: Enhancing Clarity and Impact in Results and Discussion Sections

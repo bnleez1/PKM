@@ -7,7 +7,7 @@ tags:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Week 4 Campus Life
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/week-4-campus-life"
 ---
 
 # Week 4: Campus Life

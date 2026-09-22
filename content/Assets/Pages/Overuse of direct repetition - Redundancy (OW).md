@@ -6,7 +6,7 @@ tags:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Overuse of direct repetition - Redundancy (OW)
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/overuse-of-direct-repetition---redundancy-(ow)"
 ---
 
 # Overuse of direct repetition - Redundancy (OW)

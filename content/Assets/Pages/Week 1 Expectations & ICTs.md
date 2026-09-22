@@ -7,7 +7,7 @@ tags:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Week 1 Expectations & ICTs
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/week-1-expectations--and--icts"
 ---
 
 # Week 1: Expectations & ICTs

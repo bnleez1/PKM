@@ -5,7 +5,7 @@ tags:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Overcoming Daily Life Challenges
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/overcoming-daily-life-challenges"
 ---
 
 # Overcoming Daily Life Challenges

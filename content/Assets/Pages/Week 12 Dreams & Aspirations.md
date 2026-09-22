@@ -7,7 +7,7 @@ tags:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Week 12 Dreams & Aspirations
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/week-12-dreams--and--aspirations"
 ---
 
 # Week 12: Dreams & Aspirations

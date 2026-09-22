@@ -8,7 +8,7 @@ notes: []
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Plagiarism The copycat crime in academia and beyond (APA)
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/plagiarism-the-copycat-crime-in-academia-and-beyond-(apa)"
 ---
 
 # Plagiarism: The copycat crime in academia and beyond (APA)

@@ -5,7 +5,7 @@ tags:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/the Greate Vowel Shift
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/the-greate-vowel-shift"
 ---
 
 # the Greate Vowel Shift

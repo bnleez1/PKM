@@ -5,7 +5,7 @@ notes: []
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Multimodal Discourse
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/multimodal-discourse"
 ---
 
 # Multimodal Discourse

@@ -4,7 +4,7 @@ tags: []
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/The difference between an appositive and an absolute phrase
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/the-difference-between-an-appositive-and-an-absolute-phrase"
 ---
 
 # The difference between an appositive and an absolute phrase

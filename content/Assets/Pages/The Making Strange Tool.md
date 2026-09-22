@@ -5,7 +5,7 @@ tags:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/The Making Strange Tool
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/the-making-strange-tool"
 ---
 
 # The Making Strange Tool

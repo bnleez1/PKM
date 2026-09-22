@@ -5,7 +5,7 @@ tags:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Optimizing Listening Strategies at the CEFR A2 Level
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/optimizing-listening-strategies-at-the-cefr-a2-level"
 ---
 
 # Optimizing Listening Strategies at the CEFR A2 Level

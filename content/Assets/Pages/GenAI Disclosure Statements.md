@@ -5,7 +5,7 @@ tags:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/GenAI Disclosure Statements
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/genai-disclosure-statements"
 ---
 
 # GenAI Disclosure Statements

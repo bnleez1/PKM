@@ -5,7 +5,7 @@ tags:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/The Relationships Building Tool
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/the-relationships-building-tool"
 ---
 
 # The Relationships Building Tool

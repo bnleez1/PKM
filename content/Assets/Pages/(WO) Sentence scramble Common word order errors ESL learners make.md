@@ -7,7 +7,7 @@ notes: []
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/(WO) Sentence scramble Common word order errors ESL learners make
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/(wo)-sentence-scramble-common-word-order-errors-esl-learners-make"
 ---
 
 # (WO) Sentence scramble: Common word order errors ESL learners make

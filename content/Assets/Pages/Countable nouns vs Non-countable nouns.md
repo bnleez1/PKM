@@ -5,7 +5,7 @@ tags:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Countable nouns vs Non-countable nouns
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/countable-nouns-vs-non-countable-nouns"
 ---
 
 # Countable nouns vs. Non-countable nouns

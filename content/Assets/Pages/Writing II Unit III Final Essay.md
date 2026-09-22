@@ -5,7 +5,7 @@ tags:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Writing II Unit III Final Essay
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/writing-ii-unit-iii-final-essay"
 ---
 
 # Writing II Unit III Final Essay

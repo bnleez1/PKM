@@ -5,7 +5,7 @@ notes: []
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Transition Relevance Place (TRP)
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/transition-relevance-place-(trp)"
 ---
 
 # Transition Relevance Place (TRP)

@@ -7,7 +7,7 @@ notes: []
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/(GS) Gender-specific (or bias) language
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/(gs)-gender-specific-(or-bias)-language"
 ---
 
 # (GS) Gender-specific (or bias) language

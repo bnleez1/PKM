@@ -6,7 +6,7 @@ tags:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Formatting Word Document according to APA
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/formatting-word-document-according-to-apa"
 ---
 
 # Formatting Word Document according to APA

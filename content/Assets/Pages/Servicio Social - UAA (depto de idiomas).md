@@ -5,7 +5,7 @@ tags:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Servicio Social - UAA (depto de idiomas)
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/servicio-social---uaa-(depto-de-idiomas)"
 ---
 
 # Servicio Social - UAA (depto. de idiomas)

@@ -6,7 +6,7 @@ tags:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Response to Instruction and Intervention (RTI2)
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/response-to-instruction-and-intervention-(rti2)"
 ---
 
 # Response to Instruction and Intervention (RTI2)

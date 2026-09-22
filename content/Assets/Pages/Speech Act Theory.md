@@ -5,7 +5,7 @@ notes: []
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Speech Act Theory
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/speech-act-theory"
 ---
 
 # Speech Act Theory

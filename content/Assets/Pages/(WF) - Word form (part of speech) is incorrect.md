@@ -5,7 +5,7 @@ notes: []
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/(WF) - Word form (part of speech) is incorrect
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/(wf)---word-form-(part-of-speech)-is-incorrect"
 ---
 
 # (WF) - Word form (part of speech) is incorrect

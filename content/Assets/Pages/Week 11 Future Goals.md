@@ -7,7 +7,7 @@ tags:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Week 11 Future Goals
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/week-11-future-goals"
 ---
 
 # Week 11: Future Goals

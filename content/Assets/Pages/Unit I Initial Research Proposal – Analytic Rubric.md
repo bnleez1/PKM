@@ -5,7 +5,7 @@ tags:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Unit I Initial Research Proposal – Analytic Rubric
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/unit-i-initial-research-proposal-%E2%80%93-analytic-rubric"
 ---
 
 # Unit I Initial Research Proposal – Analytic Rubric

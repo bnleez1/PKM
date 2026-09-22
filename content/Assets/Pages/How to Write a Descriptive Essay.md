@@ -4,7 +4,7 @@ tags: []
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/How to Write a Descriptive Essay
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/how-to-write-a-descriptive-essay"
 ---
 
 # How to Write a Descriptive Essay

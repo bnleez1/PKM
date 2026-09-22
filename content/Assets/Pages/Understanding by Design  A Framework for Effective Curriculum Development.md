@@ -5,7 +5,7 @@ tags:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/Understanding by Design  A Framework for Effective Curriculum Development
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/understanding-by-design--a-framework-for-effective-curriculum-development"
 ---
 
 # Understanding by Design:  A Framework for Effective Curriculum Development

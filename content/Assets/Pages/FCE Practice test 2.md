@@ -5,7 +5,7 @@ tags:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/FCE Practice test 2
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/fce-practice-test-2"
 ---
 
 # FCE Practice test 2

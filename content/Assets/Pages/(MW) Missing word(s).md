@@ -7,7 +7,7 @@ notes: []
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/content/Assets/Pages/(MW) Missing word(s)
+gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/(mw)-missing-word(s)"
 ---
 
 # (MW) Missing word(s)
