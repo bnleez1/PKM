@@ -9,7 +9,7 @@ startDate: 2026-08-10
 banner:
 gh-publish: true
 gh-path: content/Current Courses/Discourse Analysis/Modules
-gh-published-url: "https://bnleez1.github.io/PKM/current-courses/discourse-analysis/modules/da-chapter-14-seeing-the-shape-of-a-text"
+gh-published-url: "https://bnleez1.github.io/PKM/current-courses/discourse-analysis/modules/da---chapter-14-seeing-the-shape-of-a-text"
 ---
 
 # DA - Chapter 14: Seeing the Shape of a Text

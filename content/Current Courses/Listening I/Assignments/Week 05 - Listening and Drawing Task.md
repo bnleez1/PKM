@@ -7,7 +7,7 @@ status: "[[In Progress]]"
 banner: https://pngmagic.com/product_images/stunning-nature-landscape-wallpapers-for-laptop-screens_wCh.jpg
 gh-publish: true
 gh-path: content/Current Courses/Listening I/Assignments
-gh-published-url: "https://bnleez1.github.io/PKM/current-courses/listening-i/assignments/week-05-listening-and-drawing-task"
+gh-published-url: "https://bnleez1.github.io/PKM/current-courses/listening-i/assignments/week-05---listening-and-drawing-task"
 date: 2026-09-11
 ---
 # Listening & Drawing Task: Friday Night in the Common Room

@@ -9,7 +9,7 @@ endDate: 2026-09-25
 banner: https://www.thespruce.com/thmb/rzTuUV7tLg-23LyoxqOGvQSSNb8=/3868x0/filters:no_upscale():max_bytes(150000):strip_icc()/mixed-pot-plants--including-coneflowers--rudbeckia---geraniums--pelargonium--and-red-salvia--salvia-coccinea---august-121812803-5b2434f2a9d4f90037517ba3.jpg
 gh-publish: true
 gh-path: content/Current Courses/Discourse Analysis/Modules
-gh-published-url: https://bnleez1.github.io/PKM/current-courses/discourse-analysis/modules/da-module-7-doing-things-with-words
+gh-published-url: "https://bnleez1.github.io/PKM/current-courses/discourse-analysis/modules/da-module-7---doing-things-with-words"
 icon-image: 60 Public/Website/Assets/arrow flow chart.png
 icon: 🛩️
 ---

@@ -9,7 +9,7 @@ startDate: 2026-08-10
 banner: https://cdn.pixabay.com/photo/2022/09/27/19/44/ai-generated-7483569_1280.jpg
 gh-publish: true
 gh-path: content/Current Courses/Academic Writing/Modules
-gh-published-url: "https://bnleez1.github.io/PKM/current-courses/academic-writing/modules/aw-module-6-revising-for-precision-coherence-and-critical-voice"
+gh-published-url: "https://bnleez1.github.io/PKM/current-courses/academic-writing/modules/aw---module-6-revising-for-precision,-coherence,-and-critical-voice"
 ---
 [[AW-Module 5 Integrating Sources and Building Arguments]]
 [[Academic Writing Module 7 Reading Sources Critically]]

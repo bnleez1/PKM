@@ -9,7 +9,7 @@ startDate: 2026-08-10
 banner: https://wallpapercave.com/wp/wp8819684.jpg
 gh-publish: true
 gh-path: content/Current Courses/Discourse Analysis/Modules
-gh-published-url: "https://bnleez1.github.io/PKM/current-courses/discourse-analysis/modules/da-module-5-time-viewpoint-and-narrative-movement"
+gh-published-url: "https://bnleez1.github.io/PKM/current-courses/discourse-analysis/modules/da---module-5-time,-viewpoint,-and-narrative-movement"
 ---
 [[DA - Module 4 Theme, Rheme, and the Flow of Information]]
 [[DA Module 6_Positioning the Writer and Reader]]

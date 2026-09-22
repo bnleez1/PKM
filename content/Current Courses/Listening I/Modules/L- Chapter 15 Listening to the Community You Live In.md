@@ -9,7 +9,7 @@ startDate: 2026-08-10
 banner:
 gh-publish: true
 gh-path: content/Current Courses/Listening I/Modules
-gh-published-url: "https://bnleez1.github.io/PKM/current-courses/listening-i/modules/l-chapter-15-listening-to-the-community-you-live-in"
+gh-published-url: "https://bnleez1.github.io/PKM/current-courses/listening-i/modules/l--chapter-15-listening-to-the-community-you-live-in"
 ---
 
 # L- Chapter 15: Listening to the Community You Live In

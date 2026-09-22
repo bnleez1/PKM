@@ -9,7 +9,7 @@ startDate: 2026-08-10
 banner: https://wallup.net/wp-content/uploads/2016/03/10/318375-nature-landscape-lake-mountain-forest-wildflowers-spring-pine_trees-path-Switzerland-HDR.jpg
 gh-publish: true
 gh-path: content/Current Courses/Writing I/Modules
-gh-published-url: "https://bnleez1.github.io/PKM/current-courses/writing-i/modules/w-module-6-connecting-everyday-experiences"
+gh-published-url: "https://bnleez1.github.io/PKM/current-courses/writing-i/modules/w---module-6-connecting-everyday-experiences"
 ---
 [[W - Module 5 Telling a Clear Story About Study and Leisure]]
 [[Writing I Module 7 Building Lexical Cohesion]]

@@ -9,7 +9,7 @@ startDate: 2026-08-10
 banner: https://image.tmdb.org/t/p/w1280/cg5mTWpFagPzHMG887GPKe1kskM.jpg
 gh-publish: true
 gh-path: content/Current Courses/Discourse Analysis/Modules
-gh-published-url: "https://bnleez1.github.io/PKM/current-courses/discourse-analysis/modules/da-module-1-entering-the-world-of-discourse"
+gh-published-url: "https://bnleez1.github.io/PKM/current-courses/discourse-analysis/modules/da---module-1-entering-the-world-of-discourse"
 ---
 [[DA - Module 2 Modes of Discourse, Audience, and Communicative Purpose]]
 
