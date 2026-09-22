@@ -5,7 +5,7 @@ status: "[[Planning]]"
 banner: https://images4.alphacoders.com/104/10414.jpg
 courseS: "[[60 Public/Website/Current Courses/Academic Writing/index]]"
 module:
-  - "[AW-Module 1: Academic Integrity and Cognitive Ownership](../Modules/AW-Module%201%20Academic%20Integrity%20and%20Cognitive%20Ownership.md)"
+  - "[AW-Module 1: Academic Integrity and Cognitive Ownership](../Modules/AW%20Module%2001%20Academic%20Integrity%20and%20Cognitive%20Ownership.md)"
 gh-publish: true
 gh-path: content/Current Courses/Academic Writing
 gh-published-url: "https://bnleez1.github.io/PKM/current-courses/academic-writing/lectures/academic-integrity-and-cognitive-ownership"
@@ -14,7 +14,7 @@ gh-published-url: "https://bnleez1.github.io/PKM/current-courses/academic-writin
 
 **Course:** [[60 Public/Website/Current Courses/Academic Writing/index]]
 
-**Weekly Module:** [AW-Module 1: Academic Integrity and Cognitive Ownership](../Modules/AW-Module%201%20Academic%20Integrity%20and%20Cognitive%20Ownership.md)
+**Weekly Module:** [AW-Module 1: Academic Integrity and Cognitive Ownership](../Modules/AW%20Module%2001%20Academic%20Integrity%20and%20Cognitive%20Ownership.md)
 
 **Purpose:** Establish an ethical foundation for research, authorship, and responsible GenAI use.
 

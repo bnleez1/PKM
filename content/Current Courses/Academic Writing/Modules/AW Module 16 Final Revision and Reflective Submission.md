@@ -1,6 +1,6 @@
 ---
 type: Module
-title: "Chapter 16: Final Revision and Reflective Submission"
+title: "Module 16: Final Revision and Reflective Submission"
 status: InBox
 unit: "[[Academic Writing Unit IV]]"
 courseS: "[[60 Public/Website/Current Courses/Academic Writing/index]]"
@@ -9,7 +9,7 @@ startDate: 2026-08-10
 banner:
 gh-publish: true
 gh-path: content/Current Courses/Academic Writing/Modules
-gh-published-url: "https://bnleez1.github.io/PKM/current-courses/academic-writing/modules/chapter-16-final-revision-and-reflective-submission"
+gh-published-url: "https://bnleez1.github.io/PKM/current-courses/academic-writing/modules/aw-module-16-final-revision-and-reflective-submission"
 ---
 
 # Chapter 16: Final Revision and Reflective Submission

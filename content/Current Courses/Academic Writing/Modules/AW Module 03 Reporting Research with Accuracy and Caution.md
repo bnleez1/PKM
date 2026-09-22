@@ -1,6 +1,6 @@
 ---
 type: Module
-title: "AW-Module 3: Reporting Research with Accuracy and Caution"
+title: "Module 03: Reporting Research with Accuracy and Caution"
 status: Ready
 unit: "[[Academic Writing Unit II]]"
 courseS: "[[60 Public/Website/Current Courses/Academic Writing/index]]"
@@ -9,7 +9,7 @@ startDate: 2026-08-10
 banner:
 gh-publish: true
 gh-path: content/Current Courses/Academic Writing/Modules
-gh-published-url: "https://bnleez1.github.io/PKM/current-courses/academic-writing/modules/aw-module-3-reporting-research-with-accuracy-and-caution"
+gh-published-url: "https://bnleez1.github.io/PKM/current-courses/academic-writing/modules/aw-module-03-reporting-research-with-accuracy-and-caution"
 ---
 
 # AW-Module 3: Reporting Research with Accuracy and Caution

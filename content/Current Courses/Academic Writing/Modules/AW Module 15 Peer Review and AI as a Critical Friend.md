@@ -1,6 +1,6 @@
 ---
 type: Module
-title: "Chapter 15: Peer Review and AI as a Critical Friend"
+title: "Module 15: Peer Review and AI as a Critical Friend"
 status: InBox
 unit: "[[Academic Writing Unit IV]]"
 courseS: "[[60 Public/Website/Current Courses/Academic Writing/index]]"
@@ -9,7 +9,7 @@ startDate: 2026-08-10
 banner:
 gh-publish: true
 gh-path: content/Current Courses/Academic Writing/Modules
-gh-published-url: "https://bnleez1.github.io/PKM/current-courses/academic-writing/modules/chapter-15-peer-review-and-ai-as-a-critical-friend"
+gh-published-url: "https://bnleez1.github.io/PKM/current-courses/academic-writing/modules/aw-module-15-peer-review-and-ai-as-a-critical-friend"
 ---
 
 # Chapter 15: Peer Review and AI as a Critical Friend

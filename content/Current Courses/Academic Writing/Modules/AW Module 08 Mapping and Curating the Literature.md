@@ -1,6 +1,6 @@
 ---
 type: Module
-title: "Chapter 8: Mapping and Curating the Literature"
+title: "Module 08: Mapping and Curating the Literature"
 status: InBox
 unit: "[[Academic Writing Unit III]]"
 courseS: "[[60 Public/Website/Current Courses/Academic Writing/index]]"
@@ -9,7 +9,7 @@ startDate: 2026-08-10
 banner:
 gh-publish: true
 gh-path: content/Current Courses/Academic Writing/Modules
-gh-published-url: "https://bnleez1.github.io/PKM/current-courses/academic-writing/modules/chapter-8-mapping-and-curating-the-literature"
+gh-published-url: "https://bnleez1.github.io/PKM/current-courses/academic-writing/modules/aw-module-08-mapping-and-curating-the-literature"
 ---
 
 # Chapter 8: Mapping and Curating the Literature

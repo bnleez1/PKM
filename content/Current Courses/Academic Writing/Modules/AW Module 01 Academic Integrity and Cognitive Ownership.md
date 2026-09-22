@@ -1,6 +1,6 @@
 ---
 type: Module
-title: "AW-Module 1: Academic Integrity and Cognitive Ownership"
+title: "Module 01: Academic Integrity and Cognitive Ownership"
 status: Ready
 unit: "[[Academic Writing Unit I]]"
 courseS: "[[60 Public/Website/Current Courses/Academic Writing/index]]"
@@ -9,7 +9,7 @@ startDate: 2026-08-10
 banner:
 gh-publish: true
 gh-path: content/Current Courses/Academic Writing/Modules
-gh-published-url: "https://bnleez1.github.io/PKM/current-courses/academic-writing/modules/aw-module-1-academic-integrity-and-cognitive-ownership"
+gh-published-url: "https://bnleez1.github.io/PKM/current-courses/academic-writing/modules/aw-module-01-academic-integrity-and-cognitive-ownership"
 ---
 # AW-Module 1: Academic Integrity and Cognitive Ownership
 

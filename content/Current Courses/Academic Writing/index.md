@@ -61,11 +61,11 @@ By the end of the course, the student will have applied various strategies and s
 
 # Weekly Modules
 
-[[AW-Module 1 Academic Integrity and Cognitive Ownership]]
-[[AW-Module 2 From Broad Interest to Researchable Proposal]]
-[[AW-Module 3 Reporting Research with Accuracy and Caution]]
-[[AW-Module 4 Building Academic Flow]]
-[[AW-Module 5 Integrating Sources and Building Arguments]]
+[[AW Module 01 Academic Integrity and Cognitive Ownership]]
+[[AW Module 02 From Broad Interest to Researchable Proposal]]
+[[AW Module 03 Reporting Research with Accuracy and Caution]]
+[[AW Module 04 Building Academic Flow]]
+[[AW Module 05 Integrating Sources and Building Arguments]]
 
 # Methodology
 

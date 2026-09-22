@@ -1,6 +1,6 @@
 ---
 type: Module
-title: "Chapter 13: Building a Unified Body"
+title: "Module 13: Building a Unified Body"
 status: InBox
 unit: "[[Academic Writing Unit IV]]"
 courseS: "[[60 Public/Website/Current Courses/Academic Writing/index]]"
@@ -9,7 +9,7 @@ startDate: 2026-08-10
 banner:
 gh-publish: true
 gh-path: content/Current Courses/Academic Writing/Modules
-gh-published-url: "https://bnleez1.github.io/PKM/current-courses/academic-writing/modules/chapter-13-building-a-unified-body"
+gh-published-url: "https://bnleez1.github.io/PKM/current-courses/academic-writing/modules/aw-module-13-building-a-unified-body"
 ---
 
 # Chapter 13: Building a Unified Body

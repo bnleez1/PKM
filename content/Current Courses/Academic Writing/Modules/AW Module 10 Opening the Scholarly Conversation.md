@@ -1,6 +1,6 @@
 ---
 type: Module
-title: "Chapter 10: Opening the Scholarly Conversation"
+title: "Module 10: Opening the Scholarly Conversation"
 status: InBox
 unit: "[[Academic Writing Unit IV]]"
 courseS: "[[60 Public/Website/Current Courses/Academic Writing/index]]"
@@ -9,7 +9,7 @@ startDate: 2026-08-10
 banner:
 gh-publish: true
 gh-path: content/Current Courses/Academic Writing/Modules
-gh-published-url: "https://bnleez1.github.io/PKM/current-courses/academic-writing/modules/chapter-10-opening-the-scholarly-conversation"
+gh-published-url: "https://bnleez1.github.io/PKM/current-courses/academic-writing/modules/aw-module-10-opening-the-scholarly-conversation"
 ---
 
 # Chapter 10: Opening the Scholarly Conversation

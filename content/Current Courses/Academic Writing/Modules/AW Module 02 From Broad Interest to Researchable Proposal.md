@@ -1,6 +1,6 @@
 ---
 type: Module
-title: "AW-Module 2: From Broad Interest to Researchable Proposal"
+title: "Module 02: From Broad Interest to Researchable Proposal"
 status: InBox
 unit: "[[Academic Writing Unit I]]"
 courseS: "[[60 Public/Website/Current Courses/Academic Writing/index]]"
@@ -9,7 +9,7 @@ startDate: 2026-08-10
 banner:
 gh-publish: true
 gh-path: content/Current Courses/Academic Writing/Modules
-gh-published-url: "https://bnleez1.github.io/PKM/current-courses/academic-writing/modules/aw-module-2-from-broad-interest-to-researchable-proposal"
+gh-published-url: "https://bnleez1.github.io/PKM/current-courses/academic-writing/modules/aw-module-02-from-broad-interest-to-researchable-proposal"
 ---
 
 # AW-Module 2: From Broad Interest to Researchable Proposal

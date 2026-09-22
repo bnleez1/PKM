@@ -1,6 +1,6 @@
 ---
 type: Module
-title: "Chapter 14: Concluding and Formatting the Review"
+title: "Module 14: Concluding and Formatting the Review"
 status: InBox
 unit: "[[Academic Writing Unit IV]]"
 courseS: "[[60 Public/Website/Current Courses/Academic Writing/index]]"
@@ -9,7 +9,7 @@ startDate: 2026-08-10
 banner:
 gh-publish: true
 gh-path: content/Current Courses/Academic Writing/Modules
-gh-published-url: "https://bnleez1.github.io/PKM/current-courses/academic-writing/modules/chapter-14-concluding-and-formatting-the-review"
+gh-published-url: "https://bnleez1.github.io/PKM/current-courses/academic-writing/modules/aw-module-14-concluding-and-formatting-the-review"
 ---
 
 # Chapter 14: Concluding and Formatting the Review

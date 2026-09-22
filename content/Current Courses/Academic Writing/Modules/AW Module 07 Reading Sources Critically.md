@@ -1,6 +1,6 @@
 ---
 type: Module
-title: "Academic Writing Module 7: Reading Sources Critically"
+title: "Module 07: Reading Sources Critically"
 status: InBox
 unit: "[[Academic Writing Unit III]]"
 courseS: "[[60 Public/Website/Current Courses/Academic Writing/index]]"
@@ -9,10 +9,10 @@ startDate: 2026-08-10
 banner: https://i.pinimg.com/originals/79/46/6d/79466dbd270c8ae27c4146c340d1bea7.jpg
 gh-publish: true
 gh-path: content/Current Courses/Academic Writing/Modules
-gh-published-url: "https://bnleez1.github.io/PKM/current-courses/academic-writing/modules/academic-writing-module-7-reading-sources-critically"
+gh-published-url: "https://bnleez1.github.io/PKM/current-courses/academic-writing/modules/aw-module-07-reading-sources-critically"
 ---
-[[AW - Module 6 Revising for Precision, Coherence, and Critical Voice]]
-[[Chapter 8 Mapping and Curating the Literature]]
+[[AW Module 06 Revising for Precision, Coherence, and Critical Voice]]
+[[AW Module 08 Mapping and Curating the Literature]]
 # Academic Writing Module 7: Reading Sources Critically
 
 ⚡️ Understanding annotation and evaluating validity, reliability, relevance, diversity, currency, and bias
