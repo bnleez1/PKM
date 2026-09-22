@@ -13,42 +13,34 @@ gh-published-url: "https://bnleez1.github.io/PKM/current-courses/academic-writin
 ---
 [[AW Module 06 Revising for Precision, Coherence, and Critical Voice]]
 [[AW Module 08 Mapping and Curating the Literature]]
-# Academic Writing Module 7: Reading Sources Critically
+# Academic Writing Module 7
 
-⚡️ Understanding annotation and evaluating validity, reliability, relevance, diversity, currency, and bias
-
+> [!goal]- # Reading Sources Critically
+> ⚡️ Understanding annotation and evaluating validity, reliability, relevance, diversity, currency, and bias
+> 
 > An annotated bibliography is more than a reference list with short summaries. It is a record of critical source selection and an early foundation for synthesis. This week students examine how an annotation can describe a source, evaluate its quality, and explain its relevance to a developing research focus. They also apply a source-evaluation matrix to candidate references using criteria such as validity, reliability, relevance, diversity, currency, and bias. The goal is not to create a collection of sources that all agree. A useful bibliography represents the conversation surrounding a topic, including different methods, contexts, findings, and limitations. Because the final literature review will use these same sources, the quality of selection now will shape the strength of the later argument. Each annotation must demonstrate that the student has read, understood, and independently evaluated the source.
+> 
+> > [!goal]- Essential Understandings
+> > 
+> > 1. What makes a source worth including in an academic literature review?
+> > 2. How can an annotation demonstrate both understanding and critical judgment?
+> 
+> > [!goal]- Guiding Questions
+> >     
+> >    1. What are the distinct functions of summary, evaluation, and relevance in an annotation?
+> >    2. How can validity and reliability be judged across different kinds of research?
+> >    3. How do currency, diversity, and bias affect a source collection?
+> >    4. What information must appear in an APA reference and a complete annotation?
+>
+> > [!goal]- Learning Outcomes
+> >    
+> >     - Explain the purpose, organization, and format of an annotated bibliography.
+> >     - Distinguish summary, evaluation, and relevance statements within an annotation.
+> >     - Apply a source-evaluation matrix to academic references.
+> >     - Evaluate sources for validity, reliability, relevance, diversity, currency, and bias.
+> >     - Draft a practice annotation and create a checklist for the final bibliography.
 
-
-## Essential Questions
-
-1. What makes a source worth including in an academic literature review?
-
-2. How can an annotation demonstrate both understanding and critical judgment?
-
-## Guiding Questions
-
-1. What are the distinct functions of summary, evaluation, and relevance in an annotation?
-
-2. How can validity and reliability be judged across different kinds of research?
-
-3. How do currency, diversity, and bias affect a source collection?
-
-4. What information must appear in an APA reference and a complete annotation?
-
-## Learning outcomes
-
-- Explain the purpose, organization, and format of an annotated bibliography.
-
-- Distinguish summary, evaluation, and relevance statements within an annotation.
-
-- Apply a source-evaluation matrix to academic references.
-
-- Evaluate sources for validity, reliability, relevance, diversity, currency, and bias.
-
-- Draft a practice annotation and create a checklist for the final bibliography.
-
-## Key concepts and vocabulary
+# Key concepts and vocabulary
 
 | **Term**                     | **Working definition**                                                                                           |
 | :--------------------------- | :--------------------------------------------------------------------------------------------------------------- |
@@ -62,7 +54,6 @@ gh-published-url: "https://bnleez1.github.io/PKM/current-courses/academic-writin
 | **Diversity**                | Meaningful variation in perspectives, contexts, methods, populations, or findings.                               |
 | **Peer review**              | Evaluation of scholarly work by qualified experts before publication.                                            |
 | **Source-evaluation matrix** | A structured table used to compare candidate sources across common criteria.                                     |
-
 ## Main chapter content
 
 ## The annotated bibliography as a research tool
@@ -107,9 +98,6 @@ A productive learning sequence for this chapter begins with a diagnostic respons
 
 The second part of the week should move from practice to production. Students use the guiding questions—“What are the distinct functions of summary, evaluation, and relevance in an annotation?” and “How can validity and reliability be judged across different kinds of research?”—as checkpoints while working toward the stated outcomes, especially the ability to explain the purpose, organization, and format of an annotated bibliography and to distinguish summary, evaluation, and relevance statements within an annotation. A brief peer conference should focus on one high-impact feature rather than attempting to correct everything at once. Students then revise, annotate the evidence of their decision-making, and complete the week’s deliverable: Practice annotation; final-annotation checklist; source-evaluation matrix; evaluated and selected candidate sources. The final five minutes of class can be used for an exit reflection identifying one decision the writer can now justify and one question that must be carried into the next chapter.
 
-## 🗓️ Wednesday (11:00 AM - 1:00 PM)
-
-## 🗓️ Thursday (12:00 PM - 1:00 PM)
-
-## 🗓️ Friday (10:00 AM - 12:00 PM)
-
+> [!goal]- ## 🗓️ [[Wednesday, September 23, 2026]]
+> > 1. Review [[Annotated Bibliograph_In-Class Notebook Writing Guide]].
+> > 2. 
