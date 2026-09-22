@@ -1,6 +1,6 @@
 ---
 type: Module
-title: "Writing I Module 7: Building Lexical Cohesion"
+title: "Module 07: Building Lexical Cohesion"
 status: InBox
 unit: "[Writing I Unit II: Everyday Experiences](Writing%20I%20Unit%20II%20Everyday%20Experiences.md)"
 courseS: "[[60 Public/Website/Current Courses/Writing I/index]]"
@@ -9,11 +9,11 @@ startDate: 2026-08-10
 banner: https://i.pinimg.com/originals/77/61/34/776134d7a006f61002d27271041734a3.jpg
 gh-publish: true
 gh-path: content/Current Courses/Writing I/Modules
-gh-published-url: "https://bnleez1.github.io/PKM/current-courses/writing-i/modules/writing-i-module-7-building-lexical-cohesion"
+gh-published-url: "https://bnleez1.github.io/PKM/current-courses/writing-i/modules/w1-module-07-building-lexical-cohesion"
 ---
-[[W - Module 6 Connecting Everyday Experiences]]
-[[W-Chapter 8 Revising with Evidence]]
-# Writing I Module 7: Building Lexical Cohesion
+[[W1 Module 06 Connecting Everyday Experiences]]
+[[W1 Module 08 Revising with Evidence]]
+# W1 Module 07: Building Lexical Cohesion
 
 ⚡️ Using repetition, reference, and feedback to connect a narrative
 
@@ -80,7 +80,7 @@ Create a cohesion map by writing the main topic word in the center of a page and
 
 Keep the original draft and make a simple record with four parts: the issue, the suggestion, your decision, and your reason. For example: “Repeated phone five times; AI suggested device; rejected because device is less specific and not a word I normally use.” Another entry might say: “Pronoun it had no clear antecedent; peer suggested repeating the app; accepted because the meaning is clearer.” The revision trail shows that feedback informed your thinking but did not control it. Submit it with the next revised version.
 
-[[Writing I Module 7 Note]]
+[[W1 Module 07 Note]]
 ## 🗓️ Monday
 
 ### Text 1

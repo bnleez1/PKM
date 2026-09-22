@@ -1,6 +1,6 @@
 ---
 type: Module
-title: "W-Module 4: From Draft to Final Paragraph"
+title: "Module 04: From Draft to Final Paragraph"
 status: InBox
 unit: "[Writing I Unit I: Paragraph Foundations](Writing%20I%20Unit%20I%20Paragraph%20Foundations.md)"
 courseS: "[[60 Public/Website/Current Courses/Writing I/index]]"
@@ -9,9 +9,9 @@ startDate: 2026-08-10
 banner:
 gh-publish: true
 gh-path: content/Current Courses/Writing I/Modules
-gh-published-url: "https://bnleez1.github.io/PKM/current-courses/writing-i/modules/w-module-4-from-draft-to-final-paragraph"
+gh-published-url: "https://bnleez1.github.io/PKM/current-courses/writing-i/modules/w1-module-04-from-draft-to-final-paragraph"
 ---
-# W-Module 4: From Draft to Final Paragraph - Testing Sept 5
+# W1 Module 04: From Draft to Final Paragraph - Testing Sept 5
 
 
 ⚡️ Revising ideas, editing sentences, and reflecting on progress

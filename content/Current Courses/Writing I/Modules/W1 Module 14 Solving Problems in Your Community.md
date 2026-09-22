@@ -1,6 +1,6 @@
 ---
 type: Module
-title: "W-Chapter 14: Solving Problems in Your Community"
+title: "Module 14: Solving Problems in Your Community"
 status: InBox
 unit: "[Writing I Unit IV: Persuasion](Writing%20I%20Unit%20IV%20Persuasion.md)"
 courseS: "[[60 Public/Website/Current Courses/Writing I/index]]"
@@ -9,10 +9,10 @@ startDate: 2026-08-10
 banner:
 gh-publish: true
 gh-path: content/Current Courses/Writing I/Modules
-gh-published-url: "https://bnleez1.github.io/PKM/current-courses/writing-i/modules/w-chapter-14-solving-problems-in-your-community"
+gh-published-url: "https://bnleez1.github.io/PKM/current-courses/writing-i/modules/w1-module-14-solving-problems-in-your-community"
 ---
 
-# W-Chapter 14: Solving Problems in Your Community
+# W1 Module 14: Solving Problems in Your Community
 
 
 ⚡️ Developing contextual reasons, examples, and practical solutions

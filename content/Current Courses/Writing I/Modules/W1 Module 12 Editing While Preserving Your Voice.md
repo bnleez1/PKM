@@ -1,6 +1,6 @@
 ---
 type: Module
-title: "W-Chapter 12: Editing While Preserving Your Voice"
+title: "Module 12: Editing While Preserving Your Voice"
 status: InBox
 unit: "[Writing I Unit III: Detail and Clarity](Writing%20I%20Unit%20III%20Detail%20and%20Clarity.md)"
 courseS: "[[60 Public/Website/Current Courses/Writing I/index]]"
@@ -9,10 +9,10 @@ startDate: 2026-08-10
 banner:
 gh-publish: true
 gh-path: content/Current Courses/Writing I/Modules
-gh-published-url: "https://bnleez1.github.io/PKM/current-courses/writing-i/modules/w-chapter-12-editing-while-preserving-your-voice"
+gh-published-url: "https://bnleez1.github.io/PKM/current-courses/writing-i/modules/w1-module-12-editing-while-preserving-your-voice"
 ---
 
-# W-Chapter 12: Editing While Preserving Your Voice
+# W1 Module 12: Editing While Preserving Your Voice
 
 
 ⚡️ Completing the Unit III paragraph through peer review and critical revision

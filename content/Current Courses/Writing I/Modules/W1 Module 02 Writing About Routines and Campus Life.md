@@ -1,6 +1,6 @@
 ---
 type: Module
-title: "W-Module 2: Writing About Routines and Campus Life"
+title: "Module 02: Writing About Routines and Campus Life"
 status: InBox
 unit: "[Writing I Unit I: Paragraph Foundations](Writing%20I%20Unit%20I%20Paragraph%20Foundations.md)"
 courseS: "[[60 Public/Website/Current Courses/Writing I/index]]"
@@ -9,9 +9,9 @@ startDate: 2026-08-10
 banner:
 gh-publish: true
 gh-path: content/Current Courses/Writing I/Modules
-gh-published-url: "https://bnleez1.github.io/PKM/current-courses/writing-i/modules/w-module-2-writing-about-routines-and-campus-life"
+gh-published-url: "https://bnleez1.github.io/PKM/current-courses/writing-i/modules/w1-module-02-writing-about-routines-and-campus-life"
 ---
-# W-Module 2: Writing About Routines and Campus Life
+# W1 Module 02: Writing About Routines and Campus Life
 
 
 ⚡️ Using time expressions, connectors, and basic punctuation

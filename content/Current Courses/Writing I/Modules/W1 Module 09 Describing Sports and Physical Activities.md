@@ -1,6 +1,6 @@
 ---
 type: Module
-title: "W-Chapter 9: Describing Sports and Physical Activities"
+title: "Module 09: Describing Sports and Physical Activities"
 status: InBox
 unit: "[Writing I Unit III: Detail and Clarity](Writing%20I%20Unit%20III%20Detail%20and%20Clarity.md)"
 courseS: "[[60 Public/Website/Current Courses/Writing I/index]]"
@@ -9,10 +9,10 @@ startDate: 2026-08-10
 banner:
 gh-publish: true
 gh-path: content/Current Courses/Writing I/Modules
-gh-published-url: "https://bnleez1.github.io/PKM/current-courses/writing-i/modules/w-chapter-9-describing-sports-and-physical-activities"
+gh-published-url: "https://bnleez1.github.io/PKM/current-courses/writing-i/modules/w1-module-09-describing-sports-and-physical-activities"
 ---
 
-# W-Chapter 9: Describing Sports and Physical Activities
+# W1 Module 09: Describing Sports and Physical Activities
 
 
 ⚡️ Selecting precise details for a coherent paragraph

@@ -1,6 +1,6 @@
 ---
 type: Module
-title: "W-Chapter 10: Organizing Ideas About Travel and Future Goals"
+title: "Module 10: Organizing Ideas About Travel and Future Goals"
 status: InBox
 unit: "[Writing I Unit III: Detail and Clarity](Writing%20I%20Unit%20III%20Detail%20and%20Clarity.md)"
 courseS: "[[60 Public/Website/Current Courses/Writing I/index]]"
@@ -9,10 +9,10 @@ startDate: 2026-08-10
 banner:
 gh-publish: true
 gh-path: content/Current Courses/Writing I/Modules
-gh-published-url: "https://bnleez1.github.io/PKM/current-courses/writing-i/modules/w-chapter-10-organizing-ideas-about-travel-and-future-goals"
+gh-published-url: "https://bnleez1.github.io/PKM/current-courses/writing-i/modules/w1-module-10-organizing-ideas-about-travel-and-future-goals"
 ---
 
-# W-Chapter 10: Organizing Ideas About Travel and Future Goals
+# W1 Module 10: Organizing Ideas About Travel and Future Goals
 
 
 ⚡️ Using addition, contrast, and sequence in expository and descriptive writing

@@ -1,6 +1,6 @@
 ---
 type: Module
-title: "Writing I Module 5: Telling a Clear Story About Study and Leisure"
+title: "Module 05: Telling a Clear Story About Study and Leisure"
 status: InBox
 unit: "[Writing I Unit II: Everyday Experiences](Writing%20I%20Unit%20II%20Everyday%20Experiences.md)"
 courseS: "[[60 Public/Website/Current Courses/Writing I/index]]"
@@ -9,9 +9,9 @@ startDate: 2026-08-10
 banner: https://www.solaresearch.org/wp-content/uploads/2019/08/Writing-Analytics-Image.jpg
 gh-publish: true
 gh-path: content/Current Courses/Writing I/Modules
-gh-published-url: "https://bnleez1.github.io/PKM/current-courses/writing-i/modules/w---module-5-telling-a-clear-story-about-study-and-leisure"
+gh-published-url: "https://bnleez1.github.io/PKM/current-courses/writing-i/modules/w1-module-05-telling-a-clear-story-about-study-and-leisure"
 ---
-[[W - Module 6 Connecting Everyday Experiences]]
+[[W1 Module 06 Connecting Everyday Experiences]]
 # Writing I Module 5: Telling a Clear Story About Study and Leisure
 
 ⚡️ Planning narration with timelines and sequence connectors

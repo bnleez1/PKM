@@ -1,6 +1,6 @@
 ---
 type: Module
-title: "W-Chapter 13: Making an Argument About Teamwork"
+title: "Module 13: Making an Argument About Teamwork"
 status: InBox
 unit: "[Writing I Unit IV: Persuasion](Writing%20I%20Unit%20IV%20Persuasion.md)"
 courseS: "[[60 Public/Website/Current Courses/Writing I/index]]"
@@ -9,10 +9,10 @@ startDate: 2026-08-10
 banner:
 gh-publish: true
 gh-path: content/Current Courses/Writing I/Modules
-gh-published-url: "https://bnleez1.github.io/PKM/current-courses/writing-i/modules/w-chapter-13-making-an-argument-about-teamwork"
+gh-published-url: "https://bnleez1.github.io/PKM/current-courses/writing-i/modules/w1-module-13-making-an-argument-about-teamwork"
 ---
 
-# W-Chapter 13: Making an Argument About Teamwork
+# W1 Module 13: Making an Argument About Teamwork
 
 
 ⚡️ Supporting an opinion with reasons and examples

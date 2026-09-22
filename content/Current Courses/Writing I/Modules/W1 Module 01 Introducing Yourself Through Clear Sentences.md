@@ -1,6 +1,6 @@
 ---
 type: Module
-title: "W-Module 1: Introducing Yourself Through Clear Sentences"
+title: "Module 01: Introducing Yourself Through Clear Sentences"
 status: Ready
 unit: "[Writing I Unit I: Paragraph Foundations](Writing%20I%20Unit%20I%20Paragraph%20Foundations.md)"
 courseS: "[[60 Public/Website/Current Courses/Writing I/index]]"
@@ -9,9 +9,9 @@ startDate: 2026-08-10
 banner:
 gh-publish: true
 gh-path: content/Current Courses/Writing I/Modules
-gh-published-url: "https://bnleez1.github.io/PKM/current-courses/writing-i/modules/w-module-1-introducing-yourself-through-clear-sentences"
+gh-published-url: "https://bnleez1.github.io/PKM/current-courses/writing-i/modules/w1-module-01-introducing-yourself-through-clear-sentences"
 ---
-# W-Module 1: Introducing Yourself Through Clear Sentences
+# W1 Module 01: Introducing Yourself Through Clear Sentences
 
 
 ⚡️ From personal details to a focused written profile

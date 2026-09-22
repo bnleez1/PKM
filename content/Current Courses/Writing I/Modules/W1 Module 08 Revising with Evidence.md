@@ -1,6 +1,6 @@
 ---
 type: Module
-title: "W-Chapter 8: Revising with Evidence"
+title: "Module 08: Revising with Evidence"
 status: InBox
 unit: "[Writing I Unit II: Everyday Experiences](Writing%20I%20Unit%20II%20Everyday%20Experiences.md)"
 courseS: "[[60 Public/Website/Current Courses/Writing I/index]]"
@@ -9,10 +9,10 @@ startDate: 2026-08-10
 banner:
 gh-publish: true
 gh-path: content/Current Courses/Writing I/Modules
-gh-published-url: "https://bnleez1.github.io/PKM/current-courses/writing-i/modules/w-chapter-8-revising-with-evidence"
+gh-published-url: "https://bnleez1.github.io/PKM/current-courses/writing-i/modules/w1-module-08-revising-with-evidence"
 ---
 
-# W-Chapter 8: Revising with Evidence
+# W1 Module 08: Revising with Evidence
 
 
 ⚡️ Consolidating narrative and descriptive writing in Unit II

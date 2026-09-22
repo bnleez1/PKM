@@ -1,6 +1,6 @@
 ---
 type: Module
-title: "W-Chapter 11: Improving Coherence and Word Choice"
+title: "Module 11: Improving Coherence and Word Choice"
 status: InBox
 unit: "[Writing I Unit III: Detail and Clarity](Writing%20I%20Unit%20III%20Detail%20and%20Clarity.md)"
 courseS: "[[60 Public/Website/Current Courses/Writing I/index]]"
@@ -9,10 +9,10 @@ startDate: 2026-08-10
 banner:
 gh-publish: true
 gh-path: content/Current Courses/Writing I/Modules
-gh-published-url: "https://bnleez1.github.io/PKM/current-courses/writing-i/modules/w-chapter-11-improving-coherence-and-word-choice"
+gh-published-url: "https://bnleez1.github.io/PKM/current-courses/writing-i/modules/w1-module-11-improving-coherence-and-word-choice"
 ---
 
-# W-Chapter 11: Improving Coherence and Word Choice
+# W1 Module 11: Improving Coherence and Word Choice
 
 
 ⚡️ Using critical feedback to revise an expository or descriptive draft

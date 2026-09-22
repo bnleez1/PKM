@@ -1,6 +1,6 @@
 ---
 type: Module
-title: "Writing I Module 6: Connecting Everyday Experiences"
+title: "Module 06: Connecting Everyday Experiences"
 status: InBox
 unit: "[Writing I Unit II: Everyday Experiences](Writing%20I%20Unit%20II%20Everyday%20Experiences.md)"
 courseS: "[[60 Public/Website/Current Courses/Writing I/index]]"
@@ -9,10 +9,10 @@ startDate: 2026-08-10
 banner: https://wallup.net/wp-content/uploads/2016/03/10/318375-nature-landscape-lake-mountain-forest-wildflowers-spring-pine_trees-path-Switzerland-HDR.jpg
 gh-publish: true
 gh-path: content/Current Courses/Writing I/Modules
-gh-published-url: "https://bnleez1.github.io/PKM/current-courses/writing-i/modules/w---module-6-connecting-everyday-experiences"
+gh-published-url: "https://bnleez1.github.io/PKM/current-courses/writing-i/modules/w1-module-06-connecting-everyday-experiences"
 ---
-[[W - Module 5 Telling a Clear Story About Study and Leisure]]
-[[Writing I Module 7 Building Lexical Cohesion]]
+[[W1 Module 05 Telling a Clear Story About Study and Leisure]]
+[[W1 Module 07 Building Lexical Cohesion]]
 # Writing I Module 6: Connecting Everyday Experiences
 
 ⚡️ Writing about technology, social media, food, and habits

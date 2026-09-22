@@ -1,6 +1,6 @@
 ---
 type: Module
-title: "W-Module 3: Planning a Paragraph Before Writing"
+title: "Module 03: Planning a Paragraph Before Writing"
 status: InBox
 unit: "[Writing I Unit I: Paragraph Foundations](Writing%20I%20Unit%20I%20Paragraph%20Foundations.md)"
 courseS: "[[60 Public/Website/Current Courses/Writing I/index]]"
@@ -9,9 +9,9 @@ startDate: 2026-08-10
 banner:
 gh-publish: true
 gh-path: content/Current Courses/Writing I/Modules
-gh-published-url: "https://bnleez1.github.io/PKM/current-courses/writing-i/modules/w-module-3-planning-a-paragraph-before-writing"
+gh-published-url: "https://bnleez1.github.io/PKM/current-courses/writing-i/modules/w1-module-03-planning-a-paragraph-before-writing"
 ---
-# W-Module 3: Planning a Paragraph Before Writing
+# W1 Module 03: Planning a Paragraph Before Writing
 
 
 ⚡️ Using prewriting and graphic organizers to create unity
