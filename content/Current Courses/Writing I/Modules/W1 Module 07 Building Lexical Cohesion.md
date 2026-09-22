@@ -97,13 +97,19 @@ the use of social media is a regular part of my day the checking of messages usu
 participation in group projects is an important part of university life the organization of a group meeting usually requires communication between several students the selection of a meeting time can sometimes be difficult because everyone has different classes after the selection of a time there is a discussion of the assignment and a division of the work the completion of each task is the responsibility of one group member good communication gives the group a reduction in confusion and an improvement in cooperation sometimes a disagreement creates a delay in the completion of the project careful discussion and clear decision making usually provide a solution to the problem
 
 > [!goal]- ## 🗓️ [[Monday, September 21, 2026]]
-> > 1. Work on reducing nominalizations, verbs *to be, to take, to make, important*, etc.
+> > [!question]- 
+> > How can I find more dynamic verbs instead of relying too much on linking verbs and others like *to make, to have*, etc.? How can I avoid subjective tone with phrases like ... *it is important, it is vital*, etc.?
+>
+> > 1. Work on reducing [[Nominalizations]], verbs *to be ([[Linking Verbs The Hidden Connectors of English]]), to take, to make, important*, etc.
 > > 2. Work on adding punctuation.
 >
 > > [!text]- Sample Text
 > > the preparation for my classes is an important part of my daily routine the organization of my books and notes usually happens in the evening the completion of my homework is also a priority before I go to bed a review of my notes takes place for about twenty minutes this review gives me an improvement in my understanding of difficult ideas sometimes there is a reduction in my concentration because of my phone for this reason the decision to put my phone in another room is helpful better management of my study time gives me more confidence before class
 
 > [!goal]- ## 🗓️ [[Tuesday, September 22, 2026]]
+> > [!question]- 
+> > How can I find more dynamic verbs instead of relying too much on linking verbs and others like *to make, to have*, etc.? How can I avoid subjective tone with phrases like ... *it is important, it is vital*, etc.?
+>
 > > 1. Work on reducing nominalizations, verbs *to be, to take, to make, important*, etc.
 > > 2. Work on adding punctuation.
 >
