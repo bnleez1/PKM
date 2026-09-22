@@ -43,6 +43,8 @@ icon: 🛩️
 > >     - Evaluate felicity conditions and contextual evidence for successful or unsuccessful speech acts.
 > >     - Connect speech-act analysis to the teaching of pragmatic choices rather than fixed formulas.
 
+# Key Words
+
 | **Term**                | **Working definition**                                                                                  |
 | :---------------------- | :------------------------------------------------------------------------------------------------------ |
 | **Speech act**          | An action performed through an utterance in a socially recognizable context.                            |
