@@ -1,6 +1,6 @@
 ---
 type: Module
-title: "DA - Chapter 13: Culture, Rhetoric, and Organizational Expectations"
+title: "Module 13: Culture, Rhetoric, and Organizational Expectations"
 status: InBox
 unit: "[Discourse Analysis Unit IV: Discourse, Culture, and Reading](Discourse%20Analysis%20Unit%20IV%20Discourse,%20Culture,%20and%20Reading.md)"
 courseS: "[[60 Public/Website/Current Courses/Discourse Analysis/index]]"
@@ -9,10 +9,10 @@ startDate: 2026-08-10
 banner:
 gh-publish: true
 gh-path: content/Current Courses/Discourse Analysis/Modules
-gh-published-url: "https://bnleez1.github.io/PKM/current-courses/discourse-analysis/modules/da---chapter-13-culture,-rhetoric,-and-organizational-expectations"
+gh-published-url: "https://bnleez1.github.io/PKM/current-courses/discourse-analysis/modules/da-module-13-culture,-rhetoric,-and-organizational-expectations"
 ---
 
-# DA - Chapter 13: Culture, Rhetoric, and Organizational Expectations
+# DA Module 13: Culture, Rhetoric, and Organizational Expectations
 
 
 ⚡️ Comparing written patterns without stereotyping writers or communities

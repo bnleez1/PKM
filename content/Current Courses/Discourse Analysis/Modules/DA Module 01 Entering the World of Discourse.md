@@ -1,6 +1,6 @@
 ---
 type: Module
-title: "DA - Module 1: Entering the World of Discourse — Language, Context, and the Foundations of Discourse Analysis"
+title: "Module 01: Entering the World of Discourse — Language, Context, and the Foundations of Discourse Analysis"
 status: Ready
 unit: "[Discourse Analysis Unit I: Foundations: Text, Context, and History](Discourse%20Analysis%20Unit%20I%20Foundations%20Text,%20Context,%20and%20History.md)"
 courseS: "[[60 Public/Website/Current Courses/Discourse Analysis/index]]"
@@ -9,9 +9,9 @@ startDate: 2026-08-10
 banner: https://image.tmdb.org/t/p/w1280/cg5mTWpFagPzHMG887GPKe1kskM.jpg
 gh-publish: true
 gh-path: content/Current Courses/Discourse Analysis/Modules
-gh-published-url: "https://bnleez1.github.io/PKM/current-courses/discourse-analysis/modules/da---module-1-entering-the-world-of-discourse"
+gh-published-url: "https://bnleez1.github.io/PKM/current-courses/discourse-analysis/modules/da-module-01-entering-the-world-of-discourse"
 ---
-[[DA - Module 2 Modes of Discourse, Audience, and Communicative Purpose]]
+[[DA Module 02 Modes of Discourse, Audience, and Communicative Purpose]]
 
 # Discourse Analysis Module 1: Entering the World of Discourse
 

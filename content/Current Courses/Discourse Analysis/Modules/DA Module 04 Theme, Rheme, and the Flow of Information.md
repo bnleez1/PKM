@@ -1,6 +1,6 @@
 ---
 type: Module
-title: "DA - Module 4: Theme, Rheme, and the Flow of Information"
+title: "Module 04: Theme, Rheme, and the Flow of Information"
 status: InBox
 unit: "[Discourse Analysis Unit II: Making Meaning in Text](Discourse%20Analysis%20Unit%20II%20Making%20Meaning%20in%20Text.md)"
 courseS: "[[60 Public/Website/Current Courses/Discourse Analysis/index]]"
@@ -9,10 +9,10 @@ startDate: 2026-08-10
 banner: https://wallpaperaccess.com/full/256070.jpg
 gh-publish: true
 gh-path: content/Current Courses/Discourse Analysis/Modules
-gh-published-url: "https://bnleez1.github.io/PKM/current-courses/discourse-analysis/modules/da---module-4-theme,-rheme,-and-the-flow-of-information"
+gh-published-url: "https://bnleez1.github.io/PKM/current-courses/discourse-analysis/modules/da-module-04-theme,-rheme,-and-the-flow-of-information"
 ---
-[[DA - Module 3 How Texts Hold Together]]
-[[DA - Module 5 Time, Viewpoint, and Narrative Movement]]
+[[DA Module 03 How Texts Hold Together]]
+[[DA Module 05 Time, Viewpoint, and Narrative Movement]]
 # Discourse Analysis Module 4: Theme, Rheme, and the Flow of Information
 
 > [!abstract]- ⚡ Module Overview

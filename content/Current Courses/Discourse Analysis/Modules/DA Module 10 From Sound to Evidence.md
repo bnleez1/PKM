@@ -1,6 +1,6 @@
 ---
 type: Module
-title: "DA - Chapter 10: From Sound to Evidence"
+title: "Module 10: From Sound to Evidence"
 status: InBox
 unit: "[Discourse Analysis Unit III: Meaning in Interaction](Discourse%20Analysis%20Unit%20III%20Meaning%20in%20Interaction.md)"
 courseS: "[[60 Public/Website/Current Courses/Discourse Analysis/index]]"
@@ -9,10 +9,10 @@ startDate: 2026-08-10
 banner:
 gh-publish: true
 gh-path: content/Current Courses/Discourse Analysis/Modules
-gh-published-url: "https://bnleez1.github.io/PKM/current-courses/discourse-analysis/modules/da---chapter-10-from-sound-to-evidence"
+gh-published-url: "https://bnleez1.github.io/PKM/current-courses/discourse-analysis/modules/da-module-10-from-sound-to-evidence"
 ---
 
-# DA - Chapter 10: From Sound to Evidence
+# DA Module 10: From Sound to Evidence
 
 
 ⚡️ Transcribing natural interaction and building a defensible conversational coding scheme

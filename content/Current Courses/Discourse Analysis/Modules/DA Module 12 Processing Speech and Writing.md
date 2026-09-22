@@ -1,6 +1,6 @@
 ---
 type: Module
-title: "DA - Chapter 12: Processing Speech and Writing"
+title: "Module 12: Processing Speech and Writing"
 status: InBox
 unit: "[Discourse Analysis Unit IV: Discourse, Culture, and Reading](Discourse%20Analysis%20Unit%20IV%20Discourse,%20Culture,%20and%20Reading.md)"
 courseS: "[[60 Public/Website/Current Courses/Discourse Analysis/index]]"
@@ -9,10 +9,10 @@ startDate: 2026-08-10
 banner:
 gh-publish: true
 gh-path: content/Current Courses/Discourse Analysis/Modules
-gh-published-url: "https://bnleez1.github.io/PKM/current-courses/discourse-analysis/modules/da---chapter-12-processing-speech-and-writing"
+gh-published-url: "https://bnleez1.github.io/PKM/current-courses/discourse-analysis/modules/da-module-12-processing-speech-and-writing"
 ---
 
-# DA - Chapter 12: Processing Speech and Writing
+# DA Module 12: Processing Speech and Writing
 
 
 ⚡️ Cognitive demands, structural affordances, and a verified AI-supported literature map

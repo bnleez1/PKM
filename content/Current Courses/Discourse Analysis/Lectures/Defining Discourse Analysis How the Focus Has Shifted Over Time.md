@@ -5,7 +5,7 @@ status: "[[InBox (idea)]]"
 banner:
 courseS: "[[60 Public/Website/Current Courses/Discourse Analysis/index]]"
 module:
-  - "[DA - Module 1: Entering the World of Discourse](../Modules/DA%20-%20Module%201%20Entering%20the%20World%20of%20Discourse.md)"
+  - "[DA Module 01: Entering the World of Discourse](../Modules/DA%20Module%2001%20Entering%20the%20World%20of%20Discourse.md)"
 gh-publish: true
 gh-path: content/Current Courses/Discourse Analysis
 gh-published-url: "https://bnleez1.github.io/PKM/current-courses/discourse-analysis/lectures/defining-discourse-analysis-how-the-focus-has-shifted-over-time"

@@ -1,6 +1,6 @@
 ---
 type: Module
-title: "DA - Module 2: Modes of Discourse, Audience, and Communicative Purpose"
+title: "Module 02: Modes of Discourse, Audience, and Communicative Purpose"
 status: InBox
 unit: "[Discourse Analysis Unit I: Foundations: Text, Context, and History](Discourse%20Analysis%20Unit%20I%20Foundations%20Text,%20Context,%20and%20History.md)"
 courseS: "[[60 Public/Website/Current Courses/Discourse Analysis/index]]"
@@ -9,10 +9,10 @@ startDate: 2026-08-10
 banner: https://wallup.net/wp-content/uploads/2016/01/200876-nature-landscape-water.jpg
 gh-publish: true
 gh-path: content/Current Courses/Discourse Analysis/Modules
-gh-published-url: "https://bnleez1.github.io/PKM/current-courses/discourse-analysis/modules/da---module-2-modes-of-discourse,-audience,-and-communicative-purpose"
+gh-published-url: "https://bnleez1.github.io/PKM/current-courses/discourse-analysis/modules/da-module-02-modes-of-discourse,-audience,-and-communicative-purpose"
 ---
-[[DA - Module 1 Entering the World of Discourse]] 
-[[DA - Module 3 How Texts Hold Together]]
+[[DA Module 01 Entering the World of Discourse]] 
+[[DA Module 03 How Texts Hold Together]]
 
 # Discourse Analysis Module 2: Modes of Discourse, Audience, and Communicative Purpose
 

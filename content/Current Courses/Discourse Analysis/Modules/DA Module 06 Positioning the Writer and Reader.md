@@ -1,6 +1,6 @@
 ---
 type: Module
-title: "Discourse Analysis Module 6: Positioning the Writer and Reader: Modality, Stance, Register, and AI-Supported Revision"
+title: "Module 06: Positioning the Writer and Reader: Modality, Stance, Register, and AI-Supported Revision"
 date: 2026-09-14T00:00:00.000Z -> 2026-09-20T00:00:00.000Z
 status: InBox
 unit: "[Discourse Analysis Unit II: Making Meaning in Text](Discourse%20Analysis%20Unit%20II%20Making%20Meaning%20in%20Text.md)"
@@ -8,11 +8,11 @@ courseS: "[[60 Public/Website/Current Courses/Discourse Analysis/index]]"
 banner: https://wallup.net/wp-content/uploads/2016/01/200876-nature-landscape-water.jpg
 gh-publish: true
 gh-path: content/Current Courses/Discourse Analysis/Modules
-gh-published-url: "https://bnleez1.github.io/PKM/current-courses/discourse-analysis/modules/discourse-analysis-module-6---positioning-the-writer-and-reader"
+gh-published-url: "https://bnleez1.github.io/PKM/current-courses/discourse-analysis/modules/da-module-06-positioning-the-writer-and-reader"
 ---
-[[DA - Module 5 Time, Viewpoint, and Narrative Movement]]
+[[DA Module 05 Time, Viewpoint, and Narrative Movement]]
 [[Discourse Analysis Module 7 - Doing Things with Words]]
-# Discourse Analysis Module 6: Positioning the Writer and Reader: Modality, Stance, Register, and AI-Supported Revision
+# DA Module 06: Positioning the Writer and Reader: Modality, Stance, Register, and AI-Supported Revision
 
 > [!abstract]- ⚡ Module Overview
 > Grammar provides speakers and writers with choices, and those choices influence how information is organized and interpreted across discourse. This module examines two related areas of discourse grammar: **word-order choices** and **tense, aspect, and modality**.

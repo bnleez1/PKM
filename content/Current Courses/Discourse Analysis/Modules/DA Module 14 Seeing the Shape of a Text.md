@@ -1,6 +1,6 @@
 ---
 type: Module
-title: "DA - Chapter 14: Seeing the Shape of a Text"
+title: "Module 14: Seeing the Shape of a Text"
 status: InBox
 unit: "[Discourse Analysis Unit IV: Discourse, Culture, and Reading](Discourse%20Analysis%20Unit%20IV%20Discourse,%20Culture,%20and%20Reading.md)"
 courseS: "[[60 Public/Website/Current Courses/Discourse Analysis/index]]"
@@ -9,10 +9,10 @@ startDate: 2026-08-10
 banner:
 gh-publish: true
 gh-path: content/Current Courses/Discourse Analysis/Modules
-gh-published-url: "https://bnleez1.github.io/PKM/current-courses/discourse-analysis/modules/da---chapter-14-seeing-the-shape-of-a-text"
+gh-published-url: "https://bnleez1.github.io/PKM/current-courses/discourse-analysis/modules/da-module-14-seeing-the-shape-of-a-text"
 ---
 
-# DA - Chapter 14: Seeing the Shape of a Text
+# DA Module 14: Seeing the Shape of a Text
 
 
 ⚡️ Macro-discourse structures and the interaction of top-down and bottom-up reading

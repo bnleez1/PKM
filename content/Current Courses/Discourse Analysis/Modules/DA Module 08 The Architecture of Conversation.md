@@ -1,6 +1,6 @@
 ---
 type: Module
-title: "DA - Module 8: The Architecture of Conversation"
+title: "Module 08: The Architecture of Conversation"
 status: InBox
 unit: "[Discourse Analysis Unit III: Meaning in Interaction](Discourse%20Analysis%20Unit%20III%20Meaning%20in%20Interaction.md)"
 courseS: "[[60 Public/Website/Current Courses/Discourse Analysis/index]]"
@@ -9,11 +9,11 @@ startDate: 2026-08-10
 banner:
 gh-publish: true
 gh-path: content/Current Courses/Discourse Analysis/Modules
-gh-published-url: "https://bnleez1.github.io/PKM/current-courses/discourse-analysis/modules/da---module-8-the-architecture-of-conversation"
+gh-published-url: "https://bnleez1.github.io/PKM/current-courses/discourse-analysis/modules/da-module-08-the-architecture-of-conversation"
 ---
-[[DA Module 7 - Doing Things with Words]]
-[[DA - Chapter 9 Relationship Talk and Task Talk]]
-# DA - Module 8: The Architecture of Conversation
+[[DA Module 07 Doing Things with Words]]
+[[DA Module 09 Relationship Talk and Task Talk]]
+# DA Module 08: The Architecture of Conversation
 
 ⚡️ Adjacency pairs, preference organization, turn-taking, overlap, and repair
 

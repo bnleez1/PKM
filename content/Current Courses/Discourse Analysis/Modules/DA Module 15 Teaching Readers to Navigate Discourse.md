@@ -1,6 +1,6 @@
 ---
 type: Module
-title: "DA - Chapter 15: Teaching Readers to Navigate Discourse"
+title: "Module 15: Teaching Readers to Navigate Discourse"
 status: InBox
 unit: "[Discourse Analysis Unit IV: Discourse, Culture, and Reading](Discourse%20Analysis%20Unit%20IV%20Discourse,%20Culture,%20and%20Reading.md)"
 courseS: "[[60 Public/Website/Current Courses/Discourse Analysis/index]]"
@@ -9,10 +9,10 @@ startDate: 2026-08-10
 banner:
 gh-publish: true
 gh-path: content/Current Courses/Discourse Analysis/Modules
-gh-published-url: "https://bnleez1.github.io/PKM/current-courses/discourse-analysis/modules/da---chapter-15-teaching-readers-to-navigate-discourse"
+gh-published-url: "https://bnleez1.github.io/PKM/current-courses/discourse-analysis/modules/da-module-15-teaching-readers-to-navigate-discourse"
 ---
 
-# DA - Chapter 15: Teaching Readers to Navigate Discourse
+# DA Module 15: Teaching Readers to Navigate Discourse
 
 
 ⚡️ Culturally responsive pre-reading and while-reading design with UDL-informed scaffolds

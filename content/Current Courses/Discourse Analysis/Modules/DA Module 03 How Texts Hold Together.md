@@ -1,6 +1,6 @@
 ---
 type: Module
-title: "DA - Module 3: Cohesion and Coherence — How Texts Hold Together"
+title: "Module 03: Cohesion and Coherence — How Texts Hold Together"
 status: InBox
 unit: "[Discourse Analysis Unit II: Making Meaning in Text](Discourse%20Analysis%20Unit%20II%20Making%20Meaning%20in%20Text.md)"
 courseS: "[[60 Public/Website/Current Courses/Discourse Analysis/index]]"
@@ -9,10 +9,10 @@ startDate: 2026-08-10
 banner: https://defraenvironment.blog.gov.uk/wp-content/uploads/sites/276/2026/08/Active-woman-walking-through-a-yellow-rapeseed-field-2048x1365.jpg
 gh-publish: true
 gh-path: content/Current Courses/Discourse Analysis/Modules
-gh-published-url: "https://bnleez1.github.io/PKM/current-courses/discourse-analysis/modules/da---module-3-how-texts-hold-together"
+gh-published-url: "https://bnleez1.github.io/PKM/current-courses/discourse-analysis/modules/da-module-03-how-texts-hold-together"
 ---
-[[DA - Module 2 Modes of Discourse, Audience, and Communicative Purpose]]
-[[DA - Module 4 Theme, Rheme, and the Flow of Information]]
+[[DA Module 02 Modes of Discourse, Audience, and Communicative Purpose]]
+[[DA Module 04 Theme, Rheme, and the Flow of Information]]
 # Discourse Analysis Module 3: Cohesion and Coherence — How Texts Hold Together
 
 > [!abstract]- ⚡ Module Overview

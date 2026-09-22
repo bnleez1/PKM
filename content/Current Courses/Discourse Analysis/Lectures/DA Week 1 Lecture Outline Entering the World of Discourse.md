@@ -6,7 +6,7 @@ startDate: 2026-08-10
 tags: []
 course: "[[02 Projects/Discourse Analysis]]"
 weeklyModule:
-  - "[DA - Module 1: Entering the World of Discourse](DA%20-%20Module%201%20Entering%20the%20World%20of%20Discourse.md)"
+  - "[DA Module 01: Entering the World of Discourse](DA%20Module%2001%20Entering%20the%20World%20of%20Discourse.md)"
 duration: "20"
 unit: "[Discourse Analysis Unit I: Foundations: Text, Context, and History](Discourse%20Analysis%20Unit%20I%20Foundations%20Text,%20Context,%20and%20History.md)"
 status: "[[InBox (idea)]]"
@@ -14,9 +14,9 @@ essentialQuestion: What changes when language is studied as discourse rather tha
 note:
 coverImage:
 gh-publish: true
-gh-path: content/Current Courses/Discourse Analysis/Modules
+gh-path: content/Current Courses/Discourse Analysis/Lectures
 gh-published: true
-gh-published-url: "https://bnleez1.github.io/PKM/current-courses/discourse-analysis/modules/da-week-1-lecture-outline-entering-the-world-of-discourse"
+gh-published-url: "https://bnleez1.github.io/PKM/current-courses/discourse-analysis/lectures/da-week-1-lecture-outline-entering-the-world-of-discourse"
 ---
 
 # DA Week 1 Lecture Outline: Entering the World of Discourse

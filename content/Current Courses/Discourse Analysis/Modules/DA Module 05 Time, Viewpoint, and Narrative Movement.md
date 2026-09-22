@@ -1,6 +1,6 @@
 ---
 type: Module
-title: "DA - Module 5: Time, Viewpoint, and Narrative Movement"
+title: "Module 05: Time, Viewpoint, and Narrative Movement"
 status: In progress
 unit: "[Discourse Analysis Unit II: Making Meaning in Text](Discourse%20Analysis%20Unit%20II%20Making%20Meaning%20in%20Text.md)"
 courseS: "[[60 Public/Website/Current Courses/Discourse Analysis/index]]"
@@ -9,9 +9,9 @@ startDate: 2026-08-10
 banner: https://wallpapercave.com/wp/wp8819684.jpg
 gh-publish: true
 gh-path: content/Current Courses/Discourse Analysis/Modules
-gh-published-url: "https://bnleez1.github.io/PKM/current-courses/discourse-analysis/modules/da---module-5-time,-viewpoint,-and-narrative-movement"
+gh-published-url: "https://bnleez1.github.io/PKM/current-courses/discourse-analysis/modules/da-module-05-time,-viewpoint,-and-narrative-movement"
 ---
-[[DA - Module 4 Theme, Rheme, and the Flow of Information]]
+[[DA Module 04 Theme, Rheme, and the Flow of Information]]
 [[DA Module 6_Positioning the Writer and Reader]]
 # Discourse Analysis Module 5: Time, Viewpoint, and Narrative Movement
 

@@ -11,8 +11,8 @@ gh-publish: true
 gh-path: content/Current Courses/Discourse Analysis/Modules
 gh-published-url: "https://bnleez1.github.io/PKM/current-courses/discourse-analysis/modules/da---module-2-speaking,-writing,-and-communicative-purpose"
 ---
-[[DA - Module 1 Entering the World of Discourse]] 
-[[DA - Module 3 How Texts Hold Together]]
+[[DA Module 01 Entering the World of Discourse]] 
+[[DA Module 03 How Texts Hold Together]]
 # DA - Module 2: Speaking, Writing, and Communicative Purpose
 
 

@@ -1,6 +1,6 @@
 ---
 type: Module
-title: "DA - Chapter 11: When AI Writes the Dialogue"
+title: "Module 11: When AI Writes the Dialogue"
 status: InBox
 unit: "[Discourse Analysis Unit III: Meaning in Interaction](Discourse%20Analysis%20Unit%20III%20Meaning%20in%20Interaction.md)"
 courseS: "[[60 Public/Website/Current Courses/Discourse Analysis/index]]"
@@ -9,10 +9,10 @@ startDate: 2026-08-10
 banner:
 gh-publish: true
 gh-path: content/Current Courses/Discourse Analysis/Modules
-gh-published-url: "https://bnleez1.github.io/PKM/current-courses/discourse-analysis/modules/da---chapter-11-when-ai-writes-the-dialogue"
+gh-published-url: "https://bnleez1.github.io/PKM/current-courses/discourse-analysis/modules/da-module-11-when-ai-writes-the-dialogue"
 ---
 
-# DA - Chapter 11: When AI Writes the Dialogue
+# DA Module 11: When AI Writes the Dialogue
 
 
 ⚡️ Critically evaluating generated interaction and designing feasible UDL-aligned role-play

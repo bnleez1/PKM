@@ -39,13 +39,12 @@ Upon completion of the semester, the student will analyze oral and written texts
 
 # Learning Modules
 
-- [[DA - Module 1 Entering the World of Discourse]]
-- [[DA - Module 2 Speaking, Writing, and Communicative Purpose]]
-- [[DA - Module 3 How Texts Hold Together]]
-- [[DA - Module 4 Theme, Rheme, and the Flow of Information]]
-- [[DA - Module 5 Time, Viewpoint, and Narrative Movement]]
+- [[DA Module 01 Entering the World of Discourse]]
+- [[DA Module 03 How Texts Hold Together]]
+- [[DA Module 04 Theme, Rheme, and the Flow of Information]]
+- [[DA Module 05 Time, Viewpoint, and Narrative Movement]]
 - [[DA Module 6_Positioning the Writer and Reader]]
-- [[DA Module 7 - Doing Things with Words]]
+- [[DA Module 07 Doing Things with Words]]
 
 # Methodology
 

@@ -1,6 +1,6 @@
 ---
 type: Module
-title: "DA - Chapter 9: Relationship Talk and Task Talk"
+title: "Module 09: Relationship Talk and Task Talk"
 status: InBox
 unit: "[Discourse Analysis Unit III: Meaning in Interaction](Discourse%20Analysis%20Unit%20III%20Meaning%20in%20Interaction.md)"
 courseS: "[[60 Public/Website/Current Courses/Discourse Analysis/index]]"
@@ -9,10 +9,10 @@ startDate: 2026-08-10
 banner:
 gh-publish: true
 gh-path: content/Current Courses/Discourse Analysis/Modules
-gh-published-url: "https://bnleez1.github.io/PKM/current-courses/discourse-analysis/modules/da---chapter-9-relationship-talk-and-task-talk"
+gh-published-url: "https://bnleez1.github.io/PKM/current-courses/discourse-analysis/modules/da-module-09-relationship-talk-and-task-talk"
 ---
 
-# DA - Chapter 9: Relationship Talk and Task Talk
+# DA Module 09: Relationship Talk and Task Talk
 
 
 ⚡️ Interactional, transactional, and pragmatic competence across communicative contexts
