@@ -7,7 +7,7 @@ tags:
 courseS:
   - "[[Listening I]]"
 unitS: "[Listening I Unit I: Building a Foundation](Listening%20I%20Unit%20I%20Building%20a%20Foundation.md)"
-module: "[L - Module 2: Following the Rhythm of Everyday Life](L%20-%20Module%202%20Following%20the%20Rhythm%20of%20Everyday%20Life.md)"
+module: "[L1 Module 02: Following the Rhythm of Everyday Life](L1%20Module%2002%20Following%20the%20Rhythm%20of%20Everyday%20Life.md)"
 status: "[[In Progress]]"
 learningOutcomes: []
 rubric:

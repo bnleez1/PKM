@@ -1,6 +1,6 @@
 ---
 type: Module
-title: "L - Module 3: Finding Your Way Through Campus Talk"
+title: "Module 03: Finding Your Way Through Campus Talk"
 status: InBox
 unit: "[Listening I Unit I: Building a Foundation](Listening%20I%20Unit%20I%20Building%20a%20Foundation.md)"
 courseS: "[[60 Public/Website/Current Courses/Listening I/index]]"
@@ -9,10 +9,10 @@ startDate: 2026-08-10
 banner:
 gh-publish: true
 gh-path: content/Current Courses/Listening I/Modules
-gh-published-url: "https://bnleez1.github.io/PKM/current-courses/listening-i/modules/l---module-3-finding-your-way-through-campus-talk"
+gh-published-url: "https://bnleez1.github.io/PKM/current-courses/listening-i/modules/l1-module-03-finding-your-way-through-campus-talk"
 ---
 
-# L - Module 3: Finding Your Way Through Campus Talk
+# L1 Module 03: Finding Your Way Through Campus Talk
 
 
 ⚡️ University Life, Short Conversations, and Evidence-Based Listening

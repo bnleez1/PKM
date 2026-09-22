@@ -1,6 +1,6 @@
 ---
 type: Module
-title: "Listening I - Module 5: Listening with a Study Purpose"
+title: "Module 05: Listening with a Study Purpose"
 status: InBox
 unit: "[Listening I Unit II: Listening with Purpose](Listening%20I%20Unit%20II%20Listening%20with%20Purpose.md)"
 courseS: "[[60 Public/Website/Current Courses/Listening I/index]]"
@@ -9,11 +9,11 @@ startDate: 2026-08-10
 banner: https://institute.careerguide.com/wp-content/uploads/2023/04/2023-4-3.jpg
 gh-publish: true
 gh-path: content/Current Courses/Listening I/Modules
-gh-published-url: "https://bnleez1.github.io/PKM/current-courses/listening-i/modules/listening-i---module-5-listening-with-a-study-purpose"
+gh-published-url: "https://bnleez1.github.io/PKM/current-courses/listening-i/modules/l1-module-05-listening-with-a-study-purpose"
 ---
-[[Listening I - Module 4 Turning Short Messages into Usable Information]]
-[[Listening I Module 6 - Hearing Preferences, Opinions, and Order]]
-# Listening I - Module 5: Listening with a Study Purpose
+[[L1 Module 04 Turning Short Messages into Usable Information]]
+[[L1 Module 06 Hearing Preferences, Opinions, and Order]]
+# L1 Module 05: Listening with a Study Purpose
 
 ⚡️ Study Habits, Global and Selective Listening, and Keyword Notes
 

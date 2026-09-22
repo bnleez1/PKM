@@ -1,6 +1,6 @@
 ---
 type: Module
-title: "L-Chapter 9: Listening Beyond the Stated Words"
+title: "Module 09: Listening Beyond the Stated Words"
 status: InBox
 unit: "[Listening I Unit III: Listening Beyond Words](Listening%20I%20Unit%20III%20Listening%20Beyond%20Words.md)"
 courseS: "[[60 Public/Website/Current Courses/Listening I/index]]"
@@ -9,10 +9,10 @@ startDate: 2026-08-10
 banner:
 gh-publish: true
 gh-path: content/Current Courses/Listening I/Modules
-gh-published-url: "https://bnleez1.github.io/PKM/current-courses/listening-i/modules/l-chapter-9-listening-beyond-the-stated-words"
+gh-published-url: "https://bnleez1.github.io/PKM/current-courses/listening-i/modules/l1-module-09-listening-beyond-the-stated-words"
 ---
 
-# L-Chapter 9: Listening Beyond the Stated Words
+# L1 Module 09: Listening Beyond the Stated Words
 
 
 ⚡️ Sports, Physical Activities, Main Ideas, Details, and Basic Inference

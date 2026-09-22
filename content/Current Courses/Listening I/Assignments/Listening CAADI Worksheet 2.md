@@ -9,7 +9,7 @@ tags:
 courseS:
   - "[[Listening I]]"
 unitS: "[Listening I Unit I: Building a Foundation](Listening%20I%20Unit%20I%20Building%20a%20Foundation.md)"
-module: "[L - Module 1: Listening Begins Before the Audio](L%20-%20Module%201%20Listening%20Begins%20Before%20the%20Audio.md)"
+module: "[L1 Module 01: Listening Begins Before the Audio](L1%20Module%2001%20Listening%20Begins%20Before%20the%20Audio.md)"
 status: "[[In Progress]]"
 learningOutcomes: []
 rubric:

@@ -1,6 +1,6 @@
 ---
 type: Module
-title: "L-Chapter 8: Building a Complete Listening Record"
+title: "Module 08: Building a Complete Listening Record"
 status: InBox
 unit: "[Listening I Unit II: Listening with Purpose](Listening%20I%20Unit%20II%20Listening%20with%20Purpose.md)"
 courseS: "[[60 Public/Website/Current Courses/Listening I/index]]"
@@ -9,10 +9,10 @@ startDate: 2026-08-10
 banner:
 gh-publish: true
 gh-path: content/Current Courses/Listening I/Modules
-gh-published-url: "https://bnleez1.github.io/PKM/current-courses/listening-i/modules/l-chapter-8-building-a-complete-listening-record"
+gh-published-url: "https://bnleez1.github.io/PKM/current-courses/listening-i/modules/l1-module-08-building-a-complete-listening-record"
 ---
 
-# L-Chapter 8: Building a Complete Listening Record
+# L1 Module 08: Building a Complete Listening Record
 
 
 ⚡️ Food and Eating Habits, Strategy Consolidation, Project 2, and the Midterm Exam

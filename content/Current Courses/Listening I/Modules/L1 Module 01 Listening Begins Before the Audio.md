@@ -1,6 +1,6 @@
 ---
 type: Module
-title: "L - Module 1: Listening Begins Before the Audio"
+title: "Module 01: Listening Begins Before the Audio"
 status: Ready
 unit: "[Listening I Unit I: Building a Foundation](Listening%20I%20Unit%20I%20Building%20a%20Foundation.md)"
 courseS: "[[60 Public/Website/Current Courses/Listening I/index]]"
@@ -9,10 +9,10 @@ startDate: 2026-08-10
 banner:
 gh-publish: true
 gh-path: content/Current Courses/Listening I/Modules
-gh-published-url: "https://bnleez1.github.io/PKM/current-courses/listening-i/modules/l---module-1-listening-begins-before-the-audio"
+gh-published-url: "https://bnleez1.github.io/PKM/current-courses/listening-i/modules/l1-module-01-listening-begins-before-the-audio"
 ---
 
-# L - Module 1: Listening Begins Before the Audio
+# L1 Module 01: Listening Begins Before the Audio
 
 [Listening I week 1](../Audios/Media/Listening%20I%20week%201.mp3)
 [[Listening I week 1|Listening I week 1 - Notes]]

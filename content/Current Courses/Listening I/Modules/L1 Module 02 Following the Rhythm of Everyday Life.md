@@ -1,6 +1,6 @@
 ---
 type: Module
-title: "L - Module 2: Following the Rhythm of Everyday Life"
+title: "Module 02: Following the Rhythm of Everyday Life"
 status: InBox
 unit: "[Listening I Unit I: Building a Foundation](Listening%20I%20Unit%20I%20Building%20a%20Foundation.md)"
 courseS: "[[60 Public/Website/Current Courses/Listening I/index]]"
@@ -9,10 +9,10 @@ startDate: 2026-08-10
 banner:
 gh-publish: true
 gh-path: content/Current Courses/Listening I/Modules
-gh-published-url: "https://bnleez1.github.io/PKM/current-courses/listening-i/modules/l---module-2-following-the-rhythm-of-everyday-life"
+gh-published-url: "https://bnleez1.github.io/PKM/current-courses/listening-i/modules/l1-module-02-following-the-rhythm-of-everyday-life"
 ---
 
-# L - Module 2: Following the Rhythm of Everyday Life
+# L1 Module 02: Following the Rhythm of Everyday Life
 
 
 ⚡️ Daily Routines, Time Expressions, and Listening for Gist and Detail

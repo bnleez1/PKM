@@ -1,6 +1,6 @@
 ---
 type: Module
-title: "Listening I Module 6: Hearing Preferences, Opinions, and Order"
+title: "Module 06: Hearing Preferences, Opinions, and Order"
 status: "[[In Progress]]"
 unit: "[Listening I Unit II: Listening with Purpose](Listening%20I%20Unit%20II%20Listening%20with%20Purpose.md)"
 courseS: "[[60 Public/Website/Current Courses/Listening I/index]]"
@@ -9,11 +9,11 @@ startDate: 2026-08-10
 banner: https://wallup.net/wp-content/uploads/2016/01/111509-landscape-nature.jpg
 gh-publish: true
 gh-path: content/Current Courses/Listening I/Modules
-gh-published-url: "https://bnleez1.github.io/PKM/current-courses/listening-i/modules/listening-i-module-6---hearing-preferences,-opinions,-and-order"
+gh-published-url: "https://bnleez1.github.io/PKM/current-courses/listening-i/modules/l1-module-06-hearing-preferences,-opinions,-and-order"
 ---
-[[Listening I - Module 5 Listening with a Study Purpose]]
-[[Listening I Module 7 - Selecting What Matters in Food Talk]]
-# Listening I Module 6: Hearing Preferences, Opinions, and Order
+[[L1 Module 05 Listening with a Study Purpose]]
+[[L1 Module 07 Selecting What Matters in Food Talk]]
+# L1 Module 06: Hearing Preferences, Opinions, and Order
 
 ⚡️ Technology, Social Media, Digital Habits, Preferences, and Sequences in Spoken Messages
 

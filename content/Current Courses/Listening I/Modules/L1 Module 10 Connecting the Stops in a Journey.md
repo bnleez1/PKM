@@ -1,6 +1,6 @@
 ---
 type: Module
-title: "L-Chapter 10: Connecting the Stops in a Journey"
+title: "Module 10: Connecting the Stops in a Journey"
 status: InBox
 unit: "[Listening I Unit III: Listening Beyond Words](Listening%20I%20Unit%20III%20Listening%20Beyond%20Words.md)"
 courseS: "[[60 Public/Website/Current Courses/Listening I/index]]"
@@ -9,10 +9,10 @@ startDate: 2026-08-10
 banner:
 gh-publish: true
 gh-path: content/Current Courses/Listening I/Modules
-gh-published-url: "https://bnleez1.github.io/PKM/current-courses/listening-i/modules/l-chapter-10-connecting-the-stops-in-a-journey"
+gh-published-url: "https://bnleez1.github.io/PKM/current-courses/listening-i/modules/l1-module-10-connecting-the-stops-in-a-journey"
 ---
 
-# L-Chapter 10: Connecting the Stops in a Journey
+# L1 Module 10: Connecting the Stops in a Journey
 
 
 ⚡️ Travel, Tourism, Itineraries, Instructions, and Discourse Connectors

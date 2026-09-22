@@ -1,6 +1,6 @@
 ---
 type: Module
-title: "L-Chapter 12: Choosing Strategies Without Waiting for Directions"
+title: "Module 12: Choosing Strategies Without Waiting for Directions"
 status: InBox
 unit: "[Listening I Unit III: Listening Beyond Words](Listening%20I%20Unit%20III%20Listening%20Beyond%20Words.md)"
 courseS: "[[60 Public/Website/Current Courses/Listening I/index]]"
@@ -9,10 +9,10 @@ startDate: 2026-08-10
 banner:
 gh-publish: true
 gh-path: content/Current Courses/Listening I/Modules
-gh-published-url: "https://bnleez1.github.io/PKM/current-courses/listening-i/modules/l-chapter-12-choosing-strategies-without-waiting-for-directions"
+gh-published-url: "https://bnleez1.github.io/PKM/current-courses/listening-i/modules/l1-module-12-choosing-strategies-without-waiting-for-directions"
 ---
 
-# L-Chapter 12: Choosing Strategies Without Waiting for Directions
+# L1 Module 12: Choosing Strategies Without Waiting for Directions
 
 
 ⚡️ Autonomous Listening Across Instructions, Interviews, Narratives, Itineraries, and Reports

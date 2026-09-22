@@ -1,6 +1,6 @@
 ---
 type: Module
-title: "L-Chapter 16: From Course Strategies to Real-Life Listening"
+title: "Module 16: From Course Strategies to Real-Life Listening"
 status: InBox
 unit: "[Listening I Unit IV: Collaboration, Problem-Solving, and Community](Listening%20I%20Unit%20IV%20Collaboration,%20Problem-Solving,%20and%20Community.md)"
 courseS: "[[60 Public/Website/Current Courses/Listening I/index]]"
@@ -9,10 +9,10 @@ startDate: 2026-08-10
 banner:
 gh-publish: true
 gh-path: content/Current Courses/Listening I/Modules
-gh-published-url: "https://bnleez1.github.io/PKM/current-courses/listening-i/modules/l-chapter-16-from-course-strategies-to-real-life-listening"
+gh-published-url: "https://bnleez1.github.io/PKM/current-courses/listening-i/modules/l1-module-16-from-course-strategies-to-real-life-listening"
 ---
 
-# L-Chapter 16: From Course Strategies to Real-Life Listening
+# L1 Module 16: From Course Strategies to Real-Life Listening
 
 
 ⚡️ Integrated Comprehension, Transfer, Project 4, the Final Exam, and Course Reflection

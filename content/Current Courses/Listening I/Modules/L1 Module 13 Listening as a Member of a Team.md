@@ -1,6 +1,6 @@
 ---
 type: Module
-title: "L-Chapter 13: Listening as a Member of a Team"
+title: "Module 13: Listening as a Member of a Team"
 status: InBox
 unit: "[Listening I Unit IV: Collaboration, Problem-Solving, and Community](Listening%20I%20Unit%20IV%20Collaboration,%20Problem-Solving,%20and%20Community.md)"
 courseS: "[[60 Public/Website/Current Courses/Listening I/index]]"
@@ -9,10 +9,10 @@ startDate: 2026-08-10
 banner:
 gh-publish: true
 gh-path: content/Current Courses/Listening I/Modules
-gh-published-url: "https://bnleez1.github.io/PKM/current-courses/listening-i/modules/l-chapter-13-listening-as-a-member-of-a-team"
+gh-published-url: "https://bnleez1.github.io/PKM/current-courses/listening-i/modules/l1-module-13-listening-as-a-member-of-a-team"
 ---
 
-# L-Chapter 13: Listening as a Member of a Team
+# L1 Module 13: Listening as a Member of a Team
 
 
 ⚡️ Collaboration, Conversations, Announcements, Instructions, Problems, Reasons, and Examples

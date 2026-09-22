@@ -1,6 +1,6 @@
 ---
 type: Module
-title: "L-Chapter 14: Listening for a Way Forward"
+title: "Module 14: Listening for a Way Forward"
 status: InBox
 unit: "[Listening I Unit IV: Collaboration, Problem-Solving, and Community](Listening%20I%20Unit%20IV%20Collaboration,%20Problem-Solving,%20and%20Community.md)"
 courseS: "[[60 Public/Website/Current Courses/Listening I/index]]"
@@ -9,10 +9,10 @@ startDate: 2026-08-10
 banner:
 gh-publish: true
 gh-path: content/Current Courses/Listening I/Modules
-gh-published-url: "https://bnleez1.github.io/PKM/current-courses/listening-i/modules/l-chapter-14-listening-for-a-way-forward"
+gh-published-url: "https://bnleez1.github.io/PKM/current-courses/listening-i/modules/l1-module-14-listening-for-a-way-forward"
 ---
 
-# L-Chapter 14: Listening for a Way Forward
+# L1 Module 14: Listening for a Way Forward
 
 
 ⚡️ Everyday Problem-Solving in Interviews and Short Narratives
