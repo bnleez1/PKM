@@ -1,6 +1,6 @@
 ---
 type: Module
-title: "Module 01: Entering the World of Discourse — Language, Context, and the Foundations of Discourse Analysis"
+title: "Module 01: Entering the World of Discourse"
 status: Ready
 unit: "[Discourse Analysis Unit I: Foundations: Text, Context, and History](Discourse%20Analysis%20Unit%20I%20Foundations%20Text,%20Context,%20and%20History.md)"
 courseS: "[[60 Public/Website/Current Courses/Discourse Analysis/index]]"

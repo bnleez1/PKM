@@ -1,6 +1,6 @@
 ---
 type: Module
-title: "Module 03: Cohesion and Coherence — How Texts Hold Together"
+title: "Module 03: How Texts Hold Together"
 status: InBox
 unit: "[Discourse Analysis Unit II: Making Meaning in Text](Discourse%20Analysis%20Unit%20II%20Making%20Meaning%20in%20Text.md)"
 courseS: "[[60 Public/Website/Current Courses/Discourse Analysis/index]]"
