@@ -198,7 +198,6 @@ icon: 🛩️
 > > 	- evidence: the student’s response shows that the turn was treated as action-relevant.
  
 
-
 > [!goal]- ## 🗓️ [[Thursday, September 24, 2026]]
 > > **What evidence supports your interpretation of what an utterance is doing?**
 > > 6. ""
