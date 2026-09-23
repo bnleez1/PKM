@@ -129,14 +129,66 @@ icon: 🛩️
 > 3. We'll start with [DA_Week_7_Tuesday_Integrated_Texts Only 1.docx](https://eduuaa.sharepoint.com/:w:/s/DiscourseAnalysis2026/IQByYtUxAatpRrQKrioFRFeyASdoy9ZetgVpXImgJgLqlQE?e=NK7w1w). 
 > 4. **For tomorrow**: Bring two notes with you to class tomorrow: one idea from the reading that clarified speech acts and one example that still seems ambiguous.
 > 5. **Note**: For any missed assignments, you will have an opportunity to make up up to three missed assignments throughout the semester. You decide which three assignments your updated grade will be applied to.
+> 
+> > [!question]- What family does each utterance below likely belong to? What evidence (from context) supports that interpretation?
+> > - 
 
 
 > [!goal]- ## 🗓️ [[Wednesday, September 23, 2026]]
-> > **What evidence supports your interpretation of what an utterance is doing?**
+> 
+> > [!question]- **What evidence supports your interpretation of what an utterance is doing?**
+> > 1. **“The assignment closes at midnight.”**
+> > 2. **“Could you close the window?”**
+> > 3. **“I promise I’ll send it tonight.”**
+> > In pairs, answer the following:
+> > - What is the **locutionary content**?
+> > - What is the likely **illocutionary force**?
+> > - What could be a **perlocutionary effect**?
+>
+> > [!goal]- **Five families of speech acts**
+> > 1. Representative / assertion: Speaker is mainly representing something as true (e.g., stating, reporting, claiming)
+> > 2. Directive: Speaker is mainly trying to get someone to act (e.g., requesting, ordering, suggesting)
+> > 3. Commissive: Speaker is mainly committing to future action (e.g., promising, offering, refusing) 
+> > 4. Expressive: Speaker is mainly expressing a social/psychological stance (e.g., thanking, apologizing, congratulating) 
+> > 5. Declaration: Speaker is mainly changing an institution/social state (e.g., approving, declaring, appointing)
+>
+> > [!question]- What family does each utterance below likely belong to? What evidence supports that interpretation?
+> > - “I’ll bring the materials tomorrow.”
+> > - “You need to move your bag.”
+> > - “Thank you for staying late.”
+> > - “The quiz begins at nine.”
+> > - “I approve your revised topic.”
+> > - “Would you mind opening the door?”
+> > - “I’m sorry I interrupted.”
+> > - “You might want to check that citation.”
+> > - “Your answer is correct.”
+> > - “I can help you after class.”
+>
+> > [!goal]- Direct vs. Indirect
+> > A: Close the window.
+> > B: Could you close the window?
+> > 
+> > A: Give me the rubric.
+> > B: Do you still have the rubric?
+> > 
+> > A: Revise this paragraph.
+> > B: You might want to revise this paragraph. 
+> > 
+> > With your partner, answer the following:
+> > - What is the grammatical form?
+> > - What is the communicative function?
+> > - Do form and function align? (locutionary act (examples below) vs. illocutionary act (non-alignment of form and function))
+> > 	- "Close the door." - Imperative - Request or command
+> > 	- "Did you submit the form?" - Interrogative - Request for information
+> > 	- "The class starts at nine." - Declarative - Assertion / information
+> > - Which is more indirect?
+> > - Does indirect automatically mean "more polite"?
+ 
 
 
 > [!goal]- ## 🗓️ [[Thursday, September 24, 2026]]
 > > **What evidence supports your interpretation of what an utterance is doing?**
+> > 6. ""
 
 
 > [!goal]- ## 🗓️ [[Friday, September 25, 2026]]
