@@ -12,10 +12,10 @@ banner: https://cdn.pixabay.com/photo/2022/09/27/19/44/ai-generated-7483569_1280
 ---
 # Annotated Bibliography: Notebook Guide
 
-**Academic Writing · Unit III**
+**[[Academic Writing Unit III]]** | **[[AW Module 07 Reading Sources Critically]]**
 
 > [!important] Goal
-> For each source, write a short annotation that explains **what the study says, how useful it is, and how it connects to your research**.
+> For each source, write a concise annotation (*between 150-200 words and between 7-10 sentences*) that explains **what the study says, how useful it is, and how it connects to your research**.
 
 ---
 ## For Each Source
@@ -48,7 +48,7 @@ Then work through four steps:
 > - *The findings suggest that...*
 > - *The authors report that...*
 >
-> Do not summarize the entire article. Focus on what matters for **your research problem**.
+> Do not summarize the entire article. Focus on what matters for **your research problem** and **research questions**.
 
 > [!note] 3. Evaluate — How useful is this source?
 > Identify at least one important **strength, limitation, or reason the source is useful**.
@@ -66,7 +66,7 @@ Then work through four steps:
 
 > [!note] 4. Connect — How does it help my research?
 > Explain how the source connects to:
-> - your research problem;
+> - your research problem and/or research questions;
 > - another source you have read; or
 > - an emerging theme.
 >
@@ -104,7 +104,6 @@ ____________________________________________________________
 
 ____________________________________________________________
 
----
 ## After You Write
 
 Check your annotation:
@@ -118,6 +117,7 @@ Check your annotation:
 - [ ] My APA reference is complete.
 
 ---
+
 ## Build Toward Your Literature Review
 
 After each annotation, add a short **Synthesis Note**.
@@ -153,6 +153,7 @@ You may use instructor-approved GenAI to help **discover or map possible sources
 Do not use AI to draft, rewrite, paraphrase, or polish your annotations.
 
 ---
+
 ## The Big Picture
 
 **Read → Annotate → Connect → Find Themes → Develop Claims → Write the Literature Review**

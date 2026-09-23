@@ -99,5 +99,6 @@ A productive learning sequence for this chapter begins with a diagnostic respons
 The second part of the week should move from practice to production. Students use the guiding questions—“What are the distinct functions of summary, evaluation, and relevance in an annotation?” and “How can validity and reliability be judged across different kinds of research?”—as checkpoints while working toward the stated outcomes, especially the ability to explain the purpose, organization, and format of an annotated bibliography and to distinguish summary, evaluation, and relevance statements within an annotation. A brief peer conference should focus on one high-impact feature rather than attempting to correct everything at once. Students then revise, annotate the evidence of their decision-making, and complete the week’s deliverable: Practice annotation; final-annotation checklist; source-evaluation matrix; evaluated and selected candidate sources. The final five minutes of class can be used for an exit reflection identifying one decision the writer can now justify and one question that must be carried into the next chapter.
 
 > [!goal]- ## 🗓️ [[Wednesday, September 23, 2026]]
-> > 1. Review [[Annotated Bibliograph_In-Class Notebook Writing Guide]].
-> > 2. 
+> > 1. Develop a [[Thesis Statement]] and add it to [Academic Writing Matrix.xlsx](https://eduuaa.sharepoint.com/:x:/s/AcademicWriting2026/IQBAHolM12WNQaQyrmAh_yfYATcjpuZLkWowERp5RicVM8I?e=b0b9UM). 
+> > 2. Review [[Annotated Bibliograph_In-Class Notebook Writing Guide]].
+> > 3. Begin writing your first annotated bibliography in your notebook.

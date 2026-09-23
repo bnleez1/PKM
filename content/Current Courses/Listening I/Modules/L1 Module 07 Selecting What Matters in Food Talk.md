@@ -84,7 +84,10 @@ gh-published-url: "https://bnleez1.github.io/PKM/current-courses/listening-i/mod
 > 1. Listen to a story.
 > 2. Identify phrasal verbs.
 > 3. Identify idiomatic expressions
-> 4. Retell story.
 
 
-
+> [!Goal]- Wednesday - Retell a story
+> 1. Listen to a story a final time.
+> 2. Develop a graphic organizer to retell the story.
+> 3. Retell story and record yourself (audio only - *make sure it is a small audio file*).
+> 4. Upload audio of you retelling the story to [Retelling a story_23092026](https://eduuaa.sharepoint.com/:f:/s/ListeningI2026/IgDTvFc_C0eMRYnOflNLJOrWAcFY02yeZMJ6c9MnvsF2iAA?e=pUnQq1). 
