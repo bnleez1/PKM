@@ -105,16 +105,7 @@ icon: 🛩️
 > A complete analytical paragraph can follow four moves. First, locate the utterance and summarize the relevant context. Second, identify its grammatical form and propositional content. Third, propose the illocutionary force and cite sequential evidence, including uptake. Fourth, discuss an alternative reading or felicity condition. This organization makes the inference transparent.
 > 
 > When evidence is limited, preserve uncertainty. A transcript without prosody or participant background may not distinguish teasing from criticism. Naming that limitation strengthens the analysis because it shows which contextual resources are necessary for a firmer claim. Speech-act analysis is most credible when it acknowledges that actions are jointly recognized rather than privately stored in sentence forms.
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
+
 
 
 > [!goal]- ## 🗓️ [[Tuesday, September 22, 2026]]
@@ -139,6 +130,11 @@ icon: 🛩️
 > > 1. **“The assignment closes at midnight.”**
 > > 2. **“Could you close the window?”**
 > > 3. **“I promise I’ll send it tonight.”**
+> > 4. **"You left the window open."**
+> > 5. **"I'll bring the missing handouts tomorrow."**
+> > 6. **"You might want to check the citation on slide six."**
+> > 7. **"The quiz begins in five minutes."**
+> > 
 > > In pairs, answer the following:
 > > - What is the **locutionary content**?
 > > - What is the likely **illocutionary force**?
@@ -182,6 +178,24 @@ icon: 🛩️
 > > 	- "The class starts at nine." - Declarative - Assertion / information
 > > - Which is more indirect?
 > > - Does indirect automatically mean "more polite"?
+>
+> > [!goal]- Mini Analysis Challenge
+> > Review handout.
+> > 
+> > **Student:** “I haven’t finished the report.”  
+> > **Teacher:** **“The deadline is today.”**  
+> > **Student:** “Okay, I’ll finish it during lunch.”
+> > 
+> > - **Locution:** What does the teacher literally say?
+> > - **Illocution:** What action does the utterance perform?
+> > - **Perlocution:** What happens afterward?
+> > - **Evidence:** What in the sequence supports the interpretation?
+> > - 
+> >   Likely analysis:
+> > 	- locution: statement about the deadline;
+> > 	- illocution: reminder / indirect directive / warning;
+> > 	- perlocution: student commits to completing the work;
+> > 	- evidence: the student’s response shows that the turn was treated as action-relevant.
  
 
 
