@@ -19,7 +19,6 @@ gh-published-url: "https://bnleez1.github.io/PKM/current-courses/writing-i/modul
 
 > A paragraph can contain correct individual sentences and still feel disconnected. Cohesion is the network of language that helps readers see how one sentence relates to the next. At an A2 level, useful cohesive resources include controlled repetition, clear pronoun reference, related vocabulary, and sequence connectors. This week, you will exchange drafts and give focused feedback. Only after completing your own draft may you use teacher-authorized GenAI for limited feedback on clarity, connectors, repetition, punctuation, or general understanding. The tool’s suggestions are not automatically correct. You must compare them with models, course criteria, dictionaries, and your own intention. You will create a revision trail that records what you accepted, what you rejected, and why. This makes your decisions visible and protects your authorship.
 
-
 ## Essential understanding(s)
 
 - How does lexical cohesion help readers follow a paragraph?
@@ -81,20 +80,6 @@ Create a cohesion map by writing the main topic word in the center of a page and
 Keep the original draft and make a simple record with four parts: the issue, the suggestion, your decision, and your reason. For example: “Repeated phone five times; AI suggested device; rejected because device is less specific and not a word I normally use.” Another entry might say: “Pronoun it had no clear antecedent; peer suggested repeating the app; accepted because the meaning is clearer.” The revision trail shows that feedback informed your thinking but did not control it. Submit it with the next revised version.
 
 [[W1 Module 07 Note]]
-## 🗓️ Monday
-
-### Text 1
-
-the preparation for my classes is an important part of my daily routine the organization of my books and notes usually happens in the evening the completion of my homework is also a priority before I go to bed a review of my notes takes place for about twenty minutes this review gives me an improvement in my understanding of difficult ideas sometimes there is a reduction in my concentration because of my phone for this reason the decision to put my phone in another room is helpful better management of my study time gives me more confidence before class
-
-
-### Text 2
-
-the use of social media is a regular part of my day the checking of messages usually happens immediately after I wake up the viewing of short videos also takes place during breakfast sometimes there is an interruption of my study because of notifications the constant arrival of messages causes a loss of attention during homework for this reason the creation of limits on my phone has become important the removal of some notifications gives me better control of my time I also make a decision to stop using my phone during class these changes produce an improvement in my concentration and make communication with my classmates more purposeful
-
-### Text 3
-
-participation in group projects is an important part of university life the organization of a group meeting usually requires communication between several students the selection of a meeting time can sometimes be difficult because everyone has different classes after the selection of a time there is a discussion of the assignment and a division of the work the completion of each task is the responsibility of one group member good communication gives the group a reduction in confusion and an improvement in cooperation sometimes a disagreement creates a delay in the completion of the project careful discussion and clear decision making usually provide a solution to the problem
 
 > [!goal]- ## 🗓️ [[Monday, September 21, 2026]]
 > > [!question]- 

@@ -16,10 +16,9 @@ icon: 🛩️
 [[DA Module 6_Positioning the Writer and Reader]]
 [[DA Module 08 The Architecture of Conversation]]
 
-# Discourse Analysis Module 7
+# Discourse Analysis Module 7: Doing Things With Words
 
-> [!goal]- # Doing Things with Words
-> ⚡️ Speech acts, intentions, effects, and the contextual interpretation of utterances
+> [!goal]- # Speech acts, intentions, effects, and the contextual interpretation of utterances
 > 
 > Utterances do not merely describe the world; they perform actions within it. A speaker can promise, request, apologize, refuse, warn, invite, congratulate, or declare something by producing language in an appropriate context. Speech Act Theory provides a framework for separating the words uttered, the action intended, and the effects achieved. It also helps explain why grammatically similar sentences can perform different functions and why indirect forms are often central to politeness and social negotiation. This week you will analyze locutionary, illocutionary, and perlocutionary dimensions, classify direct and indirect speech acts, and consider felicity conditions. The challenge is to avoid reading intention directly from form. Claims about what an utterance does must be supported by context, participant roles, sequential position, and the recipients’ responses.
 > 
