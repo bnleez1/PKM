@@ -87,7 +87,9 @@ gh-published-url: "https://bnleez1.github.io/PKM/current-courses/listening-i/mod
 
 
 > [!Goal]- Wednesday - Retell a story
-> 1. Listen to a story a final time.
-> 2. Develop a graphic organizer to retell the story.
-> 3. Retell story and record yourself (audio only - *make sure it is a small audio file*).
-> 4. Upload audio of you retelling the story to [Retelling a story_23092026](https://eduuaa.sharepoint.com/:f:/s/ListeningI2026/IgDTvFc_C0eMRYnOflNLJOrWAcFY02yeZMJ6c9MnvsF2iAA?e=pUnQq1). 
+> 1. Enter [Listening Comprehension and Retelling Quiz - September 23, 2026 – Fill out form](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=kuLi4dYhSUi3EE1H2VeK0ItjcCXTT1VEvQ9aSPhTcDNUN1VaWk9OTEowR1dUVjdWOVVMR0EzNDgxOSQlQCNjPTEu) and answer the questions based on the story from yesterday. *Do not submit your responses.*
+> 2. Listen to a story a final time.
+> 3. Review questions and then submit.
+> 4. Develop a graphic organizer to retell the story.
+> 5. Retell story and record yourself (audio only - *make sure it is a small audio file*).
+> 6. Upload audio of you retelling the story to [Retelling a story_23092026](https://eduuaa.sharepoint.com/:f:/s/ListeningI2026/IgDTvFc_C0eMRYnOflNLJOrWAcFY02yeZMJ6c9MnvsF2iAA?e=pUnQq1). 
