@@ -10,7 +10,7 @@ banner: https://c8.alamy.com/comp/E3YDKM/interior-of-george-peabody-library-peab
 # Analyzing and Synthesizing Information in a Literature Review
 
 > [!tip] Tip
-> Complete th 
+> Complete the [[LitReview Synthesis Workbook]].
 
 A literature review is more than a collection of summaries of previous studies. Its purpose is to examine existing knowledge critically and then combine evidence from multiple sources to develop a coherent understanding of a topic. Two central processes make this possible: **analysis** and **synthesis**. Although the terms are sometimes used interchangeably, they represent different intellectual activities. Analysis focuses primarily on understanding and evaluating individual sources, whereas synthesis focuses on identifying relationships, patterns, tensions, and implications across multiple sources (Grant & Booth, 2009; Snyder, 2019).
 

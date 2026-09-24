@@ -1,5 +1,11 @@
 ---
-banner: https://i.pinimg.com/originals/fe/cb/fe/fecbfecc96928b5225d1fbcb636352b4.jpg
+title: Analyzing and Synthesizing Information in a Literature Review
+tags: []
+gh-publish: true
+gh-path: content/Assets/Pages
+gh-published: true
+gh-published-url: 
+banner: 
 ---
 # How to Complete the Literature Review Analysis & Synthesis Workbook
 
