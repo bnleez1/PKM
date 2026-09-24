@@ -103,6 +103,14 @@ Keep the original draft and make a simple record with four parts: the issue, the
 
 
 > [!goal]- ## 🗓️ [[Wednesday, September 23, 2026]]
-> > [!question]- Questions
+> > 1. Assign questions.
+> > 2. Brainstorm.
 
 
+> [!goal]- ## 🗓️ [[Thursday, September 24, 2026]]
+> > 1. Review idiomatic expressions and phrasal verbs to include in first draft.
+> > 2. Complete first draft.
+> > 3. Avoid...
+> > 	a. "there is/are"
+> > 	b. "to be" or any linking verbs in the topic sentence.
+> > 	c. "important", etc.

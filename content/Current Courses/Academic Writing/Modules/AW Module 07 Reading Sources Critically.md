@@ -90,3 +90,8 @@ gh-published-url: "https://bnleez1.github.io/PKM/current-courses/academic-writin
 > > 2. Review [[Annotated Bibliograph_In-Class Notebook Writing Guide]].
 > > 3. Begin writing your first annotated bibliography in your notebook.
 
+> [!goal]- ## 🗓️ [[Thursday, September 24, 2026]]
+> > 1. Develop research questions that your [[Thesis Statement]] answers. Focus on the 2-4 reasons or ways in your thesis statement when developing your 2-4 research questions. Add both your thesis statement and research questions to [Academic Writing Matrix.xlsx](https://eduuaa.sharepoint.com/:x:/s/AcademicWriting2026/IQBAHolM12WNQaQyrmAh_yfYATcjpuZLkWowERp5RicVM8I?e=b0b9UM). 
+> > 2. Review [[Annotated Bibliograph_In-Class Notebook Writing Guide]].
+> > 3. Begin writing your first annotated bibliography in your notebook.
+

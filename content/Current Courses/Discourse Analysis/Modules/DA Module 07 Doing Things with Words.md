@@ -203,7 +203,7 @@ icon: 🛩️
 > > 1. Download [DA_Week_7_Speech_Acts_and_Uptake_Student_Handout.docx](https://eduuaa.sharepoint.com/:w:/s/DiscourseAnalysis2026/IQDdYK2PJyqCToHPG1yOh3GVASPayTZPQG5f_okFUPKfzSA?e=OHWG3Q). 
 > > 2. Complete handout with a partner.
 > > 3. Review handout.
-> > 4. 
+
 
 
 > [!goal]- ## 🗓️ [[Friday, September 25, 2026]]
