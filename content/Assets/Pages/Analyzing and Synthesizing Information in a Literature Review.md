@@ -1,6 +1,7 @@
 ---
 title: Analyzing and Synthesizing Information in a Literature Review
-tags: []
+tags:
+  - Research
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true

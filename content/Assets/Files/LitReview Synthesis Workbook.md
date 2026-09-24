@@ -1,11 +1,12 @@
 ---
 title: Analyzing and Synthesizing Information in a Literature Review
-tags: []
+tags:
+  - Research
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: 
-banner: 
+gh-published-url:
+banner: https://i.pinimg.com/originals/fe/cb/fe/fecbfecc96928b5225d1fbcb636352b4.jpg
 ---
 # How to Complete the Literature Review Analysis & Synthesis Workbook
 
@@ -32,7 +33,7 @@ Complete **one row for each source** you read.
 ### Basic source information
 
 Enter:
-
+https://i.pinimg.com/originals/fe/cb/fe/fecbfecc96928b5225d1fbcb636352b4.jpg
 - **Source ID:** Create a short label such as S01, S02, S03.
 - **Short citation:** For example, _Snyder (2019)_.
 - **Full APA citation:** Enter the complete reference.
