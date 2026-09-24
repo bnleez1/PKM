@@ -96,3 +96,5 @@ gh-published-url: "https://bnleez1.github.io/PKM/current-courses/academic-writin
 > > 3. Review [[Annotated Bibliograph_In-Class Notebook Writing Guide]].
 > > 4. Begin writing your first annotated bibliography in your notebook.
 
+> [!goal]- ## 🗓️ [[Friday, September 25, 2026]]
+> > 1. Review [[Analyzing and Synthesizing Information in a Literature Review]].

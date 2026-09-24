@@ -66,7 +66,7 @@ Creating a literature review involves a systematic approach that includes severa
 
 - Highlight areas of agreement, disagreement, and emerging trends.
 
-- See also [[How to synthesize information]].
+- See also [[Analyzing and Synthesizing Information in a Literature Review]].
 
 ### Step 5: Write the Review
 
