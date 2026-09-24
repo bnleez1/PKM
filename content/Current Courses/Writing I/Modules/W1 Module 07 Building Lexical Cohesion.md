@@ -102,3 +102,7 @@ Keep the original draft and make a simple record with four parts: the issue, the
 > > the use of social media is a regular part of my day the checking of messages usually happens immediately after I wake up the viewing of short videos also takes place during breakfast sometimes there is an interruption of my study because of notifications the constant arrival of messages causes a loss of attention during homework for this reason the creation of limits on my phone has become important the removal of some notifications gives me better control of my time I also make a decision to stop using my phone during class these changes produce an improvement in my concentration and make communication with my classmates more purposeful
 
 
+> [!goal]- ## 🗓️ [[Wednesday, September 23, 2026]]
+> > [!question]- Questions
+
+

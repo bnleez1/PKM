@@ -93,3 +93,9 @@ gh-published-url: "https://bnleez1.github.io/PKM/current-courses/listening-i/mod
 > 4. Develop a graphic organizer to retell the story.
 > 5. Retell story and record yourself (audio only - *make sure it is a small audio file*).
 > 6. Upload audio of you retelling the story to [Retelling a story_23092026](https://eduuaa.sharepoint.com/:f:/s/ListeningI2026/IgDTvFc_C0eMRYnOflNLJOrWAcFY02yeZMJ6c9MnvsF2iAA?e=pUnQq1). 
+
+
+> [!Goal]- [[Thursday, September 24, 2026]] 
+> 1. Download [Listening_I_Food_Eating_Habits_Student_Handout.docx](https://eduuaa.sharepoint.com/:w:/s/ListeningI2026/IQBbrSS-ByxST7V5LNmewNP2AdMAkRf6OpKXlRYteDJ-A3Y?e=cxPjsN).
+> 2. Listen to the audio and complete handout.
+> 3. If you have not done so already, submit audio from [[Wednesday, September 23, 2026]] to [Retelling a story_23092026](https://eduuaa.sharepoint.com/:f:/s/ListeningI2026/IgDTvFc_C0eMRYnOflNLJOrWAcFY02yeZMJ6c9MnvsF2iAA?e=R34qeY).   
