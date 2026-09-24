@@ -98,3 +98,4 @@ gh-published-url: "https://bnleez1.github.io/PKM/current-courses/academic-writin
 
 > [!goal]- ## 🗓️ [[Friday, September 25, 2026]]
 > > 1. Review [[Analyzing and Synthesizing Information in a Literature Review]].
+
