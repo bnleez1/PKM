@@ -200,9 +200,10 @@ icon: 🛩️
 
 > [!goal]- ## 🗓️ [[Thursday, September 24, 2026]]
 > > **What evidence supports your interpretation of what an utterance is doing?**
-> > 1. Download [DA_Week_7_Speech_Acts_and_Uptake_Student_Handout.docx](https://eduuaa.sharepoint.com/:w:/s/DiscourseAnalysis2026/IQDdYK2PJyqCToHPG1yOh3GVASPayTZPQG5f_okFUPKfzSA?e=OHWG3Q). 
-> > 2. Complete handout with a partner.
-> > 3. Review handout.
+> > 1. If anyone is interested in TOEFL support, join [General | TOEFL Support](https://teams.cloud.microsoft/l/team/19%3A-VqAnjH6OShYkBsRinH2roZuG0uQG5JdswJoLnZqSDg1%40thread.tacv2/conversations?groupId=ef4cb3a1-0ba0-49a3-bb76-fe42bca37d66&tenantId=e1e2e292-21d6-4849-b710-4d47d9578ad0). 
+> > 2. Download [DA_Week_7_Speech_Acts_and_Uptake_Student_Handout.docx](https://eduuaa.sharepoint.com/:w:/s/DiscourseAnalysis2026/IQDdYK2PJyqCToHPG1yOh3GVASPayTZPQG5f_okFUPKfzSA?e=OHWG3Q). 
+> > 3. Complete handout with a partner.
+> > 4. Review handout.
 
 
 
