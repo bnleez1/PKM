@@ -92,6 +92,7 @@ gh-published-url: "https://bnleez1.github.io/PKM/current-courses/academic-writin
 
 > [!goal]- ## 🗓️ [[Thursday, September 24, 2026]]
 > > 1. Develop research questions that your [[Thesis Statement]] answers. Focus on the 2-4 reasons or ways in your thesis statement when developing your 2-4 research questions. Add both your thesis statement and research questions to [Academic Writing Matrix.xlsx](https://eduuaa.sharepoint.com/:x:/s/AcademicWriting2026/IQBAHolM12WNQaQyrmAh_yfYATcjpuZLkWowERp5RicVM8I?e=b0b9UM). 
-> > 2. Review [[Annotated Bibliograph_In-Class Notebook Writing Guide]].
-> > 3. Begin writing your first annotated bibliography in your notebook.
+> > 2. Ask that I review your thesis statement and research questions before submitting to [View assignment: "Thesis Statement and Research Questions"](https://teams.microsoft.com/l/entity/66aeee93-507d-479a-a3ef-8f494af43945/classroom?context=%7B%22subEntityId%22%3A%22%7B%5C%22version%5C%22%3A%5C%221.0%5C%22%2C%5C%22config%5C%22%3A%7B%5C%22classes%5C%22%3A%5B%7B%5C%22id%5C%22%3A%5C%2239f633ab-3460-4d68-ab5d-8d9a79ab08b8%5C%22%2C%5C%22assignmentIds%5C%22%3A%5B%5C%2232ed4316-30a5-4115-a97b-517a1d1569d2%5C%22%5D%7D%5D%7D%2C%5C%22action%5C%22%3A%5C%22navigate%5C%22%2C%5C%22view%5C%22%3A%5C%22assignment-viewer%5C%22%2C%5C%22appId%5C%22%3A%5C%22ccb65bcd-04ba-421a-8791-a299a70904b6%5C%22%2C%5C%22deeplinkType%5C%22%3A4%7D%22%2C%22channelId%22%3Anull%7D). 
+> > 3. Review [[Annotated Bibliograph_In-Class Notebook Writing Guide]].
+> > 4. Begin writing your first annotated bibliography in your notebook.
 
