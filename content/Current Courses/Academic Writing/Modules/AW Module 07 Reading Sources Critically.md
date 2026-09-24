@@ -98,6 +98,7 @@ gh-published-url: "https://bnleez1.github.io/PKM/current-courses/academic-writin
 
 > [!goal]- ## 🗓️ [[Friday, September 25, 2026]]
 > > 1. Review [[Analyzing and Synthesizing Information in a Literature Review]].
-> > 2. Review [[LitReview Synthesis Workbook]] and focus on the following: [[Source Analysis Focus]].
+> > 2. Review [[Annotated Bibliograph_In-Class Notebook Writing Guide]].
+> > 3. Review [[LitReview Synthesis Workbook]] and focus on the following: [[Source Analysis Focus for the Annotated Bibliograph]].
 
 

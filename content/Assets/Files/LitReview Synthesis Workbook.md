@@ -131,15 +131,10 @@ For example:
 For each source, indicate how it relates to each theme:
 
 - Not addressed
-    
 - Supports
-    
 - Extends
-    
 - Contradicts
-    
 - Mixed
-    
 
 Use the **Cross-source note** column to record important comparisons.
 
@@ -162,11 +157,8 @@ Complete **one row for each major theme**.
 Enter:
 
 - **Theme / concept**
-    
 - **Working definition**
-    
 - **Central synthesis question**
-    
 
 For example:
 
@@ -185,15 +177,10 @@ Which sources provide different or conflicting evidence?
 Then describe:
 
 - **Convergent pattern:** What do several studies agree on?
-    
 - **Divergence / contradiction:** Where do studies differ?
-    
 - **Method / context pattern:** Could differences be explained by research methods, populations, or settings?
-    
 - **Boundary conditions:** Under what circumstances does the pattern appear to hold?
-    
 - **Gap / unresolved issue:** What remains unknown?
-    
 
 ---
 
@@ -218,11 +205,8 @@ Then write a possible **Paragraph topic sentence** based on that synthesis claim
 Finally, record:
 
 - **Implication / future research**
-    
 - **Confidence (1–5)**
-    
 - **Status**
-    
 
 Mark the theme **Ready to draft** when you have enough evidence to write a literature-review paragraph.
 
@@ -238,29 +222,22 @@ You do not need to use every authority in your own review. Consult them when you
 
 ---
 
-# Recommen> [!tip] Tip
-> ded Workflow
+# Recommended Workflow
+> [!tip] Tip
+> 
 
 Follow this sequence:
 
 **Read → Analyze → Code → Compare → Synthesize → Write**
 
 1. Read one source.
-    
 2. Complete one row in **Source Analysis**.
-    
 3. Assign theme codes.
-    
 4. Repeat for additional sources.
-    
 5. Compare sources in the **Source–Theme Matrix**.
-    
 6. Develop each major theme in **Theme Synthesis**.
-    
 7. Formulate a synthesis claim.
-    
 8. Use that synthesis claim as the basis of a literature-review paragraph.
-    
 
 ## Final Check
 
@@ -273,3 +250,4 @@ _Do I understand what each source contributes and how strong its evidence is?_
 _What can I conclude from comparing these sources that I could not conclude from any one source alone?_
 
 If you can answer the second question clearly, you are ready to begin writing the literature review.
+
