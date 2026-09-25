@@ -114,3 +114,11 @@ Keep the original draft and make a simple record with four parts: the issue, the
 > > 	a. "there is/are"
 > > 	b. "to be" or any linking verbs in the topic sentence.
 > > 	c. "important", etc.
+
+> [!goal]- ## 🗓️ [[Friday, September 25, 2026]]
+> > 1. Complete first draft in your notebook.
+> > 2. Receive feedback from me with my initials in your notebook.
+> > 3. Complete the final draft.
+> > 4. Take a picture of your work (with my initials).
+> > 5. Submit image to this assignment.
+
