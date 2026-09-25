@@ -1,5 +1,7 @@
 ---
 title: Writing I
+aliases:
+  - "Writing I"
 endDate: 2026-12-17
 startDate: 2026-08-10
 description: Course materials, weekly modules, assignments, and resources for Academic Writing.

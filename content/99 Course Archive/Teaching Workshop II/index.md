@@ -2,6 +2,8 @@
 type: Project
 collections: Subject Archive
 title: Teaching Workshop II
+aliases:
+  - "Teaching Workshop II"
 description:
 tags:
   - TeachingPracticum

@@ -2,6 +2,8 @@
 type: Project
 collections: Subject Planning
 title: Academic Writing
+aliases:
+  - "Academic Writing"
 endDate: 2026-12-17
 startDate: 2026-08-10
 description:

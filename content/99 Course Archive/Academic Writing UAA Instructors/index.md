@@ -2,6 +2,8 @@
 type: Project
 collections: Subject Archive
 title: Academic Writing UAA Instructors
+aliases:
+  - "Academic Writing UAA Instructors"
 description: A three-week intensive course designed for UAA instructors and doctoral students to enhance their academic writing skills through structured guidance on composing publishable research articles in English.
 tags:
   - AWUAA

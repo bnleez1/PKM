@@ -2,6 +2,8 @@
 type: Project
 collections: Subject Archive
 title: Writing Workshop
+aliases:
+  - "Writing Workshop"
 description: " Syllabus"
 tags:
   - WritingWorkshop

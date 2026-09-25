@@ -1,5 +1,7 @@
 ---
 title: Discourse Analysis
+aliases:
+  - "Discourse Analysis"
 endDate: 2026-12-17
 startDate: 2026-08-10
 description: Course materials, weekly modules, assignments, and resources for Discourse Analysis

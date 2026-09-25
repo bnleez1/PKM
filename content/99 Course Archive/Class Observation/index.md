@@ -2,6 +2,8 @@
 type: Project
 collections: Subject Archive
 title: Class Observation
+aliases:
+  - "Class Observation"
 description:
 tags:
   - TeachingPracticum

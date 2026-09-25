@@ -1,5 +1,7 @@
 ---
 title: Grammar in Context II
+aliases:
+  - "Grammar in Context II"
 description: Course materials, activities, and resources for Grammar in Context II.
 gh-publish: true
 gh-path: content/99 Course Archive/Grammar in Context II

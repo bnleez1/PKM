@@ -2,6 +2,8 @@
 type: Project
 collections: Subject Archive
 title: UAA TOEFL Preparation Fall 2024
+aliases:
+  - "UAA TOEFL Preparation Fall 2024"
 description: A comprehensive resource for students enrolled in the UAA TOEFL Preparation course for Fall 2024, providing essential information on registration, session schedules, and score relations to aid in successful test preparation.
 tags:
   - TOEFL
