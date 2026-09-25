@@ -97,8 +97,10 @@ gh-published-url: "https://bnleez1.github.io/PKM/current-courses/academic-writin
 > > 4. Begin writing your first annotated bibliography in your notebook.
 
 > [!goal]- ## 🗓️ [[Friday, September 25, 2026]]
-> > 1. Review [[Analyzing and Synthesizing Information in a Literature Review]].
-> > 2. Review [[Annotated Bibliograph_In-Class Notebook Writing Guide]].
-> > 3. Review [[LitReview Synthesis Workbook]] and focus on the following: [[Source Analysis Focus for the Annotated Bibliograph]].
+> > 1. Assure you have found at least 12 articles related to your thesis statement from peer-reviewed journal articles (i.e., empirical studies). During week 5, we discussing using [[Prompt for Finding Research Articles]] to help in this regard.
+> > 2. Review [[Analyzing and Synthesizing Information in a Literature Review]].
+> > 3. Review [[Annotated Bibliograph_In-Class Notebook Writing Guide]].
+> > 	For each source, write a concise annotation in your notebook (_between 150-200 words and between 7-10 sentences_) that explains **what the study says, how useful it is, and how it connects to your research**.
+> > 4. Review [[LitReview Synthesis Workbook]] and focus on the following: [[Source Analysis Focus for the Annotated Bibliograph]].
 
 

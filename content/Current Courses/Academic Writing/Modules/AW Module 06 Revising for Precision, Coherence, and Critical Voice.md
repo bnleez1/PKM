@@ -104,9 +104,9 @@ Holiday.
 
 ## [[Thursday, September 17, 2026]]
 
-1. Complete 
+1. Complete article review 2.
 
 ## [[Friday, September 18, 2026]]
 
-
+No class
 

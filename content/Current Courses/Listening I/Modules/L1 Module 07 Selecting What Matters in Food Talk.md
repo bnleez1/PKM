@@ -99,3 +99,11 @@ gh-published-url: "https://bnleez1.github.io/PKM/current-courses/listening-i/mod
 > 1. Download [Listening_I_Food_Eating_Habits_Student_Handout.docx](https://eduuaa.sharepoint.com/:w:/s/ListeningI2026/IQBbrSS-ByxST7V5LNmewNP2AdMAkRf6OpKXlRYteDJ-A3Y?e=cxPjsN).
 > 2. Listen to the audio and complete handout.
 > 3. If you have not done so already, submit audio from [[Wednesday, September 23, 2026]] to [Retelling a story_23092026](https://eduuaa.sharepoint.com/:f:/s/ListeningI2026/IgDTvFc_C0eMRYnOflNLJOrWAcFY02yeZMJ6c9MnvsF2iAA?e=R34qeY).   
+
+
+> [!Goal]- [[Friday, September 25, 2026]]
+> 1. Complete [Food and Eating Habits Listening Quiz – Fill out form](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=kuLi4dYhSUi3EE1H2VeK0ItjcCXTT1VEvQ9aSPhTcDNUMjFaN1BaSE01VlFNTjZZTVQ2SEwyOTQ1ViQlQCNjPTEu) today in class.
+> 2. [View assignment: "Listening CAADI Worksheet 4"](https://teams.microsoft.com/l/entity/66aeee93-507d-479a-a3ef-8f494af43945/classroom?context=%7B%22subEntityId%22%3A%22%7B%5C%22version%5C%22%3A%5C%221.0%5C%22%2C%5C%22config%5C%22%3A%7B%5C%22classes%5C%22%3A%5B%7B%5C%22id%5C%22%3A%5C%223f8374af-ca3b-4b1a-99be-b5ea774383db%5C%22%2C%5C%22assignmentIds%5C%22%3A%5B%5C%2268e8a7ed-200e-4bea-8f46-40115cb628fb%5C%22%5D%7D%5D%7D%2C%5C%22action%5C%22%3A%5C%22navigate%5C%22%2C%5C%22view%5C%22%3A%5C%22assignment-viewer%5C%22%2C%5C%22appId%5C%22%3A%5C%22ccb65bcd-04ba-421a-8791-a299a70904b6%5C%22%2C%5C%22deeplinkType%5C%22%3A4%7D%22%2C%22channelId%22%3Anull%7D) due today.
+> 3. Today, you'll receive GenAI feedback on you retelling the story from Tuesday. Review the feedback and return it on Monday with a ranking from 0-10 on how valid the feedback is and how helpful (or not) you feel the feedback is. "0" means you have no confidence in the feedback and that the feedback is completely inaccurate and "10" is that you have full confidence in the accuracy of the feedback. Feel free to write any notes to me as well.
+
+
