@@ -11,7 +11,8 @@ gh-publish: true
 gh-path: content/Current Courses/Writing I/Modules
 gh-published-url: "https://bnleez1.github.io/PKM/current-courses/writing-i/modules/w1-module-08-revising-with-evidence"
 ---
-
+[[W1 Module 07 Building Lexical Cohesion]]
+[[W1 Module 09 Describing Sports and Physical Activities]]
 # W1 Module 08: Revising with Evidence
 
 

@@ -6,12 +6,13 @@ unit: "[Listening I Unit II: Listening with Purpose](Listening%20I%20Unit%20II%2
 courseS: "[[60 Public/Website/Current Courses/Listening I/index]]"
 endDate: 2026-12-17
 startDate: 2026-08-10
-banner:
+banner: https://wallup.net/wp-content/uploads/2016/01/244676-nature-landscape-mountain-water-forest.jpg
 gh-publish: true
 gh-path: content/Current Courses/Listening I/Modules
-gh-published-url: "https://bnleez1.github.io/PKM/current-courses/listening-i/modules/l1-module-08-building-a-complete-listening-record"
+gh-published-url: https://bnleez1.github.io/PKM/current-courses/listening-i/modules/l1-module-08-building-a-complete-listening-record
 ---
-
+[[L1 Module 07 Selecting What Matters in Food Talk]]
+[[L1 Module 09 Listening Beyond the Stated Words]]
 # L1 Module 08: Building a Complete Listening Record
 
 

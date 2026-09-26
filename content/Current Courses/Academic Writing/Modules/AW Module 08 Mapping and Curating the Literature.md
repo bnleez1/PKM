@@ -11,7 +11,8 @@ gh-publish: true
 gh-path: content/Current Courses/Academic Writing/Modules
 gh-published-url: "https://bnleez1.github.io/PKM/current-courses/academic-writing/modules/aw-module-08-mapping-and-curating-the-literature"
 ---
-
+[[AW Module 07 Reading Sources Critically]]
+[[AW Module 09 Designing the Literature Review]]
 # Chapter 8: Mapping and Curating the Literature
 
 

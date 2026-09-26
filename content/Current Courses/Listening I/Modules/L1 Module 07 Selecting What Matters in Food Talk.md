@@ -12,6 +12,7 @@ gh-path: content/Current Courses/Listening I/Modules
 gh-published-url: "https://bnleez1.github.io/PKM/current-courses/listening-i/modules/l1-module-07-selecting-what-matters-in-food-talk"
 ---
 [[L1 Module 06 Hearing Preferences, Opinions, and Order]]
+[[L1 Module 08 Building a Complete Listening Record]]
 
 ---
 # L1 Module 07: Selecting What Matters in Food Talk
