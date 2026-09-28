@@ -14,7 +14,7 @@ gh-published-url: https://bnleez1.github.io/PKM/current-courses/listening-i/modu
 [[L1 Module 07 Selecting What Matters in Food Talk]]
 [[L1 Module 09 Listening Beyond the Stated Words]]
 # L1 Module 08: Building a Complete Listening Record
-
+[[L1 Module 08 Note]]
 
 ⚡️ Food and Eating Habits, Strategy Consolidation, Project 2, and the Midterm Exam
 
@@ -86,13 +86,6 @@ Midterm assessment conditions
 The midterm exam measures your independent listening. Complete it without GenAI, translation, subtitles, transcription, or answer-generating tools. Apply the habits you have practiced: read the task, predict categories, listen first for the main message, note selectively, and use later listenings to verify. If a detail is uncertain, avoid allowing one uncertainty to interrupt the rest of the audio.
 CAADI Worksheet 8, Project 2, and the midterm together mark the end of Unit II. The goal is not perfect word recognition. It is controlled, purposeful listening supported by organized evidence.
 
-## 🗓️ Monday
-
-## 🗓️ Tuesday
-
-## 🗓️ Wednesday
-
-## 🗓️ Thursday
-
-## 🗓️ Friday
-
+> [!goal]- 📄 [[Monday, September 28, 2026]] Monday Song: Photograph
+>
+> > Complete handouts: [Monday Song](https://eduuaa.sharepoint.com/:f:/s/ListeningI2026/IgBD1bUXzCtbTq8i1eHgkQN6AYz6OHsKKpt7bUjPcZEcRTU?e=x7SfL6) .
