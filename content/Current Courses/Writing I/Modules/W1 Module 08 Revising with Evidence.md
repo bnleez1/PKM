@@ -91,13 +91,5 @@ The first written examination will require more than memorizing definitions. Pre
 
 In your reflection, identify one skill that improved across Units I and II and one skill that still needs practice. Use examples from your writing: “My topic sentences are more focused because I now include a controlling idea,” or “I still repeat then too frequently in narratives.” For the written examination, review paragraph parts, sentence completeness, punctuation, basic connectors, sequence, narrative and descriptive organization, and lexical cohesion. Practice explaining why a sentence belongs in a paragraph, not only identifying a rule. This prepares you to transfer the concepts to new examples.
 
-## 🗓️ Monday
 
-## 🗓️ Tuesday
-
-## 🗓️ Wednesday
-
-## 🗓️ Thursday
-
-## 🗓️ Friday
-
+asd
