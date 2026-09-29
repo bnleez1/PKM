@@ -6,10 +6,10 @@ unit: "[Discourse Analysis Unit III: Meaning in Interaction](Discourse%20Analysi
 courseS: "[[60 Public/Website/Current Courses/Discourse Analysis/index]]"
 endDate: 2026-12-17
 startDate: 2026-08-10
-banner:
+banner: https://cdn.wallpapersafari.com/13/85/8a4Nsp.jpg
 gh-publish: true
 gh-path: content/Current Courses/Discourse Analysis/Modules
-gh-published-url: "https://bnleez1.github.io/PKM/current-courses/discourse-analysis/modules/da-module-08-the-architecture-of-conversation"
+gh-published-url: https://bnleez1.github.io/PKM/current-courses/discourse-analysis/modules/da-module-08-the-architecture-of-conversation
 ---
 [[DA Module 07 Doing Things with Words]]
 [[DA Module 09 Relationship Talk and Task Talk]]
@@ -102,11 +102,6 @@ Silence and simultaneous talk are analytically powerful but easy to overinterpre
 When annotating these features, begin with description: note where the pause or overlap occurs and which turns are involved. Then identify the action underway. Finally, use the next turn to test the interpretation. If a speaker restarts more loudly after overlap, competition may be relevant; if both laugh and continue smoothly, affiliation may be more plausible.
 This disciplined sequence prevents the transcript from becoming a psychological diagnosis. It also has pedagogical value. Learners can compare several examples of overlap and discover that “do not interrupt” is an incomplete rule. Competent participation includes recognizing when overlap supports the interaction and when it threatens another speaker’s turn.
 
-## 🗓️ Tuesday (9:00 AM - 10:00 AM)
-
-## 🗓️ Wednesday (9:00 AM - 10:00 AM)
-
-## 🗓️ Thursday (9:00 AM - 10:00 AM)
-
-## 🗓️ Friday (9:00 AM - 10:00 AM)
-
+> [!goal]- 📄 [[Tuesday, September 29, 2026]]
+>
+> > Quiz: LIPFUE Analysis
