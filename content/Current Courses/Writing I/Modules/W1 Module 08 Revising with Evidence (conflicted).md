@@ -91,51 +91,6 @@ The first written examination will require more than memorizing definitions. Pre
 
 In your reflection, identify one skill that improved across Units I and II and one skill that still needs practice. Use examples from your writing: “My topic sentences are more focused because I now include a controlling idea,” or “I still repeat then too frequently in narratives.” For the written examination, review paragraph parts, sentence completeness, punctuation, basic connectors, sequence, narrative and descriptive organization, and lexical cohesion. Practice explaining why a sentence belongs in a paragraph, not only identifying a rule. This prepares you to transfer the concepts to new examples.
 
-> [!goal]- 📄 [[Monday, September 28, 2026]]
->
-> > Practice writing sentences.
-
-> [!goal]- 📄 [[Tuesday, September 29, 2026]] - Sports-related Sentences
->
-> > Here are 40 sports-related questions suitable for A2–B1 English learners. They can work well for brainstorming, pair discussion, paragraph planning, or short writing activities.
-> > 1. What is your favorite sport, and why do you like it?
-> > 2. What sports do you enjoy watching? 
-> > 3. What sports do you enjoy playing?
-> > 4. How often do you exercise or play sports?
-> > 5. Where do you usually exercise?
-> > 6. Who do you usually play sports with?
-> > 7. What sports are popular in your country?
-> > 8. What sport would you like to learn?
-> > 9. What sports did you play when you were younger?
-> > 10. Do you prefer team sports or individual sports? Why?
-> > 11. What equipment do you need for your favorite sport?
-> > 12. What makes someone a good athlete?
-> > 13. What are some benefits of playing sports?
-> > 14. How can sports help people stay healthy?
-> > 15. Can sports help reduce stress? How?
-> > 16. Why is exercise important for university students?
-> > 17. How much exercise should people get each week?
-> > 18. What is your usual exercise routine?
-> > 19. What is the best time of day to exercise for you?
-> > 20. What makes it difficult for people to exercise regularly?
-> > 21. What is the most exciting sport to watch? Why?
-> > 22. What sport do you think is the most difficult to play?
-> > 23. What sport requires the most teamwork?
-> > 24. What sport requires the most physical strength?
-> > 25. What sport requires the most concentration?
-> > 26. What qualities should a good coach have?
-> > 27. Why is teamwork important in sports?
-> > 28. How should teammates solve disagreements?
-> > 29. Is winning the most important part of playing sports? Why or why not?
-> > 30. What can people learn from losing a game?
-> > 31. Should children participate in competitive sports? Why or why not?
-> > 32. Should schools require students to participate in physical activities?
-> > 33. What sports facilities should a university campus provide?
-> > 34. How could your university encourage students to exercise more?
-> > 35. What is a good sport for someone who does not exercise very often?
-> > 36. How has technology changed the way people exercise or play sports?
-> > 37. Do fitness apps help people become more active? Why or why not?
-> > 38. How are professional athletes different from recreational athletes?
-> > 39. If you could attend any sporting event in the world, which one would you choose?
-> > 40. If you could invent a new sport, what would it be like?
-    
+> [!goal]- 📄 [[Monday, September 28, 2026]] Monday Song: Photograph
+> Sample Text
+> a difficult match can be a moment that makes the improvement of focus the development of discipline and the achievement of personal goals possible there are clear advantages to participation in team sports because they support the development of confidence and the improvement of teamwork overall there is strong value in the enjoyment of sports the development of healthy habits and the improvement of teamwork skills weekly sports sessions can take effort but they can make a contribution to the strengthening of fitness and the reduction of stress there is also a chance for the creation of friendships the development of trust and the improvement of teamwork among teammates
