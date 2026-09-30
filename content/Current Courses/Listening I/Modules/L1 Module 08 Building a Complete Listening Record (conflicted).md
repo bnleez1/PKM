@@ -51,6 +51,7 @@ By the end of this module, students will be able to:
 **Spoken English:** contraction • linking • stress • intonation • rhythm
 
 
+
 > [!goal]- 📄 [[Monday, September 28, 2026]] Monday Song: Photograph
 >
 > > Complete handouts: [Monday Song](https://eduuaa.sharepoint.com/:f:/s/ListeningI2026/IgBD1bUXzCtbTq8i1eHgkQN6AYz6OHsKKpt7bUjPcZEcRTU?e=x7SfL6) .
