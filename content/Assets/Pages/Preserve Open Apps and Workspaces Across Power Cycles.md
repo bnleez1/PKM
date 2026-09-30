@@ -12,7 +12,7 @@ banner: https://cdn.pixabay.com/photo/2022/09/27/19/44/ai-generated-7483569_1280
 ---
 # Linux Mint: Preserve Open Apps and Workspaces Across Power Cycles
 
-## Purpose
+## Purpose 
 
 This guide explains how to configure **Linux Mint Cinnamon** so that open applications, windows, and workspaces can survive a complete power-off/power-on cycle.
 
