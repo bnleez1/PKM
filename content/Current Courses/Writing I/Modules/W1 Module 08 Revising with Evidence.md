@@ -6,14 +6,14 @@ unit: "[Writing I Unit II: Everyday Experiences](Writing%20I%20Unit%20II%20Every
 courseS: "[[60 Public/Website/Current Courses/Writing I/index]]"
 endDate: 2026-12-17
 startDate: 2026-08-10
-banner:
+banner: https://wallpapercave.com/wp/wp8982301.jpg
 gh-publish: true
 gh-path: content/Current Courses/Writing I/Modules
-gh-published-url: "https://bnleez1.github.io/PKM/current-courses/writing-i/modules/w1-module-08-revising-with-evidence"
+gh-published-url: https://bnleez1.github.io/PKM/current-courses/writing-i/modules/w1-module-08-revising-with-evidence
 ---
 [[W1 Module 07 Building Lexical Cohesion]]
 [[W1 Module 09 Describing Sports and Physical Activities]]
-# W1 Module 08: Revising with Evidence
+# Writing I Module 08: Revising with Evidence
 
 
 ⚡️ Consolidating narrative and descriptive writing in Unit II

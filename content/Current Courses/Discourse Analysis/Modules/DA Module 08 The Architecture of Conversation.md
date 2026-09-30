@@ -13,7 +13,7 @@ gh-published-url: https://bnleez1.github.io/PKM/current-courses/discourse-analys
 ---
 [[DA Module 07 Doing Things with Words]]
 [[DA Module 09 Relationship Talk and Task Talk]]
-# DA Module 08: The Architecture of Conversation
+# Discourse Analysis Module 08: The Architecture of Conversation
 [[DA Module 08 Note]]
 
 ⚡ **Adjacency pairs, turn-taking, and conversational coding**

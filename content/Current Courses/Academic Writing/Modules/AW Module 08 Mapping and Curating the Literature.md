@@ -13,7 +13,7 @@ gh-published-url: https://bnleez1.github.io/PKM/current-courses/academic-writing
 ---
 [[AW Module 07 Reading Sources Critically]]
 [[AW Module 09 Designing the Literature Review]]
-# Chapter 8: Mapping and Curating the Literature
+# Academic Writing Module 8: Mapping and Curating the Literature
 
 
 ⚡️ Searching strategically, tracing relationships, verifying sources, and writing ten annotations

@@ -13,7 +13,7 @@ gh-published-url: https://bnleez1.github.io/PKM/current-courses/listening-i/modu
 ---
 [[L1 Module 07 Selecting What Matters in Food Talk]]
 [[L1 Module 09 Listening Beyond the Stated Words]]
-# L1 Module 08: Building a Complete Listening Record
+# Listening I Module 08: Building a Complete Listening Record
 [[L1 Module 08 Note]]
 
 ⚡ **Sports and Physical Activities: Listening for Main Ideas, Key Details, and Connections**
