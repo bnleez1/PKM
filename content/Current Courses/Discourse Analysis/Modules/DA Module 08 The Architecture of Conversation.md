@@ -86,4 +86,4 @@ Celce-Murcia and Olshtain specifically explain that conversational participants 
 
 > [!goal]- 📄[[Thursday, October 1, 2026]]
 >
-> > Introducing adjacency pairs and turn-taking
+> > Introducing adjacency pairs and turn-taking: [Thursday](https://eduuaa.sharepoint.com/:f:/s/DiscourseAnalysis2026/IgCAPlXkDav-RoF7GPIhA_OuAd59dKc4Z-8gwxl1OAlAg3g?e=KYTKJF). 
