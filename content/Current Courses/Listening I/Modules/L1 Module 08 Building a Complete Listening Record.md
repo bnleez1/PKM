@@ -16,7 +16,6 @@ gh-published-url: https://bnleez1.github.io/PKM/current-courses/listening-i/modu
 # Listening I Module 08: Building a Complete Listening Record
 [[L1 Module 08 Note]]
 
-
 ⚡ **Sports and Physical Activities: Listening for Main Ideas, Key Details, and Connections**
 
 > [!note]  
@@ -62,7 +61,10 @@ By the end of this module, students will be able to:
 
 > [!goal]- 📄 [[Wednesday, September 30, 2026]] 
 >
-> > 
+> > Listening about sports (video)
 
+> [!goal]- 📄 [[Thursday, October 1, 2026]]
+>
+> > Record conversations.
 
 
