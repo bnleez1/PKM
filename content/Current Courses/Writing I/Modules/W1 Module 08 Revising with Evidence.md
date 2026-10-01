@@ -139,3 +139,22 @@ In your reflection, identify one skill that improved across Units I and II and o
 > > 39. If you could attend any sporting event in the world, which one would you choose?
 > > 40. If you could invent a new sport, what would it be like?
     
+> [!goal]- 📄 [[Wednesday, September 30, 2026]]
+>
+> > Work on sport-related topic sentence.
+
+> [!goal]- 📄 [[Thursday, October 1, 2026]]
+>
+> > Brainstorm and begin writing first draft of your paragraph.
+
+
+> [!goal]- 📄 [[Friday, October 2, 2026]]
+>
+> > Complete brainstorm and paragraph.
+> > 	1. 120-150 words, 5-7 sentences.
+> > 	2. At least one simple, compound, and complex sentence.
+> > 	3. topic sentences, supporting sentences, and conclusion sentence.
+> > 	4. Describe how, why, etc.
+
+
+
