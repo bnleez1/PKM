@@ -15,7 +15,6 @@ gh-published-url: https://bnleez1.github.io/PKM/current-courses/writing-i/module
 [[W1 Module 09 Describing Sports and Physical Activities]]
 # Writing I Module 08: Revising with Evidence
 
-
 ⚡️ Consolidating narrative and descriptive writing in Unit II
 
 > Revision becomes more meaningful when you can show what changed and explain why. In this chapter, you will consolidate the skills from Units I and II by comparing your original draft with a revised narrative or descriptive paragraph. You will examine organization, sequence, lexical cohesion, punctuation, and sentence completeness. The purpose is not to accept every comment from a classmate, teacher, or AI tool. The purpose is to make deliberate changes that improve communication while preserving your own ideas and language level. You will submit the original draft, revised version, and revision trail, then complete a monthly reflection and self-evaluation. The first written examination will also assess your ability to recognize and apply the concepts from the first half of the course. Your evidence of process is as important as the polished final paragraph.
