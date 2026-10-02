@@ -23,5 +23,3 @@ banner: https://cdn.pixabay.com/photo/2022/09/27/19/44/ai-generated-7483569_1280
 
 
 
-
-

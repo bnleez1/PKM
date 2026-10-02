@@ -59,12 +59,13 @@ By the end of this module, students will be able to:
 >
 > > Listen and draw...
 
-> [!goal]- 📄 [[Wednesday, September 30, 2026]] 
+> [!goal]- 📄 [[Wednesday, September 30, 2026]]
 >
 > > Listening about sports (video)
 
 > [!goal]- 📄 [[Thursday, October 1, 2026]]
 >
 > > Record conversations.
+
 
 

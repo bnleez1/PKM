@@ -15,6 +15,7 @@ gh-published-url: https://bnleez1.github.io/PKM/current-courses/academic-writing
 [[AW Module 09 Designing the Literature Review]]
 # Academic Writing Module 8: Mapping and Curating the Literature
 
+
 ⚡️ Searching strategically, tracing relationships, verifying sources, and writing ten annotations
 
 > Finding sources is not the same as understanding a field. This week students move from evaluating individual references to mapping relationships among them. Searches become more strategic through combinations of concepts, keywords, contexts, populations, and methods. Sources are then coded for themes, findings, limitations, and possible connections. GenAI may support discovery or suggest relationships, but every source and claim must be independently verified. The final annotated bibliography contains at least ten fully human-authored annotations, accompanied by the source-evaluation matrix, literature map, source-management records, and AI-discovery log. The purpose of this work is to create a dependable research base for the literature review. By the end of the week, students should be able to explain not only what each source says but also how the sources form a conversation.
@@ -22,19 +23,27 @@ gh-published-url: https://bnleez1.github.io/PKM/current-courses/academic-writing
 ## Essential Questions
 
 1. How can a collection of sources be transformed into a meaningful map of a research conversation?
+
 2. What verification practices are necessary when sources or connections are suggested by AI?
 ## Guiding Questions
 
 1. How can search terms be expanded, narrowed, and combined?
+
 2. What patterns, themes, gaps, and relationships emerge across the selected sources?
+
 3. How should source-management tools support accurate citation and note-taking?
+
 4. What evidence confirms that every annotation is independently written and fact-checked?
 ## Learning outcomes
 
 - Use academic databases and strategic keyword combinations to locate relevant literature.
+
 - Organize sources through a literature map and source-management system.
+
 - Identify themes, relationships, contradictions, gaps, methods, and limitations across sources.
+
 - Independently verify AI-suggested sources and connections.
+
 - Write, edit, and submit at least ten fully human-authored annotations with supporting documentation.
 ## Key concepts and vocabulary
 
@@ -94,6 +103,28 @@ The second part of the week should move from practice to production. Students us
 > [!goal]- 📄 [[Wednesday, September 30, 2026]] - Annotated Bibliography
 >
 > > 1. Work on annotated bibliograph.
+
+### Sample Entry
+
+Hyland, K., & Hyland, F. (2006). Feedback on second language students' writing. _Language Teaching, 39_(2), 83–101. [https://doi.org/10.1017/S0261444806003399](https://doi.org/10.1017/S0261444806003399)
+
+Hyland and Hyland (2006) review research on teacher feedback in second-language writing and examine how different forms of feedback may influence students' writing development. The authors discuss written corrective feedback, teacher comments, student responses to feedback, and the importance of considering the social context in which feedback occurs. One important point is that feedback is not automatically effective simply because teachers provide it; students must understand and engage with the feedback for it to contribute to learning. This article is a reliable academic source because it was published in the peer-reviewed journal _Language Teaching_ and synthesizes previous research rather than relying on personal opinion. A limitation is that, because it is a review article, it does not report a new classroom intervention. This source is useful for my study because it provides a theoretical foundation for investigating how university EFL students perceive and respond to written teacher feedback.
+
+### What the annotation is doing
+
+The paragraph contains four important moves:
+
+1. **Summary — What did the source investigate or discuss?**  
+    The opening sentences identify the focus of the article and its main ideas.
+    
+2. **Key contribution — What did you learn from it?**  
+    The annotation identifies an important claim: feedback depends partly on how students understand and use it.
+    
+3. **Evaluation — How strong/useful is the source?**  
+    The writer considers peer review, the nature of the evidence, and a limitation rather than simply saying the article is "good" or "reliable."
+    
+4. **Relevance — How does it help _your_ study?**  
+    The final sentence explicitly connects the source to the student's own research problem.
 
 > [!goal]- 📄 [[Thursday, October 1, 2026]]
 >

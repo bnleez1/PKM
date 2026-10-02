@@ -74,8 +74,8 @@ gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/installing-linux-m
         volumes:
           - db_data:/var/lib/mysql
         environment:
-          - MYSQL_ROOT_PASSWORD=nextcloud
-          - MYSQL_PASSWORD=nextcloud
+          - MYSQL_ROOT_PASSWORD=CHANGE_ME_ROOT_PASSWORD
+          - MYSQL_PASSWORD=CHANGE_ME_DATABASE_PASSWORD
           - MYSQL_DATABASE=nextcloud
           - MYSQL_USER=nextcloud
       app:
@@ -89,7 +89,7 @@ gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/installing-linux-m
           - nextcloud_data:/var/www/html
           - /mnt/seagate:/mnt/shared_library
         environment:
-          - MYSQL_PASSWORD=nextcloud
+          - MYSQL_PASSWORD=CHANGE_ME_DATABASE_PASSWORD
           - MYSQL_DATABASE=nextcloud
           - MYSQL_USER=nextcloud
           - MYSQL_HOST=db
@@ -122,7 +122,7 @@ gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/installing-linux-m
 
     - Database user: `nextcloud`
 
-    - Database password: `nextcloud`
+    - Database password: CHANGE_ME_DATABASE_PASSWORD
 
     - Database name: `nextcloud`
 

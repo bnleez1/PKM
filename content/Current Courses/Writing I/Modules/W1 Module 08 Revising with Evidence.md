@@ -15,6 +15,7 @@ gh-published-url: https://bnleez1.github.io/PKM/current-courses/writing-i/module
 [[W1 Module 09 Describing Sports and Physical Activities]]
 # Writing I Module 08: Revising with Evidence
 
+
 ⚡️ Consolidating narrative and descriptive writing in Unit II
 
 > Revision becomes more meaningful when you can show what changed and explain why. In this chapter, you will consolidate the skills from Units I and II by comparing your original draft with a revised narrative or descriptive paragraph. You will examine organization, sequence, lexical cohesion, punctuation, and sentence completeness. The purpose is not to accept every comment from a classmate, teacher, or AI tool. The purpose is to make deliberate changes that improve communication while preserving your own ideas and language level. You will submit the original draft, revised version, and revision trail, then complete a monthly reflection and self-evaluation. The first written examination will also assess your ability to recognize and apply the concepts from the first half of the course. Your evidence of process is as important as the polished final paragraph.
@@ -137,7 +138,7 @@ In your reflection, identify one skill that improved across Units I and II and o
 > > 38. How are professional athletes different from recreational athletes?
 > > 39. If you could attend any sporting event in the world, which one would you choose?
 > > 40. If you could invent a new sport, what would it be like?
-    
+
 > [!goal]- 📄 [[Wednesday, September 30, 2026]]
 >
 > > Work on sport-related topic sentence.
@@ -146,14 +147,10 @@ In your reflection, identify one skill that improved across Units I and II and o
 >
 > > Brainstorm and begin writing first draft of your paragraph.
 
-
 > [!goal]- 📄 [[Friday, October 2, 2026]]
 >
 > > Complete brainstorm and paragraph.
-> > 	1. 120-150 words, 5-7 sentences.
-> > 	2. At least one simple, compound, and complex sentence.
-> > 	3. topic sentences, supporting sentences, and conclusion sentence.
-> > 	4. Describe how, why, etc.
-
-
-
+> > 1. 120-150 words, 5-7 sentences.
+> > 2. At least one simple, compound, and complex sentence.
+> > 3. Topic sentence, supporting sentences, and conclusion sentence.
+> > 4. Describe how, why, etc.

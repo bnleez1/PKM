@@ -75,15 +75,21 @@ By the end of the week, learners will be able to:
 
 Celce-Murcia and Olshtain specifically explain that conversational participants manage transitions, pauses, overlap, and ways of getting the floor, while adjacency pairs organize related actions such as questions and answers or greetings and responses. Celce-Murcia (2000)_Discourse a…
 
-
 > [!goal]- 📄 [[Tuesday, September 29, 2026]] - LIPFUE Analysis
 >
 > > Quiz
 
-> [!goal]- 📄[[Wednesday, September 30, 2026]]
+> [!goal]- 📄 [[Wednesday, September 30, 2026]]
 >
 > > Record 15-minute conversations
 
-> [!goal]- 📄[[Thursday, October 1, 2026]]
+> [!goal]- 📄 [[Thursday, October 1, 2026]]
 >
-> > Introducing adjacency pairs and turn-taking: [Thursday](https://eduuaa.sharepoint.com/:f:/s/DiscourseAnalysis2026/IgCAPlXkDav-RoF7GPIhA_OuAd59dKc4Z-8gwxl1OAlAg3g?e=KYTKJF). 
+> > Introducing adjacency pairs and turn-taking: [Thursday](https://eduuaa.sharepoint.com/:f:/s/DiscourseAnalysis2026/IgCAPlXkDav-RoF7GPIhA_OuAd59dKc4Z-8gwxl1OAlAg3g?e=KYTKJF).
+
+> [!goal]- 📄 [[Friday, October 2, 2026]]
+>
+> > 1. Complete handouts and upload it to Teams (individual and pairwork).
+> > 	Determine first action (e.g., clarification, requests, offers, greetings, counterproposals, closings, questions/answers, thanks, suggestions, etc.); FPP; SPP; and Response function (e.g., denial, goodbye, answer, greeting, etc.).
+> > 2. If anyone still wants to complete the [View assignment: "Review of word order and tense aspect, and modality"](https://teams.microsoft.com/l/entity/66aeee93-507d-479a-a3ef-8f494af43945/classroom?context=%7B%22subEntityId%22%3A%22%7B%5C%22version%5C%22%3A%5C%221.0%5C%22%2C%5C%22config%5C%22%3A%7B%5C%22classes%5C%22%3A%5B%7B%5C%22id%5C%22%3A%5C%228320a165-1574-4125-a83b-db4905593430%5C%22%2C%5C%22assignmentIds%5C%22%3A%5B%5C%22c16d03e4-e498-4b2a-8710-4856028e2188%5C%22%5D%7D%5D%7D%2C%5C%22action%5C%22%3A%5C%22navigate%5C%22%2C%5C%22view%5C%22%3A%5C%22assignment-viewer%5C%22%2C%5C%22appId%5C%22%3A%5C%22ccb65bcd-04ba-421a-8791-a299a70904b6%5C%22%2C%5C%22deeplinkType%5C%22%3A4%7D%22%2C%22channelId%22%3Anull%7D) (online form) assignment, it will be open from today at 10:00 AM until Sunday at 11:45 PM.
+> > 3. If anyone wants to upload handout from [View assignment: "Turn in Handouts from September 25, 2026 Class"](https://teams.microsoft.com/l/entity/66aeee93-507d-479a-a3ef-8f494af43945/classroom?context=%7B%22subEntityId%22%3A%22%7B%5C%22version%5C%22%3A%5C%221.0%5C%22%2C%5C%22config%5C%22%3A%7B%5C%22classes%5C%22%3A%5B%7B%5C%22id%5C%22%3A%5C%228320a165-1574-4125-a83b-db4905593430%5C%22%2C%5C%22assignmentIds%5C%22%3A%5B%5C%229bc95776-f391-479d-b4cb-0f4f31d95ccc%5C%22%5D%7D%5D%7D%2C%5C%22action%5C%22%3A%5C%22navigate%5C%22%2C%5C%22view%5C%22%3A%5C%22assignment-viewer%5C%22%2C%5C%22appId%5C%22%3A%5C%22ccb65bcd-04ba-421a-8791-a299a70904b6%5C%22%2C%5C%22deeplinkType%5C%22%3A4%7D%22%2C%22channelId%22%3Anull%7D), you have until the end of today to do so.
