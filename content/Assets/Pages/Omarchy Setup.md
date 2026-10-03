@@ -17,7 +17,7 @@ banner: https://cdn.pixabay.com/photo/2022/09/27/19/44/ai-generated-7483569_1280
 
 ## 3. [[Set Up Obsidian on an Omarchy PC with Quartz Publishing]]
 
-# 4. [[App Installation on Omarchy]]
+# 4. [[Installing Core Applications on Omarchy]]
 
 # 5. [[Restore Omarchy Workspaces and Open Tiles After Reboot]]
 

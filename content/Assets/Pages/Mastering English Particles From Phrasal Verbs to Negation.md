@@ -5,7 +5,8 @@ tags:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/mastering-english-particles-from-phrasal-verbs-to-negation"
+gh-published-url: https://bnleez1.github.io/PKM/assets/pages/mastering-english-particles-from-phrasal-verbs-to-negation
+banner: https://wallpaperbat.com/img/908263-incredible-landscape-wallpaper-for-your-laptop.jpg
 ---
 # Mastering English Particles: From Phrasal Verbs to Negation
 

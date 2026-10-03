@@ -12,7 +12,7 @@ gh-published-url: "https://bnleez1.github.io/PKM/current-courses/discourse-analy
 ---
 [[DA Module 05 Time, Viewpoint, and Narrative Movement]]
 [[Discourse Analysis Module 7 - Doing Things with Words]]
-# DA Module 06: Positioning the Writer and Reader: Modality, Stance, Register, and AI-Supported Revision
+# Discourse Analysis Module 6: Positioning the Writer and Reader: Modality, Stance, Register, and AI-Supported Revision
 
 > [!abstract]- ⚡ Module Overview
 > Grammar provides speakers and writers with choices, and those choices influence how information is organized and interpreted across discourse. This module examines two related areas of discourse grammar: **word-order choices** and **tense, aspect, and modality**.
