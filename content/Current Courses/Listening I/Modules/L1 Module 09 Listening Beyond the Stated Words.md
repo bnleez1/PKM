@@ -24,32 +24,22 @@ gh-published-url: https://bnleez1.github.io/PKM/current-courses/listening-i/modu
 
 
 - How can a listener make a reasonable inference without inventing information?
-
 - What is the relationship between explicit details and an implied meaning?
 
 ## Guiding Questions
 
 
 - Which information is stated directly and which is implied?
-
 - How do context, tone, and repeated details support an inference?
-
 - What makes one inference stronger than another?
-
 - How can a listener respond to difficulty recognizing words or retaining details?
-
 ## Learning outcomes
 
 - Identify main ideas and specific details in sports-related instructions, interviews, or narratives.
-
 - Distinguish explicit information from a basic supported inference.
-
 - Justify an inference with at least two pieces of audio evidence.
-
 - Diagnose word-recognition and detail-retention difficulties after an independent attempt.
-
 - Complete CAADI Worksheet 9 using the full listening cycle.
-
 ## Key concepts and vocabulary
 
 **inference** • **explicit** • **implicit** • **clue** • **supporting evidence** • **tone** • **intention** • **instruction** • **interview** • **narrative** • **word recognition** • **retention**
@@ -87,14 +77,4 @@ Authorized GenAI may help classify the difficulty after the attempt or generate 
 When answering an inference question, avoid absolute language unless the audio is clear. Use a three-part response: conclusion, evidence, and degree of certainty. For example: “She probably plans to continue swimming because she describes a new weekly schedule and says she wants to improve.” If another interpretation is possible, acknowledge it and explain why your evidence supports the selected one.
 
 CAADI Worksheet 9 should show that inference grows from accurate global and selective listening. The listener first understands the situation, then identifies clues, and finally forms a cautious interpretation supported by the audio.
-
-## 🗓️ Monday
-
-## 🗓️ Tuesday
-
-## 🗓️ Wednesday
-
-## 🗓️ Thursday
-
-## 🗓️ Friday
 
