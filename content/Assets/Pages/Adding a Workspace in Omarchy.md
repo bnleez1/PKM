@@ -10,6 +10,7 @@ gh-published: true
 gh-published-url: https://bnleez1.github.io/PKM/assets/pages/adding-a-workspace-in-omarchy
 banner: https://cdn.pixabay.com/photo/2022/09/27/19/44/ai-generated-7483569_1280.jpg
 ---
+
 # Adding a Workspace in Omarchy
 
 This setup automatically detects the current number of linked workspaces in Omarchy/Hyprland and adds **one additional linked workspace pair**.
