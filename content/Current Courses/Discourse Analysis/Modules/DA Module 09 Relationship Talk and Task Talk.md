@@ -6,19 +6,18 @@ unit: "[Discourse Analysis Unit III: Meaning in Interaction](Discourse%20Analysi
 courseS: "[[60 Public/Website/Current Courses/Discourse Analysis/index]]"
 endDate: 2026-12-17
 startDate: 2026-08-10
-banner:
+banner: https://img.magnific.com/premium-photo/nature-wallpaper-beautiful-nature-wallpaper-4k-nature-wallpapers-hd-nature-wallpaper-green-nature_722194-215.jpg?w=2000
 gh-publish: true
 gh-path: content/Current Courses/Discourse Analysis/Modules
-gh-published-url: "https://bnleez1.github.io/PKM/current-courses/discourse-analysis/modules/da-module-09-relationship-talk-and-task-talk"
+gh-published-url: https://bnleez1.github.io/PKM/current-courses/discourse-analysis/modules/da-module-09-relationship-talk-and-task-talk
 ---
-
-# DA Module 09: Relationship Talk and Task Talk
-
+[[DA Module 08 The Architecture of Conversation]]
+[[DA Module 10 From Sound to Evidence]]   
+# Discourse Analysis Module 09: Relationship Talk and Task Talk Testing 2
 
 ⚡️ Interactional, transactional, and pragmatic competence across communicative contexts
 
 > People talk to exchange information, but they also talk to establish rapport, display attention, negotiate identity, and maintain social relationships. The distinction between interactional and transactional talk helps analysts identify which orientation is prominent at a particular moment. It is not a rigid division: a service encounter can include friendly small talk, while a casual conversation can shift into detailed problem-solving. Successful participation also requires pragmatic competence—the ability to interpret intentions, manage politeness, select contextually suitable resources, and repair mismatches. This week compares socially oriented and information-oriented exchanges and then examines pragmatic success and failure in ELT contexts. You will analyze how context, relationship, culture, and language choice work together without reducing communication to national stereotypes or fixed expressions.
-
 
 ## Essential understanding(s)
 

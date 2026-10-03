@@ -6,14 +6,14 @@ unit: "[Listening I Unit III: Listening Beyond Words](Listening%20I%20Unit%20III
 courseS: "[[60 Public/Website/Current Courses/Listening I/index]]"
 endDate: 2026-12-17
 startDate: 2026-08-10
-banner:
+banner: https://cdn.creativefabrica.com/2023/07/17/fantasy-nature-wallpaper-Graphics-74759259-1.jpg
 gh-publish: true
 gh-path: content/Current Courses/Listening I/Modules
-gh-published-url: "https://bnleez1.github.io/PKM/current-courses/listening-i/modules/l1-module-09-listening-beyond-the-stated-words"
+gh-published-url: https://bnleez1.github.io/PKM/current-courses/listening-i/modules/l1-module-09-listening-beyond-the-stated-words
 ---
-
-# L1 Module 09: Listening Beyond the Stated Words
-
+[[L1 Module 08 Building a Complete Listening Record]]
+[[L1 Module 10 Connecting the Stops in a Journey]]
+# Listening 1 Module 09: Listening Beyond the Stated Words
 
 ⚡️ Sports, Physical Activities, Main Ideas, Details, and Basic Inference
 

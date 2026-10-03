@@ -6,14 +6,14 @@ unit: "[Writing I Unit III: Detail and Clarity](Writing%20I%20Unit%20III%20Detai
 courseS: "[[60 Public/Website/Current Courses/Writing I/index]]"
 endDate: 2026-12-17
 startDate: 2026-08-10
-banner:
+banner: https://wallpapertag.com/wallpaper/full/3/b/a/150474-beautiful-nature-wallpaper-1920x1080-for-meizu.jpg
 gh-publish: true
 gh-path: content/Current Courses/Writing I/Modules
-gh-published-url: "https://bnleez1.github.io/PKM/current-courses/writing-i/modules/w1-module-09-describing-sports-and-physical-activities"
+gh-published-url: https://bnleez1.github.io/PKM/current-courses/writing-i/modules/w1-module-09-describing-sports-and-physical-activities
 ---
-
-# W1 Module 09: Describing Sports and Physical Activities
-
+[[W1 Module 08 Revising with Evidence]]
+[[W1 Module 10 Organizing Ideas About Travel and Future Goals]]
+# Writing I Module 09: Describing Sports and Physical Activities
 
 ⚡️ Selecting precise details for a coherent paragraph
 

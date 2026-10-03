@@ -6,14 +6,14 @@ unit: "[[Academic Writing Unit IV]]"
 courseS: "[[60 Public/Website/Current Courses/Academic Writing/index]]"
 endDate: 2026-12-17
 startDate: 2026-08-10
-banner:
+banner: https://cdn.wallpapersafari.com/17/11/ZHWRBk.jpg
 gh-publish: true
 gh-path: content/Current Courses/Academic Writing/Modules
-gh-published-url: "https://bnleez1.github.io/PKM/current-courses/academic-writing/modules/aw-module-09-designing-the-literature-review"
+gh-published-url: https://bnleez1.github.io/PKM/current-courses/academic-writing/modules/aw-module-09-designing-the-literature-review
 ---
-
+[[AW Module 08 Mapping and Curating the Literature]]
+[[AW Module 10 Opening the Scholarly Conversation]]
 # Chapter 9: Designing the Literature Review
-
 
 ⚡️ Aligning the inquiry and organizing ten sources through a synthesis matrix and thematic outline
 
