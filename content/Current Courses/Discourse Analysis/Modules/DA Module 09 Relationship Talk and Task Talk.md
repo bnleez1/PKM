@@ -13,7 +13,7 @@ gh-published-url: https://bnleez1.github.io/PKM/current-courses/discourse-analys
 ---
 [[DA Module 08 The Architecture of Conversation]]
 [[DA Module 10 From Sound to Evidence]]   
-# Discourse Analysis Module 09: Relationship Talk and Task Talk Testing 2
+# Discourse Analysis Module 09: Relationship Talk and Task Talk
 
 ⚡️ Interactional, transactional, and pragmatic competence across communicative contexts
 
