@@ -125,7 +125,7 @@ gh-published-url: "https://bnleez1.github.io/PKM/current-courses/discourse-analy
 > - modality expresses possibility, necessity, obligation, willingness, or related meanings.
 
 > [!exercise]- 📄 Text 2: Changing Study Habits
-> [[Example Texts_170920260659]]
+> [[60 Public/Website/Assets/Pages/Example Texts_170920260659]]
 > 
 >
 > > [!question]- Analysis Focus
