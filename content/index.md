@@ -62,64 +62,15 @@ Build a foundation for clear and effective written English through sentences, pa
 
 ---
 
-> [!note] Previous Courses  
+> [!note] 📚 Previous Courses  
 > Looking for materials from an earlier semester?  
-> **[[Course Archive|View previous courses →]]**
+> Browse previous course sites, modules, activities, assignments, and teaching resources in the **[[99 Course Archive/index|Course Archive →]]**.
 
 ---
 
 
 
 ## Helping language teachers notice, decide, assess, and adapt.
-
-Welcome to my **Language Teaching Commons**—a public space where I share course materials, teaching resources, research ideas, and reflections from my work as an English language teacher educator.
-
-> **Students:** Find your current course below.  
-> **Visitors:** Explore my work in language teaching, teacher education, research, assessment, and AI.
-
----
-
-# Current Courses
-
-## 🎓 Academic Writing
-
-Research, evidence, academic writing, and scholarly communication.
-
-**[Enter Academic Writing →](YOUR-LINK)**
-
----
-
-## 🔎 Discourse Analysis
-
-Explore how language works in context through cohesion, information structure, discourse patterns, and authentic language use.
-
-**[Enter Discourse Analysis →](YOUR-LINK)**
-
----
-
-## 🎧 Listening I
-
-Develop listening comprehension through authentic and adapted spoken English, collaborative activities, and purposeful listening strategies.
-
-**[Enter Listening I →](YOUR-LINK)**
-
----
-
-## ✍️ Writing I
-
-Build a foundation for clear and effective written English through sentences, paragraphs, organization, and meaningful communication.
-
-**[Enter Writing I →](YOUR-LINK)**
-
----
-
-### Previous Courses
-
-Looking for materials from an earlier semester?
-
-**[View previous courses →](YOUR-LINK)**
-
----
 
 # Developing Language Teachers for a Changing Profession
 
