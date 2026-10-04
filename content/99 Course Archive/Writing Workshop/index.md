@@ -1,20 +1,24 @@
 ---
-type: Project
+type: Course
 collections: Subject Archive
 title: Writing Workshop
 aliases:
   - "Writing Workshop"
-description: " Syllabus"
+description: Archived syllabus, learning modules, and resources for Writing Workshop.
 tags:
   - WritingWorkshop
 coverImage: "[Untitled](Untitled%20(107).md)"
-status: Archive
+status: Archived
+term: "2023 Jan-Jun"
+startDate: 2023-01-23
+endDate: 2023-06-16
 roster: []
-date: 2023-01-23T00:00:00.000Z
 documents: []
 area: "[[UAA Subjects]]"
 notes:
 assignments: []
+gh-publish: true
+gh-path: content/99 Course Archive/Writing Workshop
 gh-published-url: "https://bnleez1.github.io/PKM/99-course-archive/writing-workshop"
 ---
 

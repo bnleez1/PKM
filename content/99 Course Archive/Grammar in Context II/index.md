@@ -1,8 +1,14 @@
 ---
+type: Course
+collections: Subject Archive
 title: Grammar in Context II
 aliases:
   - "Grammar in Context II"
 description: Course materials, activities, and resources for Grammar in Context II.
+status: Archived
+term: "2025 Jan-Jun"
+startDate:
+endDate:
 gh-publish: true
 gh-path: content/99 Course Archive/Grammar in Context II
 gh-published-url: "https://bnleez1.github.io/PKM/99-course-archive/grammar-in-context-ii"

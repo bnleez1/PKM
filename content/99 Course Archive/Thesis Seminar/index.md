@@ -1,8 +1,14 @@
 ---
+type: Course
+collections: Subject Archive
 title: Thesis Seminar
 aliases:
   - "Thesis Seminar"
 description: Course materials, research resources, and guidance for Thesis Seminar.
+status: Archived
+term: "2026 Jan-Jun"
+startDate: 2026-01-26
+endDate: 2026-05-31
 gh-publish: true
 gh-path: content/99 Course Archive/Thesis Seminar
 gh-published-url: "https://bnleez1.github.io/PKM/99-course-archive/thesis-seminar"
@@ -36,7 +42,7 @@ During the course, the student will develop research relevant to teaching Englis
 
 [[Crafting a Results and Discussion Section for a Thesis Paper]]
 
-[Thesis Seminar Modules](../Modules/Thesis%20Seminar%20Modules.csv)
+[Thesis Seminar Modules](Thesis%20Seminar%20Modules.csv)
 
 # Methodology
 

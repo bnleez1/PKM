@@ -1,5 +1,5 @@
 ---
-type: Project
+type: Course
 collections: Subject Archive
 title: Teaching Workshop II
 aliases:
@@ -8,13 +8,17 @@ description:
 tags:
   - TeachingPracticum
 coverImage: "[Untitled](Untitled%20(49).md)"
-status: Archive
+status: Archived
+term: "2023 Aug-Dec"
+startDate: 2023-08-07
+endDate:
 roster: []
-date: 2023-08-07T00:00:00.000Z
 documents: []
 area:
 notes:
 assignments: []
+gh-publish: true
+gh-path: content/99 Course Archive/Teaching Workshop II
 gh-published-url: "https://bnleez1.github.io/PKM/99-course-archive/teaching-workshop-ii"
 ---
 
