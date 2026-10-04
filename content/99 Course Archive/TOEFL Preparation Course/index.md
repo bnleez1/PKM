@@ -1,5 +1,5 @@
 ---
-type: Project
+type: Course
 collections: Subject Archive
 title: UAA TOEFL Preparation Fall 2024
 aliases:
@@ -8,13 +8,17 @@ description: A comprehensive resource for students enrolled in the UAA TOEFL Pre
 tags:
   - TOEFL
 coverImage: "[Untitled](Untitled%20(271).md)"
-status: Archive
+status: Archived
+term: "2024 Aug-Dec"
+startDate: 2024-08-29
+endDate: 2024-11-28
 roster: []
-date:
 documents: []
 area: "[[UAA Subjects]]"
 notes:
 assignments: []
+gh-publish: true
+gh-path: content/99 Course Archive/TOEFL Preparation Course
 gh-published-url: "https://bnleez1.github.io/PKM/99-course-archive/toefl-preparation-course"
 ---
 
