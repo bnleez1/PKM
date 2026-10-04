@@ -20,13 +20,21 @@ Course materials reflect the curriculum, technologies, assessment practices, and
 
 ---
 
+## 2026
+
+### January–June
+
+- [[Writing II/index|Writing II]] — January 26–June 14, 2026
+- [[Thesis Seminar/index|Thesis Seminar]] — January 26–May 31, 2026
+
+---
+
 ## 2025
 
 ### January–June
 
-- [[Academic Writing UAA Instructors/index|Academic Writing for UAA Instructors]] — intensive course beginning January 2025
+- [[Academic Writing UAA Instructors/index|Academic Writing for UAA Instructors]] — intensive course beginning January 6, 2025
 - [[Grammar in Context II/index|Grammar in Context II]] — Spring 2025
-- [[Thesis Seminar/index|Thesis Seminar]] — Spring 2025
 
 ---
 
@@ -34,7 +42,7 @@ Course materials reflect the curriculum, technologies, assessment practices, and
 
 ### August–December
 
-- [[TOEFL Preparation Course/index|UAA TOEFL Preparation]] — Fall 2024
+- [[TOEFL Preparation Course/index|UAA TOEFL Preparation]] — August 29–November 28, 2024
 
 ---
 
@@ -47,16 +55,7 @@ Course materials reflect the curriculum, technologies, assessment practices, and
 
 ### January–June
 
-- [[Writing Workshop/index|Writing Workshop]]
-
----
-
-## Additional Archived Course Materials
-
-These materials are preserved even where the original semester metadata still needs to be normalized.
-
-- [[Writing II/index|Writing II]]
-- [[Discourse Analysis/index|Discourse Analysis]]
+- [[Writing Workshop/index|Writing Workshop]] — January 23–June 16, 2023
 
 ---
 
