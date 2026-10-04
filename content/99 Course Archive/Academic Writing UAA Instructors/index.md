@@ -1,5 +1,5 @@
 ---
-type: Project
+type: Course
 collections: Subject Archive
 title: Academic Writing UAA Instructors
 aliases:
@@ -9,13 +9,17 @@ tags:
   - AWUAA
   - Writing
 coverImage: "[Untitled](Untitled%20(58).md)"
-status: Archive
+status: Archived
+term: "2025 Jan"
+startDate: 2025-01-06
+endDate:
 roster: []
-date: 2025-01-06T00:00:00.000Z
 documents: []
 area: "[[UAA Subjects]]"
 notes:
 assignments: []
+gh-publish: true
+gh-path: content/99 Course Archive/Academic Writing UAA Instructors
 gh-published-url: "https://bnleez1.github.io/PKM/99-course-archive/academic-writing-uaa-instructors"
 ---
 
