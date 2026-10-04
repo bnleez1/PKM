@@ -23,6 +23,9 @@ banner: https://cdn.pixabay.com/photo/2022/09/27/19/44/ai-generated-7483569_1280
 
 # 6. [[Adding a Workspace in Omarchy]]
 
+# 7. [[Setting Up Workspace Manager in Omarchy]]
+
+
 
 
 
