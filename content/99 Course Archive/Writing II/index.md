@@ -1,8 +1,14 @@
 ---
+type: Course
+collections: Subject Archive
 title: Writing II
 aliases:
   - "Writing II"
 description: Writing activities, weekly modules, assignments, and resources for Writing II.
+status: Archived
+term: "2026 Jan-Jun"
+startDate: 2026-01-26
+endDate: 2026-06-14
 gh-publish: true
 gh-path: content/99 Course Archive/Writing II
 gh-published-url: "https://bnleez1.github.io/PKM/99-course-archive/writing-ii"
@@ -11,7 +17,7 @@ gh-published-url: "https://bnleez1.github.io/PKM/99-course-archive/writing-ii"
 # Writing II
 
 > **Welcome to Writing II.**
-This course is designed to provide students with a foundational understanding of how air interacts with solid objects, a concept crucial for fields like aerospace engineering, automotive design, and environmental engineering.
+This archived course site preserves materials from the January–June 2026 offering of Writing II, focused on paragraph and essay development in English at approximately the B1+ CEFR level.
 
 | **Class Location** | Building 211, Mod. 2, room 1                                                            |
 | :----------------- | :-------------------------------------------------------------------------------------- |
@@ -31,7 +37,7 @@ By the end of the course, students will compose paragraphs and essays in English
 
 # 📚️ Readings
 
-[Writing II Modules](../Modules/Writing%20II%20Modules.csv)
+[Writing II Modules](Writing%20II%20Modules.csv)
 
 
 
