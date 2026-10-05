@@ -78,3 +78,6 @@ When answering an inference question, avoid absolute language unless the audio i
 
 CAADI Worksheet 9 should show that inference grows from accurate global and selective listening. The listener first understands the situation, then identifies clues, and finally forms a cautious interpretation supported by the audio.
 
+> [!goal]- 📄 [[Monday, October 5, 2026]]
+>
+> > Audio and complete [form.]([Sports Listening Quiz – Fill out form](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=kuLi4dYhSUi3EE1H2VeK0ItjcCXTT1VEvQ9aSPhTcDNUM1pKWUxaNjJHSzQxMUs0QUtVT01GWjZHMiQlQCNjPTEu))
