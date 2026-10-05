@@ -21,7 +21,7 @@ banner: https://wallpaperaccess.com/full/862930.jpg
 > 
 > The cycle then begins again.
 
-# Why NDAA Matters - testing
+# Why NDAA Matters
 
 Language teaching is becoming increasingly difficult to define in terms of particular techniques or technologies.
 
