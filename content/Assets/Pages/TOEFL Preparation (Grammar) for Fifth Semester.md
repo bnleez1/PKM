@@ -11,7 +11,7 @@ banner: https://cdn.pixabay.com/photo/2022/09/27/19/44/ai-generated-7483569_1280
 ---
 # TOEFL Preparation (Grammar) for Fifth Semester [[Monday, October 5, 2026]]
 
-
+Review Powerpoint of TOEFL items: 
 # To Do
 
 1. Enter [General | TOEFL Support](https://teams.cloud.microsoft/l/team/19%3A-VqAnjH6OShYkBsRinH2roZuG0uQG5JdswJoLnZqSDg1%40thread.tacv2/conversations?groupId=ef4cb3a1-0ba0-49a3-bb76-fe42bca37d66&tenantId=e1e2e292-21d6-4849-b710-4d47d9578ad0) .
