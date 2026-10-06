@@ -15,6 +15,8 @@ gh-published-url: https://bnleez1.github.io/PKM/current-courses/listening-i/modu
 [[L1 Module 10 Connecting the Stops in a Journey]]
 # Listening 1 Module 09: Listening Beyond the Stated Words
 
+[[Listening I Module 9 Note]]
+
 ⚡️ Sports, Physical Activities, Main Ideas, Details, and Basic Inference
 
 > As listeners gain confidence, they can begin interpreting information that is suggested rather than stated directly. In conversations, instructions, interviews, and short narratives about sports or physical activity, speakers may reveal feelings, intentions, or problems through context, tone, and combinations of details. This chapter introduces basic inferential listening while continuing to prioritize main ideas and specific information. An inference must be supported by evidence; it is not a free guess. You will also diagnose difficulties related to word recognition and retention after completing your own listening attempt. CAADI Worksheet 9 provides an opportunity to apply these strategies with increasing independence.
@@ -81,3 +83,19 @@ CAADI Worksheet 9 should show that inference grows from accurate global and sele
 > [!goal]- 📄 [[Monday, October 5, 2026]]
 >
 > > Audio and complete [form.]([Sports Listening Quiz – Fill out form](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=kuLi4dYhSUi3EE1H2VeK0ItjcCXTT1VEvQ9aSPhTcDNUM1pKWUxaNjJHSzQxMUs0QUtVT01GWjZHMiQlQCNjPTEu))
+
+> [!goal]- 📄 [[Tuesday, October 6, 2026]]
+>
+> > Practice for the Midterm Exam.
+
+> [!goal]- 📄 [[Wednesday, October 7, 2026]]
+>
+> > Practice for the Midterm Exam.
+
+> [!goal]- 📄 [[Thursday, October 8, 2026]]
+>
+> > Midterm Exam
+
+
+
+

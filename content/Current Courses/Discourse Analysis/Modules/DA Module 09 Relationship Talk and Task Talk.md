@@ -103,11 +103,11 @@ In your case analysis, include the recipient’s responsibility. Ask whether cla
 
 
 
-## 🗓️ Tuesday (9:00 AM - 10:00 AM)
 
-## 🗓️ Wednesday (9:00 AM - 10:00 AM)
+> [!goal]- 📄 [[Tuesday, October 6, 2026]]
+>
+> > Complete [Discourse Analysis LIPFUE Quiz – Fill out form](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=kuLi4dYhSUi3EE1H2VeK0ItjcCXTT1VEvQ9aSPhTcDNUM0FZRDlXTkYwRkNKOU0wRzdDMUdTMUU0USQlQCNjPTEu)  in class (open from 9:00 AM - 10:00 AM).
 
-## 🗓️ Thursday (9:00 AM - 10:00 AM)
 
-## 🗓️ Friday (9:00 AM - 10:00 AM)
+
 
