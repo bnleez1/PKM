@@ -15,93 +15,116 @@ gh-published-url: https://bnleez1.github.io/PKM/current-courses/discourse-analys
 [[DA Module 10 From Sound to Evidence]]   
 # Discourse Analysis Module 09: Relationship Talk and Task Talk
 
-⚡️ Interactional, transactional, and pragmatic competence across communicative contexts
+⚡️ **Interactional and transactional talk, conversational breakdown, and pragmatic failure**
 
-> People talk to exchange information, but they also talk to establish rapport, display attention, negotiate identity, and maintain social relationships. The distinction between interactional and transactional talk helps analysts identify which orientation is prominent at a particular moment. It is not a rigid division: a service encounter can include friendly small talk, while a casual conversation can shift into detailed problem-solving. Successful participation also requires pragmatic competence—the ability to interpret intentions, manage politeness, select contextually suitable resources, and repair mismatches. This week compares socially oriented and information-oriented exchanges and then examines pragmatic success and failure in ELT contexts. You will analyze how context, relationship, culture, and language choice work together without reducing communication to national stereotypes or fixed expressions.
+People talk for different reasons. Sometimes the main goal is **interactional**: building rapport, showing interest, maintaining relationships, or managing affiliation. At other times, talk is primarily **transactional**: exchanging information, solving a problem, requesting a service, or completing a task.
 
-## Essential understanding(s)
+These are not two completely separate kinds of conversation. Speakers frequently move between them. A service encounter may begin with small talk, shift to a practical request, and end with thanks or a friendly closing.
 
+This module also examines what happens when interaction does not proceed as expected. By connecting **speech acts from Module 7** with **adjacency pairs, turn-taking, and repair from Module 8**, we can identify where conversational trouble occurs and determine whether it develops into **pragmatic failure**.
 
-How do speakers balance relationship-building and task completion within the same interaction?
+> [!goal]- Essential Understandings
+>
+> 1. Interactional and transactional talk are **communicative orientations**, not rigid categories.
+> 2. Conversational breakdowns become visible through participants' responses, misunderstandings, and repair.
+> 3. Pragmatic failure involves a mismatch between intended or interpreted social action and contextual expectations.
+> 4. Successful communication depends on both speakers and listeners collaboratively constructing meaning.
 
-What does pragmatic competence require beyond grammatical knowledge?
+> [!question]- Guiding Questions
+>
+> 1. What features distinguish interactional from transactional talk?
+> 2. How can a conversation shift between the two orientations?
+> 3. How do speech acts help explain what speakers are trying to accomplish?
+> 4. How do adjacency pairs and uptake reveal whether an action was understood?
+> 5. What causes conversational breakdown?
+> 6. When does conversational trouble become pragmatic failure?
+> 7. How can repair restore shared understanding?
 
-## Guiding Questions
+> [!goal]- Learning Outcomes
+>
+> Learners will be able to:
+>
+> - distinguish interactional and transactional orientations using discourse evidence;
+> - identify shifts between relationship-building and task-focused talk;
+> - connect speech acts from Module 7 with conversational sequence from Module 8;
+> - identify and explain conversational breakdowns;
+> - distinguish breakdown from pragmatic failure;
+> - analyze how uptake and repair affect communicative success;
+> - propose alternative responses or repair strategies.
 
+## Key Concepts
 
-Which features signal an interactional or transactional orientation?
+| Term | Working definition |
+|---|---|
+| **Interactional talk** | Talk primarily oriented toward establishing or maintaining social relationships. |
+| **Transactional talk** | Talk primarily oriented toward exchanging information or accomplishing a practical task. |
+| **Pragmatic competence** | The ability to interpret and perform contextually appropriate social actions through language. |
+| **Pragmatic failure** | A mismatch in interpreting or performing social action that produces misunderstanding or unintended effects. |
+| **Uptake** | The recipient's displayed interpretation of what an utterance is doing. |
+| **Repair** | Practices used to resolve problems in speaking, hearing, understanding, or action interpretation. |
+| **Rapport** | Social affiliation or connection constructed through interaction. |
+| **Mitigation** | Resources that reduce the force or interpersonal risk of an action. |
 
-How can an exchange shift orientation as participants pursue multiple goals?
+## Reading
 
-What kinds of mismatch lead to pragmatic failure or unintended interpersonal effects?
+- **Celce-Murcia & Olshtain (2000)**
+  - Ch. 1, **Types of Discourse**, p. 6
+  - Ch. 2, **What Does Pragmatics Entail?**, pp. 20–22
+  - Ch. 2, **Cooperation and Implicature**, pp. 22–24
 
-How can ELT instruction expand pragmatic choices while respecting cultural and individual variation?
-
-## Learning outcomes
-
-Distinguish interactional and transactional orientations using contextual and linguistic evidence.
-
-Analyze shifts between relationship-building and information-focused talk.
-
-Explain how intention, politeness, participant roles, and cultural expectations contribute to pragmatic interpretation.
-
-Diagnose selected cases of pragmatic success, ambiguity, and failure without stereotyping communities.
-
-Propose ELT support that develops flexible pragmatic repertoires.
-
-## Key concepts and vocabulary
-
-| **Term**                  | **Working definition**                                                                                         |
-| :------------------------ | :------------------------------------------------------------------------------------------------------------- |
-| **Interactional talk**    | Talk oriented primarily toward establishing or maintaining social relationships and affiliation.               |
-| **Transactional talk**    | Talk oriented primarily toward exchanging information or accomplishing a practical task.                       |
-| **Pragmatic competence**  | The ability to interpret and perform contextually appropriate social actions through language.                 |
-| **Pragmalinguistics**     | The linguistic resources available for expressing pragmatic meanings.                                          |
-| **Sociopragmatics**       | Social judgments about appropriateness, rights, obligations, distance, and imposition.                         |
-| **Face**                  | A participant’s socially recognized wants concerning approval, autonomy, and public self-presentation.         |
-| **Mitigation**            | Resources that reduce the force, imposition, or interpersonal risk of an action.                               |
-| **Rapport**               | A relationship of mutual attention, ease, or affiliation constructed through interaction.                      |
-| **Pragmatic failure**     | A mismatch in interpreting or performing social action that produces misunderstanding or unintended effect.    |
-| **Contextualization cue** | A verbal, prosodic, or nonverbal signal that helps participants interpret what activity or stance is relevant. |
-
-## Main chapter content
-
-1. Two orientations, not two separate worlds
-Interactional talk is associated with social connection: greetings, small talk, teasing, personal updates, supportive responses, and other practices that build or maintain relationships. Transactional talk is associated with information exchange and task completion: requesting directions, solving a problem, completing a purchase, clarifying instructions, or reporting results. The distinction focuses on orientation, not on setting or grammatical form.
-Most interactions combine both. A cashier and customer may exchange greetings before discussing payment. A teacher may use humor and personal acknowledgment while giving instructions. Friends planning a trip move between relational talk and detailed logistics. Analysts should identify shifts rather than classify an entire conversation once.
-Evidence includes topic, sequence, turn design, lexical specificity, repetition, clarification, interpersonal markers, and the consequences participants pursue. Transactional sequences may prioritize accuracy and confirmation; interactional sequences may prioritize responsiveness and affiliation. Yet a socially delicate transaction may require extensive rapport work, while close friends may communicate task information with minimal politeness marking because the relationship supports it.
-
-2. Features of interactional talk
-Interactional talk often displays reciprocal personal attention. Participants may ask questions whose function is not simply to obtain information but to show interest. They align through laughter, repetition, assessments, shared stories, and supportive continuers. Topic management can be flexible because maintaining participation matters as much as reaching an informational endpoint.
-Formulaic expressions support predictable social moments, but they are not empty. “How are you?” can function as a greeting, a genuine inquiry, or an opening to extended disclosure depending on setting, relationship, and response. A minimal “Fine” may be appropriate in one context and distancing in another. Prosody and timing are central.
-For learners, interactional competence includes entering and leaving conversations, showing listenership, responding to stories, shifting topics, and recognizing when a formula invites only a brief response. These abilities are often underrepresented in grammar-focused curricula even though they strongly affect how competence is perceived.
-
-3. Features of transactional talk
-Transactional talk organizes participants around a practical outcome. Information must be sufficiently precise, relevant, and confirmed for the task. Speakers may use sequencing expressions, technical vocabulary, clarification questions, repetition, and summaries. Institutional roles can structure who asks, answers, authorizes, or records information.
-Breakdowns become visible when the task cannot proceed. An unclear referent, omitted step, incorrect assumption, or unrecognized speech act may require repair. Participants often check understanding through formulations such as “So you need the form by Friday?” or “Let me confirm the address.” These practices are not redundant; they manage risk.
-Efficiency is contextual. A direct instruction can be efficient and appropriate in a collaborative task, but it may sound dismissive when relational expectations require acknowledgment. Successful transactional discourse balances accuracy with the interpersonal conditions that allow cooperation.
-
-4. Pragmatic competence and failure
-Pragmatic competence includes pragmalinguistic knowledge—forms for requesting, apologizing, disagreeing, softening, emphasizing, and so on—and sociopragmatic judgment about when and how those resources fit the situation. A learner may know “Would you mind…?” grammatically yet use it in a context where a simpler request would be more natural. Another may choose a direct form that is acceptable in a first language context but interpreted as abrupt in a target setting.
-Pragmatic failure can involve misunderstanding the intended action, misjudging distance or entitlement, or using a form whose conventional force differs from the speaker’s intention. It can also arise from listener bias. Analysts must not treat the multilingual speaker as the only source of difficulty. Communication is collaborative, and recipients bring expectations that may be narrow or discriminatory.
-Case analysis should specify the mismatch. Describe the context, the linguistic choice, the likely interpretation, the participant response, and plausible alternatives. Avoid statements such as “Culture X is indirect.” Communities are internally diverse, and individual, institutional, generational, and situational factors matter.
-
-5. Teaching pragmatic choice
-Pragmatics instruction should offer choices and consequences rather than one correct phrase. Learners can compare several requests in the same scenario, rank them for different relationships, and discuss how tone or explanation changes the effect. They can analyze authentic service encounters, classroom talk, and peer interactions to notice how transactional and interactional work combine.
-Role cards should include goals, roles, relationship, urgency, and possible complications. Reflection should ask what the speaker intended, how the listener treated the action, and what alternative resource might change the outcome. Learners should also practice repair when an utterance is misunderstood.
-A pluralistic approach treats pragmatic norms as resources for participation, not as reasons to erase identity. Teachers can explain dominant expectations in a genre or institution while acknowledging variation and encouraging learners to make informed choices. The objective is adaptive competence: the ability to interpret multiple possibilities and communicate intentionally across contexts.
-
-6. Contextual case analysis
-Develop a case around a communicative event familiar to ELT learners, such as requesting an extension, joining a group discussion, resolving a purchase problem, or responding to feedback. Specify the participants, relationship, setting, goals, urgency, and likely consequences. Then create or locate a short exchange that contains both transactional and interactional work.
-Annotate where the orientation shifts. A greeting may establish rapport, a request may launch the task, an explanation may mitigate imposition, and a closing may restore affiliation. Identify the contextualization cues that signal each movement. Next, locate one point where a participant could reasonably interpret the action differently. Explain the pragmalinguistic and sociopragmatic factors involved.
-Design two alternative versions of the problematic turn for different relationships, such as friend–friend and student–administrator. Do not simply replace a direct form with a longer one. Adjust address, explanation, entitlement, timing, and response options. Conclude by stating how a teacher could present these alternatives as choices rather than as a hierarchy of civilized and uncivilized speech.
-
-7. Reflecting on norm, variation, and power
-Pragmatic expectations are not neutral. Institutions often treat the communication style of dominant groups as normal and interpret other styles as deficient. A learner may be evaluated as rude, passive, or uncooperative because a listener applies narrow expectations to directness, eye contact, silence, or small talk. Discourse analysis should make these power relations visible without denying that local conventions have practical consequences.
-A responsible ELT response has two parts. First, teach learners how particular forms are commonly interpreted in a target setting, including the risks and alternatives. Second, help them analyze those expectations critically and retain agency over how they present themselves. Adaptation should be informed choice, not compulsory imitation.
-In your case analysis, include the recipient’s responsibility. Ask whether clarification, charitable interpretation, or institutional support could have prevented the failure. This broadens pragmatic competence from “the learner must sound native-like” to collaborative communication across difference. It also aligns with the course objective of pluralistic, high-quality teaching in diverse cultural and ideological contexts.
+- **Paltridge (2022), Ch. 3: Discourse and Pragmatics**
+  - §3.1 **What is pragmatics?**, p. 44
+  - §3.2 **Language, context and discourse**, pp. 44–45
+  - §3.4 **The cooperative principle and discourse**, pp. 49–52
+  - §3.12 **Politeness and cross-cultural pragmatic failure**, pp. 61–62
 
 
+> [!important]- Core Analytical Principle
+>
+> Do not diagnose pragmatic failure from one sentence alone.
+>
+> Use evidence from:
+>
+> **context + speech action + sequence + uptake + repair**
+
+## Mini Analysis
+
+Analyze the following exchange:
+
+> A: Your music is pretty loud.  
+> B: Yeah, this speaker is amazing.  
+> A: I meant that I'm trying to study.  
+> B: Oh! Sorry. I'll turn it down.
+
+Identify:
+
+1. the dominant orientation;
+2. the speech act in Turn 1;
+3. B's initial uptake;
+4. the source of the breakdown;
+5. the repair;
+6. whether the interaction ultimately succeeds.
+
+> [!question]- Retrieval from Modules 7 & 8
+>
+> 1. What is the difference between locution, illocution, and perlocution?
+> 2. What does uptake reveal?
+> 3. What makes two turns an adjacency pair?
+> 4. What is conversational repair?
+> 5. Why should a turn be interpreted in relation to the turns around it?
+
+> [!question]- Module 9 Exit Questions
+>
+> 6. What distinguishes interactional from transactional talk?
+> 7. Why are they better treated as orientations than categories?
+> 8. What is the difference between conversational breakdown and pragmatic failure?
+> 9. How can uptake reveal misunderstanding?
+> 10. How can repair restore successful interaction?
+> 11. How do Modules 7, 8, and 9 work together?
+
+## Module 9 Diagnostic Question
+
+> **Are participants primarily managing a relationship, accomplishing a task, or both—and what evidence shows whether they understand one another successfully?**
 
 
 > [!goal]- 📄 [[Tuesday, October 6, 2026]]
@@ -109,5 +132,7 @@ In your case analysis, include the recipient’s responsibility. Ask whether cla
 > > Complete [Discourse Analysis LIPFUE Quiz – Fill out form](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=kuLi4dYhSUi3EE1H2VeK0ItjcCXTT1VEvQ9aSPhTcDNUM0FZRDlXTkYwRkNKOU0wRzdDMUdTMUU0USQlQCNjPTEu)  in class (open from 9:00 AM - 10:00 AM).
 
 
-
+> [!goal]- 📄 [[Wednesday, October 7, 2026]]
+>
+> > Review [[Types of Talk]] and [[Cooperative Principle]].
 
