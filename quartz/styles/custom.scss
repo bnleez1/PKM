@@ -38,3 +38,10 @@
 .callout.is-collapsible.is-collapsed > .callout-content {
   display: none !important;
 }
+
+/* Hide Obsidian lecture highlights on the public Quartz site */
+mark {
+  background: transparent !important;
+  color: inherit !important;
+  padding: 0 !important;
+}
