@@ -17,6 +17,10 @@ gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/installing-catchyo
 
 # Installing CatchyOS
 
+## [[CachyOS Hyprland_Create a Popup Keybinding Cheatsheet]]
+
+
+
 # Terminal Considerations
 
 - Installing wallpapers (terminal)
