@@ -133,6 +133,15 @@ Identify:
 
 
 > [!goal]- 📄 [[Wednesday, October 7, 2026]]
->
-> > Review [[Types of Talk]] and [[Cooperative Principle]].
+>> **What expectations are the participants using, and what happens when those expectations differ?**
+> > Review [[Cooperative Principle]].
+
+> [!goal]- 📄 [[Thursday, October 8, 2026]]
+>> Conference...
+
+
+> [!goal]- 📄 [[Friday, October 9, 2026]]
+>> 
+> > Review [[Types of Talk]] and [[**H. P. Grice's Cooperative Principle**]].
+
 

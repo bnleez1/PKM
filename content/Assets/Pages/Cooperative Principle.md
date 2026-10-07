@@ -10,11 +10,11 @@ banner: https://wallpaperaccess.com/full/442390.jpg
 ---
 # The Cooperative Principle: How Speakers Build Meaning Together
 
-Conversation works because speakers normally assume that other people are trying to make their contributions understandable and relevant. We rarely interpret every sentence only according to its literal meaning. Instead, we combine what was said with the surrounding context, our knowledge of the other participants, and expectations about how conversation normally works. One influential explanation for this process is **H. P. Grice's Cooperative Principle**.
+Conversation works because speakers normally assume that other people are trying to make their contributions understandable and relevant. We rarely interpret every sentence only according to its literal meaning. Instead, we combine what was said with the surrounding context, our knowledge of the other participants, and expectations about how conversation normally works. One influential explanation for this process is [[**H. P. Grice's Cooperative Principle**]].
 
 The Cooperative Principle proposes that participants generally behave as though they are working toward a shared communicative purpose. This does not mean that speakers must agree with one another, be friendly, or always communicate perfectly. Rather, participants normally assume that each contribution is somehow connected to the conversation and worth interpreting.
 
-Grice described this cooperation through four conversational expectations, usually called the **maxims of quantity, quality, relation, and manner**.
+Grice described this cooperation through four conversational expectations, usually called the ==**maxims of quantity, quality, relation, and manner**.==
 
 ## The Maxim of Quantity: Give the Right Amount of Information
 
@@ -83,7 +83,7 @@ Consider:
 
 If the presentation involved much more than its slides, A may infer that B is avoiding a direct evaluation. Because A assumes that B is still cooperating, the apparently incomplete answer invites an interpretation beyond its literal content.
 
-Implicature demonstrates that communication depends not only on words but also on **inference, shared knowledge, and expectations about relevance**.
+==Implicature demonstrates that communication depends not only on words but also on **inference, shared knowledge, and expectations about relevance**==.
 
 ## When Cooperation Breaks Down
 
@@ -121,7 +121,7 @@ This makes the Cooperative Principle especially useful for analyzing interaction
 
 For language learners, communicative competence requires more than producing grammatically correct sentences. Learners must also decide how much information to provide, how strongly to present a claim, how to signal relevance, and how to recognize when another speaker means more than the words literally express.
 
-Teachers can therefore use the Cooperative Principle not as a list of rules to memorize but as a framework for examining authentic interaction. Learners can compare responses, identify possible implicatures, locate misunderstandings, and practice clarification and repair.
+Teachers can therefore use the Cooperative Principle not as a list of rules to memorize but as a framework for examining **authentic interaction**. Learners can compare responses, identify possible implicatures, locate misunderstandings, and practice clarification and repair.
 
 The central insight is simple: **conversation is collaborative meaning-making**. Speakers provide linguistic evidence, listeners interpret that evidence, and both participants continually adjust their contributions as the interaction develops.
 

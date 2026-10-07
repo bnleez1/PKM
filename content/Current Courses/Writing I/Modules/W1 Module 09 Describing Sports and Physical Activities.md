@@ -98,3 +98,6 @@ Plan and draft a descriptive paragraph about a sport or physical activity that y
 > > 4. Describe how, why, etc.
 > > 5. Choose at least three [[Sport Metaphors]] throughout your paragraph (see below).
 
+> [!goal]- 📄 [[Tuesday, October 6, 2026]]
+>
+> > C
