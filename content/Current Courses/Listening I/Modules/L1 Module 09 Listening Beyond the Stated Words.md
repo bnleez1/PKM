@@ -13,22 +13,19 @@ gh-published-url: https://bnleez1.github.io/PKM/current-courses/listening-i/modu
 ---
 [[L1 Module 08 Building a Complete Listening Record]]
 [[L1 Module 10 Connecting the Stops in a Journey]]
-# Listening 1 Module 09: Listening Beyond the Stated Words
+# Listening 1 Module 09: Listening Beyond the Stated Words - testing
 
 [[Listening I Module 9 Note]]
 
 ⚡️ Sports, Physical Activities, Main Ideas, Details, and Basic Inference
 
 > As listeners gain confidence, they can begin interpreting information that is suggested rather than stated directly. In conversations, instructions, interviews, and short narratives about sports or physical activity, speakers may reveal feelings, intentions, or problems through context, tone, and combinations of details. This chapter introduces basic inferential listening while continuing to prioritize main ideas and specific information. An inference must be supported by evidence; it is not a free guess. You will also diagnose difficulties related to word recognition and retention after completing your own listening attempt. CAADI Worksheet 9 provides an opportunity to apply these strategies with increasing independence.
-
 ## Essential understanding(s)
-
 
 - How can a listener make a reasonable inference without inventing information?
 - What is the relationship between explicit details and an implied meaning?
 
 ## Guiding Questions
-
 
 - Which information is stated directly and which is implied?
 - How do context, tone, and repeated details support an inference?
