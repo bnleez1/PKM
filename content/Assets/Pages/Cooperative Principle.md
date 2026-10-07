@@ -55,7 +55,7 @@ Consider:
 
 B does not literally answer *yes* or *no*. Nevertheless, A will probably interpret the response as relevant and infer that the computer problem affected completion of the assignment.
 
-This illustrates an important feature of the Cooperative Principle: listeners do not necessarily assume that an indirect answer is meaningless. Instead, they often search for a reasonable connection between the response and the current topic.
+This illustrates an important feature of the Cooperative Principle: ==listeners do not necessarily assume that an indirect answer is meaningless==´. Instead, they often search for a reasonable connection between the response and the current topic.
 
 Relevance also helps organize changes of topic. Expressions such as *by the way*, *speaking of that*, or *on another matter* can signal that a speaker is deliberately moving the conversation in a new direction.
 
@@ -87,7 +87,7 @@ If the presentation involved much more than its slides, A may infer that B is av
 
 ## When Cooperation Breaks Down
 
-The Cooperative Principle is particularly useful for analyzing **conversational breakdowns**.
+==The Cooperative Principle is particularly useful for analyzing **conversational breakdowns**.==
 
 A speaker may assume that information is shared when it is not, provide too little information, respond in a way the listener cannot connect to the previous turn, or use an expression whose intended meaning is not recognized.
 

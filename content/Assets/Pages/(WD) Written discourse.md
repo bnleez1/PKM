@@ -71,7 +71,7 @@ By paying attention to tense coherence and verb tense coherence, writers can sig
 
 - **Purposeful Paragraphing:** Each paragraph should serve a specific purpose in your argument or narrative. Ensure a clear structure within each paragraph - beginning, middle, and end.
 
-- **[[Theme & Rheme]]:** In each sentence, establish the "theme" (what the sentence is about, usually introduced at the beginning) and the "rheme" (what is being said about the theme, typically following the theme).
+- **[[Understanding Theme and Rheme in Writing]]:** In each sentence, establish the "theme" (what the sentence is about, usually introduced at the beginning) and the "rheme" (what is being said about the theme, typically following the theme).
 
 ### Examples
 

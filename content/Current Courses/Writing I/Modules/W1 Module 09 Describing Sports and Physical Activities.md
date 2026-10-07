@@ -100,4 +100,9 @@ Plan and draft a descriptive paragraph about a sport or physical activity that y
 
 > [!goal]- 📄 [[Tuesday, October 6, 2026]]
 >
-> > C
+> > Writing cohesively: [[Writing Cohesively - How Sentences Connect to Form a Text]] and [[Understanding Theme and Rheme in Writing]].
+
+
+> [!goal]- 📄 [[Wednesday, October 7, 2026]]
+>
+> > Complete [[Writing I Reflection]].

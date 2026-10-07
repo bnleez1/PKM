@@ -134,7 +134,11 @@ Identify:
 
 > [!goal]- 📄 [[Wednesday, October 7, 2026]]
 >> **What expectations are the participants using, and what happens when those expectations differ?**
+>
+>>>The Cooperative Principle proposes that participants generally behave as though they are working toward a shared communicative purpose. This does not mean that speakers must agree with one another, be friendly, or always communicate perfectly. Rather, participants normally assume that each contribution is somehow connected to the conversation and worth interpreting.
+>>
 > > Review [[Cooperative Principle]].
+> > Review 
 
 > [!goal]- 📄 [[Thursday, October 8, 2026]]
 >> Conference...
