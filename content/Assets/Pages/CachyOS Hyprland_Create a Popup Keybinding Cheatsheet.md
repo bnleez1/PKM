@@ -1,8 +1,8 @@
 ---
 title: CachyOS Hyprland_Create a Popup Keybinding Cheatsheet
 tags:
-  - 
-  - 
+  - Linux
+  - CachyOS
 notes: []
 gh-publish: true
 gh-path: content/Assets/Pages
@@ -10,11 +10,11 @@ gh-published: true
 gh-published-url: https://bnleez1.github.io/PKM/assets/pages/cachyos-hyprland-create-a-popup-keybinding-cheatsheet
 banner: https://wallpapercave.com/wp/wp2506793.jpg
 ---
-# CachyOS Hyprland: Create a Popup Keybinding Cheatsheet
+# CachyOS Hyprland: Create a Floating Keybinding Cheatsheet
 
-This tutorial creates a floating **Hyprland keybinding cheatsheet** that you can summon with a keyboard shortcut and dismiss by pressing `q`.
+This tutorial creates a floating **Hyprland keybinding cheatsheet** that you can open with a keyboard shortcut and close with `q`.
 
-It is based on the CachyOS Hyprland Lua configuration used on your system:
+It is based on a CachyOS Hyprland setup using Lua configuration files under:
 
 ```
 ~/.config/hypr/
@@ -26,7 +26,7 @@ It is based on the CachyOS Hyprland Lua configuration used on your system:
     └── ...
 ```
 
-The finished setup uses:
+The final setup uses:
 
 ```
 ~/.local/bin/hyprkeys
@@ -43,10 +43,12 @@ to open it in a floating Kitty window,
 and:
 
 ```
-~/.config/hypr/config/binds.lua
+SUPER + F12
 ```
 
-to assign the keyboard shortcut.
+to display it.
+
+Using `Super + F12` proved more reliable than trying to bind `Super + /`, especially with a Spanish (Latin America) keyboard layout.
 
 ---
 
@@ -151,6 +153,10 @@ SYSTEM
 SUPER + L                   Lock session
 SUPER + Escape              Kill application
 
+CHEATSHEET
+------------------------------------------------------------
+SUPER + F12                 Show this popup cheatsheet
+
 ============================================================
 Actual configuration:
 ~/.config/hypr/config/binds.lua
@@ -174,7 +180,7 @@ You should see the cheatsheet printed directly in the terminal.
 
 ---
 
-## 2. Create the floating popup launcher
+## 2. Create the popup launcher
 
 The popup will use Kitty and `less`.
 
@@ -184,7 +190,7 @@ First verify Kitty exists:
 command -v kitty
 ```
 
-On this CachyOS setup it should return something similar to:
+You should get something similar to:
 
 ```
 /usr/bin/kitty
@@ -205,39 +211,13 @@ EOF
 chmod +x ~/.local/bin/hyprkeys-popup
 ```
 
-### Why the absolute path matters
-
-Use:
-
-```
-/home/ben/.local/bin/hyprkeys
-```
-
-rather than simply:
-
-```
-hyprkeys
-```
-
-This matters because programs launched by Hyprland do not necessarily inherit the same `PATH` as your interactive shell.
-
-A popup that opens but shows only:
-
-```
-(END)
-```
-
-usually means `less` started successfully but did not receive output from `hyprkeys`.
-
-Using the absolute path fixes that problem.
-
-Test the popup:
+Test it manually:
 
 ```
 ~/.local/bin/hyprkeys-popup
 ```
 
-You should now see a Kitty window containing the cheatsheet.
+A Kitty window should open showing the cheatsheet.
 
 Press:
 
@@ -247,24 +227,42 @@ q
 
 to close it.
 
+### Why the absolute path matters
+
+Use:
+
+```
+/home/ben/.local/bin/hyprkeys
+```
+
+inside the popup launcher instead of simply:
+
+```
+hyprkeys
+```
+
+Hyprland-launched processes may not inherit the same `PATH` as your interactive shell.
+
+If the popup opens but only shows:
+
+```
+(END)
+```
+
+then `less` started but did not receive any text. Using the absolute path fixes that problem.
+
 ---
 
 ## 3. Make the popup float
 
-Your CachyOS setup stores window rules in:
-
-```
-~/.config/hypr/config/windowrules.lua
-```
-
-Back it up first:
+Back up your Hyprland window-rules file:
 
 ```
 cp ~/.config/hypr/config/windowrules.lua \
    ~/.config/hypr/config/windowrules.lua.backup-$(date +%Y%m%d-%H%M%S)
 ```
 
-Append this rule:
+Append a rule for the popup:
 
 ```
 cat >> ~/.config/hypr/config/windowrules.lua <<'EOF'
@@ -283,70 +281,26 @@ hl.window_rule({
 EOF
 ```
 
-The important part is:
-
-```
-match = { class = "^hyprkeys-popup$" },
-```
-
-This matches the class set by:
+The class matches the one set by:
 
 ```
 kitty --class hyprkeys-popup
 ```
 
-The popup will therefore be:
-
-```
-floating
-centered
-approximately 1100 × 760 pixels
-```
+So the cheatsheet window should appear floating and centered.
 
 ---
 
-## 4. Add the keyboard shortcut
+## 4. Add the reliable keybinding
 
-Your CachyOS Hyprland bindings live in:
-
-```
-~/.config/hypr/config/binds.lua
-```
-
-Back it up:
+Back up your bindings file:
 
 ```
 cp ~/.config/hypr/config/binds.lua \
    ~/.config/hypr/config/binds.lua.backup-$(date +%Y%m%d-%H%M%S)
 ```
 
-### Important for Spanish Latin American keyboards
-
-Your keyboard is configured as:
-
-```
-kb_layout = "latam",
-```
-
-On a Latin American layout, `/` is normally produced with:
-
-```
-Shift + 7
-```
-
-Therefore, instead of assuming a US physical slash keycode, bind:
-
-```
-SUPER + SHIFT + 7
-```
-
-which effectively gives you:
-
-```
-SUPER + /
-```
-
-Append:
+Add:
 
 ```
 cat >> ~/.config/hypr/config/binds.lua <<'EOF'
@@ -355,13 +309,18 @@ cat >> ~/.config/hypr/config/binds.lua <<'EOF'
 -- Hyprland keybinding cheatsheet
 -- ============================================================
 
--- Spanish Latin American keyboard:
--- "/" is produced with SHIFT + 7
-hl.bind(mainMod .. " + SHIFT + 7",
-    hl.dsp.exec_cmd("/home/ben/.local/bin/hyprkeys-popup"),
-    { description = "Show Hyprland keybindings cheatsheet" })
+hl.bind(mainMod .. " + F12",
+    hl.dsp.exec_cmd("/home/ben/.local/bin/hyprkeys-popup"))
 EOF
 ```
+
+The final shortcut is:
+
+```
+SUPER + F12
+```
+
+This avoids keyboard-layout-specific problems.
 
 ---
 
@@ -379,22 +338,16 @@ You should get:
 ok
 ```
 
-There is no need to log out or reboot.
+No logout or reboot is required.
 
 ---
 
-## 6. Test the shortcut
+## 6. Test the popup
 
-Physically press:
-
-```
-Super + Shift + 7
-```
-
-With your Latin American Spanish layout, this corresponds to:
+Press:
 
 ```
-Super + /
+Super + F12
 ```
 
 The floating cheatsheet should appear.
@@ -409,37 +362,39 @@ to close it.
 
 ---
 
-## 7. Verify that Hyprland registered the binding
+## 7. Verify that Hyprland loaded the binding
 
-If the shortcut does nothing, check the loaded bindings:
-
-```
-hyprctl binds | grep -i -A6 -B3 cheatsheet
-```
-
-You should see the description:
+Run:
 
 ```
-Show Hyprland keybindings cheatsheet
+hyprctl binds | grep -i -A8 -B5 hyprkeys
 ```
 
-You can also search for the launcher:
+If nothing appears, you can also inspect the end of the Lua file:
 
 ```
-hyprctl binds | grep -i -A5 -B5 hyprkeys
+tail -20 ~/.config/hypr/config/binds.lua
+```
+
+You should see:
+
+```
+-- Hyprland keybinding cheatsheet
+hl.bind(mainMod .. " + F12",
+    hl.dsp.exec_cmd("/home/ben/.local/bin/hyprkeys-popup"))
 ```
 
 ---
 
 ## 8. Verify the popup window class
 
-If the popup launches manually but does not float correctly, open it:
+If the popup opens manually but does not float correctly, launch it:
 
 ```
 ~/.local/bin/hyprkeys-popup
 ```
 
-Then, from another terminal, run:
+Then from another terminal run:
 
 ```
 hyprctl clients | grep -i -A10 -B5 hyprkeys
@@ -452,93 +407,97 @@ class: hyprkeys-popup
 title: Hyprland Keybindings
 ```
 
-That confirms the window rule has the correct class.
+That confirms the window rule is matching the correct class.
 
 ---
 
 ## 9. Troubleshooting
 
-### Popup opens but is completely blank
+### Popup opens but is blank
 
-If you see only:
-
-```
-(END)
-```
-
-the popup itself is working, but `less` received no cheatsheet text.
-
-Test:
+Test the underlying cheatsheet:
 
 ```
 ~/.local/bin/hyprkeys
 ```
 
-If that displays the text, make sure `hyprkeys-popup` uses the **absolute path**:
+If that works, make sure `hyprkeys-popup` contains:
 
 ```
 bash -c '/home/ben/.local/bin/hyprkeys | less -R'
 ```
 
-Do not rely on:
+and not:
 
 ```
 bash -c 'hyprkeys | less -R'
 ```
 
-because `.local/bin` may not be available in the environment Hyprland gives the process.
+---
 
-### The popup works manually but the keyboard shortcut does nothing
+### Manual popup works, but the shortcut does nothing
 
-First test:
+First confirm:
 
 ```
 ~/.local/bin/hyprkeys-popup
 ```
 
-If that works, the problem is only the binding.
+If that works, the launcher is fine and the problem is only the binding.
 
 Check:
 
 ```
-hyprctl binds | grep -i -A6 -B3 hyprkeys
+tail -20 ~/.config/hypr/config/binds.lua
 ```
 
-Then check that your binding appears at the bottom of:
+Then reload:
 
 ```
-tail -30 ~/.config/hypr/config/binds.lua
+hyprctl reload
 ```
 
-For the Latin American keyboard layout, prefer:
+and test:
 
 ```
-mainMod .. " + SHIFT + 7"
+Super + F12
 ```
 
-instead of assuming a US-layout slash key.
+---
 
-### `hyprctl reload` reports an error
+### Why not use Super + /?
 
-Inspect the files you just edited:
+With a Spanish (Latin America) layout, `/` is typically produced with another key combination such as `Shift + 7`.
 
-```
-tail -30 ~/.config/hypr/config/binds.lua
-```
-
-and:
+Attempts to bind:
 
 ```
-tail -30 ~/.config/hypr/config/windowrules.lua
+Super + /
 ```
 
-If necessary, restore the backups created earlier.
+or:
+
+```
+Super + Shift + 7
+```
+
+can become dependent on layout interpretation and keycode handling.
+
+Even though the popup itself worked perfectly, those bindings were not reliably registered.
+
+Using:
+
+```
+Super + F12
+```
+
+proved reliable and avoids that entire class of keyboard-layout problems.
 
 ---
 
 ## 10. Updating the cheatsheet later
 
-Whenever you add a new Hyprland shortcut, edit:
+Edit:
 
 ```
 nano ~/.local/bin/hyprkeys
@@ -546,7 +505,7 @@ nano ~/.local/bin/hyprkeys
 
 or use your preferred editor.
 
-For example, if you later add shortcuts for Codex or Grok, you could add:
+You can add new sections as your setup grows, for example:
 
 ```
 AI / AGENTS
@@ -555,9 +514,15 @@ SUPER + ...                 Open Codex
 SUPER + ...                 Open Grok
 ```
 
-You do **not** need to reload Hyprland when changing only the contents of `hyprkeys`.
+You do **not** need to reload Hyprland when changing only the cheatsheet text.
 
-Hyprland only needs to be reloaded when you modify:
+You only need:
+
+```
+hyprctl reload
+```
+
+after modifying:
 
 ```
 ~/.config/hypr/config/binds.lua
@@ -573,32 +538,31 @@ or:
 
 ## Final configuration
 
-The finished arrangement is:
+The finished workflow is:
 
 ```
-SUPER + SHIFT + 7
-        │
-        │  Latin American layout → SUPER + /
-        ▼
+SUPER + F12
+      │
+      ▼
 ~/.local/bin/hyprkeys-popup
-        │
-        ▼
+      │
+      ▼
 Kitty
 class = hyprkeys-popup
-        │
-        ▼
+      │
+      ▼
 /home/ben/.local/bin/hyprkeys
-        │
-        ▼
+      │
+      ▼
 less -R
-        │
-        ▼
+      │
+      ▼
 Floating Hyprland cheatsheet
-        │
-        └── q → close
+      │
+      └── q → close
 ```
 
-The four important files are:
+The important files are:
 
 ```
 ~/.local/bin/hyprkeys
@@ -607,4 +571,10 @@ The four important files are:
 ~/.config/hypr/config/windowrules.lua
 ```
 
-This approach is preferable to relying on `hyprctl binds` alone because the popup gives you a curated, human-readable reference while `hyprctl binds` remains available for diagnosing the actual configuration.
+The reliable shortcut is:
+
+```
+SUPER + F12
+```
+
+This gives you a simple, persistent, and keyboard-layout-independent way to view your CachyOS Hyprland shortcuts at any time.
