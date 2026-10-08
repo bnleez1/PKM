@@ -109,6 +109,7 @@ Plan and draft a descriptive paragraph about a sport or physical activity that y
 
 > [!goal]- 📄 [[Thursday, October 8, 2026]]
 > - [[Writing I Written Reflections from October 7, 2026]]
+> - Connecting ideas from one sentence to the next: [From Red Book to Courtyard Cat.png](https://eduuaa.sharepoint.com/:i:/s/WritingI2026/IQCvQa8jwDF7RYR6NmgrVH5pAct90Q0E64JwZah1Br8g_ls?e=LKAyf7). 
 > 
 
 
