@@ -90,7 +90,7 @@ CAADI Worksheet 9 should show that inference grows from accurate global and sele
 
 > [!goal]- 📄 [[Thursday, October 8, 2026]]
 >
-> > Midterm Exam
+> > Midterm Listening Exam
 
 
 
