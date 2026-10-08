@@ -107,11 +107,17 @@ A productive learning sequence for this chapter begins with a diagnostic respons
 
 The second part of the week should move from practice to production. Students use the guiding questions—“How are the topic, problem, scope, and central claim connected?” and “What information should be coded in a synthesis matrix?”—as checkpoints while working toward the stated outcomes, especially the ability to explain the purpose and major structure of a literature review and to confirm alignment among topic, problem, scope, and thesis or central claim. A brief peer conference should focus on one high-impact feature rather than attempting to correct everything at once. Students then revise, annotate the evidence of their decision-making, and complete the week’s deliverable: Alignment check; 2,500-word plan; synthesis matrix; thematic outline; drafting milestones. The final five minutes of class can be used for an exit reflection identifying one decision the writer can now justify and one question that must be carried into the next chapter.
 
+> [!goal]- 📄 [[Wednesday, October 7, 2026]]
+>
+> > Complete annotated bibliography.
+
+> [!goal]- 📄 [[Thursday, October 8, 2026]]
+>
+> > Track 1: Complete annotative bibliography and submit to Teams.
+> > Track 2. Complete two-to-four headings (6-12 words each) and receive feedback.
+> > Track 3: Review [[Avoiding the Overuse of Nominalizations in Academic Writing - 08102026]]
 
 
-## 🗓️ Wednesday (11:00 AM - 1:00 PM)
 
-## 🗓️ Thursday (12:00 PM - 1:00 PM)
 
-## 🗓️ Friday (10:00 AM - 12:00 PM)
 
