@@ -119,3 +119,8 @@ The second part of the week should move from practice to production. Students us
 > > Track 2. Complete two-to-four headings (6-12 words each) and receive feedback.
 > > Track 3: Review [[Avoiding the Overuse of Nominalizations in Academic Writing - 08102026]]
 
+> [!goal]- 📄 [[Friday, October 9, 2026]]
+>
+> > Track 1: Complete annotative bibliography and submit to Teams.
+> > Track 2. Complete two-to-four headings (6-12 words each) and receive feedback.
+> > Track 3: Review [[Avoiding the Overuse of Nominalizations in Academic Writing - 08102026]]

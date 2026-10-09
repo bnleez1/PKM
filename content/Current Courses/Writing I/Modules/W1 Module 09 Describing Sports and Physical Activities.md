@@ -113,16 +113,5 @@ Plan and draft a descriptive paragraph about a sport or physical activity that y
 > 
 
 
-
-
-
-
-
-
-
-
-
-October 7, 2026
-
-Students report growing confidence and clearer, better-organized writing. Their goals focus on making that writing more accurate, specific, and independent. This summary reflects students’ self-assessments; progress varies across the group.
-
+> [!goal]- 📄 [[Friday, October 9, 2026]]
+> > - Complete [View assignment: "Writing I Week 9 Assignment"](https://teams.microsoft.com/l/entity/66aeee93-507d-479a-a3ef-8f494af43945/classroom?context=%7B%22subEntityId%22%3A%22%7B%5C%22version%5C%22%3A%5C%221.0%5C%22%2C%5C%22config%5C%22%3A%7B%5C%22classes%5C%22%3A%5B%7B%5C%22id%5C%22%3A%5C%22324466aa-9333-4869-aa38-7df952a18d0b%5C%22%2C%5C%22assignmentIds%5C%22%3A%5B%5C%224ddb09cb-b5db-4377-8240-c7af55163528%5C%22%5D%7D%5D%7D%2C%5C%22action%5C%22%3A%5C%22navigate%5C%22%2C%5C%22view%5C%22%3A%5C%22assignment-viewer%5C%22%2C%5C%22appId%5C%22%3A%5C%22ccb65bcd-04ba-421a-8791-a299a70904b6%5C%22%2C%5C%22deeplinkType%5C%22%3A4%7D%22%2C%22channelId%22%3Anull%7D) 
