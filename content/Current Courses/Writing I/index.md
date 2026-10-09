@@ -1,14 +1,15 @@
 ---
 title: Writing I
 aliases:
-  - "Writing I"
+  - Writing I
 endDate: 2026-12-17
 startDate: 2026-08-10
 description: Course materials, weekly modules, assignments, and resources for Academic Writing.
 gh-publish: true
 gh-path: content/Current Courses/Writing I
 gh-published: true
-gh-published-url: "https://bnleez1.github.io/PKM/current-courses/writing-i"
+gh-published-url: https://bnleez1.github.io/PKM/current-courses/writing-i
+banner: https://wallup.net/wp-content/uploads/2019/09/652037-landscape-nature-tree-forest-woods-river-waterfall.jpg
 ---
 
 # Writing I
