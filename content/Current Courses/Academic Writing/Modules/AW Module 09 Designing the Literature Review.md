@@ -15,6 +15,8 @@ gh-published-url: https://bnleez1.github.io/PKM/current-courses/academic-writing
 [[AW Module 10 Opening the Scholarly Conversation]]
 # Chapter 9: Designing the Literature Review
 
+
+
 ⚡️ Aligning the inquiry and organizing ten sources through a synthesis matrix and thematic outline
 
 > A literature review is not a sequence of ten source summaries. It is an organized explanation of what a body of literature collectively shows, where it differs, and what remains unresolved. This week begins the 2,500-word Unit IV project by confirming alignment among the topic, problem, scope, and thesis or central claim. Students then code the ten sources from the annotated bibliography by theme, method, finding, and limitation. A synthesis matrix and thematic outline help move the organization away from authors and toward ideas. The result should be a plan for a review with a clear introduction, logically ordered body sections, and a conclusion that answers the purpose established at the beginning. Drafting milestones are also set so that the work remains manageable and human-authored throughout the final unit.
@@ -116,8 +118,4 @@ The second part of the week should move from practice to production. Students us
 > > Track 1: Complete annotative bibliography and submit to Teams.
 > > Track 2. Complete two-to-four headings (6-12 words each) and receive feedback.
 > > Track 3: Review [[Avoiding the Overuse of Nominalizations in Academic Writing - 08102026]]
-
-
-
-
 
