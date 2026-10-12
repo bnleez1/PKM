@@ -6,7 +6,7 @@ notes: []
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: https://bnleez1.github.io/PKM/assets/pages/untitled
+gh-published-url: https://bnleez1.github.io/PKM/assets/pages/100-common-verb_preposition-collocations
 banner: https://www.baltana.com/files/wallpapers-23/Amazing-Nature-Wallpaper-1920x1080-56457.jpg
 ---
 # 100 Common Verb + Preposition Collocations
