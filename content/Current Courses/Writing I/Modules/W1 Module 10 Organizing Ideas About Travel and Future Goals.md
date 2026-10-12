@@ -14,7 +14,6 @@ gh-published-url: "https://bnleez1.github.io/PKM/current-courses/writing-i/modul
 
 # W1 Module 10: Organizing Ideas About Travel and Future Goals
 
-
 ⚡️ Using addition, contrast, and sequence in expository and descriptive writing
 
 > Travel and future goals invite writers to explain places, plans, preferences, and possibilities. These topics also require careful organization. A paragraph about a destination may describe what makes the place attractive, while a paragraph about a future goal may explain the steps needed to achieve it. This chapter introduces three important relationships among ideas: addition, contrast, and sequence. Connectors can make these relationships visible, but they must be chosen for meaning rather than inserted mechanically. You will organize ideas with a map or table and produce an expository or descriptive paragraph. Models, connector guides, dictionaries, and CAADI materials will support your work. Your paragraph should remain clear, focused, and appropriate for A2, even when the topic concerns the future.

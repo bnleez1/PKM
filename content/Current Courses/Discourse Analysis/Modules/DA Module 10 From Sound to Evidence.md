@@ -11,7 +11,8 @@ gh-publish: true
 gh-path: content/Current Courses/Discourse Analysis/Modules
 gh-published-url: "https://bnleez1.github.io/PKM/current-courses/discourse-analysis/modules/da-module-10-from-sound-to-evidence"
 ---
-
+[[DA Module 09 Relationship Talk and Task Talk]]
+[[DA Module 11 When AI Writes the Dialogue]]
 # DA Module 10: From Sound to Evidence
 
 
