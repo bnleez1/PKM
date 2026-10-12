@@ -5,7 +5,8 @@ tags:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/gerunds-vs-infinitives-unveiling-the-subtleties-with-the-bolinger-principle"
+gh-published-url: https://bnleez1.github.io/PKM/assets/pages/gerunds-vs-infinitives-unveiling-the-subtleties-with-the-bolinger-principle
+banner: https://www.adashofsunny.com/wp-content/uploads/2015/07/the-beauty-of-nature-wide-wallpaper-499995.jpg
 ---
 # Gerunds vs. infinitives: Unveiling the subtleties with the Bolinger Principle
 
