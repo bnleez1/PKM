@@ -87,13 +87,6 @@ After listening, explain the route or instruction in your own words. Use the con
 
 CAADI Worksheet 10 completes the required CAADI sequence. Apply gist listening, route-based notes, connector recognition, and focused verification. Your notes should allow another person to follow the itinerary or instruction accurately.
 
-## 🗓️ Monday
-
-## 🗓️ Tuesday
-
-## 🗓️ Wednesday
-
-## 🗓️ Thursday
-
-## 🗓️ Friday
-
+> [!goal]- 📄 [[Monday, October 12, 2026]]
+>
+> > 1. Midterm Listening Exam 2 (optional)
