@@ -5,12 +5,12 @@ tags:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/collocations-in-english-the-art-of-natural-word-pairing"
+gh-published-url: https://bnleez1.github.io/PKM/assets/pages/collocations-in-english-the-art-of-natural-word-pairing
+banner: https://www.shutterstock.com/shutterstock/photos/2198245029/display_1500/stock-photo-autumn-nature-landscape-lake-bridge-in-fall-forest-path-way-in-gold-woods-romantic-view-image-2198245029.jpg
 ---
-
 # Collocations in English: The art of natural word pairing
 
-[The smart way to improve your English | Learn Collocations](https://www.youtube.com/watch?v=RnTpYKOLca4)[The smart way to improve your English | Learn Collocations - Notes](../Weblinks/The%20smart%20way%20to%20improve%20your%20English%20%20Learn%20Collocations.md)
+<iframe title="The smart way to improve your English | Learn Collocations" src="https://www.youtube.com/embed/RnTpYKOLca4?feature=oembed" height="113" width="200" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;" allowfullscreen="" allow="fullscreen"></iframe>
 
 Collocations are combinations of two or more words that frequently occur together in English. These pairings sound natural and "right" to native speakers, while other combinations might seem odd or incorrect. Think of them as the "best friends" of the vocabulary world.
 
@@ -31,11 +31,8 @@ Collocations can be categorized based on the types of words they combine:
     - **Examples:**
 
         - strong coffee (not powerful coffee)
-
         - heavy rain (not strong rain)
-
         - deep sleep (not profound sleep)
-
         - bright idea (not smart idea)
 
 2. **Adverb + Adjective:**
@@ -43,11 +40,8 @@ Collocations can be categorized based on the types of words they combine:
     - **Examples:**
 
         - deeply moved (not profoundly moved)
-
         - highly unlikely (not strongly unlikely)
-
         - perfectly normal (not completely normal)
-
         - utterly ridiculous (not totally ridiculous)
 
 3. **Noun + Noun:**
@@ -55,11 +49,8 @@ Collocations can be categorized based on the types of words they combine:
     - **Examples:**
 
         - a surge of anger (not a rush of anger)
-
         - a glimmer of hope (not a flicker of hope)
-
         - a stroke of luck (not a piece of luck)
-
         - a pang of guilt (not a sting of guilt)
 
 4. **Noun + Verb:**
@@ -67,11 +58,8 @@ Collocations can be categorized based on the types of words they combine:
     - **Examples:**
 
         - lions roar (not lions shout)
-
         - bombs explode (not bombs detonate)
-
         - time flies (not time rushes)
-
         - alarms go off (not alarms ring)
 
 5. **Verb + Noun:**
@@ -79,11 +67,8 @@ Collocations can be categorized based on the types of words they combine:
     - **Examples:**
 
         - make a mistake (not do a mistake)
-
         - take a chance (not grab a chance)
-
         - catch a cold (not get a cold)
-
         - do homework (not make homework)
 
 6. **Verb + Adverb:**
@@ -91,11 +76,8 @@ Collocations can be categorized based on the types of words they combine:
     - **Examples:**
 
         - whisper softly (not whisper quietly)
-
         - wave frantically (not wave feverishly)
-
         - argue heatedly (not argue hotly)
-
         - agree wholeheartedly (not agree completely)
 
 7. **Verb + Expression with Preposition:**
@@ -103,21 +85,15 @@ Collocations can be categorized based on the types of words they combine:
     - **Examples:**
 
         - burst into tears (not blow up in tears)
-
         - run out of time (not run short of time)
-
         - come up with an idea (not find an idea)
-
         - get away with something (not escape with something)
 
 **Learning Collocations**
 
 - **Reading:** Pay attention to word combinations in books, articles, and other texts.
-
 - **Dictionaries:** Use collocation dictionaries (online or print) to find common pairings.
-
 - **Practice:** Use the collocations you learn in your own speech and writing.
-
 - **Context:** Consider the context in which a collocation is used, as meanings can vary.
 
 # More examples

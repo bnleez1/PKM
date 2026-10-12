@@ -5,7 +5,8 @@ tags:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/introductory-phrases"
+gh-published-url: https://bnleez1.github.io/PKM/assets/pages/introductory-phrases
+banner: https://img.magnific.com/premium-photo/nature-wallpaper-beautiful-nature-wallpaper-4k-nature-wallpapers-hd-nature-wallpaper-green-nature_722194-164.jpg?w=1380
 ---
 
 # Introductory Phrases
