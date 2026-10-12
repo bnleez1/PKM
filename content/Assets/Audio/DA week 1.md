@@ -16,7 +16,5 @@ gh-published-url: "https://bnleez1.github.io/PKM/assets/audio/da-week-1"
 
 # DA week 1
 
-
-Media: ![Audio](DA%20week%201.mp3)
-
+![[DA week 1.mp3]]
 

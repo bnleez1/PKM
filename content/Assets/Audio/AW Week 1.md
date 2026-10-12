@@ -14,11 +14,8 @@ category:
 gh-published-url: https://bnleez1.github.io/PKM/assets/audio/aw-week-1
 banner: https://static.vecteezy.com/system/resources/previews/022/708/816/large_2x/generative-ai-illustration-of-the-beauty-of-nature-with-a-stunning-double-exposure-landscape-featuring-a-river-trees-and-feathers-photo.jpg
 ---
-
 # AW Week 1
 
-
-Media: ![Audio](AW%20Week%201.mp3)
 ![[AW Week 1.mp3]] 
 
 

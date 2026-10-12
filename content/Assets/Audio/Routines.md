@@ -16,7 +16,5 @@ gh-published-url: "https://bnleez1.github.io/PKM/assets/audio/routines"
 
 # Routines
 
-
-Media: ![Audio](Routines.m4a)
-
+![[Routines.m4a]]
 

@@ -13,10 +13,8 @@ origin: upload
 category: null
 gh-published-url: "https://bnleez1.github.io/PKM/assets/audio/listening-i-week-1"
 ---
-
 # Listening I week 1
 
-
-Media: ![Audio](Listening%20I%20week%201.mp3)
+![[Listening I week 1.mp3]]
 
 

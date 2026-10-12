@@ -13,10 +13,13 @@ origin: upload
 category: null
 gh-published-url: "https://bnleez1.github.io/PKM/assets/audio/increase-originality-score"
 ---
-
 # Increase originality score
 
+![[Increase originality score.mp3]]
 
-Media: ![Audio](Increase%20originality%20score.mp3)
+
+
+
+
 
 

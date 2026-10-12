@@ -15,8 +15,7 @@ gh-published-url: "https://bnleez1.github.io/PKM/assets/audio/how-to-increase-yo
 ---
 
 # How_to_increase_your_originality_score
+ ![[How_to_increase_your_originality_score.m4a]]
 
-
-Media: ![Audio](How_to_increase_your_originality_score.m4a)
 
 
