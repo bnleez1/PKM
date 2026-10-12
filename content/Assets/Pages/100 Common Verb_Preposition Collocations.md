@@ -10,6 +10,7 @@ gh-published-url: https://bnleez1.github.io/PKM/assets/pages/untitled
 banner: https://www.baltana.com/files/wallpapers-23/Amazing-Nature-Wallpaper-1920x1080-56457.jpg
 ---
 # 100 Common Verb + Preposition Collocations
+
 Verb + preposition collocations can be a challenge for English language learners. Distinguishing between phrasal verbs (where the verb + particle create a new, often idiomatic meaning) - see [The world of phrasal verbs: A unique challenge in English](https://app.notion.com/p/The-world-of-phrasal-verbs-A-unique-challenge-in-English-b1d29a62bb804203ba97aa12da71db85?pvs=21) - and verbs that simply require a specific preposition to connect to their object or complement can be tricky.
 
 As an English language teacher trainer yourself, you'll appreciate how crucial these collocations are for fluency. This list focuses on verb + preposition combinations where the verb generally retains its core meaning, and the preposition serves a grammatical function, linking the verb to the rest of the sentence, rather than forming an idiomatic phrasal verb unit.
