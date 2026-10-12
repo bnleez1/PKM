@@ -6,12 +6,13 @@ unit: "[Writing I Unit III: Detail and Clarity](Writing%20I%20Unit%20III%20Detai
 courseS: "[[60 Public/Website/Current Courses/Writing I/index]]"
 endDate: 2026-12-17
 startDate: 2026-08-10
-banner:
+banner: https://wallup.net/wp-content/uploads/2016/01/200876-nature-landscape-water.jpg
 gh-publish: true
 gh-path: content/Current Courses/Writing I/Modules
-gh-published-url: "https://bnleez1.github.io/PKM/current-courses/writing-i/modules/w1-module-10-organizing-ideas-about-travel-and-future-goals"
+gh-published-url: https://bnleez1.github.io/PKM/current-courses/writing-i/modules/w1-module-10-organizing-ideas-about-travel-and-future-goals
 ---
-
+[[W1 Module 09 Describing Sports and Physical Activities]]
+[[W1 Module 11 Improving Coherence and Word Choice]]
 # W1 Module 10: Organizing Ideas About Travel and Future Goals
 
 ⚡️ Using addition, contrast, and sequence in expository and descriptive writing
@@ -88,13 +89,6 @@ Practice connectors by beginning with two simple sentences. “I want to visit t
 
 Choose either a travel destination or a future goal. Create a map or table that identifies the main focus, supporting categories or steps, specific examples, and possible connectors. Then write an expository or descriptive paragraph. Underline connectors and label each as addition, contrast, or sequence. Replace any connector that does not match the intended relationship. Verify unfamiliar vocabulary with a dictionary or course resource, and keep the organizer and draft as process evidence.
 
-## 🗓️ Monday
-
-## 🗓️ Tuesday
-
-## 🗓️ Wednesday
-
-## 🗓️ Thursday
-
-## 🗓️ Friday
-
+> [!goal]- 📄 [[Monday, October 12, 2026]]
+>
+> > 1. Complete [Writing I Exam - October 12, 2026 – Fill out form](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=kuLi4dYhSUi3EE1H2VeK0ItjcCXTT1VEvQ9aSPhTcDNURENZVzRJOFRRSVNPVVUzVFpGT01OWFJETyQlQCNjPTEu) 
