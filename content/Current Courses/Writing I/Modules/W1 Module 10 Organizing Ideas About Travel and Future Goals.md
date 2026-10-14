@@ -13,7 +13,7 @@ gh-published-url: https://bnleez1.github.io/PKM/current-courses/writing-i/module
 ---
 [[W1 Module 09 Describing Sports and Physical Activities]]
 [[W1 Module 11 Improving Coherence and Word Choice]]
-# W1 Module 10: Organizing Ideas About Travel and Future Goals
+# W1 Module 10: Organizing Ideas About Travel and Future Goals - testing
 [[W1 Module 10 Note]]
 
 ⚡️ Using addition, contrast, and sequence in expository and descriptive writing
@@ -23,17 +23,13 @@ gh-published-url: https://bnleez1.github.io/PKM/current-courses/writing-i/module
 ## Essential understanding(s)
 
 - How do connectors reveal the relationships among ideas?
-
 - How can writers organize a place description or future plan for an A2 reader?
 
 ## Guiding Questions
 
 - When should a writer add information, show contrast, or present sequence?
-
 - Which organizer best supports a travel description or a future-goal explanation?
-
 - How can examples make an expository paragraph more specific?
-
 - How can a writer discuss the future with language that remains clear and manageable?
 
 ## Learning outcomes
