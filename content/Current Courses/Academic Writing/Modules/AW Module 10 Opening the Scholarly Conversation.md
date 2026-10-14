@@ -114,6 +114,12 @@ The second part of the week should move from practice to production. Students us
 >
 > > 1. Complete annotative bibliography and submit to Teams.
 > > 2. Complete two-to-four headings (6-12 words each) and receive feedback.
-> > 3. Review [[Avoiding the Overuse of Nominalizations in Academic Writing - 08102026]]1. 
-> > 4. Review [[Differences between a topic sentence and thesis statement]] &  [[(MEAL) Plan - Body Paragraph Development]].
-> > 5. Review [[Organizational Patterns - Text Structure]] & [[Types of body paragraphs]].
+> > 3. Review [[Avoiding the Overuse of Nominalizations in Academic Writing - 08102026]].
+> > 4. Download [Literature_Synthesis_12-15_Articles.xlsx](https://eduuaa.sharepoint.com/:x:/s/AcademicWriting2026/IQAigThA59z1QoMzjsCMGdvOAfBNOAmoN7p7_pVH5bLsExk?e=WRb2yG) and begin completing it outside of class.
+> > 	a. Read each original article. Enter a short, accurate note in the Article Matrix (A01–A15).
+> > 	b. Write findings in your own words. Record a page, table, or section so you can check the evidence.
+> > 	c. Tag each article with one or two themes (T1–T6). The same theme can appear in several articles.
+> > 	d. In Theme Synthesis, compare at least two articles per theme: agreements, differences, reasons, and gaps.
+> > 	e. Draft across-study claims in your own words; convert article IDs to correct APA citations in your review.
+> > 5. Review [[Differences between a topic sentence and thesis statement]] &  [[(MEAL) Plan - Body Paragraph Development]].
+> > 6. Review [[Organizational Patterns - Text Structure]] & [[Types of body paragraphs]].
