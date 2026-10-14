@@ -10,6 +10,7 @@ gh-published: true
 gh-published-url: https://bnleez1.github.io/PKM/assets/pages/types-of-talk
 banner: https://wallpapercave.com/wp/wp6843918.jpg
 ---
+
 # Types of Talk
 ## 1. Interactional Talk
 

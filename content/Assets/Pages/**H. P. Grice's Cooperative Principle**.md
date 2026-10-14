@@ -24,7 +24,6 @@ This kind of reasoning is central to H. P. Grice's Cooperative Principle. Grice 
 
 Grice described four expectations, or maxims, that help explain how cooperation works. They are not strict rules that speakers always obey. They are expectations listeners often use when interpreting what another person means.
 
-  
 |**Maxim**|**Basic expectation**|**Example**|
 |---|---|---|
 |Quantity|Give as much information as the situation requires—not too little and not unnecessarily much.|A: "When is the meeting?"  <br>B: "At nine."|

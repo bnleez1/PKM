@@ -20,7 +20,6 @@ gh-published-url: https://bnleez1.github.io/PKM/current-courses/listening-i/modu
 
 > Travel messages require listeners to connect information across time and place. An itinerary may include departures, arrivals, transfers, and exceptions; an instruction may describe where to go and what to do; a tourism report may compare options or add recommendations. This chapter focuses on connectors of addition, contrast, and sequence because these small words reveal the relationship between details. You will listen for the main route or purpose first, then organize specific times, locations, and actions. When authorized after an independent attempt, GenAI may create parallel A2 practice, but you must verify its language and ensure it does not reproduce the assigned material.
 
-
 ## Essential understanding(s)
 
 - How do connectors help a listener understand relationships in a travel message?

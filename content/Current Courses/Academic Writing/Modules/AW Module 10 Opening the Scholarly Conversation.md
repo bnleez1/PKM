@@ -6,19 +6,16 @@ unit: "[[Academic Writing Unit IV]]"
 courseS: "[[60 Public/Website/Current Courses/Academic Writing/index]]"
 endDate: 2026-12-17
 startDate: 2026-08-10
-banner:
+banner: https://wallpaperaccess.com/full/31197.jpg
 gh-publish: true
 gh-path: content/Current Courses/Academic Writing/Modules
-gh-published-url: "https://bnleez1.github.io/PKM/current-courses/academic-writing/modules/aw-module-10-opening-the-scholarly-conversation"
+gh-published-url: https://bnleez1.github.io/PKM/current-courses/academic-writing/modules/aw-module-10-opening-the-scholarly-conversation
 ---
-
 # Chapter 10: Opening the Scholarly Conversation
-
 
 ⚡️ Drafting the introduction and first thematic section of the literature review
 
 > The opening of a literature review must orient the reader without delaying the argument. It establishes the context, identifies the problem, defines the scope, explains the organizing principle, and presents a central claim that the body can develop. This week students draft and workshop that introduction, then write the first thematic section by combining evidence from multiple sources. The transition from introduction to body is crucial: the first section should not feel like a new paper, and the introduction should not promise themes that never appear. Paragraphs in the thematic section will include clear topic sentences, integrated evidence, analysis, and transitions. The purpose is to begin synthesis immediately, showing how sources relate to one another and how their relationship supports the review’s central interpretation.
-
 
 ## Essential Questions
 
@@ -108,10 +105,7 @@ A productive learning sequence for this chapter begins with a diagnostic respons
 The second part of the week should move from practice to production. Students use the guiding questions—“What context is necessary to understand the problem without making the introduction too broad?” and “How should the organizing principle and central claim be stated?”—as checkpoints while working toward the stated outcomes, especially the ability to draft an introduction containing context, problem, scope, organizing principle, and central claim and to check alignment between the introduction and planned body sections. A brief peer conference should focus on one high-impact feature rather than attempting to correct everything at once. Students then revise, annotate the evidence of their decision-making, and complete the week’s deliverable: Workshopped literature-review introduction and first thematic section. The final five minutes of class can be used for an exit reflection identifying one decision the writer can now justify and one question that must be carried into the next chapter.
 
 
+> [!goal]- 📄 [[Wednesday, October 14, 2026]]
+>
 
-## 🗓️ Wednesday (11:00 AM - 1:00 PM)
-
-## 🗓️ Thursday (12:00 PM - 1:00 PM)
-
-## 🗓️ Friday (10:00 AM - 12:00 PM)
 
