@@ -8,10 +8,9 @@ gh-published: true
 gh-published-url: https://bnleez1.github.io/PKM/assets/pages/gerunds-vs-infinitives-unveiling-the-subtleties-with-the-bolinger-principle
 banner: https://www.adashofsunny.com/wp-content/uploads/2015/07/the-beauty-of-nature-wide-wallpaper-499995.jpg
 ---
-# Gerunds vs. infinitives: Unveiling the subtleties with the Bolinger Principle
+# Gerunds vs. infinitives: Unveiling the subtleties with the Bolinger Principle  
 
 Hello, word enthusiasts! Today, we're diving into a fascinating linguistic concept that sheds light on the nuanced difference between gerunds and "to" infinitives in English: the Bolinger Principle. This principle, proposed by linguist Dwight Bolinger, offers valuable insights into how we choose between these two verb forms and the subtle shades of meaning they convey.
-
 ## **The Bolinger Principle: A Quick Overview**
 
 [Gerunds vs. Infinitives (Bolinger Principle)](https://www.youtube.com/watch?v=uDZknu73h3c)[Gerunds vs. Infinitives (Bolinger Principle) - Notes](../Weblinks/Gerunds%20vs%20Infinitives%20(Bolinger%20Principle).md)
