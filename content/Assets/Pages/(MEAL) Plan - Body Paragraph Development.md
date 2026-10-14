@@ -6,9 +6,9 @@ tags:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/(meal)-plan---body-paragraph-development"
+gh-published-url: https://bnleez1.github.io/PKM/assets/pages/(meal)-plan---body-paragraph-development
+banner: https://wallpapers.com/images/hd/cool-nature-jpjoj9ipblkqaumr.jpg
 ---
-
 # (MEAL) Plan - Body Paragraph Development
 
 [ItC 89: M.E.A.L. Plan - Developing a Body Paragraph](https://www.youtube.com/watch?v=svaqvWbndgE)[ItC 89: M.E.A.L. Plan - Developing a Body Paragraph - Notes](../Weblinks/ItC%2089%20MEAL%20Plan%20-%20Developing%20a%20Body%20Paragraph.md)

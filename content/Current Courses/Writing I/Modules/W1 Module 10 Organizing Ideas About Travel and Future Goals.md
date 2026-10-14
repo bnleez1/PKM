@@ -91,4 +91,8 @@ Choose either a travel destination or a future goal. Create a map or table that 
 
 > [!goal]- 📄 [[Tuesday, October 13, 2026]]
 >
-> > 1. `we / visited / museum / after / lunch`
+> > 1. `we / visited / museum / after / lunch
+
+> [!goal]- 📄 [[Wednesday, October 14, 2026]]
+>
+> > 1. Complete [Travel_Idioms_Handout_Wednesday.docx](https://eduuaa.sharepoint.com/:w:/s/WritingI2026/IQB52tI4lRm0SbeJmmn76EQQAXbt6sVaOrSBwhuu_-9T_30?e=8z311a). 

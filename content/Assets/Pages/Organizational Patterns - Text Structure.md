@@ -5,9 +5,9 @@ tags:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/organizational-patterns---text-structure"
+gh-published-url: https://bnleez1.github.io/PKM/assets/pages/organizational-patterns---text-structure
+banner: https://wallpapers.com/images/hd/nature-landscape-pictures-hg4ndx87jp1rsvth.jpg
 ---
-
 # Organizational Patterns - Text Structure
 
 [Thesis Seminar: Reasoning Patterns](https://www.youtube.com/watch?v=5SsPgYJy5gM)[Thesis Seminar: Reasoning Patterns - Notes](../Weblinks/Thesis%20Seminar%20Reasoning%20Patterns.md)

@@ -5,9 +5,9 @@ tags:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/types-of-body-paragraphs"
+gh-published-url: https://bnleez1.github.io/PKM/assets/pages/types-of-body-paragraphs
+banner: https://wallpapercave.com/wp/wp2506838.jpg
 ---
-
 # Types of body paragraphs
 
 
