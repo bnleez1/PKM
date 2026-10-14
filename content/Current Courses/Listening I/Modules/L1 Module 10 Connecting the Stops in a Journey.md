@@ -89,3 +89,13 @@ CAADI Worksheet 10 completes the required CAADI sequence. Apply gist listening, 
 > [!goal]- 📄 [[Monday, October 12, 2026]]
 >
 > > 1. Midterm Listening Exam 2 (optional)
+
+
+> [!goal]- 📄 [[Tuesday, October 13, 2026]]
+>
+> > Audio and [03_Student_Handout_Tuesday.docx](https://eduuaa.sharepoint.com/:w:/s/ListeningI2026/IQAFniXVBY46Sb1HNTm-rlUyARsu4-hL90nytnyKeQFwcv0?e=zzIWth) 
+
+> [!goal]- 📄 [[Wednesday, October 14, 2026]]
+>
+> > 2. Audio and [03_Student_Handout_Wednesday.docx](https://eduuaa.sharepoint.com/:w:/s/ListeningI2026/IQDseEH1YCevS54iNtRGDS0_AXUwyAxytuxzPv6sM-wWKYA?e=1FnvoD) 
+

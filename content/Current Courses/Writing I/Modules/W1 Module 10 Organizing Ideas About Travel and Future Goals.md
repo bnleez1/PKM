@@ -13,7 +13,7 @@ gh-published-url: https://bnleez1.github.io/PKM/current-courses/writing-i/module
 ---
 [[W1 Module 09 Describing Sports and Physical Activities]]
 [[W1 Module 11 Improving Coherence and Word Choice]]
-# W1 Module 10: Organizing Ideas About Travel and Future Goals - testing
+# W1 Module 10: Organizing Ideas About Travel and Future Goals 
 [[W1 Module 10 Note]]
 
 ⚡️ Using addition, contrast, and sequence in expository and descriptive writing

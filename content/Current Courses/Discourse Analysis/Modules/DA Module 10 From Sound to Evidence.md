@@ -108,7 +108,7 @@ Return to **Paltridge, Chapter 5, sections 5.4, “Preference organization,” a
 > [!goal]- 📄 [[Wednesday, October 14, 2026]]
 >
 > > 1.  Review [[Types of Talk]] and [[**H. P. Grice's Cooperative Principle**]].
-> > 2. Complete handout.
+> > 2. Complete [Week 10 Types of Talk Student Handout.docx](https://eduuaa.sharepoint.com/:w:/s/DiscourseAnalysis2026/IQBkIR0ANkP7T40zXR1kQesTARBHO940fF944iYo4tLd4Ss?e=sed9Zj). 
 
 
 
