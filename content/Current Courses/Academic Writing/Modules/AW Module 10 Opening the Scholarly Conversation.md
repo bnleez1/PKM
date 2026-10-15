@@ -108,8 +108,7 @@ The second part of the week should move from practice to production. Students us
 
 
 > [!goal]- 📄 [[Wednesday, October 14, 2026]]
-
-> [!important] Important
+> > [!important] Important
 > If you have not done so already, submit your final annotated bibliograph assignment by the end of today: [View assignment: "Annotated Bibliography"](https://teams.microsoft.com/l/entity/66aeee93-507d-479a-a3ef-8f494af43945/classroom?context=%7B%22subEntityId%22%3A%22%7B%5C%22version%5C%22%3A%5C%221.0%5C%22%2C%5C%22config%5C%22%3A%7B%5C%22classes%5C%22%3A%5B%7B%5C%22id%5C%22%3A%5C%2239f633ab-3460-4d68-ab5d-8d9a79ab08b8%5C%22%2C%5C%22assignmentIds%5C%22%3A%5B%5C%223e90927b-160d-4b11-82d4-38cab79d44bc%5C%22%5D%7D%5D%7D%2C%5C%22action%5C%22%3A%5C%22navigate%5C%22%2C%5C%22view%5C%22%3A%5C%22assignment-viewer%5C%22%2C%5C%22appId%5C%22%3A%5C%22ccb65bcd-04ba-421a-8791-a299a70904b6%5C%22%2C%5C%22deeplinkType%5C%22%3A4%7D%22%2C%22channelId%22%3Anull%7D). 
 >
 > > 1. Complete annotative bibliography and submit to Teams.

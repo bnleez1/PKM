@@ -35,15 +35,10 @@ gh-published-url: https://bnleez1.github.io/PKM/current-courses/writing-i/module
 ## Learning outcomes
 
 - Distinguish addition, contrast, and sequence relationships.
-
 - Use basic connectors accurately within and between sentences.
-
 - Organize travel or future-goal ideas in a map or table.
-
 - Write a focused expository or descriptive paragraph.
-
 - Use models and reference resources to verify language choices.
-
 ## Key concepts and vocabulary
 
 | **Term**                 | **Working definition**                                       |
