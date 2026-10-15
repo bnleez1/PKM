@@ -15,6 +15,7 @@ gh-published-url: https://bnleez1.github.io/PKM/current-courses/academic-writing
 [[AW Module 11 Comparing, Contrasting, and Interpreting]]
 # Chapter 10: Opening the Scholarly Conversation
 
+
 ⚡️ Drafting the introduction and first thematic section of the literature review
 
 > The opening of a literature review must orient the reader without delaying the argument. It establishes the context, identifies the problem, defines the scope, explains the organizing principle, and presents a central claim that the body can develop. This week students draft and workshop that introduction, then write the first thematic section by combining evidence from multiple sources. The transition from introduction to body is crucial: the first section should not feel like a new paper, and the introduction should not promise themes that never appear. Paragraphs in the thematic section will include clear topic sentences, integrated evidence, analysis, and transitions. The purpose is to begin synthesis immediately, showing how sources relate to one another and how their relationship supports the review’s central interpretation.
