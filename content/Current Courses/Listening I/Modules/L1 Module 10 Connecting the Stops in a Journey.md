@@ -99,3 +99,13 @@ CAADI Worksheet 10 completes the required CAADI sequence. Apply gist listening, 
 >
 > > Audio and [03_Student_Handout_Wednesday.docx](https://eduuaa.sharepoint.com/:w:/s/ListeningI2026/IQDseEH1YCevS54iNtRGDS0_AXUwyAxytuxzPv6sM-wWKYA?e=1FnvoD) 
 
+> [!goal]- 📄 [[Thursday, October 15, 2026]]
+>
+> > Audio and [03_Student_Handout_Thursday.docx](https://eduuaa.sharepoint.com/:w:/s/ListeningI2026/IQCalFoc4CsbT66jb7yapXrNATEeJq8WbaG-jinlOIo7Sus?e=zOkEgG). 
+
+
+> [!goal]- 📄 [[Friday, October 16, 2026]]
+>
+> > 
+
+

@@ -15,7 +15,6 @@ gh-published-url: https://bnleez1.github.io/PKM/current-courses/academic-writing
 [[AW Module 11 Comparing, Contrasting, and Interpreting]]
 # Chapter 10: Opening the Scholarly Conversation
 
-
 ⚡️ Drafting the introduction and first thematic section of the literature review
 
 > The opening of a literature review must orient the reader without delaying the argument. It establishes the context, identifies the problem, defines the scope, explains the organizing principle, and presents a central claim that the body can develop. This week students draft and workshop that introduction, then write the first thematic section by combining evidence from multiple sources. The transition from introduction to body is crucial: the first section should not feel like a new paper, and the introduction should not promise themes that never appear. Paragraphs in the thematic section will include clear topic sentences, integrated evidence, analysis, and transitions. The purpose is to begin synthesis immediately, showing how sources relate to one another and how their relationship supports the review’s central interpretation.
@@ -23,31 +22,22 @@ gh-published-url: https://bnleez1.github.io/PKM/current-courses/academic-writing
 ## Essential Questions
 
 1. How can an introduction prepare readers for a literature review’s scope, organization, and argument?
-
 2. What makes a thematic section genuinely synthetic rather than source-by-source?
 
 ## Guiding Questions
 
 1. What context is necessary to understand the problem without making the introduction too broad?
-
 2. How should the organizing principle and central claim be stated?
-
 3. How can evidence from several sources be integrated within one paragraph?
-
 4. What transitions connect the first thematic section to the larger review?
 
 ## Learning outcomes
 
 - Draft an introduction containing context, problem, scope, organizing principle, and central claim.
-
 - Check alignment between the introduction and planned body sections.
-
 - Write a first thematic section with clear section and paragraph claims.
-
 - Integrate evidence from multiple sources with accurate attribution and analysis.
-
 - Use transitions to connect paragraphs, sections, and the central thesis.
-
 ## Key concepts and vocabulary
 
 | **Term**                  | **Working definition**                                                             |
@@ -108,7 +98,7 @@ A productive learning sequence for this chapter begins with a diagnostic respons
 The second part of the week should move from practice to production. Students use the guiding questions—“What context is necessary to understand the problem without making the introduction too broad?” and “How should the organizing principle and central claim be stated?”—as checkpoints while working toward the stated outcomes, especially the ability to draft an introduction containing context, problem, scope, organizing principle, and central claim and to check alignment between the introduction and planned body sections. A brief peer conference should focus on one high-impact feature rather than attempting to correct everything at once. Students then revise, annotate the evidence of their decision-making, and complete the week’s deliverable: Workshopped literature-review introduction and first thematic section. The final five minutes of class can be used for an exit reflection identifying one decision the writer can now justify and one question that must be carried into the next chapter.
 
 
-> [!goal]- 📄 [[Wednesday, October 14, 2026]]
+> [!goal]- 📄 [[Wednesday, October 14, 2026]] | [[Thursday, October 15, 2026]] | [[Friday, October 16, 2026]]
 > > [!important] Important
 > If you have not done so already, submit your final annotated bibliograph assignment by the end of today: [View assignment: "Annotated Bibliography"](https://teams.microsoft.com/l/entity/66aeee93-507d-479a-a3ef-8f494af43945/classroom?context=%7B%22subEntityId%22%3A%22%7B%5C%22version%5C%22%3A%5C%221.0%5C%22%2C%5C%22config%5C%22%3A%7B%5C%22classes%5C%22%3A%5B%7B%5C%22id%5C%22%3A%5C%2239f633ab-3460-4d68-ab5d-8d9a79ab08b8%5C%22%2C%5C%22assignmentIds%5C%22%3A%5B%5C%223e90927b-160d-4b11-82d4-38cab79d44bc%5C%22%5D%7D%5D%7D%2C%5C%22action%5C%22%3A%5C%22navigate%5C%22%2C%5C%22view%5C%22%3A%5C%22assignment-viewer%5C%22%2C%5C%22appId%5C%22%3A%5C%22ccb65bcd-04ba-421a-8791-a299a70904b6%5C%22%2C%5C%22deeplinkType%5C%22%3A4%7D%22%2C%22channelId%22%3Anull%7D). 
 >
