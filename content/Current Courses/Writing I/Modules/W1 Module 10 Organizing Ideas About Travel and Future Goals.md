@@ -106,4 +106,6 @@ Choose either a travel destination or a future goal. Create a map or table that 
 > > 1. One wants to try something new.
 > > 2. One wants opportunities to talk with others.
 > > 3. One needs to be home by 6:00 PM.
-> > Task: Write a 140-160-word paragraph to recommend on place and/or activity that suits them and submit your work to 
+> > Task: Write a 140-160-word paragraph to recommend on place and/or activity that suits them and submit your work to [View assignment: "Week 10 Paragraph"](https://teams.microsoft.com/l/entity/66aeee93-507d-479a-a3ef-8f494af43945/classroom?context=%7B%22subEntityId%22%3A%22%7B%5C%22version%5C%22%3A%5C%221.0%5C%22%2C%5C%22config%5C%22%3A%7B%5C%22classes%5C%22%3A%5B%7B%5C%22id%5C%22%3A%5C%22324466aa-9333-4869-aa38-7df952a18d0b%5C%22%2C%5C%22assignmentIds%5C%22%3A%5B%5C%2205dd227a-4076-4977-9e05-b66d2ce7de08%5C%22%5D%7D%5D%7D%2C%5C%22action%5C%22%3A%5C%22navigate%5C%22%2C%5C%22view%5C%22%3A%5C%22assignment-viewer%5C%22%2C%5C%22appId%5C%22%3A%5C%22ccb65bcd-04ba-421a-8791-a299a70904b6%5C%22%2C%5C%22deeplinkType%5C%22%3A4%7D%22%2C%22channelId%22%3Anull%7D). 
+
+
