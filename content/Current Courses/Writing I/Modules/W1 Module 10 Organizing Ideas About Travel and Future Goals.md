@@ -100,3 +100,10 @@ Choose either a travel destination or a future goal. Create a map or table that 
 > > 3. One needs to be home by 6:00 PM.
 > > Task: Write a 140-160-word paragraph to recommend on place and/or activity that suits them.
 
+> [!goal]- 📄 [[Friday, October 16, 2026]]
+> > Mission: Recommend one afternoon outing, explain your reasons, and identify information you still need to check.
+> > Situation: Three classmates, friends, or family members want to spend the afternoon together.  They each have different needs:
+> > 1. One wants to try something new.
+> > 2. One wants opportunities to talk with others.
+> > 3. One needs to be home by 6:00 PM.
+> > Task: Write a 140-160-word paragraph to recommend on place and/or activity that suits them and submit your work to 
