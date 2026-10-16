@@ -92,6 +92,7 @@ export default (() => {
         <link rel="icon" href={iconPath} />
         <meta name="description" content={description} />
         <meta name="generator" content="Quartz" />
+        {fileData.unlisted === true && <meta name="robots" content="noindex, nofollow" />}
 
         {css.map((resource) => CSSResourceToStyleElement(resource, true))}
         {js
