@@ -3,7 +3,7 @@ type: Module
 title: "Module 12: Choosing Strategies Without Waiting for Directions"
 status: InBox
 unit: "[Listening I Unit III: Listening Beyond Words](Listening%20I%20Unit%20III%20Listening%20Beyond%20Words.md)"
-courseS: "[[60 Public/Website/Current Courses/Listening I/index]]"
+courseS: "[[Current Courses/Listening I/index]]"
 endDate: 2026-12-17
 startDate: 2026-08-10
 banner:

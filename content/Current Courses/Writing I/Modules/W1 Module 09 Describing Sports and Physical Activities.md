@@ -3,7 +3,7 @@ type: Module
 title: "Module 09: Describing Sports and Physical Activities"
 status: InBox
 unit: "[Writing I Unit III: Detail and Clarity](Writing%20I%20Unit%20III%20Detail%20and%20Clarity.md)"
-courseS: "[[60 Public/Website/Current Courses/Writing I/index]]"
+courseS: "[[Current Courses/Writing I/index]]"
 endDate: 2026-12-17
 startDate: 2026-08-10
 banner: https://wallpapertag.com/wallpaper/full/3/b/a/150474-beautiful-nature-wallpaper-1920x1080-for-meizu.jpg

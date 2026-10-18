@@ -24,8 +24,8 @@ Course materials reflect the curriculum, technologies, assessment practices, and
 
 ### January–June
 
-- [[Writing II/index|Writing II]] — January 26–June 14, 2026
-- [[Thesis Seminar/index|Thesis Seminar]] — January 26–May 31, 2026
+- [[99 Course Archive/Writing II/index|Writing II]] — January 26–June 14, 2026
+- [[99 Course Archive/Thesis Seminar/index|Thesis Seminar]] — January 26–May 31, 2026
 
 ---
 
@@ -33,8 +33,8 @@ Course materials reflect the curriculum, technologies, assessment practices, and
 
 ### January–June
 
-- [[Academic Writing UAA Instructors/index|Academic Writing for UAA Instructors]] — intensive course beginning January 6, 2025
-- [[Grammar in Context II/index|Grammar in Context II]] — Spring 2025
+- [[99 Course Archive/Academic Writing UAA Instructors/index|Academic Writing for UAA Instructors]] — intensive course beginning January 6, 2025
+- [[99 Course Archive/Grammar in Context II/index|Grammar in Context II]] — Spring 2025
 
 ---
 
@@ -42,7 +42,7 @@ Course materials reflect the curriculum, technologies, assessment practices, and
 
 ### August–December
 
-- [[TOEFL Preparation Course/index|UAA TOEFL Preparation]] — August 29–November 28, 2024
+- [[99 Course Archive/TOEFL Preparation Course/index|UAA TOEFL Preparation]] — August 29–November 28, 2024
 
 ---
 
@@ -50,18 +50,18 @@ Course materials reflect the curriculum, technologies, assessment practices, and
 
 ### August–December
 
-- [[Class Observation/index|Class Observation]]
-- [[Teaching Workshop II/index|Teaching Workshop II]]
+- [[99 Course Archive/Class Observation/index|Class Observation]]
+- [[99 Course Archive/Teaching Workshop II/index|Teaching Workshop II]]
 
 ### January–June
 
-- [[Writing Workshop/index|Writing Workshop]] — January 23–June 16, 2023
+- [[99 Course Archive/Writing Workshop/index|Writing Workshop]] — January 23–June 16, 2023
 
 ---
 
 ## Related UAA Teaching and Service Materials
 
-- [[Servicio Social - UAA Idiomas/index|Servicio Social – UAA Idiomas]]
+- [[99 Course Archive/Servicio Social - UAA Idiomas/index|Servicio Social – UAA Idiomas]]
 
 ---
 

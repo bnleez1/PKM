@@ -3,7 +3,7 @@ type: Module
 title: "Module 07: Selecting What Matters in Food Talk"
 status: InBox
 unit: "[Listening I Unit II: Listening with Purpose](Listening%20I%20Unit%20II%20Listening%20with%20Purpose.md)"
-courseS: "[[60 Public/Website/Current Courses/Listening I/index]]"
+courseS: "[[Current Courses/Listening I/index]]"
 endDate: 2026-12-17
 startDate: 2026-08-10
 banner: https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.pexels.com%2Fphotos%2F1092730%2Fpexels-photo-1092730.jpeg%3Fcs%3Dsrgb%26dl%3Dpexels-janetrangdoan-1092730.jpg%26fm%3Djpg&f=1&nofb=1&ipt=b3bd6d4170293b65665e1063d064e290401f3a2c2211b0b83cbd1cc4dd838be0

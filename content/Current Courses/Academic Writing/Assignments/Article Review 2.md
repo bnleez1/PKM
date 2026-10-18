@@ -2,7 +2,7 @@
 type: Assignment
 title: Article Review 2
 courseS:
-  - "[[60 Public/Website/Current Courses/Academic Writing/index]]"
+  - "[[Current Courses/Academic Writing/index]]"
 status: "[[Done]]"
 banner: https://www.ourmindfullife.com/wp-content/uploads/2023/11/Wooden-path-in-nature-coloring-page_original.jpg
 gh-publish: true

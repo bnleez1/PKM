@@ -12,7 +12,7 @@ gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/academic-writing-(
 # Academic Writing (Literature Review) Rubric
 
 
-This writing rubric was designed for [[60 Public/Website/Current Courses/Academic Writing/index]].
+This writing rubric was designed for [[Current Courses/Academic Writing/index]].
 
 [[UAA_Lit_Review_Rubric_v4|UAA_Lit_Review_Rubric_v4 - Notes]]
 

@@ -4,7 +4,7 @@ title: "Module 06: Positioning the Writer and Reader"
 date: 2026-09-14T00:00:00.000Z -> 2026-09-20T00:00:00.000Z
 status: InBox
 unit: "[Discourse Analysis Unit II: Making Meaning in Text](Discourse%20Analysis%20Unit%20II%20Making%20Meaning%20in%20Text.md)"
-courseS: "[[60 Public/Website/Current Courses/Discourse Analysis/index]]"
+courseS: "[[Current Courses/Discourse Analysis/index]]"
 banner: https://wallup.net/wp-content/uploads/2016/01/200876-nature-landscape-water.jpg
 gh-publish: true
 gh-path: content/Current Courses/Discourse Analysis/Modules
@@ -125,7 +125,7 @@ gh-published-url: "https://bnleez1.github.io/PKM/current-courses/discourse-analy
 > - modality expresses possibility, necessity, obligation, willingness, or related meanings.
 
 > [!exercise]- 📄 Text 2: Changing Study Habits
-> [[60 Public/Website/Assets/Pages/Example Texts_170920260659]]
+> [[Assets/Pages/Example Texts_170920260659]]
 > 
 >
 > > [!question]- Analysis Focus

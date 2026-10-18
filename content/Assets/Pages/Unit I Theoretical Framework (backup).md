@@ -85,7 +85,7 @@ Draft a theoretical framework in support of a recent research project to be publ
 
         - **Equipment**: I would recommend bringing a laptop computer, tablet, or iPad to class, making sure you have access to the internet.
 
-        - Review educational technologies: tour of [virtual classroom](https://aulavirtual.uaa.mx/course/view.php?id=7372), [[60 Public/Website/99 Course Archive/Academic Writing UAA Instructors/index]], and [Microsoft Teams](https://teams.microsoft.com/l/team/19%3ASzSBnoxFFPvWixwVLcg_sXSBCqAZbiJA-QXhUMomyCo1%40thread.tacv2/conversations?groupId=65ea533b-c435-44a8-8a0f-30d675eed145&tenantId=e1e2e292-21d6-4849-b710-4d47d9578ad0).
+        - Review educational technologies: tour of [virtual classroom](https://aulavirtual.uaa.mx/course/view.php?id=7372), [[99 Course Archive/Academic Writing UAA Instructors/index]], and [Microsoft Teams](https://teams.microsoft.com/l/team/19%3ASzSBnoxFFPvWixwVLcg_sXSBCqAZbiJA-QXhUMomyCo1%40thread.tacv2/conversations?groupId=65ea533b-c435-44a8-8a0f-30d675eed145&tenantId=e1e2e292-21d6-4849-b710-4d47d9578ad0).
 
         - Review [syllabus](https://aulavirtual.uaa.mx/pluginfile.php/316292/mod_resource/content/1/Programa%20EAI.pdf) found in the virtual classroom.
 
@@ -99,7 +99,7 @@ Draft a theoretical framework in support of a recent research project to be publ
 
     2. To get started, review the following:
 
-        - **Originality score**: Review [Embracing one’s originality and process in academic writing: A guide for English language learners](Embracing%20one’s%20originality%20and%20process%20in%20academic%20writing%20A%20guide%20for%20English.md) and [ELT Cast 126: How to increase one’s originality score when writing an academic text](../PodcastEpisodes/ELT%20Cast%20126%20How%20to%20increase%20one%E2%80%99s%20originality%20score%20when%20writing%20an%20academic%20t.md) to see my stance on self-expression and human-generated text. I always come from a place of support when assisting you find your original voice when it comes to self-expression through the written word.
+        - **Originality score**: Review [Embracing one’s originality and process in academic writing: A guide for English language learners](Embracing%20one%E2%80%99s%20originality%20and%20process%20in%20academic%20writing%20A%20guide%20for%20English.md) and [ELT Cast 126: How to increase one’s originality score when writing an academic text](../PodcastEpisodes/ELT%20Cast%20126%20How%20to%20increase%20one%E2%80%99s%20originality%20score%20when%20writing%20an%20academic%20t.md) to see my stance on self-expression and human-generated text. I always come from a place of support when assisting you find your original voice when it comes to self-expression through the written word.
 
             - Explain originality scores: [[Originality score example]]
 
@@ -166,7 +166,7 @@ Draft a theoretical framework in support of a recent research project to be publ
 
     - [[Types of transitions]]
 
-    - [Mastering sentence types: A guide to simple, compound, complex, and compound-complex sentences](Mastering%20sentence%20types%20A%20guide%20to%20simple,%20compound,%20complex,%20and%20compound-com.md)
+    - [Mastering sentence types: A guide to simple, compound, complex, and compound-complex sentences](Mastering%20sentence%20types%20A%20guide%20to%20simple%2C%20compound%2C%20complex%2C%20and%20compound-com.md)
 
     - [[(In)Appropriate language when writing an academic text]]
 
@@ -232,7 +232,7 @@ Draft a theoretical framework in support of a recent research project to be publ
 
     - Discuss using [[Demonstratives]] sparingly.
 
-    - Discuss formatting references (APA, etc.): [[06 Sources/Web/Formatting Word According to APA]].
+    - Discuss formatting references (APA, etc.): [[raw/sources/web/Formatting Word According to APA]].
 
     - Work on  
 

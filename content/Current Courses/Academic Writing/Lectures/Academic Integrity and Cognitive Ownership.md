@@ -3,7 +3,7 @@ type: Lecture
 title: Academic Integrity and Cognitive Ownership
 status: "[[Planning]]"
 banner: https://images4.alphacoders.com/104/10414.jpg
-courseS: "[[60 Public/Website/Current Courses/Academic Writing/index]]"
+courseS: "[[Current Courses/Academic Writing/index]]"
 module:
   - "[AW-Module 1: Academic Integrity and Cognitive Ownership](../Modules/AW%20Module%2001%20Academic%20Integrity%20and%20Cognitive%20Ownership.md)"
 gh-publish: true
@@ -12,7 +12,7 @@ gh-published-url: "https://bnleez1.github.io/PKM/current-courses/academic-writin
 ---
 # Academic Integrity and Cognitive Ownership
 
-**Course:** [[60 Public/Website/Current Courses/Academic Writing/index]]
+**Course:** [[Current Courses/Academic Writing/index]]
 
 **Weekly Module:** [AW-Module 1: Academic Integrity and Cognitive Ownership](../Modules/AW%20Module%2001%20Academic%20Integrity%20and%20Cognitive%20Ownership.md)
 

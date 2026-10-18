@@ -3,7 +3,7 @@ type: Module
 title: "Module 06: Hearing Preferences, Opinions, and Order"
 status: "[[In Progress]]"
 unit: "[Listening I Unit II: Listening with Purpose](Listening%20I%20Unit%20II%20Listening%20with%20Purpose.md)"
-courseS: "[[60 Public/Website/Current Courses/Listening I/index]]"
+courseS: "[[Current Courses/Listening I/index]]"
 endDate: 2026-12-17
 startDate: 2026-08-10
 banner: https://wallup.net/wp-content/uploads/2016/01/111509-landscape-nature.jpg

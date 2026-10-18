@@ -3,7 +3,7 @@ type: Module
 title: "Module 10: From Sound to Evidence"
 status: InBox
 unit: "[Discourse Analysis Unit III: Meaning in Interaction](Discourse%20Analysis%20Unit%20III%20Meaning%20in%20Interaction.md)"
-courseS: "[[60 Public/Website/Current Courses/Discourse Analysis/index]]"
+courseS: "[[Current Courses/Discourse Analysis/index]]"
 endDate: 2026-12-17
 startDate: 2026-08-10
 banner: https://cdn.wallpapersafari.com/12/75/wTFhKm.jpg

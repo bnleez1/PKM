@@ -1,7 +1,7 @@
 ---
 type: Unit
 title: "Discourse Analysis Unit I: Foundations: Text, Context, and History"
-courseS: "[[60 Public/Website/Current Courses/Discourse Analysis/index]]"
+courseS: "[[Current Courses/Discourse Analysis/index]]"
 order: 1
 endDate: 2026-12-17
 startDate: 2026-08-10

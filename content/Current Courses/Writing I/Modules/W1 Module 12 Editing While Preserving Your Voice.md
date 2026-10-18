@@ -3,7 +3,7 @@ type: Module
 title: "Module 12: Editing While Preserving Your Voice"
 status: InBox
 unit: "[Writing I Unit III: Detail and Clarity](Writing%20I%20Unit%20III%20Detail%20and%20Clarity.md)"
-courseS: "[[60 Public/Website/Current Courses/Writing I/index]]"
+courseS: "[[Current Courses/Writing I/index]]"
 endDate: 2026-12-17
 startDate: 2026-08-10
 banner:

@@ -3,7 +3,7 @@ type: Module
 title: "Module 03: Finding Your Way Through Campus Talk"
 status: InBox
 unit: "[Listening I Unit I: Building a Foundation](Listening%20I%20Unit%20I%20Building%20a%20Foundation.md)"
-courseS: "[[60 Public/Website/Current Courses/Listening I/index]]"
+courseS: "[[Current Courses/Listening I/index]]"
 endDate: 2026-12-17
 startDate: 2026-08-10
 banner:

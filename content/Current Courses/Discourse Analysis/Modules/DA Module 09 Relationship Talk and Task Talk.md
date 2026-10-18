@@ -3,7 +3,7 @@ type: Module
 title: "Module 09: Relationship Talk and Task Talk"
 status: InBox
 unit: "[Discourse Analysis Unit III: Meaning in Interaction](Discourse%20Analysis%20Unit%20III%20Meaning%20in%20Interaction.md)"
-courseS: "[[60 Public/Website/Current Courses/Discourse Analysis/index]]"
+courseS: "[[Current Courses/Discourse Analysis/index]]"
 endDate: 2026-12-17
 startDate: 2026-08-10
 banner: https://img.magnific.com/premium-photo/nature-wallpaper-beautiful-nature-wallpaper-4k-nature-wallpapers-hd-nature-wallpaper-green-nature_722194-215.jpg?w=2000

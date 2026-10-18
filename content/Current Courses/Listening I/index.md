@@ -79,4 +79,4 @@ To get started, review the following:
 - Install [Ámbito Académico UAA App](https://appadvice.com/app/c3-a1mbito-acad-c3-a9mico-uaa/1052247447) if you want to use the mobile app on your phone.
 
 
-[[../../index|← Return to Course Resources]]
+[[index|← Return to Course Resources]]

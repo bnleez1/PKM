@@ -3,7 +3,7 @@ type: Module
 title: "Module 08: Revising with Evidence"
 status: InBox
 unit: "[Writing I Unit II: Everyday Experiences](Writing%20I%20Unit%20II%20Everyday%20Experiences.md)"
-courseS: "[[60 Public/Website/Current Courses/Writing I/index]]"
+courseS: "[[Current Courses/Writing I/index]]"
 endDate: 2026-12-17
 startDate: 2026-08-10
 banner: https://wallpapercave.com/wp/wp8982301.jpg

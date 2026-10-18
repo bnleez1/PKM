@@ -158,7 +158,7 @@ By keeping these rules and tips in mind, you’ll be able to navigate the comple
 
 ## Subject-verb agreement with correlative conjunctions
 
-See [Understanding Conjunctions: A Guide for English Language](../Pages/Understanding%20Conjunctions%20A%20Guide%20for%20English%20Language.md).
+See [Understanding Conjunctions: A Guide for English Language](Understanding%20Conjunctions%20A%20Guide%20for%20English%20Language.md).
 
 Subject-verb agreement, a fundamental principle of grammar, dictates that a verb must agree in number (singular or plural) with its subject. While usually straightforward, this rule becomes trickier when using correlative conjunctions. Correlative conjunctions are pairs of words that connect words, phrases, or clauses of equal grammatical rank. Common examples include:
 

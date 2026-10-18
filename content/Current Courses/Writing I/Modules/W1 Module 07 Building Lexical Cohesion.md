@@ -3,7 +3,7 @@ type: Module
 title: "Module 07: Building Lexical Cohesion"
 status: InBox
 unit: "[Writing I Unit II: Everyday Experiences](Writing%20I%20Unit%20II%20Everyday%20Experiences.md)"
-courseS: "[[60 Public/Website/Current Courses/Writing I/index]]"
+courseS: "[[Current Courses/Writing I/index]]"
 endDate: 2026-12-17
 startDate: 2026-08-10
 banner: https://i.pinimg.com/originals/77/61/34/776134d7a006f61002d27271041734a3.jpg

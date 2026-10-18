@@ -25,7 +25,7 @@ gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/transitioning-from
 
 - [[(In)Appropriate language when writing an academic text]]
 
-- [Why avoid “very”?](Why%20avoid%20“very”.md)
+- [Why avoid “very”?](Why%20avoid%20%E2%80%9Cvery%E2%80%9D.md)
 
 - [[Acceptable fonts (APA, 7th edition)]]
 
@@ -33,7 +33,7 @@ gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/transitioning-from
 
 # Formatting Word
 
-[Formatting Word according to APA](https://www.youtube.com/watch?v=3I0fr03UqEM)[[06 Sources/Web/Formatting Word According to APA|Formatting Word according to APA - Notes]]
+[Formatting Word according to APA](https://www.youtube.com/watch?v=3I0fr03UqEM)[[raw/sources/web/Formatting Word According to APA|Formatting Word according to APA - Notes]]
 
 # Video Archive (Formatting)
 

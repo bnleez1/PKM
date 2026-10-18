@@ -16,7 +16,7 @@ gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/uaa-language-depar
 ### Under revision - [ELT Plagiarism Policy 2026_040520261345.docx - Shared with pCloud](../Weblinks/ELT%20Plagiarism%20Policy%202026_040520261345docx%20-%20Shared%20with%20pCloud.md) 
 
 
-💡 The following plagiarism policy originates from the language department of the UAA. See also [Plagiarism: The copycat crime in academia and beyond (APA)](Plagiarism%20The%20copycat%20crime%20in%20academia%20and%20beyond%20(APA).md) and [[The Nuñez Arancibia Case and others related to plagiarism]].
+💡 The following plagiarism policy originates from the language department of the UAA. See also [Plagiarism: The copycat crime in academia and beyond (APA)](Plagiarism%20The%20copycat%20crime%20in%20academia%20and%20beyond%20%28APA%29.md) and [[The Nuñez Arancibia Case and others related to plagiarism]].
 
 # What is plagiarism?
 

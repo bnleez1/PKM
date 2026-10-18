@@ -1,7 +1,7 @@
 ---
 type: Unit
 title: Writing II Unit II - Expository Essay
-courseS: "[[60 Public/Website/99 Course Archive/Writing II/index]]"
+courseS: "[[99 Course Archive/Writing II/index]]"
 order: 2
 banner:
 gh-publish: true

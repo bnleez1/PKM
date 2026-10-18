@@ -19,7 +19,7 @@ gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/how-to-format-head
 # How to format headings according to APA
 
 
-💡 See also [How to format your academic paper in APA style (7th edition) using Microsoft Word](How%20to%20format%20your%20academic%20paper%20in%20APA%20style%20(7th%20edition)%20using%20Microsoft%20Wor.md).
+💡 See also [How to format your academic paper in APA style (7th edition) using Microsoft Word](How%20to%20format%20your%20academic%20paper%20in%20APA%20style%20%287th%20edition%29%20using%20Microsoft%20Wor.md).
 
 # Format headings according to APA
 

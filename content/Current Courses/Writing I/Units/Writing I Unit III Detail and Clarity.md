@@ -1,7 +1,7 @@
 ---
 type: Unit
 title: "Writing I Unit III: Detail and Clarity"
-courseS: "[[60 Public/Website/Current Courses/Writing I/index]]"
+courseS: "[[Current Courses/Writing I/index]]"
 order: 3
 endDate: 2026-12-17
 startDate: 2026-08-10

@@ -4,7 +4,7 @@ tags:
   - GenAI
   - Research
 subject:
-  - "[[60 Public/Website/Current Courses/Academic Writing/index]]"
+  - "[[Current Courses/Academic Writing/index]]"
 formalDefinition:
 relatedTerms: []
 pages:

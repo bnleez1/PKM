@@ -3,7 +3,7 @@ type: Module
 title: "Module 13: Building a Unified Body"
 status: InBox
 unit: "[[Academic Writing Unit IV]]"
-courseS: "[[60 Public/Website/Current Courses/Academic Writing/index]]"
+courseS: "[[Current Courses/Academic Writing/index]]"
 endDate: 2026-12-17
 startDate: 2026-08-10
 banner:

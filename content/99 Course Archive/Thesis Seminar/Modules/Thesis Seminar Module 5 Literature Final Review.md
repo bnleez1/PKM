@@ -11,7 +11,7 @@ subject: "[[Thesis Seminar]]"
 chapterWeek:
 coverImage:
 unit:
-prior: "[Thesis Seminar Module 4:  Assembling Your Literature Review — Logic, Completeness, and Analysis](Thesis%20Seminar%20Module%204%20%20Assembling%20Your%20Literature%20Review%20—%20Logic,%20Completenes.md)"
+prior: "[Thesis Seminar Module 4:  Assembling Your Literature Review — Logic, Completeness, and Analysis](Thesis%20Seminar%20Module%204%20%20Assembling%20Your%20Literature%20Review%20%E2%80%94%20Logic%2C%20Completenes.md)"
 next: "[Thesis Seminar Module 6: Method I](Thesis%20Seminar%20Module%206%20Method%20I.md)"
 reading:
 bookTitle:

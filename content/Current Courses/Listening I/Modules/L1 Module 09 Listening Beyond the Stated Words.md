@@ -3,7 +3,7 @@ type: Module
 title: "Module 09: Listening Beyond the Stated Words"
 status: InBox
 unit: "[Listening I Unit III: Listening Beyond Words](Listening%20I%20Unit%20III%20Listening%20Beyond%20Words.md)"
-courseS: "[[60 Public/Website/Current Courses/Listening I/index]]"
+courseS: "[[Current Courses/Listening I/index]]"
 endDate: 2026-12-17
 startDate: 2026-08-10
 banner: https://cdn.creativefabrica.com/2023/07/17/fantasy-nature-wallpaper-Graphics-74759259-1.jpg

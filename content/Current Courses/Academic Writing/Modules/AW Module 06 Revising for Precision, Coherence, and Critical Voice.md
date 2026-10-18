@@ -3,7 +3,7 @@ type: Module
 title: "Module 06: Revising for Precision, Coherence, and Critical Voice"
 status: InBox
 unit: "[[Academic Writing Unit II]]"
-courseS: "[[60 Public/Website/Current Courses/Academic Writing/index]]"
+courseS: "[[Current Courses/Academic Writing/index]]"
 endDate: 2026-12-17
 startDate: 2026-08-10
 banner: https://cdn.pixabay.com/photo/2022/09/27/19/44/ai-generated-7483569_1280.jpg

@@ -3,7 +3,7 @@ type: Module
 title: "Module 08: The Architecture of Conversation"
 status: InBox
 unit: "[Discourse Analysis Unit III: Meaning in Interaction](Discourse%20Analysis%20Unit%20III%20Meaning%20in%20Interaction.md)"
-courseS: "[[60 Public/Website/Current Courses/Discourse Analysis/index]]"
+courseS: "[[Current Courses/Discourse Analysis/index]]"
 endDate: 2026-12-17
 startDate: 2026-08-10
 banner: https://wallpaperaccess.com/full/2432640.jpg

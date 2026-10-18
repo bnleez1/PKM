@@ -18,7 +18,7 @@ gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/how-to-format-your
 
 # How to format your academic paper in APA style (7th edition) using Microsoft Word
 
-[Formatting Word According to APA](https://www.youtube.com/watch?v=NdDAVu0yANQ)[[06 Sources/Web/Formatting Word According to APA|Formatting Word According to APA - Notes]]
+[Formatting Word According to APA](https://www.youtube.com/watch?v=NdDAVu0yANQ)[[raw/sources/web/Formatting Word According to APA|Formatting Word According to APA - Notes]]
 
 APA style is a common format for academic writing, especially in the social sciences. To format an academic text in Microsoft Word according to APA, you need to follow these steps:
 

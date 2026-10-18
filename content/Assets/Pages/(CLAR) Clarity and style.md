@@ -27,7 +27,7 @@ In formal writing, clarity and persuasion are paramount. While factual accuracy 
 
 - **Active Voice:** Opt for active voice to place the subject, the doer of the action, at the sentence’s forefront. This imbues the subject with agency and emphasizes its role. (“**The research** conclusively demonstrates…” vs. “It is conclusively demonstrated by the research…”)
 
-- **Active Verbs:** Choose verbs that precisely and powerfully convey the action. A stative verb like “is” can be replaced with a more nuanced option (“suggests,” “reveals,” “establishes”). See [[Dynamic verbs]] and [Stative verbs: Expressing states, not actions](../Pages/Stative%20verbs%20Expressing%20states,%20not%20actions.md).
+- **Active Verbs:** Choose verbs that precisely and powerfully convey the action. A stative verb like “is” can be replaced with a more nuanced option (“suggests,” “reveals,” “establishes”). See [[Dynamic verbs]] and [Stative verbs: Expressing states, not actions](Stative%20verbs%20Expressing%20states%2C%20not%20actions.md).
 
 - **Specificity:** Use specific nouns and verbs instead of vague generalizations. This adds concreteness and lends weight to your points. (“**The economic downturn**…” vs. “Things are not good with the economy…”)
 

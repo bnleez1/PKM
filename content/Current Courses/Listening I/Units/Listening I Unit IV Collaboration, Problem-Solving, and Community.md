@@ -1,7 +1,7 @@
 ---
 type: Unit
 title: "Listening I Unit IV: Collaboration, Problem-Solving, and Community"
-courseS: "[[60 Public/Website/Current Courses/Listening I/index]]"
+courseS: "[[Current Courses/Listening I/index]]"
 order: 4
 endDate: 2026-12-17
 startDate: 2026-08-10

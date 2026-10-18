@@ -3,7 +3,7 @@ type: Lecture
 title: "Defining Discourse Analysis: How the Focus Has Shifted Over Time"
 status: "[[InBox (idea)]]"
 banner:
-courseS: "[[60 Public/Website/Current Courses/Discourse Analysis/index]]"
+courseS: "[[Current Courses/Discourse Analysis/index]]"
 module:
   - "[DA Module 01: Entering the World of Discourse](../Modules/DA%20Module%2001%20Entering%20the%20World%20of%20Discourse.md)"
 gh-publish: true

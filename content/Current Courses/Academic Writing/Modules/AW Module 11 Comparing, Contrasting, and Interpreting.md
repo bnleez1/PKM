@@ -3,13 +3,13 @@ type: Module
 title: "Module 11: Comparing, Contrasting, and Interpreting"
 status: InBox
 unit: "[[Academic Writing Unit IV]]"
-courseS: "[[60 Public/Website/Current Courses/Academic Writing/index]]"
+courseS: "[[Current Courses/Academic Writing/index]]"
 endDate: 2026-12-17
 startDate: 2026-08-10
-banner:
+banner: https://wallpapercave.com/wp/wp6057209.jpg
 gh-publish: true
 gh-path: content/Current Courses/Academic Writing/Modules
-gh-published-url: "https://bnleez1.github.io/PKM/current-courses/academic-writing/modules/aw-module-11-comparing,-contrasting,-and-interpreting"
+gh-published-url: https://bnleez1.github.io/PKM/current-courses/academic-writing/modules/aw-module-11-comparing,-contrasting,-and-interpreting
 ---
 
 # Chapter 11: Comparing, Contrasting, and Interpreting

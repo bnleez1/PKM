@@ -2,7 +2,7 @@
 type: Assignment
 title: Unit I Initial Research Proposal
 courseS:
-  - "[[60 Public/Website/Current Courses/Academic Writing/index]]"
+  - "[[Current Courses/Academic Writing/index]]"
 status: "[[In Progress]]"
 gh-publish: true
 gh-path: content/Current Courses/Academic Writing

@@ -3,7 +3,7 @@ type: Module
 title: "Module 05: Integrating Sources and Building Arguments"
 status: InBox
 unit: "[[Academic Writing Unit II]]"
-courseS: "[[60 Public/Website/Current Courses/Academic Writing/index]]"
+courseS: "[[Current Courses/Academic Writing/index]]"
 endDate: 2026-12-17
 startDate: 2026-08-10
 banner: https://wallpapercave.com/wp/wp8819684.jpg
@@ -82,7 +82,7 @@ The second part of the week should move from practice to production. Students us
 
 ## [[Wednesday, September 9, 2026]]
 
-1. Complete [[60 Public/Website/Current Courses/Academic Writing/Assignments/Article Review 1|Article Review 1]].
+1. Complete [[Current Courses/Academic Writing/Assignments/Article Review 1|Article Review 1]].
 2. Continue [[Article Review 2]].
 ## [[Thursday, September 10, 2026]]
 

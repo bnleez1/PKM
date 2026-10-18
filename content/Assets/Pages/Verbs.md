@@ -24,7 +24,7 @@ gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/verbs"
 
     - They **climbed** the mountain.
 
-## [Stative verbs: Expressing states, not actions](Stative%20verbs%20Expressing%20states,%20not%20actions.md)**:** Verbs that describe a state of being, condition, or relation.
+## [Stative verbs: Expressing states, not actions](Stative%20verbs%20Expressing%20states%2C%20not%20actions.md)**:** Verbs that describe a state of being, condition, or relation.
 
 - Examples:
 

@@ -127,7 +127,7 @@ By following these guidelines, you can increase the likelihood of your article b
 
         - **Summary:** Learn how to use language appropriately in academic writing, including the balance between boosting (assertiveness) and hedging (caution).
 
-- [[Types of transitions]], [[Types of clauses]], [Mastering sentence types: A guide to simple, compound, complex, and compound-complex sentences](Mastering%20sentence%20types%20A%20guide%20to%20simple,%20compound,%20complex,%20and%20compound-com.md), [[Types of body paragraphs]]:
+- [[Types of transitions]], [[Types of clauses]], [Mastering sentence types: A guide to simple, compound, complex, and compound-complex sentences](Mastering%20sentence%20types%20A%20guide%20to%20simple%2C%20compound%2C%20complex%2C%20and%20compound-com.md), [[Types of body paragraphs]]:
 
     - **Summary:** These resources provide guidance on using transitions, understanding different types of clauses and sentences, and structuring body paragraphs effectively.
 

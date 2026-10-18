@@ -3,7 +3,7 @@ type: Module
 title: "Module 01: Academic Integrity and Cognitive Ownership"
 status: Ready
 unit: "[[Academic Writing Unit I]]"
-courseS: "[[60 Public/Website/Current Courses/Academic Writing/index]]"
+courseS: "[[Current Courses/Academic Writing/index]]"
 endDate: 2026-12-17
 startDate: 2026-08-10
 banner:

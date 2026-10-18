@@ -1,7 +1,7 @@
 ---
 type: Unit
 title: "Thesis Seminar Unit I: Literature Review"
-courseS: "[[60 Public/Website/99 Course Archive/Thesis Seminar/index]]"
+courseS: "[[99 Course Archive/Thesis Seminar/index]]"
 order: 1
 banner:
 gh-publish: true

@@ -1,7 +1,7 @@
 ---
 type: Unit
 title: "Thesis Seminar Unit III: Results & Discussion"
-courseS: "[[60 Public/Website/99 Course Archive/Thesis Seminar/index]]"
+courseS: "[[99 Course Archive/Thesis Seminar/index]]"
 order: 3
 banner:
 gh-publish: true

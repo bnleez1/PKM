@@ -3,7 +3,7 @@ type: Module
 title: "Module 10: Opening the Scholarly Conversation"
 status: InBox
 unit: "[[Academic Writing Unit IV]]"
-courseS: "[[60 Public/Website/Current Courses/Academic Writing/index]]"
+courseS: "[[Current Courses/Academic Writing/index]]"
 endDate: 2026-12-17
 startDate: 2026-08-10
 banner: https://wallpaperaccess.com/full/31197.jpg

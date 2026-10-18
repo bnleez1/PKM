@@ -12,7 +12,7 @@ chapterWeek:
 coverImage:
 unit:
 prior: "[Thesis Seminar Module 2: Organizing Your Sources and Refining Your Argument](Thesis%20Seminar%20Module%202%20Organizing%20Your%20Sources%20and%20Refining%20Your%20Argument.md)"
-next: "[Thesis Seminar Module 4:  Assembling Your Literature Review — Logic, Completeness, and Analysis](Thesis%20Seminar%20Module%204%20%20Assembling%20Your%20Literature%20Review%20—%20Logic,%20Completenes.md)"
+next: "[Thesis Seminar Module 4:  Assembling Your Literature Review — Logic, Completeness, and Analysis](Thesis%20Seminar%20Module%204%20%20Assembling%20Your%20Literature%20Review%20%E2%80%94%20Logic%2C%20Completenes.md)"
 reading:
 bookTitle:
 studentDeliverableS: []

@@ -3,7 +3,7 @@ title: Prompt for Finding Research Articles
 tags:
   - Research
 subject:
-  - "[[60 Public/Website/Current Courses/Academic Writing/index]]"
+  - "[[Current Courses/Academic Writing/index]]"
 formalDefinition:
 relatedTerms: []
 pages:

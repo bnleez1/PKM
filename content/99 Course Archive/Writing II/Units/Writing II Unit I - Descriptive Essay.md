@@ -1,7 +1,7 @@
 ---
 type: Unit
 title: Writing II Unit I - Descriptive Essay
-courseS: "[[60 Public/Website/99 Course Archive/Writing II/index]]"
+courseS: "[[99 Course Archive/Writing II/index]]"
 order: 1
 banner:
 gh-publish: true

@@ -3,13 +3,13 @@ type: Module
 title: "Module 11: Improving Coherence and Word Choice"
 status: InBox
 unit: "[Writing I Unit III: Detail and Clarity](Writing%20I%20Unit%20III%20Detail%20and%20Clarity.md)"
-courseS: "[[60 Public/Website/Current Courses/Writing I/index]]"
+courseS: "[[Current Courses/Writing I/index]]"
 endDate: 2026-12-17
 startDate: 2026-08-10
-banner:
+banner: https://wallpapers.com/images/hd/aesthetic-nature-dxhvdcplq0s02jat.jpg
 gh-publish: true
 gh-path: content/Current Courses/Writing I/Modules
-gh-published-url: "https://bnleez1.github.io/PKM/current-courses/writing-i/modules/w1-module-11-improving-coherence-and-word-choice"
+gh-published-url: https://bnleez1.github.io/PKM/current-courses/writing-i/modules/w1-module-11-improving-coherence-and-word-choice
 ---
 
 # W1 Module 11: Improving Coherence and Word Choice

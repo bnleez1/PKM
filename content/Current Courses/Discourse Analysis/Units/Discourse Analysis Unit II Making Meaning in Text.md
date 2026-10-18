@@ -1,7 +1,7 @@
 ---
 type: Unit
 title: "Discourse Analysis Unit II: Making Meaning in Text"
-courseS: "[[60 Public/Website/Current Courses/Discourse Analysis/index]]"
+courseS: "[[Current Courses/Discourse Analysis/index]]"
 order: 2
 endDate: 2026-12-17
 startDate: 2026-08-10

@@ -3,15 +3,16 @@ type: Module
 title: "Module 11: Recognizing English as It Is Actually Spoken"
 status: InBox
 unit: "[Listening I Unit III: Listening Beyond Words](Listening%20I%20Unit%20III%20Listening%20Beyond%20Words.md)"
-courseS: "[[60 Public/Website/Current Courses/Listening I/index]]"
+courseS: "[[Current Courses/Listening I/index]]"
 endDate: 2026-12-17
 startDate: 2026-08-10
-banner:
+banner: https://wallpapercave.com/wp/wp6876181.jpg
 gh-publish: true
 gh-path: content/Current Courses/Listening I/Modules
-gh-published-url: "https://bnleez1.github.io/PKM/current-courses/listening-i/modules/l1-module-11-recognizing-english-as-it-is-actually-spoken"
+gh-published-url: https://bnleez1.github.io/PKM/current-courses/listening-i/modules/l1-module-11-recognizing-english-as-it-is-actually-spoken
 ---
-
+[[L1 Module 10 Connecting the Stops in a Journey]]
+[[L1 Module 12 Choosing Strategies Without Waiting for Directions]]
 # L1 Module 11: Recognizing English as It Is Actually Spoken
 
 

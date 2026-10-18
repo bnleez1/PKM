@@ -2,8 +2,8 @@
 type: Module
 title: "Module 17"
 status: InBox
-unit: "[Discourse Analysis Unit IV: Discourse, Culture, and Reading](../Units/Discourse%20Analysis%20Unit%20IV%20Discourse,%20Culture,%20and%20Reading.md)"
-courseS: "[[60 Public/Website/Current Courses/Discourse Analysis/index]]"
+unit: "[Discourse Analysis Unit IV: Discourse, Culture, and Reading](../Units/Discourse%20Analysis%20Unit%20IV%20Discourse%2C%20Culture%2C%20and%20Reading.md)"
+courseS: "[[Current Courses/Discourse Analysis/index]]"
 endDate: 2026-12-17
 startDate: 2026-08-10
 banner:

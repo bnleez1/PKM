@@ -12,7 +12,7 @@ chapterWeek:
 coverImage:
 unit:
 prior: "[Thesis Seminar Module 12: Method VI](Thesis%20Seminar%20Module%2012%20Method%20VI.md)"
-next: "[Thesis Seminar Module 14: Results & Discussion II](Thesis%20Seminar%20Module%2014%20Results%20&%20Discussion%20II.md)"
+next: "[Thesis Seminar Module 14: Results & Discussion II](Thesis%20Seminar%20Module%2014%20Results%20%26%20Discussion%20II.md)"
 reading:
 bookTitle:
 studentDeliverableS: []

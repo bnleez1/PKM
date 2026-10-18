@@ -26,7 +26,7 @@ In Progress
 1 Jun 2026 - 5 Jun 2026
 
 ![Cursos de inducción](Cursos%20de%20inducción.jpg)
-[[99 Attachments/Images/Cursos de inducción|Cursos de inducción - Notes]]
+[[raw/attachments/images/Cursos de inducción|Cursos de inducción - Notes]]
 
 - Inscripciones estudiantes al curso de inducción (Responsable: Estudiantes potenciales de la UAA)
 

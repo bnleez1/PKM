@@ -52,7 +52,7 @@ Creating a literature review involves a systematic approach that includes severa
 
 - Employ keywords and boolean operators to refine your search.
 
-- Review [[60 Public/Website/Assets/Pages/EdTech Search Strategies]].
+- Review [[Assets/Pages/EdTech Search Strategies]].
 
 ### Step 3: Organize and Review the Literature
 

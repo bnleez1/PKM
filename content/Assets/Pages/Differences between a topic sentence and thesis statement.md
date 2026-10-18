@@ -21,13 +21,13 @@ A topic sentence is a sentence that introduces the main idea of a paragraph. It 
 
 1. Begin with the main clause of the sentence; that is, avoid any transitions. Transitions are better used typically as supportive sentences (i.e., evidence, analysis, linking, and summarizing sentences). See [[Types of transitions]].
 
-2. Stick to primarily simple sentences and complex sentences, being careful not to include too many clauses overall. See also [Mastering sentence types: A guide to simple, compound, complex, and compound-complex sentences](Mastering%20sentence%20types%20A%20guide%20to%20simple,%20compound,%20complex,%20and%20compound-com.md).
+2. Stick to primarily simple sentences and complex sentences, being careful not to include too many clauses overall. See also [Mastering sentence types: A guide to simple, compound, complex, and compound-complex sentences](Mastering%20sentence%20types%20A%20guide%20to%20simple%2C%20compound%2C%20complex%2C%20and%20compound-com.md).
 
 3. Begin with a noun clause, avoiding any personal pronouns in the main clause. For more, see [[(PRO) Pronouns]].
 
 4. Avoid any [[Copula verbs]] in the main clause. See more with dynamic verbs in the main clause. For more, see [[Verbs]].
 
-5. Say mainly in the active voice. [Active vs. passive voice: A Writer's guide to clarity and impact](Active%20vs%20passive%20voice%20A%20Writer's%20guide%20to%20clarity%20and%20impact.md).
+5. Say mainly in the active voice. [Active vs. passive voice: A Writer's guide to clarity and impact](Active%20vs%20passive%20voice%20A%20Writer%27s%20guide%20to%20clarity%20and%20impact.md).
 
 6. Consider the [[Types of phrases]] and [[Types of clauses]] when determining how specific a topic sentence should be. If too specific, consider reducing the number of phrases and/or clauses.
 

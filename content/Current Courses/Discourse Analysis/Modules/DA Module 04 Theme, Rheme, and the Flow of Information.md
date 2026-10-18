@@ -3,7 +3,7 @@ type: Module
 title: "Module 04: Theme, Rheme, and the Flow of Information"
 status: InBox
 unit: "[Discourse Analysis Unit II: Making Meaning in Text](Discourse%20Analysis%20Unit%20II%20Making%20Meaning%20in%20Text.md)"
-courseS: "[[60 Public/Website/Current Courses/Discourse Analysis/index]]"
+courseS: "[[Current Courses/Discourse Analysis/index]]"
 endDate: 2026-12-17
 startDate: 2026-08-10
 banner: https://wallpaperaccess.com/full/256070.jpg

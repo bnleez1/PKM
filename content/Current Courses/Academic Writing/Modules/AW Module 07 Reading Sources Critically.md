@@ -3,7 +3,7 @@ type: Module
 title: "Module 07: Reading Sources Critically"
 status: InBox
 unit: "[[Academic Writing Unit III]]"
-courseS: "[[60 Public/Website/Current Courses/Academic Writing/index]]"
+courseS: "[[Current Courses/Academic Writing/index]]"
 endDate: 2026-12-17
 startDate: 2026-08-10
 banner: https://i.pinimg.com/originals/79/46/6d/79466dbd270c8ae27c4146c340d1bea7.jpg

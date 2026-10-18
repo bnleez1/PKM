@@ -3,7 +3,7 @@ type: Module
 title: "Module 05: Listening with a Study Purpose"
 status: InBox
 unit: "[Listening I Unit II: Listening with Purpose](Listening%20I%20Unit%20II%20Listening%20with%20Purpose.md)"
-courseS: "[[60 Public/Website/Current Courses/Listening I/index]]"
+courseS: "[[Current Courses/Listening I/index]]"
 endDate: 2026-12-17
 startDate: 2026-08-10
 banner: https://institute.careerguide.com/wp-content/uploads/2023/04/2023-4-3.jpg

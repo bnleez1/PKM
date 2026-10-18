@@ -11,8 +11,8 @@ subject: "[[Thesis Seminar]]"
 chapterWeek:
 coverImage:
 unit:
-prior: "[Thesis Seminar Module 13: Results & Discussion I](Thesis%20Seminar%20Module%2013%20Results%20&%20Discussion%20I.md)"
-next: "[Thesis Seminar Module 15: Results & Discussion III](Thesis%20Seminar%20Module%2015%20Results%20&%20Discussion%20III.md)"
+prior: "[Thesis Seminar Module 13: Results & Discussion I](Thesis%20Seminar%20Module%2013%20Results%20%26%20Discussion%20I.md)"
+next: "[Thesis Seminar Module 15: Results & Discussion III](Thesis%20Seminar%20Module%2015%20Results%20%26%20Discussion%20III.md)"
 reading:
 bookTitle:
 studentDeliverableS: []

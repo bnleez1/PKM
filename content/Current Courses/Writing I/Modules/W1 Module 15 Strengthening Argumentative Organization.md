@@ -3,7 +3,7 @@ type: Module
 title: "Module 15: Strengthening Argumentative Organization"
 status: InBox
 unit: "[Writing I Unit IV: Persuasion](Writing%20I%20Unit%20IV%20Persuasion.md)"
-courseS: "[[60 Public/Website/Current Courses/Writing I/index]]"
+courseS: "[[Current Courses/Writing I/index]]"
 endDate: 2026-12-17
 startDate: 2026-08-10
 banner:

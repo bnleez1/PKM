@@ -11,7 +11,7 @@ tags:
   - EnglishSkillDevelopment
   - Writing
   - Research
-coverImage: "[Untitled](99%20Attachments/Images/Untitled%20(2).md)"
+coverImage: "[Untitled](../../../raw/attachments/images/Untitled%20%282%29.md)"
 status: Planning
 roster:
   - "[[Juan Pablo Avila Solis]]"
@@ -40,7 +40,7 @@ area: "[[UAA Subjects]]"
 notes: "[[Writing mechanics]]"
 assignments:
   - "[[Research Matrix - Week 2]]"
-  - "[[00 Meta/Templates/Article Review 1]]"
+  - "[[templates/teaching/Article Review 1]]"
 banner: https://static.vecteezy.com/system/resources/previews/012/347/781/large_2x/man-hand-with-pen-writing-on-notebook-with-computer-laptop-at-desk-free-photo.jpg
 gh-published-url: "https://bnleez1.github.io/PKM/current-courses/academic-writing"
 ---
@@ -51,7 +51,7 @@ gh-published-url: "https://bnleez1.github.io/PKM/current-courses/academic-writin
 💡 **Welcome to Academic Writing!**
 - Class location: M3, A1
 - Class schedule: 11:00 AM - 1:00 PM, Wednesdays; 12:00 PM - 1:00 PM, Thursdays; 10:00 AM - 12:00 PM, Fridays
-- Instructor: [Benjamin L. Stewart, Phd](60%20Public/Website/Assets/Pages/Benjamin%20L%20Stewart,%20Phd.md)
+- Instructor: [Benjamin L. Stewart, Phd](../../Assets/Pages/Benjamin%20L%20Stewart%2C%20Phd.md)
 
 # Course Description
 

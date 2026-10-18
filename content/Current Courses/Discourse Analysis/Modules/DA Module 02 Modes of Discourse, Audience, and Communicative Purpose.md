@@ -3,7 +3,7 @@ type: Module
 title: "Module 02: Modes of Discourse, Audience, and Communicative Purpose"
 status: InBox
 unit: "[Discourse Analysis Unit I: Foundations: Text, Context, and History](Discourse%20Analysis%20Unit%20I%20Foundations%20Text,%20Context,%20and%20History.md)"
-courseS: "[[60 Public/Website/Current Courses/Discourse Analysis/index]]"
+courseS: "[[Current Courses/Discourse Analysis/index]]"
 endDate: 2026-12-17
 startDate: 2026-08-10
 banner: https://wallup.net/wp-content/uploads/2016/01/200876-nature-landscape-water.jpg
