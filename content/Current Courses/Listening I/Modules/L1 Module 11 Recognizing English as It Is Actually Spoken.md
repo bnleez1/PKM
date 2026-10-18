@@ -85,13 +85,6 @@ After your own attempt, authorized GenAI may create short A2 scripts or audio fo
 
 This week’s goal is not to hear every reduced sound perfectly. It is to recognize enough of the spoken pattern to recover the speaker’s future plan, reasons, and attitude with increasing independence.
 
-## 🗓️ Monday
-
-## 🗓️ Tuesday
-
-## 🗓️ Wednesday
-
-## 🗓️ Thursday
-
-## 🗓️ Friday
-
+> [!goal]- 📄 [[Monday, October 19, 2026]]
+>
+> > 1. Complete Song activity.

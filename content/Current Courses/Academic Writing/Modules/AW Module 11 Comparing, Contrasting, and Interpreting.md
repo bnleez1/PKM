@@ -107,9 +107,7 @@ A productive learning sequence for this chapter begins with a diagnostic respons
 
 The second part of the week should move from practice to production. Students use the guiding questions—“What exactly do the selected sources agree or disagree about?” and “How might method, population, context, or definitions explain differences?”—as checkpoints while working toward the stated outcomes, especially the ability to write a comparative-synthesis section using multiple sources and to explain agreements, disagreements, and partial convergence accurately. A brief peer conference should focus on one high-impact feature rather than attempting to correct everything at once. Students then revise, annotate the evidence of their decision-making, and complete the week’s deliverable: Second thematic section organized through comparative synthesis; critical-synthesis revision assignment. The final five minutes of class can be used for an exit reflection identifying one decision the writer can now justify and one question that must be carried into the next chapter.
 
-## 🗓️ Wednesday (11:00 AM - 1:00 PM)
 
-## 🗓️ Thursday (12:00 PM - 1:00 PM)
-
-## 🗓️ Friday (10:00 AM - 12:00 PM)
-
+> [!goal]- 📄 [[Wednesday, October 21, 2026]]
+>
+> > 1. 
