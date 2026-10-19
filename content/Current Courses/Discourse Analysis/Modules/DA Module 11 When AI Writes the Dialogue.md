@@ -19,7 +19,6 @@ gh-published-url: https://bnleez1.github.io/PKM/current-courses/discourse-analys
 
 > Generative AI can produce a dialogue in seconds, but grammatical fluency does not guarantee conversational plausibility. Generated exchanges may be unnaturally balanced, overexplicit, culturally generic, sequentially tidy, or inconsistent with the participants’ roles. This week introduces Level 4 AI use: task design and critical evaluation. You will prompt an approved tool to create interactional or transactional talk, then code and fact-check the result using Unit III concepts. The transcript becomes raw material, not authoritative evidence. After revision, you will design a feasible ELT role-play aligned with Universal Design for Learning. Your grade depends on how well you evaluate the AI’s limitations, justify changes, anticipate classroom conditions, and create multiple ways for learners to engage, understand the task, and demonstrate pragmatic competence.
 
-
 ## Essential understanding(s)
 
 
