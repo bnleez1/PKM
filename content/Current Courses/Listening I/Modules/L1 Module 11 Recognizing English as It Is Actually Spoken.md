@@ -72,7 +72,6 @@ Words such as *but*, *instead of*, *still*, *first*, and *then* show relationshi
 > [!note] AI aside
 > After your own attempt, authorized AI may suggest strategies or create unrelated A2 practice. It must not reconstruct the task recordings or supply answers. Check generated practice with teacher guidance and record the tool, date, prompt, and suggestions accepted or rejected. A teacher-provided alternative is always available.
 
-
 > [!goal]- 📄 [[Monday, October 19, 2026]]
 > [Dreams by Fleetwood Mac](https://music.youtube.com/watch?v=swJOIjjW69U&si=teY4XUMuZFOVWe51) | [Dreams by The Cranberries](https://music.youtube.com/watch?v=SezuFrHm8f0&si=D6-lyBY7kFFQRpZ3)
 > 
@@ -90,4 +89,5 @@ Words such as *but*, *instead of*, *still*, *first*, and *then* show relationshi
 > [!goal]- 📄 [[Tuesday, October 20, 2026]]
 > 
 > 
-> > 1. 
+
+

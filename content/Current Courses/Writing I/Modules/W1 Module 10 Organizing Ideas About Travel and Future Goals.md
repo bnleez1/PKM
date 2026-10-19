@@ -24,7 +24,6 @@ gh-published-url: https://bnleez1.github.io/PKM/current-courses/writing-i/module
 
 - How do connectors reveal the relationships among ideas?
 - How can writers organize a place description or future plan for an A2 reader?
-
 ## Guiding Questions
 
 - When should a writer add information, show contrast, or present sequence?

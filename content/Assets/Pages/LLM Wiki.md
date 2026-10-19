@@ -9,7 +9,7 @@ gh-published: true
 gh-published-url: https://bnleez1.github.io/PKM/assets/pages/llm-wiki
 banner: https://wallpapercave.com/wp/wp5158349.jpg
 ---
-# [LLM Wiki](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f)
+# [LLM Wiki](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f) 
 
 A pattern for building personal knowledge bases using LLMs.
 
