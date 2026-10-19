@@ -30,13 +30,9 @@ gh-published-url: https://bnleez1.github.io/PKM/current-courses/listening-i/modu
 ## Guiding Questions
 
 - What happens to sounds in contractions and linked words?
-
 - Which words are usually stressed and which may become weak?
-
 - How can intonation signal certainty, enthusiasm, hesitation, or continuation?
-
 - Which strategy best addresses a specific connected-speech difficulty?
-
 ## Learning outcomes
 
 - Recognize frequent A2 contractions and common linked or reduced forms in context.
