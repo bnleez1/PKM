@@ -15,7 +15,6 @@ gh-published-url: https://bnleez1.github.io/PKM/current-courses/listening-i/modu
 [[L1 Module 12 Choosing Strategies Without Waiting for Directions]]
 # L1 Module 11: Recognizing English as It Is Actually Spoken
 
-
 ⚡️ Future Goals, Contractions, Linking, Weak Forms, Intonation, and Rhythm
 
 > Learners often know a word in writing but fail to recognize it in connected speech. English speakers join words, reduce common function words, use contractions, and organize meaning through stress and rhythm. In messages about future goals and dreams, these features may make familiar phrases such as going to, want to, I will, or have to sound very different from their written forms. This chapter develops sound awareness without turning listening into transcription. You will practice short fragments, classify recognition problems, and choose strategies such as chunking, contextual prediction, and attention to stressed words. Any generated practice must be checked against the original audio, course materials, and teacher guidance.
@@ -80,8 +79,11 @@ After your own attempt, authorized GenAI may create short A2 scripts or audio fo
 This week’s goal is not to hear every reduced sound perfectly. It is to recognize enough of the spoken pattern to recover the speaker’s future plan, reasons, and attitude with increasing independence.
 
 > [!goal]- 📄 [[Monday, October 19, 2026]]
->
-> > 1. Predict and pair.
+> [Dreams by Fleetwood Mac](https://music.youtube.com/watch?v=swJOIjjW69U&si=teY4XUMuZFOVWe51) | [Dreams by The Cranberries](https://music.youtube.com/watch?v=SezuFrHm8f0&si=D6-lyBY7kFFQRpZ3)
+> 
+> > 1. Predict and pair
+> > 	a. Write three possible feelings and one prediction: "Dreams might be about..."
+> > 	b. Pairs explain one prediction; nominate one question
 > > 2. Blind first listen A + B
 > > 3. Focused replay: A
 > > 4. Focused replay: B

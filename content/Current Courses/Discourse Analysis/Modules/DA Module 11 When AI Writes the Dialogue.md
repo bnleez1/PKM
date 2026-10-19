@@ -11,9 +11,9 @@ gh-publish: true
 gh-path: content/Current Courses/Discourse Analysis/Modules
 gh-published-url: https://bnleez1.github.io/PKM/current-courses/discourse-analysis/modules/da-module-11-when-ai-writes-the-dialogue
 ---
-
+[[DA Module 10 From Sound to Evidence]]
+[[DA Module 12 Processing Speech and Writing]]
 # DA Module 11: When AI Writes the Dialogue
-
 
 ⚡️ Critically evaluating generated interaction and designing feasible UDL-aligned role-play
 

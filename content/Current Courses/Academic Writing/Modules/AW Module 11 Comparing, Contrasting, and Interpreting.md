@@ -11,9 +11,9 @@ gh-publish: true
 gh-path: content/Current Courses/Academic Writing/Modules
 gh-published-url: https://bnleez1.github.io/PKM/current-courses/academic-writing/modules/aw-module-11-comparing,-contrasting,-and-interpreting
 ---
-
+[[AW Module 10 Opening the Scholarly Conversation]]
+[[AW Module 12 Patterns, Gaps, and Context]]
 # Chapter 11: Comparing, Contrasting, and Interpreting
-
 
 ⚡️ Developing a second thematic section through comparative and critical synthesis
 
