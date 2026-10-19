@@ -11,9 +11,9 @@ gh-publish: true
 gh-path: content/Current Courses/Writing I/Modules
 gh-published-url: https://bnleez1.github.io/PKM/current-courses/writing-i/modules/w1-module-11-improving-coherence-and-word-choice
 ---
-[[W1 Module 10 Organizing Ideas About Travel and Future Goals]]
-[[W1 Module 12 Editing While Preserving Your Voice]]
+
 # W1 Module 11: Improving Coherence and Word Choice
+
 
 ⚡️ Using critical feedback to revise an expository or descriptive draft
 
@@ -90,7 +90,13 @@ When you receive a suggested word or structure, apply four questions. Meaning: D
 
 Make changes in stages. First, revise focus and order. Second, improve cohesion through key words, references, and connectors. Third, examine lexical precision. Finally, edit punctuation. For each significant change, write a brief explanation: “I moved the example after the reason because the reader needs the general point first,” or “I kept train instead of transportation system because the paragraph refers to one specific service.” The ability to explain a change is evidence that you remain the author.
 
-> [!goal]- 📄 [[Monday, October 19, 2026]]
->
-> > 1. Complete [Writing I Cumulative Exam - October 19, 2026 – Fill out form](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=kuLi4dYhSUi3EE1H2VeK0ItjcCXTT1VEvQ9aSPhTcDNUN0YxUEhGVE5QRVdHNDU1WlVEUk9HRlNFTiQlQCNjPTEu). 
+## 🗓️ Monday
+
+## 🗓️ Tuesday
+
+## 🗓️ Wednesday
+
+## 🗓️ Thursday
+
+## 🗓️ Friday
 
