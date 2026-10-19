@@ -102,13 +102,7 @@ Generated dialogues should never be presented to learners as naturally occurring
 Prompt records and revisions also protect transparency. Include the tool used, date, purpose, constraints, raw output, and major edits. Avoid entering identifiable student data or confidential classroom situations into an external model. Construct fictional or generalized scenarios instead.
 The teacher remains accountable for cultural representation. If the model produces a stereotype, remove it and document the problem rather than quietly polishing the wording. This makes AI literacy part of discourse literacy: learners and teachers examine who is represented, whose norms are assumed, and which interactional possibilities are absent. The final role-play should be defensible even if the AI tool is unavailable, because its pedagogical value comes from the human analysis and design.
 
-
-
-## 🗓️ Tuesday (9:00 AM - 10:00 AM)
-
-## 🗓️ Wednesday (9:00 AM - 10:00 AM)
-
-## 🗓️ Thursday (9:00 AM - 10:00 AM)
-
-## 🗓️ Friday (9:00 AM - 10:00 AM)
+> [!goal]- 📄 [[Tuesday, October 20, 2026]]
+>
+> > 
 

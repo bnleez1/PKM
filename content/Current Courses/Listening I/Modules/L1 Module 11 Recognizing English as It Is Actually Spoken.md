@@ -24,9 +24,7 @@ gh-published-url: https://bnleez1.github.io/PKM/current-courses/listening-i/modu
 ## Essential understanding(s)
 
 - Why can familiar written language become difficult to recognize in natural speech?
-
 - How do stress, rhythm, and intonation help listeners identify meaning even when some words are reduced?
-
 ## Guiding Questions
 
 - What happens to sounds in contractions and linked words?
@@ -81,13 +79,13 @@ After your own attempt, authorized GenAI may create short A2 scripts or audio fo
 
 This week’s goal is not to hear every reduced sound perfectly. It is to recognize enough of the spoken pattern to recover the speaker’s future plan, reasons, and attitude with increasing independence.
 
-## 🗓️ Monday
-
-## 🗓️ Tuesday
-
-## 🗓️ Wednesday
-
-## 🗓️ Thursday
-
-## 🗓️ Friday
-
+> [!goal]- 📄 [[Monday, October 19, 2026]]
+>
+> > 1. Predict and pair.
+> > 2. Blind first listen A + B
+> > 3. Focused replay: A
+> > 4. Focused replay: B
+> > 5. Notebook Venn
+> > 6. Human storyboard
+> > 7. Evidence challenge
+> > 8. Exit ticket
