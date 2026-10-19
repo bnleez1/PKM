@@ -90,8 +90,9 @@ When you receive a suggested word or structure, apply four questions. Meaning: D
 
 Make changes in stages. First, revise focus and order. Second, improve cohesion through key words, references, and connectors. Third, examine lexical precision. Finally, edit punctuation. For each significant change, write a brief explanation: “I moved the example after the reason because the reader needs the general point first,” or “I kept train instead of transportation system because the paragraph refers to one specific service.” The ability to explain a change is evidence that you remain the author.
 
-
  
 > [!goal]- 📄 [[Monday, October 19, 2026]]
-> 
+> > [!note]- Note
+> > Class today is optional... only for those who wish to (re)take the Writing I midterm exam.
+>
 > > Complete [Writing I Cumulative Exam - October 19, 2026 – Fill out form](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=kuLi4dYhSUi3EE1H2VeK0ItjcCXTT1VEvQ9aSPhTcDNUN0YxUEhGVE5QRVdHNDU1WlVEUk9HRlNFTiQlQCNjPTEu) (second opportunity) in class (1:00 PM - 2:00 PM).
