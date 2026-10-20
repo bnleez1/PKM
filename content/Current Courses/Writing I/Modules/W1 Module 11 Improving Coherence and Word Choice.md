@@ -96,9 +96,9 @@ Make changes in stages. First, revise focus and order. Second, improve cohesion 
 > > Class today is optional... only for those who wish to (re)take the Writing I midterm exam.
 >
 > > Complete [Writing I Cumulative Exam - October 19, 2026 – Fill out form](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=kuLi4dYhSUi3EE1H2VeK0ItjcCXTT1VEvQ9aSPhTcDNUN0YxUEhGVE5QRVdHNDU1WlVEUk9HRlNFTiQlQCNjPTEu) (second opportunity) in class (1:00 PM - 2:00 PM).
-
  
 > [!goal]- 📄 [[Tuesday, October 20, 2026]]
 > > [!note]- Note
-> Complete [[Week 11 Team Paragraph_Dream Destination Relay]] in teams ([Writing_I_Randomized_Groups_Oct_20_2026.pdf](https://eduuaa.sharepoint.com/:b:/s/WritingI2026/IQAQ50Q3UyXZRYSzPojMtn7MAejK49ojCc3RM6PW-qH5usM?e=A5opBn)).
+> 1. Complete [[Week 11 Team Paragraph_Dream Destination Relay]] in teams ([Writing_I_Randomized_Groups_Oct_20_2026.pdf](https://eduuaa.sharepoint.com/:b:/s/WritingI2026/IQAQ50Q3UyXZRYSzPojMtn7MAejK49ojCc3RM6PW-qH5usM?e=A5opBn)).
+> 2. . Verify that you can access the [pCloud File Request Link](https://u.pcloud.com/#/puplink?code=ixKXZYMVQ1djydK0tYpw8jie7Dhq5wAwk) and [Writing I Shared Folders](https://u.pcloud.link/publink/show?code=kZMyBbJZWD42ljReHLLyXKaXcfenqkALob6k).
 

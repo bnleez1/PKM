@@ -94,3 +94,10 @@ Words such as *but*, *instead of*, *still*, *first*, and *then* show relationshi
 > > 3. Finish handout working with audio in your respective groups.
 > > 4. Later today, I will share with you all more CAADI worksheets you may use for your listening CAADI worksheets.
 
+
+> [!goal]- 📄 [[Wednesday, October 21, 2026]]
+> 
+> > 1. Verify that you can access the [pCloud File Request Link](https://u.pcloud.com/#/puplink?code=axKXZeFIPFGRqg54zYn503sYsnmJ1OvJk) and [Listening I Shared Folders](https://u.pcloud.link/publink/show?code=kZmofbJZuil9St9TWC0rhFR98eCs3m4abeNk).
+
+
+
