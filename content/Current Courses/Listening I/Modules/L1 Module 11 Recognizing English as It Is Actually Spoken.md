@@ -72,6 +72,7 @@ Words such as *but*, *instead of*, *still*, *first*, and *then* show relationshi
 > [!note] AI aside
 > After your own attempt, authorized AI may suggest strategies or create unrelated A2 practice. It must not reconstruct the task recordings or supply answers. Check generated practice with teacher guidance and record the tool, date, prompt, and suggestions accepted or rejected. A teacher-provided alternative is always available.
 
+
 > [!goal]- 📄 [[Monday, October 19, 2026]]
 > [Dreams by Fleetwood Mac](https://music.youtube.com/watch?v=swJOIjjW69U&si=teY4XUMuZFOVWe51) | [Dreams by The Cranberries](https://music.youtube.com/watch?v=SezuFrHm8f0&si=D6-lyBY7kFFQRpZ3)
 > 
@@ -88,6 +89,7 @@ Words such as *but*, *instead of*, *still*, *first*, and *then* show relationshi
 
 > [!goal]- 📄 [[Tuesday, October 20, 2026]]
 > 
-> 
-
+> > 1. Here are the groups for this week: [Listening_I_Randomized_Groups_Oct_20_2026.pdf](https://eduuaa.sharepoint.com/:b:/s/ListeningI2026/IQAM8TtnbyRrSoFwJDit3lpXAZ9foQyzdKN7ENOk7O-SAcY?e=cWXyO0). 
+> > 2. Begin answering [Listening_I_Tuesday_Student_Handout.docx](https://eduuaa.sharepoint.com/:w:/s/ListeningI2026/IQBQ7XxFytPsQpc6OvFqgwobARUC1jA6fKkQDmmReRiigZo?e=gMHNV5) as a group.
+> > 3. Finish handout working with audio in your respective groups.
 
