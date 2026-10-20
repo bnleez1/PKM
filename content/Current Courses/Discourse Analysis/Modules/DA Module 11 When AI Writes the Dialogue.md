@@ -103,7 +103,12 @@ The teacher remains accountable for cultural representation. If the model produc
 
 > [!goal]- 📄 [[Tuesday, October 20, 2026]]
 >
-> > 1. Once you have completed [Week 10 Types of Talk Transcription Task ss.docx](https://eduuaa.sharepoint.com/:w:/s/DiscourseAnalysis2026/IQC_FE831NBVRJUdDah57CCYAbnKnPWtmQnua8jMxQsMuaM?e=NG2Seb), use the following prompt to compare and contrast any differences: [[Student LLM Prompt_Revising a Conversation While Preserving Its Original Meaning]]. If anyone has issues with such a long prompt, let me know.
+> > 1. Once you have completed [Week 10 Types of Talk Transcription Task ss.docx](https://eduuaa.sharepoint.com/:w:/s/DiscourseAnalysis2026/IQC_FE831NBVRJUdDah57CCYAbnKnPWtmQnua8jMxQsMuaM?e=NG2Seb), use the following prompt (as is) to compare and contrast any differences: [[Student LLM Prompt_Revising a Conversation While Preserving Its Original Meaning]]. *Avoid modifying the prompt in any way except copying-and-pasting your transcription at the end of the prompt. If you have any issues or questions about the prompt itself and/or your output, let me know.*
 > > 2. Submit your handout and comparison to [View assignment: "Module 10 Handouts: Cooperative Principle "](https://teams.microsoft.com/l/entity/66aeee93-507d-479a-a3ef-8f494af43945/classroom?context=%7B%22subEntityId%22%3A%22%7B%5C%22version%5C%22%3A%5C%221.0%5C%22%2C%5C%22config%5C%22%3A%7B%5C%22classes%5C%22%3A%5B%7B%5C%22id%5C%22%3A%5C%228320a165-1574-4125-a83b-db4905593430%5C%22%2C%5C%22assignmentIds%5C%22%3A%5B%5C%22dd23398b-56f8-4f7a-a81e-a55667d27525%5C%22%5D%7D%5D%7D%2C%5C%22action%5C%22%3A%5C%22navigate%5C%22%2C%5C%22view%5C%22%3A%5C%22assignment-viewer%5C%22%2C%5C%22appId%5C%22%3A%5C%22ccb65bcd-04ba-421a-8791-a299a70904b6%5C%22%2C%5C%22deeplinkType%5C%22%3A4%7D%22%2C%22channelId%22%3Anull%7D). 
 > 
 
+
+> [!goal]- 📄 [[Wednesday, October 21, 2026]]
+>
+> > 1. 
+> 

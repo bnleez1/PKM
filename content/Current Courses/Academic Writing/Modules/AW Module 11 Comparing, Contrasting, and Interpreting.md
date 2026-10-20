@@ -109,4 +109,12 @@ The second part of the week should move from practice to production. Students us
 
 > [!goal]- 📄 [[Wednesday, October 21, 2026]]
 >
-> > 
+
+> [!goal]- 📄 [[Thursday, October 22, 2026]]
+>
+
+
+> [!goal]- 📄 [[Friday, October 23, 2026]]
+>
+
+
