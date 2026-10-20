@@ -12,6 +12,8 @@ banner: https://wallpapercave.com/wp/wp7582834.jpg
 ---
 # Discourse Analysis: Revising a Conversation While Preserving Its Original Meaning
 
+> Prompt begins on the next line below.
+
 You are assisting me with a university Discourse Analysis assignment. I will provide a transcript of an authentic conversation between two or more speakers.
 
 Your task is to create a **slightly modified version of my conversation** that gives me opportunities to analyze Grice's four conversational maxims and the distinction between interactional and transactional talk.
