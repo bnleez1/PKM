@@ -103,6 +103,6 @@ The teacher remains accountable for cultural representation. If the model produc
 
 > [!goal]- 📄 [[Tuesday, October 20, 2026]]
 >
-> > 1. One you have completed [Week 10 Types of Talk Transcription Task ss.docx](https://eduuaa.sharepoint.com/:w:/s/DiscourseAnalysis2026/IQC_FE831NBVRJUdDah57CCYAbnKnPWtmQnua8jMxQsMuaM?e=NG2Seb), use the following prompt to compare and contrast any differences: [[Student LLM Prompt: Modifying an Authentic Conversation for Discourse Analysis]].
+> > 1. One you have completed [Week 10 Types of Talk Transcription Task ss.docx](https://eduuaa.sharepoint.com/:w:/s/DiscourseAnalysis2026/IQC_FE831NBVRJUdDah57CCYAbnKnPWtmQnua8jMxQsMuaM?e=NG2Seb), use the following prompt to compare and contrast any differences: [[Student LLM Prompt_Revising a Conversation While Preserving Its Original Meaning]].
 > 
 
