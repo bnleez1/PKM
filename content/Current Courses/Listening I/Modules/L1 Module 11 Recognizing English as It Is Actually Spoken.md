@@ -92,4 +92,5 @@ Words such as *but*, *instead of*, *still*, *first*, and *then* show relationshi
 > > 1. Here are the groups for this week: [Listening_I_Randomized_Groups_Oct_20_2026.pdf](https://eduuaa.sharepoint.com/:b:/s/ListeningI2026/IQAM8TtnbyRrSoFwJDit3lpXAZ9foQyzdKN7ENOk7O-SAcY?e=cWXyO0). 
 > > 2. Begin answering [Listening_I_Tuesday_Student_Handout.docx](https://eduuaa.sharepoint.com/:w:/s/ListeningI2026/IQBQ7XxFytPsQpc6OvFqgwobARUC1jA6fKkQDmmReRiigZo?e=gMHNV5) as a group.
 > > 3. Finish handout working with audio in your respective groups.
+> > 4. Later today, I will share with you all more CAADI worksheets you may use for your listening CAADI worksheets.
 
