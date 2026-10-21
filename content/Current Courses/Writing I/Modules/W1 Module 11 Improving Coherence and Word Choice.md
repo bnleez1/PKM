@@ -102,3 +102,6 @@ Make changes in stages. First, revise focus and order. Second, improve cohesion 
 > 1. Complete [[Week 11 Team Paragraph_Dream Destination Relay]] in teams ([Writing_I_Randomized_Groups_Oct_20_2026.pdf](https://eduuaa.sharepoint.com/:b:/s/WritingI2026/IQAQ50Q3UyXZRYSzPojMtn7MAejK49ojCc3RM6PW-qH5usM?e=A5opBn)).
 > 2. . Verify that you can access the [pCloud File Request Link](https://u.pcloud.com/#/puplink?code=ixKXZYMVQ1djydK0tYpw8jie7Dhq5wAwk) and [Writing I Shared Folders](https://u.pcloud.link/publink/show?code=kZMyBbJZWD42ljReHLLyXKaXcfenqkALob6k).
 
+> [!goal]- 📄 [[Wednesday, October 21, 2026]]
+> 
+> > 1. Enter [Google Classroom](https://classroom.google.com/c/ODY4MTkwNjgyNjAw?cjc=pqxdjr7q) with code I provide in Teams.

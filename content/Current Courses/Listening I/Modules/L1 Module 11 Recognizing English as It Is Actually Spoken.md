@@ -97,7 +97,7 @@ Words such as *but*, *instead of*, *still*, *first*, and *then* show relationshi
 
 > [!goal]- 📄 [[Wednesday, October 21, 2026]]
 > 
-> > 1. Verify that you can access the [pCloud File Request Link](https://u.pcloud.com/#/puplink?code=axKXZeFIPFGRqg54zYn503sYsnmJ1OvJk) and [Listening I Shared Folders](https://u.pcloud.link/publink/show?code=kZmofbJZuil9St9TWC0rhFR98eCs3m4abeNk).
+> > 1. Enter [Google Classroom](https://classroom.google.com/c/ODY4MTkwMjU0MTU4?cjc=d62l3ogs) with code I provide in Teams.
 
 
 
