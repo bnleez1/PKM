@@ -113,4 +113,5 @@ Submit your work to Microsoft Teams / Capacities.io with the following component
 > > 1. Complete [[Unit III Review_Spoken Discourse Deconstruction & Pedagogical Role-Play Design]].
 > > 2. Complete [Unit III Student Handout](https://classroom.google.com/c/ODY3NTEyNzI0NjE0/m/ODkzNzY3NzEyMzA5/details).
 > > 3. Review [Unit III Study Guide](https://classroom.google.com/c/ODY3NTEyNzI0NjE0/m/ODkzNzcwNDkwMTAw/details) for quiz on Tuesday.
+> > 4. Please resubmit assignments for this week's handouts from Tuesday here to [Google Classroom](https://classroom.google.com/c/ODY3NTEyNzI0NjE0/a/ODkzNTMzNTE4NjMx/details).
 > 

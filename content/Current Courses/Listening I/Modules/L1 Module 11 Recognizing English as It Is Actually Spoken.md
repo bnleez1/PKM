@@ -100,4 +100,6 @@ Words such as *but*, *instead of*, *still*, *first*, and *then* show relationshi
 > > 1. Enter [Google Classroom](https://classroom.google.com/c/ODY4MTkwMjU0MTU4?cjc=d62l3ogs) with code I provide in Teams.
 
 
-
+> [!goal]- 📄 [[Thursday, October 22, 2026]]
+> 
+> > 1. 
