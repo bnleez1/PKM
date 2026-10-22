@@ -19,35 +19,23 @@ gh-published-url: https://bnleez1.github.io/PKM/current-courses/academic-writing
 
 > Synthesis becomes visible when a writer explains relationships among sources. This week the literature review develops through a second thematic section organized around comparison and contrast. Students examine agreements, disagreements, methodological differences, and contextual factors across the Unit III sources. The purpose is not simply to state that studies are similar or different. The writer must explain the basis of the relationship and its significance for the central claim. Analytical sentences—the sentences that answer “so what?”—are therefore a major focus. A strong section will represent each source fairly, identify patterns without erasing differences, and show how research design or context may help explain conflicting findings. The week also includes a critical-synthesis revision assignment to ensure that evidence is consistently followed by interpretation.
 
-
 ## Essential Questions
 
 **1.** How can comparison and contrast produce a deeper interpretation of a body of literature?
-
 **2.** What makes an analytical sentence explain the significance of evidence?
-
 ## Guiding Questions
 
 1. What exactly do the selected sources agree or disagree about?
-
 2. How might method, population, context, or definitions explain differences?
-
 3. Where does the draft report evidence without interpreting it?
-
 4. How does the second thematic section advance the central claim?
-
 ## Learning outcomes
 
 - Write a comparative-synthesis section using multiple sources.
-
 - Explain agreements, disagreements, and partial convergence accurately.
-
 - Analyze methodological and contextual factors that shape findings.
-
 - Add analytical sentences that explain why evidence matters.
-
 - Revise source-heavy paragraphs to strengthen critical synthesis.
-
 ## Key concepts and vocabulary
 
 | **Term**                      | **Working definition**                                                                   |
@@ -114,10 +102,14 @@ The second part of the week should move from practice to production. Students us
 > 4. Begin completing the [literature review matrix](https://classroom.google.com/c/ODY4MTkwNTMzMTA0/m/ODkzNTU0Mzg1MjYx/details) for synthesizing your information.
 
 > [!goal]- 📄 [[Thursday, October 22, 2026]]
->
-
+> 1. Submit your [first body paragraph](https://classroom.google.com/c/ODY4MTkwNTMzMTA0/a/ODkzNTQ5NTc1MDM2/details) and [list of references to Google Classroom](https://classroom.google.com/c/ODY4MTkwNTMzMTA0/a/ODkzNTUwNjcxNTE3/details).
+> 2. Continue writing body paragraphs and using the [Research Matrix](https://classroom.google.com/c/ODY4MTkwNTMzMTA0/m/ODkzNTU0Mzg1MjYx/details) as necessary.
+> 3. An example of [[Topic sentence-heading-thesis alignment]] & [[Aligning Topic Sentences to Section Headings and Thesis Statement]].
 
 > [!goal]- 📄 [[Friday, October 23, 2026]]
->
+> Continue writing your paragraphs, completing three paragraphs per week until our last day of class, November 27, 2026.
+
+
+
 
 
