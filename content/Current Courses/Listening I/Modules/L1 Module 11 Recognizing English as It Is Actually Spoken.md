@@ -102,4 +102,9 @@ Words such as *but*, *instead of*, *still*, *first*, and *then* show relationshi
 
 > [!goal]- 📄 [[Thursday, October 22, 2026]]
 > 
-> > 1. 
+> > 1. Complete practice handout.
+
+
+> [!goal]- 📄 [[Friday, October 23, 2026]]
+> 
+> > 1. Complete [Group handout YouTube Task](https://classroom.google.com/c/ODY4MTkwMjU0MTU4/a/ODk1Mjc1NDc0MjQy/details)..
