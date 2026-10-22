@@ -104,6 +104,13 @@ Submit your work to Microsoft Teams / Capacities.io with the following component
 
 > [!goal]- 📄 [[Wednesday, October 21, 2026]]
 >
-> > 1. 
+> > 1. Get into [Google Classroom](https://classroom.google.com/c/ODY3NTEyNzI0NjE0?cjc=hjnt4mhc).
 > 
 
+
+> [!goal]- 📄 [[Thursday, October 22, 2026]] & [[Friday, October 23, 2026]]
+>
+> > 1. Complete [[Unit III Review_Spoken Discourse Deconstruction & Pedagogical Role-Play Design]].
+> > 2. Complete [Unit III Student Handout](https://classroom.google.com/c/ODY3NTEyNzI0NjE0/m/ODkzNzY3NzEyMzA5/details).
+> > 3. Review [Unit III Study Guide](https://classroom.google.com/c/ODY3NTEyNzI0NjE0/m/ODkzNzcwNDkwMTAw/details) for quiz on Tuesday.
+> 

@@ -105,3 +105,8 @@ Make changes in stages. First, revise focus and order. Second, improve cohesion 
 > [!goal]- 📄 [[Wednesday, October 21, 2026]]
 > 
 > > 1. Enter [Google Classroom](https://classroom.google.com/c/ODY4MTkwNjgyNjAw?cjc=pqxdjr7q) with code I provide in Teams.
+
+> [!goal]- 📄 [[Thursday, October 22, 2026]]
+> 
+> > 1. er [Google Classroom](https://classroom.google.com/c/ODY4MTkwNjgyNjAw?cjc=pqxdjr7q) with code I provide in Teams.
+> > 2. 
