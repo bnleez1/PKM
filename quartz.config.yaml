@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: bnleez1.github.io/PKM
+  baseUrl: benjaminlstewart.net
   ignorePatterns:
     - private
     - templates
