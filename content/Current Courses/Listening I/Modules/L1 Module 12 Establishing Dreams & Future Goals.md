@@ -98,4 +98,5 @@ By the end of the unit, you should approach a new A2 audio with a plan: identify
 
 > [!goal]- 📄 [[Monday, October 26, 2026]]
 > 
-> > 1. Listening Task: Dreams and Goals.
+> > 1. Review the difference between *Will..*. and *Going to...* [[The Complete Guide to English Verb Tenses]].
+> > 2. Listening Task: Dreams and Goals.
