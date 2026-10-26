@@ -103,13 +103,3 @@ Literature maps become more useful when they represent disagreement and scope. O
 Create a comparison row for each major claim: phenomenon, population or context, type of evidence, conclusion, limitation, and pedagogical relevance. This helps distinguish theoretical generalization from findings tied to a specific task. It also prevents an AI-generated summary from treating all sources as equally broad.
 When moving to instruction, label the move as an inference. Research describing working-memory demands does not automatically prescribe one classroom technique. Your pedagogical recommendation should explain how the source, learner profile, text, and objective connect. This explicit bridge is central to advanced scholarly orchestration.
 
-
-
-## 🗓️ Tuesday (9:00 AM - 10:00 AM)
-
-## 🗓️ Wednesday (9:00 AM - 10:00 AM)
-
-## 🗓️ Thursday (9:00 AM - 10:00 AM)
-
-## 🗓️ Friday (9:00 AM - 10:00 AM)
-

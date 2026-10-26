@@ -98,4 +98,4 @@ By the end of the unit, you should approach a new A2 audio with a plan: identify
 
 > [!goal]- 📄 [[Monday, October 26, 2026]]
 > 
-> > 1. 
+> > 1. Listening Task: Dreams and Goals.
