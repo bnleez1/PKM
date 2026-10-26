@@ -6,14 +6,14 @@ unit: "[[Academic Writing Unit IV]]"
 courseS: "[[Current Courses/Academic Writing/index]]"
 endDate: 2026-12-17
 startDate: 2026-08-10
-banner:
+banner: https://wallpapercave.com/wp/wp5574222.jpg
 gh-publish: true
 gh-path: content/Current Courses/Academic Writing/Modules
-gh-published-url: "https://bnleez1.github.io/PKM/current-courses/academic-writing/modules/aw-module-12-patterns,-gaps,-and-context"
+gh-published-url: https://bnleez1.github.io/PKM/current-courses/academic-writing/modules/aw-module-12-patterns,-gaps,-and-context
 ---
-
-# Chapter 12: Patterns, Gaps, and Context
-
+[[AW Module 11 Comparing, Contrasting, and Interpreting]]
+[[AW Module 13 Building a Unified Body]]
+# Academic Writing Module 12: Patterns, Gaps, and Context
 
 ⚡️ Analyzing causes, effects, limitations, counterpoints, and locally relevant nuance
 

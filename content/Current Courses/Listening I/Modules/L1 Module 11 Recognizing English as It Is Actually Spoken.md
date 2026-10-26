@@ -12,7 +12,7 @@ gh-path: content/Current Courses/Listening I/Modules
 gh-published-url: https://bnleez1.github.io/PKM/current-courses/listening-i/modules/l1-module-11-recognizing-english-as-it-is-actually-spoken
 ---
 [[L1 Module 10 Connecting the Stops in a Journey]]
-[[L1 Module 12 Choosing Strategies Without Waiting for Directions]]
+[[L1 Module 12 Establishing Dreams & Future Goals]]
 # L1 Module 11: Recognizing English as It Is Actually Spoken
 
 ⚡️ *Campus Life, Preferences, Activity Plans, and Connected Speech*

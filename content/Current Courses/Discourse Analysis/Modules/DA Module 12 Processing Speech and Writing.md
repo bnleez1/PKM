@@ -6,13 +6,14 @@ unit: "[Discourse Analysis Unit IV: Discourse, Culture, and Reading](Discourse%2
 courseS: "[[Current Courses/Discourse Analysis/index]]"
 endDate: 2026-12-17
 startDate: 2026-08-10
-banner:
+banner: https://wallpapercave.com/wp/wp6541252.jpg
 gh-publish: true
 gh-path: content/Current Courses/Discourse Analysis/Modules
-gh-published-url: "https://bnleez1.github.io/PKM/current-courses/discourse-analysis/modules/da-module-12-processing-speech-and-writing"
+gh-published-url: https://bnleez1.github.io/PKM/current-courses/discourse-analysis/modules/da-module-12-processing-speech-and-writing
 ---
-
-# DA Module 12: Processing Speech and Writing
+[[DA Module 11 Speech Acts, Turn-Taking, and Role-Play Design]]
+[[DA Module 13 Culture, Rhetoric, and Organizational Expectations]]
+# Discourse Analysis Module 12: Processing Speech and Writing
 
 
 ⚡️ Cognitive demands, structural affordances, and a verified AI-supported literature map

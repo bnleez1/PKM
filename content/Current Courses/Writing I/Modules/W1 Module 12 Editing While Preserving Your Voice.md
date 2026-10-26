@@ -6,14 +6,14 @@ unit: "[Writing I Unit III: Detail and Clarity](Writing%20I%20Unit%20III%20Detai
 courseS: "[[Current Courses/Writing I/index]]"
 endDate: 2026-12-17
 startDate: 2026-08-10
-banner:
+banner: https://wallpapercave.com/wp/wp4922106.jpg
 gh-publish: true
 gh-path: content/Current Courses/Writing I/Modules
-gh-published-url: "https://bnleez1.github.io/PKM/current-courses/writing-i/modules/w1-module-12-editing-while-preserving-your-voice"
+gh-published-url: https://bnleez1.github.io/PKM/current-courses/writing-i/modules/w1-module-12-editing-while-preserving-your-voice
 ---
-
-# W1 Module 12: Editing While Preserving Your Voice
-
+[[W1 Module 11 Improving Coherence and Word Choice]]
+[[W1 Module 13 Making an Argument About Teamwork]]
+# Writing I Module 12: Editing While Preserving Your Voice
 
 ⚡️ Completing the Unit III paragraph through peer review and critical revision
 
