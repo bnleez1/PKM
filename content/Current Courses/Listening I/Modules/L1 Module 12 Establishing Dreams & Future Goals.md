@@ -100,3 +100,9 @@ By the end of the unit, you should approach a new A2 audio with a plan: identify
 > 
 > > 1. Review the difference between *Will..*. and *Going to...* [[The Complete Guide to English Verb Tenses]].
 > > 2. Listening Task: Dreams and Goals.
+
+> [!goal]- 📄 [[Tuesday, October 27, 2026]]
+> 
+> > 1. Review the difference between *Will..*. and *Going to...* [[The Complete Guide to English Verb Tenses]].
+> > 2. Listening Task: Dreams and Goals.
+

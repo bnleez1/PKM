@@ -107,11 +107,6 @@ A productive learning sequence for this chapter begins with a diagnostic respons
 
 The second part of the week should move from practice to production. Students use the guiding questions—“What recurring patterns or relationships appear across the sources?” and “Which claims are causal, correlational, interpretive, or merely possible?”—as checkpoints while working toward the stated outcomes, especially the ability to draft a cause-and-effect or pattern-based thematic section and to use cautious language and accurate attribution for relationships in the literature. A brief peer conference should focus on one high-impact feature rather than attempting to correct everything at once. Students then revise, annotate the evidence of their decision-making, and complete the week’s deliverable: Third thematic section; integrated counterpoints, limitations, gaps, and local nuance; oversimplification check. The final five minutes of class can be used for an exit reflection identifying one decision the writer can now justify and one question that must be carried into the next chapter.
 
-
-
-## 🗓️ Wednesday (11:00 AM - 1:00 PM)
-
-## 🗓️ Thursday (12:00 PM - 1:00 PM)
-
-## 🗓️ Friday (10:00 AM - 12:00 PM)
-
+> [!goal]- 📄 [[Wednesday, October 28, 2026]]
+> 
+> > 1. 

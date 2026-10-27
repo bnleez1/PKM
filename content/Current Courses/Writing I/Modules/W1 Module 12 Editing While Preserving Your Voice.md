@@ -89,13 +89,11 @@ A brief conversation can make written peer comments more useful. The writer firs
 
 In the unit reflection, identify one skill you can transfer to argumentative writing. For example, precise vocabulary will help state an opinion clearly; coherence will help order reasons; specific details will become examples. Also name one risk to manage, such as using connectors mechanically or accepting language that is too advanced. Finish with a practical goal for Unit IV: “I will make sure every example directly supports a reason.” Reflection connects the completed unit to the next writing challenge.
 
-## 🗓️ Monday
+> [!goal]- 📄 [[Monday, October 26, 2026]]
+> 
+> > 1. Writing a paragraph to conclude Week 11 paragraph.
 
-## 🗓️ Tuesday
-
-## 🗓️ Wednesday
-
-## 🗓️ Thursday
-
-## 🗓️ Friday
+> [!goal]- 📄 [[Tuesday, October 27, 2026]]
+> 
+> > 1. 
 

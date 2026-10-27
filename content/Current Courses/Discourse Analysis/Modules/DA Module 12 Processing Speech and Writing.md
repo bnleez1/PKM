@@ -10,6 +10,7 @@ banner: https://wallpapercave.com/wp/wp6541252.jpg
 gh-publish: true
 gh-path: content/Current Courses/Discourse Analysis/Modules
 gh-published-url: https://bnleez1.github.io/PKM/current-courses/discourse-analysis/modules/da-module-12-processing-speech-and-writing
+icon: 😀
 ---
 [[DA Module 11 Speech Acts, Turn-Taking, and Role-Play Design]]
 [[DA Module 13 Culture, Rhetoric, and Organizational Expectations]]
@@ -103,3 +104,7 @@ Literature maps become more useful when they represent disagreement and scope. O
 Create a comparison row for each major claim: phenomenon, population or context, type of evidence, conclusion, limitation, and pedagogical relevance. This helps distinguish theoretical generalization from findings tied to a specific task. It also prevents an AI-generated summary from treating all sources as equally broad.
 When moving to instruction, label the move as an inference. Research describing working-memory demands does not automatically prescribe one classroom technique. Your pedagogical recommendation should explain how the source, learner profile, text, and objective connect. This explicit bridge is central to advanced scholarly orchestration.
 
+> [!goal]- 📄 [[Tuesday, October 27, 2026]]
+> 
+> > 1. Complete [Unit III Quiz](https://docs.google.com/forms/d/e/1FAIpQLSdy4Sxrd5D5tCT4-KR2-87hGd7313OGPFv0DgTNY2GcZ9yDeg/viewform?usp=header).
+> > 2. Take a look [back in day](https://photos.app.goo.gl/hMxVVSftp5WpohmZ7)... 
