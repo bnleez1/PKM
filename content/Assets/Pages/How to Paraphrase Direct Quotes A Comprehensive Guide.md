@@ -4,9 +4,9 @@ tags: []
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/how-to-paraphrase-direct-quotes-a-comprehensive-guide"
+gh-published-url: https://bnleez1.github.io/PKM/assets/pages/how-to-paraphrase-direct-quotes-a-comprehensive-guide
+banner: https://aestheticwallpapers.io/wallpaper/691986.jpg
 ---
-
 # How to Paraphrase Direct Quotes: A Comprehensive Guide
 
 ## Purpose of this guide
@@ -18,9 +18,7 @@ Although people sometimes say **“paraphrase a direct quote,”** the more prec
 This guide is intended for:
 
 - English language learners who need a repeatable method for academic writing;
-
 - teachers who teach paraphrasing as a language and literacy skill; and
-
 - teacher trainers who need to explain, model, diagnose, and assess paraphrasing.
 
 ---
@@ -30,7 +28,6 @@ This guide is intended for:
 An effective paraphrase does two things at the same time:
 
 1. **It remains faithful to the source.** The facts, relationships, degree of certainty, and writer’s position stay the same.
-
 2. **It becomes a new piece of language.** The focus, information order, sentence structure, grammar, and much of the wording change.
 
 A paraphrase is not produced by replacing every important word with a synonym. That strategy often creates awkward language, inaccurate meaning, or **patchwriting**—a sentence that remains too close to the source.
@@ -52,9 +49,7 @@ This version changes several words, but the sentence follows nearly the same ord
 The stronger version changes:
 
 - the **focus**, from “retrieval practice” to what students do;
-
 - the **structure**, from one statement followed by a because-clause to a when-clause plus a comparison; and
-
 - the **grammar**, including the subjects, verbs, noun phrases, and clause relationships.
 
 ---
@@ -64,9 +59,7 @@ The stronger version changes:
 A practical way to teach and produce paraphrases is the **FSG method**:
 
 1. **Change the focus:** decide which part of the idea will become the starting point or main emphasis.
-
 2. **Change the structure:** reorganize the order and relationships among the ideas.
-
 3. **Change the grammar:** rebuild the message with different grammatical choices.
 
 Vocabulary changes naturally during these three stages, but vocabulary should not be the only change.
@@ -150,17 +143,11 @@ In English, the beginning of a sentence often establishes the topic, and the res
 Ask:
 
 - Who or what is acting?
-
 - Who or what is affected?
-
 - What is the cause?
-
 - What is the result?
-
 - What condition makes the result possible?
-
 - What process or mechanism connects the cause and result?
-
 - Which part of the idea should the reader encounter first?
 
 ---
@@ -264,17 +251,11 @@ The first paraphrase condenses examples into categories. The second explains an 
 Ask:
 
 - Can the sentence be divided into two sentences?
-
 - Can two related sentences be combined?
-
 - Can the reason come after the result rather than before it?
-
 - Can a contrast become the main organizing relationship?
-
 - Can a definition be changed into a when-clause?
-
 - Can a general term be explained through its processes?
-
 - Can examples be grouped into a broader category?
 
 ---
@@ -390,9 +371,7 @@ Do not change which item performed better.
 Possible accurate grammatical reconstructions include:
 
 - Students may become less willing to communicate when they experience classroom anxiety.
-
 - A lower willingness to communicate can be associated with anxiety in the classroom.
-
 - Anxiety may discourage learners from contributing to classroom interaction.
 
 The choice among *reduces*, *is associated with*, and *may discourage* depends on the strength of the original evidence. A paraphrase must not make the claim stronger or weaker without justification.
@@ -410,15 +389,10 @@ Some terms have precise disciplinary meanings and should not be replaced merely 
 Examples include:
 
 - formative assessment;
-
 - working memory;
-
 - code-switching;
-
 - intrinsic motivation;
-
 - phonological awareness;
-
 - communicative competence.
 
 A technical term can remain unchanged while the surrounding focus, structure, grammar, and explanation are transformed.
@@ -444,11 +418,8 @@ Words that appear as synonyms in a dictionary may not combine naturally in the s
 Instead of searching for one-word synonyms, try:
 
 - replacing a term with a short definition;
-
 - replacing a general category with a representative process;
-
 - replacing examples with a broader category; or
-
 - expressing the result rather than the named concept.
 
 ### Source
@@ -464,17 +435,11 @@ Instead of searching for one-word synonyms, try:
 The following pairs are related but not interchangeable:
 
 - *may* / *will*;
-
 - *is associated with* / *causes*;
-
 - *some* / *most* / *all*;
-
 - *improves* / *is intended to improve*;
-
 - *suggests* / *proves*;
-
 - *less likely* / *unable*;
-
 - *frequently* / *always*.
 
 A paraphrase that changes these distinctions is inaccurate even when the wording is original.
@@ -488,15 +453,10 @@ A paraphrase that changes these distinctions is inaccurate even when the wording
 Read the passage until you can explain it without looking at the wording. Identify:
 
 - the topic;
-
 - the main claim;
-
 - important supporting ideas;
-
 - the relationship among ideas, such as cause, contrast, condition, sequence, or example;
-
 - the degree of certainty; and
-
 - any technical terms that should remain.
 
 ## Step 2: Record idea notes, not copied phrases
@@ -510,9 +470,7 @@ Write brief notes using symbols, keywords, or questions.
 ### Idea notes
 
 - transfer strategy to new situation
-
 - more likely when learners know **when/why** strategy applies
-
 - teacher explains conditions for use
 
 The notes reduce dependence on the original sentence pattern.
@@ -526,13 +484,9 @@ Close, cover, or minimize the source. Explain the idea as though you were speaki
 Possible starting points include:
 
 - the learner;
-
 - the teacher;
-
 - the condition;
-
 - the result; or
-
 - the transfer process.
 
 ## Step 5: Rebuild the structure
@@ -540,13 +494,9 @@ Possible starting points include:
 Choose a different organizational pattern. For example:
 
 - condition → result;
-
 - result → condition;
-
 - two sentences instead of one;
-
 - one combined sentence instead of two; or
-
 - general statement → explanation.
 
 ## Step 6: Rebuild the grammar
@@ -554,15 +504,10 @@ Choose a different organizational pattern. For example:
 Change several features, such as:
 
 - subject and verb;
-
 - active/passive voice;
-
 - nouns and verbs;
-
 - clause types;
-
 - sentence boundaries; and
-
 - connectors.
 
 ## Step 7: Compare meanings
@@ -570,13 +515,9 @@ Change several features, such as:
 Reopen the source and check:
 
 - Have I kept every essential idea?
-
 - Have I added an interpretation that is not in the source?
-
 - Have I changed the degree of certainty?
-
 - Have I changed a correlation into a cause?
-
 - Have I altered who did what to whom?
 
 ## Step 8: Compare language and structure
@@ -610,11 +551,8 @@ A citation does not correct an overly copied paraphrase. Writers need both **ori
 ### Meaning map
 
 - teacher permits strategic first-language use
-
 - learners access prior knowledge
-
 - learners can participate in difficult thinking tasks
-
 - this can happen before second-language proficiency is complete
 
 ### Paraphrase
@@ -624,11 +562,8 @@ A citation does not correct an overly copied paraphrase. Writers need both **ori
 ### What changed?
 
 - **Focus:** The paraphrase begins with learners’ ability to participate, not with teachers’ permission.
-
 - **Structure:** One source sentence becomes two sentences.
-
 - **Grammar:** The initial when-clause disappears; *allow students to use* becomes *strategic use ... can help*; *before they have full command* becomes *do not always need complete proficiency before*.
-
 - **Vocabulary:** *First language* becomes *existing language resources*; *cognitively demanding* becomes *intellectually challenging*.
 
 ## Example B: Preserving cautious language
@@ -644,9 +579,7 @@ A citation does not correct an overly copied paraphrase. Writers need both **ori
 Problems:
 
 - *may increase* becomes the stronger *improves*;
-
 - *can discourage* becomes the absolute *prevents*;
-
 - the condition *if learners perceive it as constant criticism* disappears.
 
 ### Accurate paraphrase
@@ -678,31 +611,20 @@ A synthesis does more than place two paraphrases side by side. It shows the rela
 ## Signs of patchwriting
 
 - the same grammatical subject begins both sentences;
-
 - ideas appear in exactly the same order;
-
 - several short word sequences are copied;
-
 - synonyms are inserted into an unchanged frame;
-
 - the source’s clause boundaries remain intact;
-
 - unusual or distinctive expressions remain without quotation marks.
 
 ## Repair procedure
 
 1. Stop looking for synonyms.
-
 2. Write a one-line statement of the main idea.
-
 3. Draw arrows showing cause, effect, contrast, or sequence.
-
 4. Choose a different starting point.
-
 5. explain the idea aloud without viewing the source.
-
 6. Write a new sentence from that oral explanation.
-
 7. Compare the meanings and then compare the language.
 
 ---
@@ -767,25 +689,17 @@ Paraphrasing should be taught as a meaning-making and grammar-reconstruction pro
 Students label the relationship in a short source sentence:
 
 - cause and effect;
-
 - contrast;
-
 - condition;
-
 - problem and response;
-
 - claim and evidence; or
-
 - category and example.
-
 ### Stage 2: Practice focus shifts
 
 Give students one sentence and require three openings:
 
 - begin with the actor;
-
 - begin with the result; and
-
 - begin with the condition.
 
 ### Stage 3: Practice one structural transformation at a time
@@ -793,13 +707,9 @@ Give students one sentence and require three openings:
 Examples:
 
 - combine two sentences;
-
 - divide one sentence;
-
 - move a reason clause;
-
 - change a definition into a when-clause; or
-
 - convert examples into a category.
 
 ### Stage 4: Practice grammatical transformation
@@ -807,13 +717,9 @@ Examples:
 Students transform:
 
 - active to passive;
-
 - noun to verb;
-
 - relative clause to participial phrase;
-
 - direct statement to reported statement; and
-
 - positive expression to an equivalent negative construction.
 
 ### Stage 5: Integrate FSG changes
@@ -825,9 +731,7 @@ Students produce a full paraphrase that changes focus, structure, and grammar wh
 Students place the paraphrase into a paragraph with:
 
 1. a lead-in or reporting phrase;
-
 2. the paraphrased idea and citation; and
-
 3. an explanation of why the source matters to the writer’s argument.
 
 ---
@@ -839,9 +743,7 @@ Students place the paraphrase into a paragraph with:
 Provide one source sentence. In groups, participants create:
 
 - an actor-focused paraphrase;
-
 - a process-focused paraphrase; and
-
 - a result-focused paraphrase.
 
 They then discuss how the choice of focus changes emphasis without changing meaning.
@@ -851,11 +753,8 @@ They then discuss how the choice of focus changes emphasis without changing mean
 Give participants four versions:
 
 - one accurate paraphrase;
-
 - one patchwritten version;
-
 - one version with changed certainty; and
-
 - one version with an omitted condition.
 
 Participants identify and explain each problem rather than merely choosing the “best” sentence.
@@ -865,13 +764,9 @@ Participants identify and explain each problem rather than merely choosing the �
 At separate stations, participants transform the same source through:
 
 - voice;
-
 - word class;
-
 - clause type;
-
 - sentence combination; and
-
 - sentence division.
 
 The class then compares which combinations produce the clearest paraphrase.
@@ -893,11 +788,8 @@ Participants decide which expressions accurately preserve the source writer’s 
 A teacher trainer models the process aloud:
 
 - “The source begins with the teacher, but the main point I need concerns learners.”
-
 - “The relationship is conditional, so I must preserve that condition.”
-
 - “I will divide the sentence and change the noun *participation* into the verb *participate*.”
-
 - “Now I will compare the strength of my claim with the original.”
 
 Think-alouds make normally invisible decisions observable to novice teachers.
@@ -926,27 +818,16 @@ A high-quality paraphrase must score well in both **accuracy** and **transformat
 Before submitting a paraphrase, ask:
 
 - Can I explain the source idea without looking at the original sentence?
-
 - Have I identified the main claim and all important conditions?
-
 - Did I choose a different focus?
-
 - Did I change the order or grouping of the information?
-
 - Did I change several grammatical features?
-
 - Did I preserve the original level of certainty?
-
 - Did I avoid unnatural dictionary synonyms?
-
 - Did I keep only necessary technical terms?
-
 - Does my version sound like language I understand and would naturally use?
-
 - Is any distinctive wording still too close to the source?
-
 - Did I cite the source?
-
 - Did I clearly separate the source’s idea from my own commentary?
 
 ---
@@ -956,23 +837,14 @@ Before submitting a paraphrase, ask:
 When observing a paraphrasing lesson, consider whether the teacher:
 
 - begins with comprehension rather than word replacement;
-
 - explicitly teaches relationships among ideas;
-
 - models changes in focus, structure, and grammar;
-
 - demonstrates how to preserve hedging and claim strength;
-
 - distinguishes technical terms from replaceable wording;
-
 - uses examples of both successful and unsuccessful paraphrases;
-
 - asks learners to justify their choices;
-
 - treats patchwriting diagnostically and provides a repair process;
-
 - includes source citation and integration; and
-
 - assesses meaning accuracy separately from linguistic difference.
 
 ---

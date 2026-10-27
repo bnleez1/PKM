@@ -95,5 +95,6 @@ In the unit reflection, identify one skill you can transfer to argumentative wri
 
 > [!goal]- 📄 [[Tuesday, October 27, 2026]]
 > 
-> > 1. 
+> > 1. Review [[How to Paraphrase Direct Quotes A Comprehensive Guide]].
+> > 2. Complete Paraphrase handout.
 
