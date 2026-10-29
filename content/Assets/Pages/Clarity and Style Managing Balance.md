@@ -5,236 +5,65 @@ tags:
 gh-publish: true
 gh-path: content/Assets/Pages
 gh-published: true
-gh-published-url: "https://bnleez1.github.io/PKM/assets/pages/clarity-and-style-managing-balance"
+gh-published-url: https://bnleez1.github.io/PKM/assets/pages/clarity-and-style-managing-balance
+banner: https://images.unsplash.com/photo-1708649290066-5f617003b93f?ixid=M3wxMDI1MDQ3fDB8MXxhbGx8fHx8fHx8fHwxNzkyMzk5OTk2fA&ixlib=rb-4.1.0&w=1920&fit=max&q=80&auto=format&st_pn=NEOM&st_pu=https:%2F%2Funsplash.com%2F%40neom
 ---
-
 # Clarity and Style: Managing Balance
 
-*Emphasis should be earned, not forced*. That principle is remarkably consistent across the major style guides and authorities, although each emphasizes it in different ways.
+> [!QUOTE] The Guiding Principle
+> **Emphasis should be earned, not forced.**  
+> Make important ideas structurally prominent while expressing the exact degree of certainty warranted by your evidence.
 
-The broad consensus among authorities such as The Craft of Research, Style: Lessons in Clarity and Grace, The Sense of Style, the American Psychological Association, and university writing centers is this:
-
-> Make important ideas structurally prominent while expressing the appropriate degree of certainty.
-
-Those two goals—emphasis and appropriate certainty—must work together.
-
-1. Structural emphasis comes first
-
-Nearly every modern rhetoric and style guide argues that readers naturally assign importance to certain locations in a sentence.
-
-The strongest positions are:
-
-the grammatical subject
-
-the main verb
-
-the end of the sentence
-
-the beginning of a paragraph
-
-the end of a paragraph
-
-Williams calls these the "stress positions."
-
-For example:
-
-Weak:
-
-> There are many reasons why second-language learners struggle with academic writing.
-
-Stronger:
-
-> Second-language learners struggle with academic writing for three primary reasons.
-
-The important idea becomes the subject.
-
-Likewise,
-
-Weak:
-
-> It should be noted that vocabulary knowledge is important.
-
-Strong:
-
-> Vocabulary knowledge predicts academic success.
-
-The emphasis comes from sentence structure rather than extra words.
+The broad consensus across major style guides—including *Style: Lessons in Clarity and Grace* (Williams & Bizup), *The Sense of Style* (Pinker), *The Craft of Research* (Booth et al.), *They Say / I Say* (Graff & Birkenstein), and the APA 7th Edition—converges on two interdependent goals:
+1. **Structural prominence:** Harnessing the natural architecture of sentences and paragraphs.
+2. **Epistemic calibration:** Accurately matching your claims to the weight of your evidence.
 
 ---
 
-1. Strong verbs create emphasis
+## 1. Structural Emphasis: Harnessing Stress Positions
 
-Virtually every authority recommends replacing abstract nouns with strong verbs.
+Readers do not distribute their attention equally across a sentence; they instinctively assign cognitive weight to specific rhetorical locations. Joseph Williams calls these **stress positions**.
 
-Instead of
-
-> The implementation of the policy resulted in...
-
-write
-
-> The policy improved...
-
-Strong verbs naturally increase emphasis while reducing unnecessary words.
+### The High-Value Locations
+- **The Grammatical Subject:** Names the primary agent or core concept.
+- **The Main Verb:** Conveys the core action or relationship.
+- **The Sentence Climax (The End):** The place of final emphasis, resolution, and punch.
+- **Paragraph Openings & Closings:** Framing the claim and anchoring the takeaways.
 
 ---
+### Technique A: Promote the Real Subject
+Avoid empty throat-clearing openings (*"There are..."*, *"It is important to note that..."*). Make the real actor or concept the grammatical subject.
 
-1. Hedging is not weakness
-
-Academic writing almost never recommends writing with complete certainty unless the evidence truly warrants it.
-
-Instead, scholars distinguish among levels of certainty.
-
-Examples:
-
-Very strong:
-
-> This proves...
-
-Moderate:
-
-> This demonstrates...
-
-More cautious:
-
-> This suggests...
-
-Very cautious:
-
-> This may indicate...
-
-Good writers choose the level that matches the evidence.
-
-Overclaiming damages credibility.
+> [!EXAMPLE] Weak vs. Strong Subject Placement
+> **Weak (Expletive construction):**  
+> *There are many reasons why second-language learners struggle with academic writing.*
+> 
+> **Stronger (Direct subject + specific scope):**  
+> *Second-language learners struggle with academic writing for three primary reasons.*
+> 
+> **Weak (Padded metadiscourse):**  
+> *It should be noted that vocabulary knowledge is important.*
+> 
+> **Strong (Core concept as subject + predictive verb):**  
+> *Vocabulary knowledge predicts academic success.*
 
 ---
+### Technique B: Replace Nominalizations with Strong Verbs
+Virtually every style authority advises eliminating **nominalizations** (verbs suffocated inside abstract nouns ending in *-tion, -ment, -ance*).
 
-1. Boosting is also necessary
-
-Many novice writers hedge everything.
-
-For example:
-
-> It may perhaps possibly suggest...
-
-That is just as problematic.
-
-When evidence is strong, authorities recommend boosting.
-
-For example:
-
-Weak:
-
-> The results may suggest that explicit instruction is somewhat beneficial.
-
-Appropriate:
-
-> The results clearly demonstrate that explicit instruction improves student performance.
-
-The certainty matches the evidence.
+> [!EXAMPLE] Buried Action vs. Active Verb
+> **Nominalized:**  
+> *The implementation of the policy resulted in an improvement in student retention.*
+> 
+> **Active & Concise:**  
+> *The policy improved student retention.*
 
 ---
+## 2. Epistemic Stance: Hedging vs. Boosting
 
-1. The balance: clarity before persuasion
+A common misconception among emerging scholars is that strong writing always sounds 100% certain. In empirical and critical scholarship, **overclaiming damages academic ethos faster than underclaiming**.
 
-Modern academic writing has largely moved away from sounding artificially cautious or artificially forceful.
 
-Instead, writers should communicate their confidence honestly.
 
-Think of certainty as a continuum:
 
-Evidence	Language
-
-Speculation	may, might, could
-Plausible interpretation	appears to, seems to, suggests
-Supported finding	indicates, demonstrates, shows
-Strong evidence	clearly demonstrates, strongly supports
-Logical certainty	proves (rare in empirical research)
-
-Notice that "prove" is rarely appropriate outside mathematics and formal logic.
-
----
-
-1. APA's position
-
-APA recommends avoiding both:
-
-exaggerated certainty
-
-excessive hedging
-
-Instead, claims should match the available evidence.
-
-For example,
-
-Poor:
-
-> The intervention completely solved the problem.
-
-Also poor:
-
-> The intervention might perhaps possibly have had some effect.
-
-Better:
-
-> The intervention significantly improved students' writing performance.
-
----
-
-1. Pinker's recommendation
-
-Steven Pinker argues that many academic writers mistake complexity for authority.
-
-Instead, he recommends:
-
-concrete subjects
-
-active verbs
-
-logical organization
-
-information flowing from known to new
-
-emphasis created by syntax rather than inflated vocabulary
-
-In other words,
-
-Don't write:
-
-> It is important to note that...
-
-Write:
-
-> Vocabulary knowledge predicts reading comprehension.
-
----
-
-1. The current consensus
-
-If you compare APA, Chicago, Williams, Pinker, Booth, Graff & Birkenstein, and most university writing centers, they agree on a common framework:
-
-1. Structure creates emphasis.
-
-2. Strong verbs carry meaning.
-
-3. Subjects should name the key actor or concept.
-
-4. Sentence endings should contain the most important information.
-
-5. Boost only when the evidence justifies confidence.
-
-6. Hedge when the evidence is limited or interpretive.
-
-7. The level of certainty should exactly match the quality of the evidence.
-
-A useful way to think about it
-
-For formal academic writing, emphasis is best viewed as the interaction of three independent dimensions:
-
-Structural emphasis: where information is placed (subject, verb, sentence ending, paragraph opening).
-
-Linguistic stance: how certain the writer is (hedging ↔ boosting).
-
-Evidence strength: how much support the claim actually has.
-
-The strongest academic prose aligns all three. A central finding is placed in a structurally prominent position, expressed with an appropriate level of confidence, and supported by evidence that warrants that confidence. When these dimensions are aligned, the writing is clear, persuasive, and intellectually honest.
 
